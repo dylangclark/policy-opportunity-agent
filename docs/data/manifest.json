@@ -10,45 +10,45 @@
       "bytes": 142,
       "count": 0,
       "path": "changes.json",
-      "sha256": "b628ce28d5a2cf370ba043d430689bb17dbe24e820a6db9f9c09ceca62152263"
+      "sha256": "b1e94f67e968c552da17a7c85fb677fac60573077ec219e14e45aeb7d8b82798"
     },
     "events": {
       "bytes": 777250,
       "count": 592,
       "path": "events.json",
-      "sha256": "b36c43a5b9ea5a349a7bca1860cc33cabdf6495bc2df06be96861e618ec1792d"
+      "sha256": "e8ca3dbd11cfa8f67aa7ed0860f6abfcd7d1f38020516c9a5681e0920f972027"
     },
     "heartbeat": {
-      "bytes": 226,
+      "bytes": 225,
       "path": "heartbeat.json",
-      "sha256": "99601078575b1c8fefbe65c150e41cff753542530bf58366e93c29a249208e7b"
+      "sha256": "f2bab683975d16c4a52243611300ff9aa2142892ddcc5853d76ec859030b87ec"
     },
     "opportunities": {
       "bytes": 891353,
       "count": 505,
       "path": "opportunities.json",
-      "sha256": "0abc2f02aab8501612f4e16eae3d994f2117a74dcbf25167643dfdcdab26ce67"
+      "sha256": "97443bef16ed1145590568c3f834196e7502e9b48c6bf501c55ad71bddbb252e"
     },
     "source_status": {
-      "bytes": 12257,
+      "bytes": 12227,
       "count": 26,
       "path": "source-status.json",
-      "sha256": "3511af46cf2d53cae93a801caa09077f466d083b9fb53dbdabef101cd02edcc4"
+      "sha256": "9bbb9482ceb05bd0a1197511b693615bf2e53d08f5337ef73f60aabb90732ad6"
     }
   },
-  "generated_at": "2026-07-13T19:32:23.951303Z",
+  "generated_at": "2026-07-13T19:33:26.958710Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260713T193223Z-cd21a7d4",
+  "run_id": "20260713T193326Z-bd163681",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 4,
-    "not_modified": 11,
-    "ok": 11
+    "not_modified": 8,
+    "ok": 14
   },
   "status": "ok",
   "timezone": "America/Vancouver"
