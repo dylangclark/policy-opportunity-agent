@@ -1,0 +1,13 @@
+[Unit]
+Description=Run the policy opportunity collector every 12 hours
+
+[Timer]
+OnCalendar=*-*-* 00:15:00 America/Vancouver
+OnCalendar=*-*-* 12:15:00 America/Vancouver
+RandomizedDelaySec=10m
+AccuracySec=1m
+Persistent=true
+Unit=policy-opportunity-agent.service
+
+[Install]
+WantedBy=timers.target

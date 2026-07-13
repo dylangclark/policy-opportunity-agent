@@ -1,0 +1,53 @@
+{
+  "counts": {
+    "changes": 0,
+    "events": 0,
+    "opportunities": 0,
+    "sources": 26
+  },
+  "files": {
+    "changes": {
+      "bytes": 136,
+      "count": 0,
+      "path": "changes.json",
+      "sha256": "a99666d7dd2078b1750247d05690b11a4631ea8bb812adc4c184928da4faff1d"
+    },
+    "events": {
+      "bytes": 135,
+      "count": 0,
+      "path": "events.json",
+      "sha256": "95e08e992a6e36f4262e032ede8fe7545e5ce405e97f580be55408cd9669e2ee"
+    },
+    "heartbeat": {
+      "bytes": 270,
+      "path": "heartbeat.json",
+      "sha256": "f48731aefd8f7b15b556cb6c934c96fe681ecb62c97661644b88c384e1f1ba29"
+    },
+    "opportunities": {
+      "bytes": 142,
+      "count": 0,
+      "path": "opportunities.json",
+      "sha256": "fdeebe28216b6d06a678c1686251ce29881b8221804ee646e162cddf2b1e6b27"
+    },
+    "source_status": {
+      "bytes": 13813,
+      "count": 26,
+      "path": "source-status.json",
+      "sha256": "3d8f10592c44dcfa93d0c984d3c1be1590fc61fd72fad9b936977fdddf4c2f6a"
+    }
+  },
+  "generated_at": "2026-07-13T17:22:02Z",
+  "horizons": {
+    "execution_days": 14,
+    "lookback_days": 14,
+    "preparation_days": 30,
+    "scouting_days": 90
+  },
+  "run_id": "bootstrap-20260713T172202Z",
+  "schema_version": "1.0",
+  "source_summary": {
+    "failed": 26
+  },
+  "status": "failed",
+  "timezone": "America/Vancouver"
+}

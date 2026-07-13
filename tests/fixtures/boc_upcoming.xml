@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bank of Canada upcoming events</title>
+    <link>https://www.bankofcanada.ca/</link>
+    <description>Upcoming events</description>
+    <item>
+      <title>Interest rate announcement — July 15, 2026 at 9:45 a.m.</title>
+      <link>https://www.bankofcanada.ca/2026/07/fad-press-release-2026-07-15/</link>
+      <guid>https://www.bankofcanada.ca/?p=rate-2026-07-15</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <description>The Bank of Canada will publish its interest rate decision and Monetary Policy Report.</description>
+    </item>
+  </channel>
+</rss>

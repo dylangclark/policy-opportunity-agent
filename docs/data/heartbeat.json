@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-07-13T17:22:02+00:00",
+  "message": "Initial repository seed; the Raspberry Pi collector has not run yet.",
+  "run_id": "bootstrap-20260713T172202Z",
+  "schema_version": "1.0",
+  "source_summary": {
+    "failed": 26
+  },
+  "status": "failed"
+}

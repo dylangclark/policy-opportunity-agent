@@ -1,0 +1,19 @@
+[Unit]
+Description=Canadian policy opportunity collector and GitHub publisher
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=__RUN_USER__
+Group=__RUN_GROUP__
+WorkingDirectory=__APP_DIR__
+EnvironmentFile=-__APP_DIR__/.env
+ExecStart=__APP_DIR__/.venv/bin/policy-agent --config __APP_DIR__/config/sources.yml --rules __APP_DIR__/config/rules.yml --output __APP_DIR__/docs/data --state-dir __APP_DIR__/.state publish
+TimeoutStartSec=30min
+Nice=10
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

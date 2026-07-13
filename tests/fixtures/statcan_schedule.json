@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-07-20",
+    "type": "Major economic release",
+    "title": "Consumer Price Index, June 2026",
+    "description": "Monthly measure of consumer price inflation.",
+    "url": "https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes"
+  },
+  {
+    "date": "2026-07-31",
+    "type": "Major economic release",
+    "title": "Gross domestic product by industry, May 2026",
+    "description": "Monthly GDP by industry.",
+    "url": "https://www150.statcan.gc.ca/n1/en/subjects/economic_accounts"
+  }
+]
