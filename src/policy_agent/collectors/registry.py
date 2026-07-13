@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from .bc_laws import BCLawsRegulationsCollector
+from .bc_legislature import BCLegislatureCalendarCollector
 from .bcuc import BCUCAnticipatedFilingsCollector, BCUCDeadlinesCollector, BCUCProceedingsCollector
 from .consultations import FederalConsultationsCollector, GovTogetherCollector
 from .html_date_list import HTMLDateListCollector
@@ -20,6 +21,7 @@ COLLECTORS = {
     "federal_consultations": FederalConsultationsCollector,
     "govtogether": GovTogetherCollector,
     "bc_laws_regulations": BCLawsRegulationsCollector,
+    "bc_legislature_calendar": BCLegislatureCalendarCollector,
     "house_committees": HouseCommitteeCollector,
     "page_watch": PageWatchCollector,
     "html_date_list": HTMLDateListCollector,

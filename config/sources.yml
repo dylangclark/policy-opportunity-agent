@@ -200,18 +200,19 @@ sources:
   name: B.C. Legislative Assembly calendar
   institution: Legislative Assembly of British Columbia
   jurisdiction: BC
-  collector: html_date_list
+  collector: bc_legislature_calendar
   url: https://www.leg.bc.ca/parliamentary-business/parliamentary-calendar
   timezone: America/Vancouver
   default_event_type: policy_event
   lifecycle: scheduled
-  default_time: '10:00'
   lookback_days: 7
-  lookahead_days: 180
-  item_tags:
-  - tr
-  - li
-  - article
+  lookahead_days: 365
+  enabled: true
+  include_titles:
+  - In Session
+  - Budget Day
+  - Speech from the Throne
+  - Speech From the Throne
 - id: vancouver-council-calendar
   name: Vancouver council meetings and decisions
   institution: City of Vancouver
