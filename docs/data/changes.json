@@ -1,6 +1,16 @@
 {
-  "changes": [],
-  "generated_at": "2026-07-13T17:22:02+00:00",
-  "run_id": "bootstrap-20260713T172202Z",
+  "changes": [
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T19:00:29.874781Z",
+      "event_id": "bc-regulations:15e1ec4f67388527807b",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "209/2026 Amends B.C. Reg. 241/2016 — Liquor Control and Licensing Regulation, parts effective May, 29 2026 and June 1, 2029 92/2026 May 29, 2026"
+    }
+  ],
+  "generated_at": "2026-07-13T19:00:29.874781+00:00",
+  "run_id": "20260713T190029Z-ef426e11",
   "schema_version": "1.0"
 }
