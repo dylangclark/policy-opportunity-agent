@@ -219,12 +219,21 @@ class BCUCProceedingsCollector:
                 failed += 1
                 warnings.append(f"Application {application_id} failed: {type(exc).__name__}: {exc}")
 
-        status = "ok"
-        if failed or warnings:
+        # Collection limits and proceedings without recent rows are
+        # informational warnings. Mark the source partial only when one
+        # or more proceeding requests actually failed.
+        status = "partial" if failed else "ok"
+
+        if selected and not events:
             status = "partial"
+            warnings.append("No recent BCUC proceeding events were parsed.")
+
         if not selected and not events:
             status = "failed"
-            warnings.append("No BCUC proceeding URLs were available from the listing or configuration.")
+            warnings.append(
+                "No BCUC proceeding URLs were available from the "
+                "listing or configuration."
+            )
 
         # Deduplicate responsive-table duplicates.
         unique = {event.id: event for event in events}
@@ -248,7 +257,12 @@ class BCUCProceedingsCollector:
     ) -> tuple[list, list[str]]:
         soup = BeautifulSoup(content, "html.parser")
         page_title = clean_text((soup.find("h1") or soup.title or soup).get_text(" ", strip=True))
-        lookback_days = int(source.get("docket_lookback_days", 120))
+        lookback_days = int(
+            source.get(
+                "docket_lookback_days",
+                source.get("lookback_days", 30),
+            )
+        )
         earliest = (now - timedelta(days=lookback_days)).date()
         timezone_name = source.get("timezone", "America/Vancouver")
         events = []

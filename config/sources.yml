@@ -94,10 +94,11 @@ sources:
   timezone: America/Vancouver
   only_in_progress: true
   max_proceedings: 25
-  docket_lookback_days: 120
+  docket_lookback_days: 30
   application_ids:
   - 1391
   enabled: true
+  lookback_days: 30
 - id: bcuc-orders
   name: BCUC orders
   institution: British Columbia Utilities Commission
