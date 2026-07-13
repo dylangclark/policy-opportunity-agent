@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-13T20:05:08.809357+00:00",
-  "run_id": "20260713T200508Z-6c878215",
+  "generated_at": "2026-07-13T20:14:31.993392+00:00",
+  "run_id": "20260713T201431Z-2c5ac123",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -18,7 +18,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -32,7 +32,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -46,7 +46,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "statcan_schedule",
       "event_count": 0,
       "http_status": 304,
@@ -60,7 +60,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -74,7 +74,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -88,7 +88,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "bcuc_deadlines",
       "event_count": 51,
       "http_status": 200,
@@ -102,25 +102,32 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "bcuc_proceedings",
-      "event_count": 606,
+      "event_count": 304,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "source_name": "BCUC public proceeding dockets",
-      "stale": true,
-      "status": "partial",
+      "stale": false,
+      "status": "ok",
       "url": "https://www.bcuc.com/OurWork/Proceedings",
       "warnings": [
         "Limited BCUC docket collection to 25 proceedings.",
+        "Application 1424: no recent timetable or docket rows parsed.",
         "Application 1433: no recent timetable or docket rows parsed.",
-        "Application 1409: no recent timetable or docket rows parsed."
+        "Application 1390: no recent timetable or docket rows parsed.",
+        "Application 1409: no recent timetable or docket rows parsed.",
+        "Application 1355: no recent timetable or docket rows parsed.",
+        "Application 1403: no recent timetable or docket rows parsed.",
+        "Application 1406: no recent timetable or docket rows parsed.",
+        "Application 1438: no recent timetable or docket rows parsed.",
+        "Application 1452: no recent timetable or docket rows parsed."
       ]
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -134,7 +141,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -148,7 +155,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -162,7 +169,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -176,7 +183,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -190,7 +197,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 304,
@@ -204,7 +211,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "govtogether",
       "event_count": 57,
       "http_status": 200,
@@ -218,7 +225,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "bc_laws_regulations",
       "event_count": 0,
       "http_status": 304,
@@ -232,7 +239,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "house_committees",
       "event_count": 0,
       "http_status": 200,
@@ -246,7 +253,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "html_date_list",
       "event_count": 6,
       "http_status": 200,
@@ -260,7 +267,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -274,7 +281,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -287,7 +294,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 21,
       "http_status": 200,
@@ -301,7 +308,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "rss",
       "event_count": 1,
       "http_status": 200,
@@ -315,7 +322,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -329,7 +336,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -343,7 +350,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -357,7 +364,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-13T20:05:08.809357Z",
+      "checked_at": "2026-07-13T20:14:31.993392Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
