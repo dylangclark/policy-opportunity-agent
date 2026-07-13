@@ -26,9 +26,9 @@
 
     <section class="summary-grid" aria-label="Run summary">
       <article class="summary-card">
-        <span>Top opportunities</span>
+        <span>Total opportunities</span>
         <strong id="summary-high">—</strong>
-        <small>Score 80+</small>
+        <small>Current collection</small>
       </article>
       <article class="summary-card">
         <span>Execution window</span>
@@ -71,19 +71,9 @@
         <select id="topic-filter"><option value="all">All topics</option></select>
       </label>
       <label>
-        <span>Minimum score</span>
-        <select id="score-filter">
-          <option value="0">Any score</option>
-          <option value="40">40+</option>
-          <option value="60" selected>60+</option>
-          <option value="80">80+</option>
-        </select>
-      </label>
-      <label>
         <span>Sort</span>
         <select id="sort-filter">
-          <option value="score">Opportunity score</option>
-          <option value="date">Event date</option>
+          <option value="date" selected>Event date</option>
           <option value="newest">Newest change</option>
         </select>
       </label>
@@ -99,7 +89,7 @@
     <section id="opportunities-view" class="view active">
       <div class="view-heading">
         <div>
-          <h2>Ranked opportunities</h2>
+          <h2>Opportunities</h2>
           <p id="results-count">Loading…</p>
         </div>
         <button id="clear-filters" class="button text" type="button">Clear filters</button>
@@ -151,7 +141,6 @@
 
   <template id="opportunity-template">
     <article class="opportunity-card">
-      <div class="score-block"><strong class="score"></strong><span>score</span></div>
       <div class="opportunity-body">
         <div class="card-meta"></div>
         <h3><a class="title-link" target="_blank" rel="noopener noreferrer"></a></h3>
@@ -161,7 +150,6 @@
           <summary>Opportunity details</summary>
           <div class="details-grid">
             <div><h4>Potential angles</h4><ul class="angle-list"></ul></div>
-            <div><h4>Score rationale</h4><ul class="score-list"></ul></div>
           </div>
         </details>
       </div>

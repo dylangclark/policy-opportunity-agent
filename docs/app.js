@@ -129,13 +129,13 @@ function renderAll() {
 }
 
 function renderSummary() {
-  const high = state.opportunities.filter(x => Number(x.opportunity_score) >= 80).length;
+  const total = state.opportunities.length;
   const execution = state.opportunities.filter(x => x.horizon === "execution").length;
   const changed = state.changes.filter(x => !["unchanged", "none"].includes(String(x.change_type || x.type || "").toLowerCase())).length;
   const ok = state.sources.filter(x => normalizeStatus(x.status) === "ok").length;
   const partial = state.sources.filter(x => normalizeStatus(x.status) === "partial").length;
   const failed = state.sources.filter(x => normalizeStatus(x.status) === "failed").length;
-  el("summary-high").textContent = high;
+  el("summary-high").textContent = total;
   el("summary-execution").textContent = execution;
   el("summary-changes").textContent = changed;
   el("summary-health").textContent = `${ok}/${state.sources.length}`;
@@ -150,7 +150,6 @@ function filteredOpportunities() {
   const horizon = el("horizon-filter").value;
   const jurisdiction = el("jurisdiction-filter").value;
   const topic = el("topic-filter").value;
-  const minScore = Number(el("score-filter").value || 0);
   const sort = el("sort-filter").value;
 
   const items = state.opportunities.filter(item => {
@@ -158,14 +157,16 @@ function filteredOpportunities() {
     return (!query || searchable.includes(query))
       && (horizon === "all" || item.horizon === horizon)
       && (jurisdiction === "all" || item.jurisdiction === jurisdiction)
-      && (topic === "all" || asArray(item.topics).includes(topic))
-      && Number(item.opportunity_score || 0) >= minScore;
+      && (topic === "all" || asArray(item.topics).includes(topic));
   });
 
   items.sort((a, b) => {
-    if (sort === "date") return new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0);
-    if (sort === "newest") return String(a.change_type === "new" ? 0 : 1).localeCompare(String(b.change_type === "new" ? 0 : 1)) || new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0);
-    return Number(b.opportunity_score || 0) - Number(a.opportunity_score || 0) || new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0);
+    if (sort === "newest") {
+      return String(a.change_type === "new" ? 0 : 1)
+        .localeCompare(String(b.change_type === "new" ? 0 : 1))
+        || new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0);
+    }
+    return new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0);
   });
   return items;
 }
@@ -180,7 +181,6 @@ function renderOpportunities() {
   const template = el("opportunity-template");
   for (const item of items) {
     const node = template.content.cloneNode(true);
-    node.querySelector(".score").textContent = Math.round(Number(item.opportunity_score || 0));
     node.querySelector(".card-meta").textContent = `${formatDate(eventDate(item))} · ${text(item.institution)} · ${text(item.jurisdiction)}`;
     const link = node.querySelector(".title-link");
     link.textContent = text(item.event_title, "Untitled opportunity");
@@ -192,8 +192,6 @@ function renderOpportunities() {
 
     const angles = asArray(item.angle_prompts);
     node.querySelector(".angle-list").innerHTML = angles.length ? angles.map(angle => `<li>${escapeHtml(angle)}</li>`).join("") : "<li>No angle prompts supplied.</li>";
-    const components = asArray(item.score_components);
-    node.querySelector(".score-list").innerHTML = components.length ? components.map(component => `<li><strong>+${escapeHtml(component.points)}</strong> ${escapeHtml(component.reason || component.name)}</li>`).join("") : "<li>No score detail supplied.</li>";
     list.appendChild(node);
   }
 }
@@ -212,7 +210,11 @@ function renderCalendar() {
     if (byDay.has(key)) byDay.get(key).push(item);
   }
   for (const dayItems of byDay.values()) {
-    dayItems.sort((a, b) => Number(b.opportunity_score || 0) - Number(a.opportunity_score || 0));
+    dayItems.sort(
+      (a, b) =>
+        new Date(eventDate(a) || 0) - new Date(eventDate(b) || 0)
+        || String(a.event_title || "").localeCompare(String(b.event_title || ""))
+    );
   }
 
   el("calendar-range").textContent = `${formatCalendarDay(start, { month: "long", day: "numeric" })}–${formatCalendarDay(end, { month: "long", day: "numeric", year: "numeric" })}`;
@@ -239,7 +241,6 @@ function renderCalendar() {
       event.className = "calendar-event";
       event.innerHTML = `
         <div class="calendar-event-top">
-          <span class="calendar-score">${escapeHtml(Math.round(Number(item.opportunity_score || 0)))}</span>
           <span class="calendar-time">${escapeHtml(formatDate(eventDate(item), true).split(", ").pop())}</span>
         </div>
         <a href="${escapeHtml(item.source_url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.event_title || "Untitled opportunity")}</a>
@@ -316,13 +317,12 @@ function clearFilters() {
   el("horizon-filter").value = "all";
   el("jurisdiction-filter").value = "all";
   el("topic-filter").value = "all";
-  el("score-filter").value = "60";
-  el("sort-filter").value = "score";
+  el("sort-filter").value = "date";
   renderOpportunities();
   renderCalendar();
 }
 
-["search-input", "horizon-filter", "jurisdiction-filter", "topic-filter", "score-filter", "sort-filter"].forEach(id => {
+["search-input", "horizon-filter", "jurisdiction-filter", "topic-filter", "sort-filter"].forEach(id => {
   el(id).addEventListener(id === "search-input" ? "input" : "change", () => {
     renderOpportunities();
     renderCalendar();
