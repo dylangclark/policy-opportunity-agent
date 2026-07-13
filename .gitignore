@@ -8,3 +8,7 @@ __pycache__/
 .env
 *.log
 *.zip
+
+# Local patch and package-build artifacts
+.patch-backups/
+*.egg-info/
