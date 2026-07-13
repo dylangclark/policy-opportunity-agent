@@ -68,13 +68,14 @@ sources:
   name: BCUC anticipated filings
   institution: British Columbia Utilities Commission
   jurisdiction: BC
-  collector: bcuc_anticipated
+  collector: bcuc_anticipated_pdf
   url: https://www.bcuc.com/OurWork/AnticipatedFilings
   timezone: America/Vancouver
   lookback_days: 30
   lookahead_days: 550
-  enabled: false
-  disabled_reason: BCUC main website returns HTTP 403 to the Raspberry Pi.
+  enabled: true
+  default_event_type: regulatory_filing
+  lifecycle: anticipated
 - id: bcuc-deadlines
   name: BCUC proceeding filing deadlines
   institution: British Columbia Utilities Commission
@@ -83,8 +84,7 @@ sources:
   url: https://www.bcuc.com/OurWork/ProceedingsFilingDeadlines
   timezone: America/Vancouver
   default_time: '17:00'
-  enabled: false
-  disabled_reason: BCUC main website returns HTTP 403 to the Raspberry Pi.
+  enabled: true
 - id: bcuc-proceedings
   name: BCUC public proceeding dockets
   institution: British Columbia Utilities Commission
@@ -97,8 +97,7 @@ sources:
   docket_lookback_days: 120
   application_ids:
   - 1391
-  enabled: false
-  disabled_reason: BCUC proceeding pages return HTTP 403 to the Raspberry Pi.
+  enabled: true
 - id: bcuc-orders
   name: BCUC orders
   institution: British Columbia Utilities Commission

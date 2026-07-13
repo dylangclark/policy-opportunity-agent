@@ -15,6 +15,22 @@ from .common import build_event
 EXHIBIT_RE = re.compile(r"\b(?:[A-Z]{1,4}|IR)[-\s]?\d+(?:[-.]\d+)*\b", re.IGNORECASE)
 APPLICATION_ID_RE = re.compile(r"applicationid=(\d+)", re.IGNORECASE)
 
+BCUC_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux aarch64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/149.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-CA,en;q=0.9",
+    "Referer": "https://www.bcuc.com/",
+}
+
+
+
 
 def _cells(row: Tag) -> list[Tag]:
     return list(row.find_all(["th", "td"], recursive=False)) or list(row.find_all(["th", "td"]))
@@ -43,7 +59,11 @@ def _pick(values: list[str], header_map: dict[str, int], candidates: Iterable[st
 
 class BCUCDeadlinesCollector:
     def collect(self, source: dict[str, Any], client: HttpClient, now: datetime) -> CollectResult:
-        result = client.get(source["url"], conditional_key=source["id"])
+        result = client.get(
+            source["url"],
+            conditional_key=source["id"],
+            headers=BCUC_HEADERS,
+        )
         if result.not_modified:
             return CollectResult(
                 source_id=source["id"],
@@ -143,7 +163,11 @@ class BCUCProceedingsCollector:
         proceeding_urls: dict[str, str] = {}
 
         try:
-            listing = client.get(source["url"], allow_not_modified=False)
+            listing = client.get(
+                source["url"],
+                headers=BCUC_HEADERS,
+                allow_not_modified=False,
+            )
             soup = BeautifulSoup(listing.content, "html.parser")
             for anchor in soup.find_all("a", href=APPLICATION_ID_RE):
                 href = str(anchor.get("href"))
@@ -177,7 +201,11 @@ class BCUCProceedingsCollector:
         failed = 0
         for application_id, proceeding_url in selected:
             try:
-                response = client.get(proceeding_url, allow_not_modified=False)
+                response = client.get(
+                    proceeding_url,
+                    headers=BCUC_HEADERS,
+                    allow_not_modified=False,
+                )
                 page_events, page_warnings = self._parse_proceeding(
                     source=source,
                     now=now,
@@ -336,7 +364,11 @@ class BCUCAnticipatedFilingsCollector:
     """Parse the public BCUC anticipated-filings table into expected filing windows."""
 
     def collect(self, source: dict[str, Any], client: HttpClient, now: datetime) -> CollectResult:
-        result = client.get(source["url"], conditional_key=source["id"])
+        result = client.get(
+            source["url"],
+            conditional_key=source["id"],
+            headers=BCUC_HEADERS,
+        )
         if result.not_modified:
             return CollectResult(
                 source_id=source["id"],

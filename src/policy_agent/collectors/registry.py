@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from .bcuc_anticipated_pdf import BCUCAnticipatedPDFCollector
 from .bc_laws import BCLawsRegulationsCollector
 from .bc_legislature import BCLegislatureCalendarCollector
 from .bcuc import BCUCAnticipatedFilingsCollector, BCUCDeadlinesCollector, BCUCProceedingsCollector
@@ -12,6 +13,7 @@ from .rss import RSSCollector
 from .statcan import StatCanScheduleCollector
 
 COLLECTORS = {
+    "bcuc_anticipated_pdf": BCUCAnticipatedPDFCollector,
     "rss": RSSCollector,
     "json_feed": JSONFeedCollector,
     "statcan_schedule": StatCanScheduleCollector,
