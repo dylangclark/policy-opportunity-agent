@@ -296,6 +296,9 @@ sources:
   timezone: America/Toronto
   default_event_type: source_update
   change_title: Government-wide forward regulatory plans changed
+  enabled: false
+  disabled_reason: Replaced by federal-forward-regulatory-initiatives structured milestone
+    collector.
 - id: finance-forward-regulatory-plan
   name: Finance Canada forward regulatory plan
   institution: Department of Finance Canada
@@ -305,6 +308,9 @@ sources:
   timezone: America/Toronto
   default_event_type: source_update
   change_title: Finance Canada forward regulatory plan changed
+  enabled: false
+  disabled_reason: Replaced by federal-forward-regulatory-initiatives structured milestone
+    collector.
 - id: fiscal-monitor
   name: Finance Canada Fiscal Monitor page
   institution: Department of Finance Canada
@@ -323,3 +329,174 @@ sources:
   timezone: America/Toronto
   default_event_type: fiscal_release
   change_title: Parliamentary Budget Officer publications changed
+- id: bc-legal-orders
+  name: B.C. Orders in Council and Ministerial Orders
+  institution: King's Printer for British Columbia
+  jurisdiction: BC
+  collector: bc_orders
+  url: https://www.bclaws.gov.bc.ca/civix/content/oic/?xsl=/templates/browse.xsl
+  browse_urls:
+  - https://www.bclaws.gov.bc.ca/civix/content/oic/?xsl=/templates/browse.xsl
+  - https://www.bclaws.gov.bc.ca/civix/content/mo/?xsl=/templates/browse.xsl
+  timezone: America/Vancouver
+  lookback_days: 90
+  lookahead_days: 550
+  max_documents: 140
+  minimum_signal_score: 2
+  prefer_resume_documents: true
+  enabled: true
+  max_ministerial_documents: 100
+  civix_base_url: https://www.bclaws.gov.bc.ca
+- id: federal-forward-regulatory-initiatives
+  name: Federal forward regulatory initiative milestones
+  institution: Government of Canada
+  jurisdiction: CA
+  collector: federal_regulatory_plans
+  url: https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/regulatory-evaluation-results/government-wide-regulatory-plans-reports.html
+  timezone: America/Toronto
+  lookback_days: 60
+  lookahead_days: 730
+  enabled: true
+  exclude_keywords:
+  - miscellaneous amendment
+  - housekeeping amendment
+  - typographical
+  - administrative update
+  always_include_keywords:
+  - electricity
+  - energy
+  - climate
+  - housing
+  - competition
+  - tariff
+  - tax
+  - immigration
+  - transportation
+  - infrastructure
+  - health
+  - indigenous
+  plan_pages:
+  - institution: Environment and Climate Change Canada
+    url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/acts-regulations/forward-regulatory-plan.html
+    follow_child_pages: true
+    max_child_pages: 45
+  - institution: Innovation, Science and Economic Development Canada
+    url: https://ised-isde.canada.ca/site/acts-regulations/en/forward-regulatory-plan/2026-2028-forward-regulatory-plan
+    follow_child_pages: true
+    max_child_pages: 45
+  - institution: Transport Canada
+    url: https://tc.canada.ca/en/corporate-services/acts-regulations/forward-regulatory-plan
+    follow_child_pages: true
+    max_child_pages: 45
+  - institution: Department of Finance Canada
+    url: https://www.canada.ca/en/department-finance/corporate/laws-regulations/forward-regulatory-plan.html
+    follow_child_pages: true
+    max_child_pages: 35
+  - institution: Treasury Board of Canada Secretariat
+    url: https://www.canada.ca/en/treasury-board-secretariat/corporate/transparency/acts-regulations/forward-regulatory-plan/forward-regulatory-plan-2026-2028.html
+    follow_child_pages: true
+    max_child_pages: 35
+  - institution: Health Canada
+    url: https://www.canada.ca/en/health-canada/corporate/about-health-canada/legislation-guidelines/acts-regulations/forward-regulatory-plan/plan.html
+    follow_child_pages: true
+    max_child_pages: 45
+  - institution: Immigration, Refugees and Citizenship Canada
+    url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/acts-regulations/forward-regulatory-plan/list.html
+    follow_child_pages: true
+    max_child_pages: 35
+  - institution: Department of Justice Canada
+    url: https://justice.canada.ca/eng/trans/ar-lr/frp-ppr/2026_2028.html
+    follow_child_pages: true
+    max_child_pages: 35
+  include_keywords:
+  - climate
+  - greenhouse gas
+  - carbon
+  - clean fuel
+  - energy
+  - electricity
+  - natural gas
+  - hydrogen
+  - renewable
+  - emissions
+  - environmental assessment
+  - impact assessment
+  - critical minerals
+  - mining
+  - forestry
+  - transportation
+  - rail
+  - marine
+  - aviation
+  - zero-emission
+  - vehicle
+  - infrastructure
+  - housing
+  - building code
+  - emergency management
+  - disaster
+  - public safety
+  - telecommunications
+  - spectrum
+  - artificial intelligence
+  - competition
+  - foreign investment
+  - economic security
+  - Indigenous
+  - First Nation
+  - tax
+  - finance
+  - financial institution
+- id: bc-eao-milestones
+  name: B.C. Environmental Assessment Office milestones
+  institution: B.C. Environmental Assessment Office
+  jurisdiction: BC
+  collector: bc_eao_milestones
+  url: https://www.projects.eao.gov.bc.ca/news
+  timezone: America/Vancouver
+  lookback_days: 90
+  lookahead_days: 180
+  max_pages: 10
+  enabled: true
+- id: iaac-major-projects
+  name: Federal major-project impact assessment milestones
+  institution: Impact Assessment Agency of Canada
+  jurisdiction: CA
+  collector: iaac_milestones
+  url: https://iaac-aeic.gc.ca/050/evaluations/exploration?showMap=false
+  timezone: America/Toronto
+  lookback_days: 90
+  max_pages: 10
+  max_projects: 45
+  exclude_assessment_types:
+  - project on federal lands
+  - project outside of canada
+  enabled: true
+- id: house-committee-reports
+  name: House committee reports and government responses
+  institution: House of Commons of Canada
+  jurisdiction: CA
+  collector: house_committee_reports
+  url: https://www.ourcommons.ca/Committees/en/Work?show=reports
+  timezone: America/Toronto
+  lookback_days: 180
+  response_horizon_days: 240
+  max_pages: 12
+  max_report_pages: 75
+  parse_report_pdfs: true
+  include_bill_reports: false
+  priority_committees:
+  - FINA
+  - ENVI
+  - TRAN
+  - RNNR
+  - INDU
+  - PACP
+  - SECU
+  - HUMA
+  - INAN
+  - OGGO
+  - CIIT
+  - HESA
+  - FAAE
+  enabled: true
