@@ -1,7 +1,7 @@
 "use strict";
 
 const DATA_ROOT = "data";
-const state = { manifest: null, opportunities: [], changes: [], sources: [], view: "opportunities" };
+const state = { manifest: null, opportunities: [], changes: [], sources: [], view: "opportunities", calendarWeekStart: null };
 
 const el = (id) => document.getElementById(id);
 const asArray = (value) => Array.isArray(value) ? value : [];
@@ -32,6 +32,40 @@ function eventDate(item) {
   return item.relevant_at || item.deadline_at || item.scheduled_at || item.published_at || item.generated_at || null;
 }
 
+function dateKeyInVancouver(value) {
+  const date = value instanceof Date ? value : new Date(value);
+  if (Number.isNaN(date.valueOf())) return null;
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/Vancouver",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(date);
+  const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+  return `${values.year}-${values.month}-${values.day}`;
+}
+
+function dateFromKey(key) {
+  const [year, month, day] = key.split("-").map(Number);
+  return new Date(Date.UTC(year, month - 1, day, 12));
+}
+
+function addDays(date, days) {
+  const result = new Date(date);
+  result.setUTCDate(result.getUTCDate() + days);
+  return result;
+}
+
+function startOfWeek(value = new Date()) {
+  const localDate = dateFromKey(dateKeyInVancouver(value));
+  const weekday = localDate.getUTCDay();
+  return addDays(localDate, weekday === 0 ? -6 : 1 - weekday);
+}
+
+function formatCalendarDay(date, options) {
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "UTC", ...options }).format(date);
+}
+
 function normalizeStatus(status) {
   const value = String(status || "unknown").toLowerCase();
   return ["ok", "partial", "failed"].includes(value) ? value : "unknown";
@@ -49,6 +83,7 @@ async function loadData() {
     state.opportunities = asArray(oppData.opportunities);
     state.changes = asArray(changesData.changes);
     state.sources = asArray(sourceData.sources);
+    if (!state.calendarWeekStart) state.calendarWeekStart = startOfWeek();
     populateFilters();
     renderAll();
     showStaleness();
@@ -86,6 +121,7 @@ function replaceOptions(id, values, allLabel, formatter = value => value) {
 function renderAll() {
   renderSummary();
   renderOpportunities();
+  renderCalendar();
   renderChanges();
   renderSources();
   const generated = state.manifest?.generated_at;
@@ -162,6 +198,65 @@ function renderOpportunities() {
   }
 }
 
+function renderCalendar() {
+  if (!state.calendarWeekStart) state.calendarWeekStart = startOfWeek();
+  const items = filteredOpportunities().filter(item => eventDate(item));
+  const start = state.calendarWeekStart;
+  const end = addDays(start, 6);
+  const todayKey = dateKeyInVancouver(new Date());
+  const days = Array.from({ length: 7 }, (_, index) => addDays(start, index));
+  const byDay = new Map(days.map(day => [dateKeyInVancouver(day), []]));
+
+  for (const item of items) {
+    const key = dateKeyInVancouver(eventDate(item));
+    if (byDay.has(key)) byDay.get(key).push(item);
+  }
+  for (const dayItems of byDay.values()) {
+    dayItems.sort((a, b) => Number(b.opportunity_score || 0) - Number(a.opportunity_score || 0));
+  }
+
+  el("calendar-range").textContent = `${formatCalendarDay(start, { month: "long", day: "numeric" })}–${formatCalendarDay(end, { month: "long", day: "numeric", year: "numeric" })}`;
+  const grid = el("calendar-grid");
+  grid.innerHTML = "";
+  let total = 0;
+
+  for (const day of days) {
+    const key = dateKeyInVancouver(day);
+    const dayItems = byDay.get(key) || [];
+    total += dayItems.length;
+    const column = document.createElement("section");
+    column.className = `calendar-day${key === todayKey ? " today" : ""}`;
+    column.innerHTML = `
+      <header class="calendar-day-header">
+        <span>${escapeHtml(formatCalendarDay(day, { weekday: "short" }))}</span>
+        <strong>${escapeHtml(formatCalendarDay(day, { month: "short", day: "numeric" }))}</strong>
+        <small>${dayItems.length} ${dayItems.length === 1 ? "event" : "events"}</small>
+      </header>
+      <div class="calendar-events"></div>`;
+    const eventList = column.querySelector(".calendar-events");
+    for (const item of dayItems) {
+      const event = document.createElement("article");
+      event.className = "calendar-event";
+      event.innerHTML = `
+        <div class="calendar-event-top">
+          <span class="calendar-score">${escapeHtml(Math.round(Number(item.opportunity_score || 0)))}</span>
+          <span class="calendar-time">${escapeHtml(formatDate(eventDate(item), true).split(", ").pop())}</span>
+        </div>
+        <a href="${escapeHtml(item.source_url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.event_title || "Untitled opportunity")}</a>
+        <small>${escapeHtml(item.institution || item.source_name || "")}</small>`;
+      eventList.appendChild(event);
+    }
+    grid.appendChild(column);
+  }
+
+  el("calendar-empty").classList.toggle("hidden", total !== 0);
+}
+
+function moveCalendarWeek(days) {
+  state.calendarWeekStart = addDays(state.calendarWeekStart || startOfWeek(), days);
+  renderCalendar();
+}
+
 function renderChanges() {
   const list = el("changes-list");
   list.innerHTML = "";
@@ -224,13 +319,20 @@ function clearFilters() {
   el("score-filter").value = "60";
   el("sort-filter").value = "score";
   renderOpportunities();
+  renderCalendar();
 }
 
 ["search-input", "horizon-filter", "jurisdiction-filter", "topic-filter", "score-filter", "sort-filter"].forEach(id => {
-  el(id).addEventListener(id === "search-input" ? "input" : "change", renderOpportunities);
+  el(id).addEventListener(id === "search-input" ? "input" : "change", () => {
+    renderOpportunities();
+    renderCalendar();
+  });
 });
 el("refresh-button").addEventListener("click", loadData);
 el("clear-filters").addEventListener("click", clearFilters);
+el("calendar-previous").addEventListener("click", () => moveCalendarWeek(-7));
+el("calendar-next").addEventListener("click", () => moveCalendarWeek(7));
+el("calendar-today").addEventListener("click", () => { state.calendarWeekStart = startOfWeek(); renderCalendar(); });
 document.querySelectorAll(".tab").forEach(tab => tab.addEventListener("click", () => switchView(tab.dataset.view)));
 
 loadData();
