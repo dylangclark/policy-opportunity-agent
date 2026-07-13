@@ -70,6 +70,21 @@ LOW_SIGNAL_TERMS = (
     "administrative update",
 )
 
+GENERIC_INITIATIVE_TITLES = (
+    "public consultation opportunities",
+    "initiatives planned for",
+    "planned aviation initiatives",
+    "planned marine initiatives",
+    "planned multimodal initiatives",
+    "planned rail initiatives",
+    "planned road initiatives",
+    "health canada forward regulatory plan",
+    "food and drugs act",
+    "administrative leadership",
+    "employer",
+    "miscellaneous amendments to the weights and measures regulations",
+)
+
 DATE_OR_PERIOD_RE = re.compile(
     r"(?:20\d{2}|Q[1-4]|[1-4](?:st|nd|rd|th)?\s+quarter|"
     r"spring|summer|fall|autumn|winter|early|mid|late|"
@@ -161,7 +176,19 @@ def _milestones(text: str) -> list[tuple[str, str]]:
     return candidates
 
 
+def _is_generic_initiative_title(title: str) -> bool:
+    normalized_title = clean_text(title).lower()
+    return any(
+        normalized_title == term
+        or normalized_title.startswith(term + " ")
+        for term in GENERIC_INITIATIVE_TITLES
+    )
+
+
 def _looks_like_initiative(title: str, body: str) -> bool:
+    if _is_generic_initiative_title(title):
+        return False
+
     combined = f"{title} {body}".lower()
     return any(term in combined for term in SECTION_REQUIRED_TERMS)
 
@@ -296,7 +323,8 @@ class FederalRegulatoryPlansCollector:
                             child_soup = BeautifulSoup(child.content, "html.parser")
                             child_body = clean_text((child_soup.find("main") or child_soup).get_text(" ", strip=True))
                             if (
-                                _is_low_signal(label, child_body, source)
+                                _is_generic_initiative_title(label)
+                                or _is_low_signal(label, child_body, source)
                                 or not _is_relevant_policy_area(
                                     label,
                                     child_body,
@@ -355,7 +383,49 @@ class FederalRegulatoryPlansCollector:
                 failed += 1
                 warnings.append(f"Forward regulatory plan failed ({page_url}): {type(exc).__name__}: {exc}")
 
-        unique = {event.id: event for event in events}
+        # Remove repeated initiative-stage records exposed through multiple
+        # departmental pages. Preserve distinct consultation, proposed, and
+        # final-publication milestones.
+        deduplicated: dict[tuple[str, str, str], Any] = {}
+
+        for event in events:
+            key = (
+                normalize_key(str(event.identifiers.get("department", ""))),
+                normalize_key(str(event.identifiers.get("initiative", ""))),
+                normalize_key(str(event.identifiers.get("milestone", ""))),
+            )
+
+            existing = deduplicated.get(key)
+
+            if existing is None:
+                deduplicated[key] = event
+                continue
+
+            existing_date = (
+                existing.start_at
+                or existing.published_at
+                or existing.end_at
+            )
+            event_date = (
+                event.start_at
+                or event.published_at
+                or event.end_at
+            )
+
+            # Prefer the earliest upcoming milestone. If both are historical,
+            # retain the most recently dated observation.
+            if existing_date is None:
+                deduplicated[key] = event
+            elif event_date is None:
+                continue
+            elif event_date >= now and (
+                existing_date < now or event_date < existing_date
+            ):
+                deduplicated[key] = event
+            elif event_date < now and existing_date < now and event_date > existing_date:
+                deduplicated[key] = event
+
+        unique = {event.id: event for event in deduplicated.values()}
         if parsed_pages and not unique:
             warnings.append("No dated federal regulatory milestones were parsed from the configured plan pages.")
         status = "partial" if failed else "ok"

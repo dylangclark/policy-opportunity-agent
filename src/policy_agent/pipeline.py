@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+from html import unescape
 import re
 from collections import Counter
 from datetime import datetime, timedelta, timezone
@@ -110,6 +111,69 @@ def _retain_event(event: Event, now: datetime, settings: dict[str, Any]) -> bool
     if dates:
         return any(lower <= value <= upper for value in dates) or any(value >= now for value in dates)
     return event.first_seen_at >= now - timedelta(days=undated_days)
+
+
+TITLE_PREFIX_RE = re.compile(
+    r"^(?:latest update|update|news release|notice|announcement)\s*[:\-–—]\s*",
+    re.IGNORECASE,
+)
+
+TITLE_SUFFIX_RE = re.compile(
+    r"\s*(?:\||[-–—])\s*"
+    r"(?:canada\.ca|government of canada|government of british columbia|"
+    r"province of british columbia|bc laws)\s*$",
+    re.IGNORECASE,
+)
+
+
+def _clean_event_title(value: str) -> str:
+    """Apply conservative text cleanup without rewriting substantive titles."""
+    title = unescape(str(value or ""))
+    title = title.replace("\xa0", " ")
+    title = re.sub(r"[\r\n\t]+", " ", title)
+    title = re.sub(r"\s+", " ", title).strip()
+
+    title = TITLE_PREFIX_RE.sub("", title)
+    title = TITLE_SUFFIX_RE.sub("", title)
+
+    # Remove standalone status labels that leak from source headings.
+    title = re.sub(
+        r"\s+(?:New|Updated?)\s+(?=[—–-])",
+        " ",
+        title,
+        flags=re.IGNORECASE,
+    )
+    title = re.sub(
+        r"\s+(?:New|Updated?)$",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    )
+
+    title = re.sub(r"([:;,!?])\1+", r"\1", title)
+    title = re.sub(r"\.{4,}", "...", title)
+    title = re.sub(r"\s+([,.;:!?])", r"\1", title)
+    title = re.sub(r"([(\[]) +", r"\1", title)
+    title = re.sub(r" +([)\]])", r"\1", title)
+    title = re.sub(r"\s+", " ", title).strip(" -–—|")
+
+    return title
+
+
+def _clean_event_headings(events: list[Event]) -> tuple[list[Event], int]:
+    cleaned: list[Event] = []
+    changed = 0
+
+    for event in events:
+        title = _clean_event_title(event.title)
+
+        if title and title != event.title:
+            event = event.model_copy(update={"title": title})
+            changed += 1
+
+        cleaned.append(event)
+
+    return cleaned, changed
 
 
 def _has_usable_date(event: Event) -> bool:
@@ -335,6 +399,12 @@ def run_pipeline(
         if _retain_event(event, now, agent_config.settings)
     ]
 
+    cleaned_title_count = 0
+    if agent_config.settings.get("clean_event_titles", True):
+        retained_events, cleaned_title_count = _clean_event_headings(
+            retained_events
+        )
+
     undated_count = 0
     if agent_config.settings.get("drop_undated_events", True):
         dated_events = [
@@ -349,6 +419,12 @@ def run_pipeline(
     if agent_config.settings.get("deduplicate_events", True):
         retained_events, duplicate_count = _deduplicate_events(
             retained_events
+        )
+
+    if cleaned_title_count:
+        LOGGER.info(
+            "Cleaned %s event titles",
+            cleaned_title_count,
         )
 
     if undated_count:
