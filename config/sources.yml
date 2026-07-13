@@ -12,6 +12,8 @@ settings:
   http_timeout_seconds: 35
   http_retries: 2
   min_host_interval_seconds: 0.5
+  drop_undated_events: true
+  deduplicate_events: true
 sources:
 - id: boc-upcoming
   name: Bank of Canada upcoming events

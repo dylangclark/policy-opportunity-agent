@@ -1,6 +1,2275 @@
 {
-  "changes": [],
-  "generated_at": "2026-07-13T21:42:41.055059+00:00",
-  "run_id": "20260713T214241Z-4e22a555",
+  "changes": [
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b603f7adf983b70ea834",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Boralex Ocean Falls Limited Partnership ~ 2023 to 2027 Rates for Service to BC Hydro ~ Decision and G-351-23 - 2023-12-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:448e72ec57f716c234cb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ 2020 Street Lighting Rate Application ~ Decision and Order G-312-21 - 2021-11-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:efa585c0d64fdeeb3af3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ 2021 Integrated Resource Plan ~ Decision and G-58-24 - 2024-03-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:32dacaf0c7ef6d9c1a1e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for a Certificate of Public Convenience and Necessity for the Lower Mainland Reactive Power Reinforcement Project ~ Decision and G-20-24 - 2024-01-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:3f67b8688433e6b8ae73",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for a Certificate of Public Convenience and Necessity for the Mainwaring Substation Upgrade Project ~ Decision and Final Order - C-4-22 - 2022-08-16"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:074aecee12064920f097",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for Certificates of Public Convenience and Necessity for the Bridge River Projects: Bridge River 1 Units 1 to 4 Generator Replacement Project ~ Decision and Final Order - C-6-22 - 2022-10-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:34466d524d31dce65f81",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for F2025 Deferral Account Rate Rider and Trade Income Rate Rider and Reconsideration Related to the TIRR ~ Decision and G-43-24 - 2024-02-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b5c0165c42770b263755",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for Permission to File and Application for Reconsideration of Directive 85 after 60 Days from the Issuance of Order G-91-23 ~ Decision and G-262-23 - 2023-10-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b78e24b28a5af2e64132",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application for the Energy Management System Upgrade Project ~ Decision and Final Order - 2023-02-28"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:026c12d93ec27bddd4e7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Application to Amend Net Metering under Rate Schedule 1289 ~ Decision - Decision - 2020-06-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b5f5cd0ce308ecb9b5c6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Complaint filed by Gitga’at First Nation Regarding Remote Community Electrification Program Fees ~ Decision and G-247-23 - 2023-09-18"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:d471b1fb64b21ce9ca23",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Fiscal 2023 Rate Schedule 1101, 1121 Residential Service Pricing Principles Application ~ Decision - 2022-07-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:80566771d5c89ef03db8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Fiscal 2023 to Fiscal 2025 Revenue Requirements Application ~ Decision and G-91-23 - 2023-04-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:9cbcabc2b79dba00a095",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Fiscal 2023 to Fiscal 2025 Revenue Requirements ~ Decision with G-154-23 - 2023-06-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:e80c1405fa1c1f94db15",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Fiscal 2024 Residential Inclining Block (RIB) Rate Pricing Principles Application ~ Decision and G-140-23 - 2023-06-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:ad285166e9123a3fb13c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ John Hart Generating Station Replacement Project Application for a Certificate of Public Convenience and Necessity ~ Decision - C-2-13 - 2013-02-08"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:625ae39b7e029e24790d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Optional Residential Time-of-Use Rate Application ~ Decision and G-342-23 - 2023-12-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b82ccf9e5b43e1a29ac1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Public Electric Vehicle (EV) Fast Charging Rate Application ~ Decision and Final Order - 2022-01-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:38b70d6b3e5336219441",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Public Electric Vehicle Charging Service Rates ~ Decision and G-67-24 - 2024-03-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:15abe98e2aa8b442e3ac",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Reconsideration of the Performance Based Regulation Report Order G-388-21 ~ Decision and G-73-24 - 2024-03-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:f3dadcf58065e81680a5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority ~ Transmission Service Rate Design Application ~ Decision and G-353-23 - 2023-12-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:cc5e94fdfe0602ab79b3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority – Application for Orders Regarding the Peace to Kelly Lake Stations Sustainment Project – Decision and Order G-57-23 - 2023-03-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:ca1ad984c7354212deeb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Hydro and Power Authority~Application for Orders Regarding the John Hart Dam Seismic Upgrade Project~Decision - 2023-05-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:211e00877594e1466e05",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ An Inquiry into the Regulation of Municipal Energy Utilities - CoR Apprehension Bias ~ Decision - 2021-12-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:a35203254712efd9074b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ An Inquiry into the Regulation of Safety ~ Decision and G-381-22 - 2022-12-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:70044eb24381bafe75e1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ BCUC Renewable Natural Gas Acquisition Inquiry ~ Decision - 2022-07-28"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:5a47783d40a216a8ffb4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Establishment of a Two-year Pilot of a Cybersecurity Framework for Public Utilities ~ Decision and G-126-23 - 2023-06-02"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:f0e4a0c22b5c07b58662",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Framework for the Determination of Confidentiality and Treatment of Protected Information collected pursuant to the Fuel Price Transparency Act ~ Decision - 2022-01-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:573b3384b7e7d690de2c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Generic Cost of Capital Stage 1 ~ Decision and G-236-23 - 2023-09-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:63a88dae9d822de78659",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Inquiry into the Regulation of Hydrogen Energy Services ~ Final Report - 2023-11-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:d28dd0c7b3b82735e89f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Proceeding to Set Delivery Rates for Resort Gas Ltd. ~ Decision and G-359-22 - 2022-12-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:3442dc70d63225595939",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Retail Data Collection Pilot ~ Confidential Report to Minister of Energy, Mines and Low Carbon Innovation - 2022-03-31"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:e68720b53ccf6c2200d1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Retail Data Collection Pilot ~ Supplement to the BCUC's Proposed Recommendations to the BC Government - 2022-03-31"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:e5e7794479e0c0c92506",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Review of Aggregate/Anonymized Fuel Data Proposed for Publication ~ Decision and G-354-22 - 2022-12-08"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b5080199d03cd7238502",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Review of British Columbia Hydro and Power Authority’s Performance Based Regulation Report ~ Decision - 2021-12-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:12a88a8ef350d7154844",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Review of Renewable Natural Gas Definition and Accounting ~ Final Report - 2026-05-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:83a9817d8223ec3bcf0b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "British Columbia Utilities Commission ~ Wyse Meter Solutions Inc. Investigation into Status as a Public Utility ~ Decision and G-168-23 - 2023-06-28"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:db263ea62243b65e0ae5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "CB Powerline Ltd. ~ Application for a Certificate of Public Convenience and Necessity ~ Decision and Order G-383-21 - 2021-12-17"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:0e3f12c768c4657613a5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "City of Richmond ~ Application for Reconsideration and Variance of BCUC Order G-170-21 - Decision and Order G-123-22 - 2022-05-09"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:0641260f5a8dfd852fd8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Corix Multi-Utility Services Inc. ~ Burnaby Mountain District Energy Utility 2020-2023 Revenue Requirements and Rates Application ~ Decision - Decision - 2021-09-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:ae90ac001ea610601a94",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Corix Multi-Utility Services Inc. ~ Restructuring and Business Combination Transactions ~ Decision and G-279-23 - 2023-10-18"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:4ddd517bd6e3b4dcd579",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Mount Pleasant Limited Partnership ~ Rates for the Mount Pleasant District Cooling System ~ Decision and Final Order - G-242-22 - 2022-08-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:3b8aa0d696848d87adf6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Sen̓áḵw Limited Partnership ~ Application for a Certificate of Public Convenience and Necessity for the Sen̓áḵw District Energy System ~ Decision and C-5-23 - 2023-10-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:5d26420699d446a5bd5e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Thompson Rivers Limited Partnership – Application for a Certificate of Public Convenience and Necessity for the Thompson Rivers University Low-Carbon District Energy System – Decision and C-1-23 - 2023-05-03"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:777c1c5c7a4024941203",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc – Expo-Beatty Plants Redevelopment Project Final Design Compliance Filing with Order C-1-20 – Decision and G-360-22 - 2022-12-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:e3275d107573ad65e5fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2021 Long Term Resource Plan ~ Decision and Order G-283-21 - 2021-09-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:5da0de5cb5fc329af63d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2021 Revenue Requirements Application for the Core Steam System ~ Decision - 2021-11-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:77f2707a921b09a5b8f7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2021 Revenue Requirements Application for the Core Steam System ~ Decision and G-310-21A - 2021-10-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:8a81175ea11d6ef777c3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2023 Revenue Requirements Application for the Core Thermal Energy System ~ Decision and G-110-23 - 2023-05-09"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:a04debe28f7eecbc1a97",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2023 Revenue Requirements Application for the Core Thermal Energy System ~ Decision and G-358-23 - 2023-12-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:6042d4d5d7bdaede815c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ Application for a Certificate of Public Convenience and Necessity for the Core Steam System Decarbonization Project ~ Decision and Final Order - 2022-09-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b8a1916a6b4405cf5599",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ Application for Heating Rates for the Heating Thermal Energy System and Cooling Rates for the District Cooling System at the Vancouver House Development ~ Decision and Order G-222-21 - 2021-07-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:5f7abd543d1b1c793f57",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ Application for Rates for the Core Steam System and Northeast False Creek Service Areas ~ Decision and G-345-22A - 2022-11-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b6cdbb064dd0557dd043",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Creative Energy Vancouver Platforms Inc. ~Application for a Certificate of Public Convenience and Necessity For Beatty-Expo Plants and Reorganization ~ Decision-Final Order G-38-19 - 2019-02-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:fdb8a17f9ac2dc794d52",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc ~ Biomethane Energy Recovery Charge Rate Methodology and Comprehensive Review of a Revised Renewable Gas Program ~ Decision and Order G-77-24 - 2024-03-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:7c5a97ea4d7947909ed1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. and Stargas Utilities Ltd. ~ Joint Application for Approval of an Asset Disposition and a Certificate of Public Convenience and Necessity to Facilitate the Transfer of Natural Gas Utility Assets from Stargas Utilities Ltd. to FortisBC Energy Inc. ~ Decision and Final Order - 2022-01-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:66d8864129698c1a263f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ 2017 Price Risk Management Plan ~ Decision and Order - G-108-19 - 2019-05-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:1c0339cf18cf0f96d186",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ 2022 Long Term Gas Resource Plan ~ Decision and Order G-78-24 - 2024-03-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:a3e3cef143cb2e9c277c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ 2024 Annual Review of Delivery Rates ~ Decision and Final Order - 2023-12-07"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:ebe4013877a64abda56d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Annual Review for 2022 Delivery Rates ~ Decision and Order G-366-21 - 2021-12-10"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b205dfd95df85ae83fa7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Annual Review of 2023 Rates ~ Decision with Final Order - 2022-12-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:99c6cdd5be1a6e069d88",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for a Certificate of Public Convenience and for the Advanced Metering Infrastructure Project ~ Decision and C-2-23 - 2023-05-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:9d1f84aedbd4f7957e28",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for a Certificate of Public Convenience and Necessity for the Coastal Transmission System Transmission Integrity Management Capabilities Project ~ Decision and Order C-3-22 - 2022-05-18"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:81841be9a172c3689dee",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for a Certificate of Public Convenience and Necessity for the Interior Transmission System Transmission Integrity Management Capabilities Project ~ Decision and Order C-1-24 - 2024-01-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:c778ba1b2edf90c78702",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for a Certificate of Public Convenience and Necessity for the Okanagan Capacity Upgrade Project ~ Decision and G-361-23 - 2023-12-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:3924e3d6e71f6c85b820",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for a Certificate of Public Convenience and Necessity for the Tilbury Liquefied Natural Gas Storage Expansion Project ~ Decision and G-62-23 - 2023-03-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:a59eb3ef4c522416822d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for Approval of Revised/Renewal Rates for the Langford Compressed Natural Gas Fueling Station in Langford, BC pursuant to the Province of British Columbia’s Greenhouse Gas Reduction (Clean Energy) Regulation ~ Decision and G-311-21 - 2021-10-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:aef57cc80fbf02ca456f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Application for Common Rates and 2022 Revenue Requirements for the Fort Nelson Service Area ~ Decision and Final Order - G-278-22 - 2022-10-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:c06d767b06345b87709c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. ~ Biomethane Energy Recovery Charge Rate Methodology Assessment Report ~ Decision and G-242-21 - 2021-08-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:874d5fdb4baa13e58019",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Energy Inc. – 2023 Demand-Side Management Expenditures Plan – Decision and G-45-23 - 2023-03-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:4c7f59fc968cd11c2fcf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ 2021 Long-Term Electric Resource Plan and 2021 Long-Term Demand-Side Management Plan ~ Decision and G-380-22 - 2022-12-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:967fd5d22809a2b51a7b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ 2024 Annual Review of Rates ~ Decision and G-340-23 - 2023-12-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:25bb35da47e96b3ef7e8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Annual Review for 2022 Rates ~ Decision and Order G-374-21 - 2021-12-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:0db9eee60dba09093f0c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Annual Review for 2023 Rates ~ Decision and G-382-22 - 2022-12-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:dfba0e0c628468c650c4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Application for a Certificate of Public Convenience and Necessity for the A.S. Mawdsley Terminal Station Project ~ Decision and C-6-23 - 2023-12-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:d48a79ce4bc7c84f1a27",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Application for Approval of Rate Design and Rates for Electric Vehicle Direct Current Fast Charging Service ~ Decision - 2021-11-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:9df867c5cc35ec6574f5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Large Commercial Interruptible Rate ~ Decision and G-136-23 - 2023-06-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:045523560d003e0a6400",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. ~ Reconsideration and Variance of BCUC Order G-382-22 ~ Decision and G-87-23 - 2023-04-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b4a7e70134491456ed15",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "FortisBC Inc. – 2023-2027 Demand-Side Management Expenditures Plan – Decision and G-371-22 - 2022-12-16"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:606f6619ec43dc370f32",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Insurance Corporation of British Columbia ~ 2021 Revenue Requirements Application ~ Decision and Order G-307-21 - 2021-10-28"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:8e3061ef0e9bd96afed2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Insurance Corporation of British Columbia ~ 2023 Revenue Requirements ~ Decision and G-266-23 - 2023-10-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:573f55ee41448383fd64",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Kyuquot Power Ltd. ~ 2024 Revenue Requirements ~ Decision and G-53-24 - 2024-02-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:b5a545c3120a5951503f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Kyuquot Power Ltd. ~ Revenue Requirements Application ~ Decision and G-213-21 - 2021-07-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:3dd215e4bb5f6598010d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Lake Okanagan Resort ~ Exemption under Section 88(3) of the Utilities Commission Act ~ Decision with Order G-16-23 - 2023-01-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:e1f97f6a348074a423fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Nelson Hydro ~ 2021 General Rate Increase Application ~ Decision and G-225-21 - 2021-07-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:962a3394640c3b846bf8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Nelson Hydro ~ 2023 Revenue Requirements Application ~ Decision and Order G-330-23 - 2023-12-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:004a6b984296f934b4e9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Nelson Hydro ~ Cost of Service Analysis and Rate Design Application – Application for Reconsideration and Variance of Order G-196-22 ~ Decision and Final Order - 2023-11-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:596de17528ca8a1ea359",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Nelson Hydro ~ Cost of Service Analysis and Rate Design ~ Decision and G-196-22 - 2022-07-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:4b50aa07bc29f7671548",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Oakridge Energy Limited Partnership ~ Application for a Certificate of Public Convenience and Necessity for a District Energy System ~ Decision and Order C-2-22 - 2022-02-15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:cfbbb60d355d6f17d540",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas (N.E.) Ltd. ~ 2023-2024 Revenue Requirements Application for the Fort St. John/Dawson Creek and Tumbler Ridge Divisions ~ Decision and Order G-19-24 - 2024-01-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:f07eb238ac2aae07d3a5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas (NE) ~ Fort St. John-Dawson Creek and Tumbler Ridge Divisions 2022 Revenue Requirements Application ~ Decision - G-292-22 - 2022-10-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:c748b35922505db35589",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas Ltd. and Pacific Northern Gas (N.E.) Ltd ~ Application for Energy Conservation and Innovation Portfolio Funding for 2023-2024 ~ Decision and G-171-23 - 2023-06-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:0ae6a95e7977e4afea68",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas Ltd. ~ 2023–2024 Revenue Requirements Application for the PNG-West Division ~ Decision and G-339-23 - 2023-12-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:dca22b57b1c8cde992e0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas Ltd. ~ Certificate of Public Convenience and Necessity for the Western Transmission Gas System Reactivation and Recommissioning Project Application and Deferral Account Increase Application ~ Decision - 2021-11-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:2854c10ba4f674d2093f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas Ltd. ~ Commodity Costs Consolidation ~ Decision and G-292-23 - 2023-10-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:63a9aafbb71357565c27",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Pacific Northern Gas ~ Low Carbon Energy Cost Recovery Mechanism and Biomethane Purchase Agreements ~ Decision - G-339-22 - 2022-11-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:796445cb87c5934f6f75",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Plateau Pipe Line Ltd. ~ Application for Reconsideration of the June 26, 2001 Taylor to Kamloops Pipeline Permanent Tolls Decision and Commission Order No. P-3-01 - Decision - P-5-01 - 2001-10-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:ed0cd12703df90357bcb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "PNG West Division ~ 2022 Revenue Requirements Application ~ Decision and Final Order - G-281-22 - 2022-10-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:90dad6d337f4b9f4b0b1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "River District Energy Limited Partnership ~ Application for Approval for a Certificate of Convenience and Necessity to Construct and Operate the Second Phase of the District Energy Utility System for the River District Development ~ Decision and C-3-23 - 2023-06-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-decisions:a1638f62297d453da98b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-decisions",
+      "title": "Terasen Gas Inc. ~ Customer Care Enhancement Project Insourcing of Customer Care Services and Implementation of a New Customer Information System - Reasons for Decision - 2010-07-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:fe25d2dbc34075fd52dd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Access Gas Services Inc. ~ Third Party Verification Scripts ~ Final - A-2-26 - 2026-04-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:a5f74318b7cdc24ef691",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Big White Gas Utility Ltd. ~ Fiscal 2027 Interim Rate ~ Final - G-141-26 - 2026-06-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:52c2dbd4bf57adde2b82",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2024 Call for Power Energy Purchase Agreements ~ K’ómoks First Nation Request for Access to Confidential Information ~ Procedural - G-105-26 - 2026-05-07"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:9be924b96cd2ac30d124",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2024 Call for Power Energy Purchase Agreements ~ K’ómoks First Nation Request for Access to Confidential Information ~ Procedural - G-91-26 - 2026-04-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:5823c3f1b852e240d04c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2025 Integrated Resource Plan ~ Interim Participant Cost Award ~ Final - F-13-26 - 2026-06-04"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:873b88723b9847804eff",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2025 Integrated Resource Plan ~ Interim Participant Cost Award ~ Final - F-8-26 - 2026-04-10"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:3da62e392c77c8b6257a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2025 Integrated Resource Plan ~ Procedural - G-132-26 - 2026-06-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:6b8146cc78120bfd031a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2026 Interim Electricity Purchase Agreement for the Brandywine Creek Project ~ Procedural - G-137-26 - 2026-06-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:0508fbc4774207078dc3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ 2026 Rate Schedule 1892 Transmission Service Freshet Energy Alternative Baselines ~ Final - G-116-26 - 2026-05-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:62aadb4c638cf3c2c393",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificate of Public Convenience and Necessity for the West End Substation Project ~ Procedural - G-79-26 - 2026-04-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:d8fd3453ddf09ba80089",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificate of Public Convenience and Necessity for the West End Substation Project ~ Procedural - G-80-26 - 2026-04-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:a87aaf3793699ff46c35",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificate of Public Convenience and Necessity for the West End Substation Project ~ Procedural - G-99-26 - 2026-05-04"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:217de76ab5d678095660",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificates of Public Convenience and Necessity for the Bridge River Projects ~ Participant Cost Award ~ Final - F-16-26 - 2026-07-03"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:2c090bca90ad36adf583",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificates of Public Convenience and Necessity for the Bridge River Projects ~ Participant Cost Awards ~ Final - F-15-26 - 2026-06-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:1a5cb3ee37c797679f91",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Certificates of Public Convenience and Necessity for the Bridge River Projects: Bridge River Transmission Project ~ Final - C-1-26 - 2026-04-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:2749306197199155389f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Change in Registration Footprint with the Mandatory Reliability Standards Program ~ Final - R-6-26 - 2026-06-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:9f61d3a85c06cf9f40ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Distribution Design Modernization Project ~ Participant Cost Award Application ~ Final - F-9-26 - 2026-04-10"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:fd91b49da6f115da1498",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Fiscal 2025 and 2026 Transmission Service Rate Customer Baseline Loads ~ Final - G-113-26 - 2026-05-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:ceca36490746be291ca5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Further Request for Extension on Tariff Supplement No. 6 Application ~ Final - G-100-26 - 2026-05-04"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:f9066e5bd72441136d27",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Mandatory Reliability Standards Assessment Report No. 19 ~ Procedural - R-4-26 - 2026-06-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:5e09d209b158534b62a0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Mandatory Reliability Standards Assessment Report No. 19 ~ Procedural - R-4-26A - 2026-06-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:023214c00792aedda089",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Optional Transmission Service Time-Varying Rates ~ Procedural - G-115-26 - 2026-05-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:845b3891fb0d8dfacf85",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Public Electric Vehicle Charging Service Rates Year One Evaluation Report ~ Participant Cost Award Application ~ Final - F-12-26 - 2026-05-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:d69cdbcc78ae50c44297",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Retirement of Mandatory Reliability Standard BAL-002-WECC-3 ~ Final - R-5-26 - 2026-06-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:7d2c9d80030165a93901",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Review of Section 41 of the Utilities Commission Act Applicability to the Wilsey Facilities ~ Procedural - G-104-26 - 2026-05-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:787605800b487c28037c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Tariff Supplement 6 Amendment ~ Procedural - G-121-26 - 2026-05-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c52fd896ed4ba4fa7a25",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Tariff Supplement 6 Amendment ~ Procedural - G-142-26 - 2026-07-02"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:7bf28834f70bb28e3165",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Tariff Supplement Nos. 100 & 102 Amendment Request ~ Final - G-118-26 - 2026-05-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:88dd6c6740b6b6b210a2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Hydro and Power Authority ~ Ulkatcho Interruptible Electricity Supply Agreement Tariff Supplement 118 ~ Final - G-90-26 - 2026-04-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:af26b787abda1a8dc58a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Power and Hydro Authority ~ Complaint filed by E.J. ~ British Columbia Utilities Commission Decision ~ Final - L-13-26 - 2026-05-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:1a34120c961f2dd1780e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Utilities Commission ~ An Inquiry into the Regulation of Municipal Energy Utilities ~ Final - G-88-26 - 2026-04-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:b173699e49dfe63929ae",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Utilities Commission ~ Enerpro Systems Corp. Status as a Public Utility ~ Procedural - G-112-26 - 2026-05-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:6b694eed1d4c393ee963",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Utilities Commission ~ Recovery of British Columbia Utilities Commission Costs for the 2026 to 2027 Fiscal Year ~ Final - G-123-26 - 2026-06-02"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:b3bcfb72b482bb6acc4b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "British Columbia Utilities Commission ~ Review of Renewable Natural Gas Definition and Accounting ~ Procedural - G-128-26 - 2026-06-10"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:326cff80c98b1ff2a88d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Cambie Gardens Energy Limited Partnership Inc. ~ Certificate of Public Convenience and Necessity for the Cambie Gardens Thermal Energy System Expansion ~ Procedural - G-120-26 - 2026-05-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:8b07453c91661a8461b6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Cambie Gardens Energy Limited Partnership ~ Certificate of Public Convenience and Necessity for the Cambie Gardens Thermal Energy System Expansion ~ Procedural - G-103-26 - 2026-05-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:a873f4558ea3a3eb777f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Cambie Gardens Energy Limited Partnership ~ Certificate of Public Convenience and Necessity for the Cambie Gardens Thermal Energy System Expansion ~ Procedural - G-95-26 - 2026-04-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:7591b885fc2baa4d468f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Cambie Gardens Energy Limited Partnership ~ Terms of Service and Rates for the City of Vancouver and S.U.C.C.E.S.S. Affordable Housing Society ~ Procedural - G-174-25 - 2025-07-09"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:a92bb892f38f81fbb37b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Canfor Pulp Ltd. ~ Exemption under Section 88(3) of the Utilities Commission Act ~ Procedural - G-108-26 - 2026-05-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:4f8032393e5c515689e7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Canfor Pulp Ltd. ~ Exemption under Section 88(3) of the Utilities Commission Act ~ Procedural - G-92-26 - 2026-04-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c727b406d01cbd7a3446",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Confidential ~ Final - G-96-26 - 2026-05-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:66f3f6dd1c7a1753a34e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Confidential ~ Final - G-97-26 - 2026-05-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:6f2c450cf3b8a48a63cd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Confidential ~ Procedural - R-3-26 - 2026-05-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:55745084f5eca6f74f45",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Corix Burnaby Mountain DE Limited Partnership ~ 2025 Deferral Account Report for the Simon Fraser University Customer ~ Final - G-135-26 - 2026-06-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:f6f3191ee533ef9e79df",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Corix Burnaby Mountain DE Limited Partnership ~ 2026 to 2027 Revenue Requirements and Rates Application ~ Procedural - G-93-26 - 2026-04-24"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:2a18d9b304d1a3e63758",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Corix Dockside Green DE Limited Partnership ~ Dockside Green DE 2025 to 2028 Revenue Requirements and Rates ~ Participant Cost Award Application ~ Final - F-11-26 - 2026-04-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:2608c5eff07c00014cc8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Sen̓áḵw Limited Partnership ~ Creative Energy Sen̓áḵw 2026-2027 Rates and Rate Design ~ Final - G-149-26 - 2026-07-13"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:49ebfc8eab43957aa4aa",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Sen̓áḵw Limited Partnership ~ Creative Energy Sen̓áḵw 2026-2027 Rates and Rate Design ~ Procedural - G-87-26 - 2026-04-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:b451ac5e3844f60f5e58",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Thompson Rivers LP ~ 2026-2028 Rates and Rate Design ~ Procedural - G-146-26 - 2026-07-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:847bc6728337efdeb352",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2026 Core TES Fuel Cost Adjustment Charge Variance of Order G-298-25 ~ Final - G-83-26 - 2026-04-17"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:0c7ce753090e5a81c940",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2026 Revenue Requirements for Core TES ~ Procedural - G-82-26 - 2026-04-16"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:bb873c9371fcb02147f3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Creative Energy Vancouver Platforms Inc. ~ 2026 to 2027 Rates for Cooling at South Downtown ~ Participant Cost Award Application ~ Final - F-10-26 - 2026-04-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c08a44002a87cb4a7b8b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Alternative Energy Services Inc. ~ Fiscal 2026-2027 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 ~ Procedural - G-136-26 - 2026-06-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c9a43711506294413ce3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Alternative Energy Services Inc. ~ Section 71 Filing of a Propane Supply Agreement between FAES and Superior Plus LP at Oliver’s Landing ~ Final - E-12-26 - 2026-04-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:afa6b27c7b823e7c172a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc ~ Permanent Rates and Agreement for GRG Demolition & Excavating Ltd. at the Annacis Island CNG Fuelling Station in Delta ~ Final - G-106-26 - 2026-05-08"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:25eaf1e8af68376f62c5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. and FortisBC Inc. ~ Enterprise Resource Planning and Customer Information System Projects ~ Final - G-125-26 - G-126-26 - 2026-06-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:64b8da5ef3406ca5cf6e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ 2026 and 2027 Incremental Demand Side Management Expenditures ~ Procedural - G-85-26 - 2026-04-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:40a079e5c3004094712e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ 2026 Long Term Gas Resource Plan ~ Procedural - G-111-26 - 2026-05-19"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:4bb23b36e450f63239d5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ 2026 Long Term Gas Resource Plan ~ Procedural - G-84-26 - 2026-04-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:ee1922138216fd9a1c94",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ 2026 Second Quarter Gas Cost Report for the Mainland and Vancouver Island, and the Fort Nelson Service Areas, effective July 1, 2026 ~ Final - G-130-26 - 2026-06-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:375e659bd14b9f0c5cca",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Annual Contracting Plan and Amended Long-Term Mist Storage Capacity Agreements between Northwest Natural Gas Company and FortisBC Energy Inc. ~ Final - G-147-26 - 2026-07-07"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:e0107147850539368b64",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Complaint filed by D.C. – British Columbia Utilities Commission Decision ~ Final - L-29-25 - 2025-10-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c7d62bf09ed9350c18b0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Complaint filed by S.M. ~ British Columbia Utilities Commission Decision ~ Final - L-12-26 - 2026-05-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:bec31355d9071087cdb4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ D.C. Reconsideration of L-29-25 ~ Final - G-94-26 - 2026-04-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:575d9b80c16d0f37878f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ FEI 2026 Review of Mains Extension and Connection Policies ~ Procedural - G-122-26 - 2026-06-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:af4315a82c0e21d1d62c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ FEI 2026 Review of Mains Extension and Connection Policies ~ Procedural - G-138-26 - 2026-06-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:0a44add58d4a8dfc32a1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ FEI Certificate of Public Convenience and Necessity for Environmental 360 Solutions CNG Station in Chilliwack ~ Final - G-98-26 - 2026-05-01"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:594fd38a1f16e9104a07",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Inland Truck CNG Fuel Service Agreements Multi-Station Tariff Supplements Cancellation ~ Final - G-110-26 - 2026-05-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:2609d724f26eb71c1dca",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Issue Unsecured Medium Term Note Debentures ~ Final - G-161-25 - 2025-06-27"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:f3b07d50bab537af7b5a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Operating Agreement between the District of Chetwynd and FortisBC Energy Inc. ~ Final - G-144-26 - 2026-07-03"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:e3ee34f08b65780a5fd1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Operating Agreement between the District of Chetwynd and FortisBC Energy Inc. ~ Procedural - G-127-26 - 2026-06-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:f07952341ca19dadb9f3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Permanent Rates and Agreement for Waste Management of Canada Corporation for CNG Fuelling Service at the Langford Fuelling Station ~ Final - G-89-26 - 2026-04-21"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:ae3ca213f1ff7dec0028",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Permanent Rates and Amending Agreements for Canada Minibins.com Ltd., Clark Reefer Lines Ltd., SF Disposal Queen Ltd. and Mullen Trucking Corp. at the Annacis Island CNG Fuelling Station in Delta ~ Procedural - G-140-26 - 2026-06-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:1d9fd71c0ad8a0ccbc5f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Permanent Rates and Amending Agreements for Halton Recycling Ltd. D.B.A. Emterra Environmental and Nortrans Freight Management Ltd. at the Annacis Island CNG Fuelling Station in Delta ~ Final - G-101-26 - 2026-05-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:fc82a567851b32c35266",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Permanent Rates for Public Fuelling under Rate Schedule 6P at the Annacis Island Fuelling Station in Delta ~ Final - G-81-26 - 2026-04-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:8c38cdd70df3d058039d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Rate Schedule 30 Amendments ~ Final - G-145-26 - 2026-07-06"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:318487473975f731a796",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ RNG Blend, Storage and Transportation RNG Rider, RNG Charges for the Mainland and Vancouver Island, and the Fort Nelson Service Areas Effective July 1, 2026 ~ Final - G-131-26 - 2026-06-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:ef0873b6807b52fa77f6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Section 71 2025 to 2026 Remaining Natural Gas Supply Contracts ~ Final - E-11-26 - 2026-04-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:8b24ad2f2c4fc776ef6a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Section 71 Filing of Biomethane Purchase Agreement between FEI and Evergreen Environment (Oshawa) Inc. and Convertus York Biofuel Ltd. ~ Final - G-86-26 - 2026-04-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:97ddc68863012be5d4a4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Section 71 GasEDI Base Contract with Morgan Stanley Capital Group Inc. ~ Final - E-13-26 - 2026-05-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:b019d0af2570ac7fae99",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Energy Inc. ~ Section 71 Sumas Summer to Winter Delivery Arrangement between Mercuria Commodities Canada Corporation and FortisBC Energy Inc. ~ Final - E-14-26 - 2026-05-14"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:9e89ee5df40e38a949f8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Inc. ~ 2026 to 2027 Annual Electric Contracting Plan ~ Final - G-124-26 - 2026-06-04"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:e4a153976298407cd4cc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "FortisBC Inc. ~ Issuing Unsecured Medium Term Note Debentures ~ Final - G-125-24 - 2024-04-30"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:920b59486562cd4cf270",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Hemlock Utility Services Ltd. ~ Outstanding Maintenance Activities Reporting ~ Final - G-102-26 - 2026-05-05"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:12c6afedcfbaf516d70b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "High Bar First Nation ~ Request for Capacity Funding in relation to the FEI 2026 Long Term Gas Resource Plan proceeding ~ Final - L-14-26 - 2026-06-23"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:0dd67230ef5a77a17204",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Insurance Corporation of British Columbia ~ ICBC Customer Data Modernization Implementation IT Capital Report ~ Final - G-129-26 - 2026-06-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:d19f0c3ce9faee730d16",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "K’ómoks First Nation ~ Request for Access to Confidential Information ~ Final - G-313-25 - 2025-12-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:3d06bdea72ce4c96b464",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "K’ómoks First Nation ~ Variance of Order G-313-25 ~ Final - G-119-26 - 2026-05-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:ba42aa26951a222c4de1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Nelson Hydro ~ 2026-2027 Revenue Requirements ~ Final - G-139-26 - 2026-06-29"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:af914c068ed1f87e393a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Pacific Northern Gas (N.E.) Ltd. ~ Albright Flush Systems Ltd. Industrial Gas Sales Agreement ~ Final - G-114-26 - 2026-05-20"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:87015744b77605f22f82",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Pacific Northern Gas (NE) Ltd. ~ 2026 Second Quarter Gas Cost Report for Fort St. John Dawson Creek and Tumbler Ridge Service Areas ~ Final - G-134-26 - 2026-06-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c5fdbfb2e2d3f163b80f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Pacific Northern Gas Ltd ~ Amended Tenaska Energy Management Services and Storage Agreements ~ Final - E-15-26 - 2026-06-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:bc097db735bd31415285",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Pacific Northern Gas Ltd. ~ 2025 Unaccounted for Loss Above 1.25 Percent ~ Final - G-143-26 - 2026-07-02"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:18c814815310572dece7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Pacific Northern Gas Ltd. ~ 2026 Second Quarter Gas Cost Report for PNG-West and Granisle Service Areas ~ Final - G-133-26 - 2026-06-25"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:d293a4cbb32a33ecd5ad",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "River District Energy Limited Partnership ~ 2026 to 2028 Revenue Requirements and Rates ~ Final - G-107-26 - 2026-05-11"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:bb118f4f2ab2dee5cc80",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "River District Energy Limited Partnership ~ 2026 to 2028 Revenue Requirements and Rates ~ Participant Cost Award Application ~ Final - F-14-26 - 2026-06-18"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:d8cd7f700c09e1a408a0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "RLEnergy Corp. ~ Certificate of Public Convenience and Necessity for an Electrical Distribution System in Coldstream ~ Procedural - G-109-26 - 2026-05-12"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:174724984e09253ba3f8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "RLEnergy Corp. ~ Certificate of Public Convenience and Necessity for an Electrical Distribution System in Coldstream ~ Procedural - G-117-26 - 2026-05-22"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:c9dca25e0a3302af719c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "RLEnergy Corporation ~ Certificate of Public Convenience and Necessity for an Electrical Distribution System in Coldstream ~ Procedural - G-148-26 - 2026-07-08"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "bcuc-orders:994a99e10dbd0f541803",
+      "schema_version": "1.0",
+      "source_id": "bcuc-orders",
+      "title": "Summitt Energy BC LP ~Third-Party Verification Scripts and Training Materials ~ Final - A-3-26 - 2026-06-04"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "finance-canada-news:dd0ad3997daf0f257f59",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Canadians to Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:00a67cebdbd19437c862",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "100 Mile House Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:0f3f48cf5ee929779499",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Accessible B.C. Act Standards"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:7e8eb65ed548bd6dce89",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "AI Adoption in B.C."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:064ee768c406a5754a82",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Angling, Hunting, and Trapping"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:bd35a40806684962970c",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Atlin/Áa Tlein Téix’i Park and Willison Creek – Nelson Lake/ Sít’ Héeni Conservancy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:0e41b8a9dc03559b4e83",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Canadians of South Asian Heritages Museum"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:bdb014d3f0bb59d2ad3b",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Cariboo-Chilcotin Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:78377acafb8f6e95366f",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Child and Youth Well-Being Action Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:eb29931bb97667b3ccf6",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "CleanBC Review"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:52a8bb44ced15775c245",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Community Advisory Group on Extortion"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:cea3eaed08884419b134",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Cranbrook Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:b107f3367554c214a4e1",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Cultus Lake Provincial Park Recreation Facility Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:5822190fb7fd772df318",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Daylight Saving Time"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:8dd046f0c3b751cb2829",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Doig River First Nation-B.C. Joint Land Use Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:0d69072b9acd0c27d8fe",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Emergency Support Services"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:56b2e9f523b2f90d8e76",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Fraser River Tunnel"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:bb531d8e4ae65ed6734d",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Golden Ears Provincial Park Recreation Facility Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:1f46b62f2028cae37c22",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Heritage Conservation Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:f02182cca8ed7dd32ea2",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Information Schedules"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:3f352bea7b7b7b3cf865",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Infrastructure Projects Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:287c729e17af51fd577d",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Kamloops Area Transportation Study"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:cf8b2dbe6beec4cd9cb6",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Klappan Land Use Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:14d4e5bd4cfcc5c3b222",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Kootenay Lake Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:298dcd500a574df01608",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "K’ómoks Treaty Negotiations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:0e4e6517548879a69409",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Labour Relations Code Review 2024"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:69c90471af6d59002466",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Land Use Objectives Order for Howe Sound and Sea-to-Sky Area"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:ed1ba55353bb6e27e24f",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Legal Professions Regulatory Reform"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:2cdaa7c51c65b0b8f7f8",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Mackenzie Forest Landscape Planning Project"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:d9976ede106066c41fcb",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Making Family Law Better for Families"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:7df279f886f288c573b7",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Mount Seymour Provincial Park Recreation Facility Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:482426173481000b3e5b",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Mt Seymour Resorts Ski Resort Development Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:86dccda74c1031dafbf7",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Municipal Incorporation Process for Okanagan Falls"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:1af436691e3cd2fa3a5a",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Natural Resource Permitting Improvements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:b5b6a3b4b17df2a96180",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Patient Care Quality Review"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:10acb696f74d4530223a",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Post-Earthquake Boundary Restoration"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:da5c9534e45257802051",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Provincial Filipino Cultural Centre"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:bd1a082d0e8a82b92dfe",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Reconciliation Agreement with Osoyoos Indian Band"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:c3ec5b010e51fcd5f11f",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "shíshálh-B.C. Land Use Planning"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:2a436ddfec0524d3b0df",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Stewarding Agricultural Watercourses"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:05bd7e7209eeff93af11",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Tahltan-B.C. Land Stewardship Planning"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:3ea57d5f077668d8c4eb",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Te’mexw Treaty Negotiations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:6f10e517e9b05e0c5b44",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "The Future of Child Care in B.C."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:2d5b8c4780efe9e4c33e",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "The Future of WorkBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:f17e173625c1fdf2e3be",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Tlatsini Land Use Planning"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:450adf2792d8794e741f",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "tmíxʷ naqscn Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:d75b8f4a4e2a6ef21d4a",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "West Central Vancouver Island Forest Landscape Plan"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "govtogether-bc:fb50aa70ed00efb2020b",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "‘Namgis-B.C. Section 7 Agreement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "house-committee-reports:7169bc244629afbda555",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "house-committee-reports:7566077204c1bb86dd9c",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "house-committee-reports:cb045ff20fc2b747db5c",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-13T21:52:00.200132Z",
+      "event_id": "house-committee-reports:ce98b2f8eb17930b3bce",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: MORE — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
+    }
+  ],
+  "generated_at": "2026-07-13T21:52:00.200132+00:00",
+  "run_id": "20260713T215200Z-ab1f728b",
   "schema_version": "1.0"
 }

@@ -1,5 +1,10 @@
 from __future__ import annotations
 
+from .bc_orders import BCOrdersCollector
+from .federal_regulatory_plans import FederalRegulatoryPlansCollector
+from .bc_eao import BCEAOMilestonesCollector
+from .iaac import IAACMilestonesCollector
+from .house_reports import HouseCommitteeReportsCollector
 from .bcuc_anticipated_pdf import BCUCAnticipatedPDFCollector
 from .bc_laws import BCLawsRegulationsCollector
 from .bc_legislature import BCLegislatureCalendarCollector
@@ -13,6 +18,11 @@ from .rss import RSSCollector
 from .statcan import StatCanScheduleCollector
 
 COLLECTORS = {
+    "bc_orders": BCOrdersCollector,
+    "federal_regulatory_plans": FederalRegulatoryPlansCollector,
+    "bc_eao_milestones": BCEAOMilestonesCollector,
+    "iaac_milestones": IAACMilestonesCollector,
+    "house_committee_reports": HouseCommitteeReportsCollector,
     "bcuc_anticipated_pdf": BCUCAnticipatedPDFCollector,
     "rss": RSSCollector,
     "json_feed": JSONFeedCollector,

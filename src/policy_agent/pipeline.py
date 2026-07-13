@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -109,6 +110,96 @@ def _retain_event(event: Event, now: datetime, settings: dict[str, Any]) -> bool
     if dates:
         return any(lower <= value <= upper for value in dates) or any(value >= now for value in dates)
     return event.first_seen_at >= now - timedelta(days=undated_days)
+
+
+def _has_usable_date(event: Event) -> bool:
+    """Return True only when an event has a real source-derived date."""
+    return any(
+        value is not None
+        for value in (
+            event.start_at,
+            event.end_at,
+            event.published_at,
+        )
+    )
+
+
+def _normalized_title(value: str) -> str:
+    """Normalize titles for conservative duplicate matching."""
+    value = value.lower()
+    value = re.sub(r"\\b(?:updated?|new|notice of)\\b", " ", value)
+    value = re.sub(r"[^a-z0-9]+", " ", value)
+    return re.sub(r"\\s+", " ", value).strip()
+
+
+def _event_date_key(event: Event) -> str:
+    """Use the most operationally relevant date as the duplicate date."""
+    value = event.start_at or event.published_at or event.end_at
+    return value.date().isoformat() if value else ""
+
+
+def _event_quality(event: Event) -> tuple[int, int, int, int, int]:
+    """Rank duplicate candidates without changing their substantive content."""
+    confidence_score = {
+        "confirmed": 3,
+        "expected": 2,
+        "inferred": 1,
+    }.get(event.confidence, 0)
+
+    direct_document = int(
+        any(
+            token in str(event.source_url).lower()
+            for token in (
+                "/document/",
+                ".pdf",
+                "/decision/",
+                "/order/",
+                "/report/",
+            )
+        )
+    )
+
+    return (
+        confidence_score,
+        int(event.start_at is not None),
+        int(event.published_at is not None),
+        direct_document,
+        len(event.description or ""),
+    )
+
+
+def _deduplicate_events(events: list[Event]) -> tuple[list[Event], int]:
+    """
+    Remove exact and conservative cross-source duplicates.
+
+    Cross-source matching requires the same normalized title, jurisdiction,
+    event type, and calendar date. This avoids merging related but distinct
+    milestones.
+    """
+    exact_map: dict[str, Event] = {}
+
+    for event in events:
+        existing = exact_map.get(event.id)
+        if existing is None or _event_quality(event) > _event_quality(existing):
+            exact_map[event.id] = event
+
+    grouped: dict[tuple[str, str, str, str], Event] = {}
+
+    for event in exact_map.values():
+        key = (
+            _normalized_title(event.title),
+            event.jurisdiction.lower().strip(),
+            event.event_type.lower().strip(),
+            _event_date_key(event),
+        )
+
+        existing = grouped.get(key)
+        if existing is None or _event_quality(event) > _event_quality(existing):
+            grouped[key] = event
+
+    retained = list(grouped.values())
+    removed = len(events) - len(retained)
+    return retained, removed
 
 
 def _sort_events(events: list[Event]) -> list[Event]:
@@ -238,11 +329,41 @@ def run_pipeline(
                 )
             )
 
-    # A canonical event ID belongs to one source; keep the newest observation if a parser duplicates it.
-    merged_map = {event.id: event for event in merged_events}
-    current_events = _sort_events(
-        [event for event in merged_map.values() if _retain_event(event, now, agent_config.settings)]
-    )
+    retained_events = [
+        event
+        for event in merged_events
+        if _retain_event(event, now, agent_config.settings)
+    ]
+
+    undated_count = 0
+    if agent_config.settings.get("drop_undated_events", True):
+        dated_events = [
+            event
+            for event in retained_events
+            if _has_usable_date(event)
+        ]
+        undated_count = len(retained_events) - len(dated_events)
+        retained_events = dated_events
+
+    duplicate_count = 0
+    if agent_config.settings.get("deduplicate_events", True):
+        retained_events, duplicate_count = _deduplicate_events(
+            retained_events
+        )
+
+    if undated_count:
+        LOGGER.info(
+            "Dropped %s events with no usable source date",
+            undated_count,
+        )
+
+    if duplicate_count:
+        LOGGER.info(
+            "Dropped %s duplicate events",
+            duplicate_count,
+        )
+
+    current_events = _sort_events(retained_events)
     changes = _calculate_changes(previous_events, current_events, now)
     opportunities = identify_opportunities(current_events, changes, now, agent_config.settings, rules)
 
