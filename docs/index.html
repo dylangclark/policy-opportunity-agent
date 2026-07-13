@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Canadian policy event and op-ed opportunity monitor">
+  <title>Policy Opportunity Monitor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Canadian policy intelligence</p>
+      <h1>Policy Opportunity Monitor</h1>
+      <p class="subtitle">Upcoming hooks for commentary, analysis, and op-eds.</p>
+    </div>
+    <div class="header-actions">
+      <span id="run-status" class="status-pill">Loading</span>
+      <button id="refresh-button" class="button secondary" type="button">Refresh</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="error-panel" class="notice error hidden" role="alert"></section>
+    <section id="stale-panel" class="notice warning hidden"></section>
+
+    <section class="summary-grid" aria-label="Run summary">
+      <article class="summary-card">
+        <span>Top opportunities</span>
+        <strong id="summary-high">—</strong>
+        <small>Score 80+</small>
+      </article>
+      <article class="summary-card">
+        <span>Execution window</span>
+        <strong id="summary-execution">—</strong>
+        <small>Next 14 days</small>
+      </article>
+      <article class="summary-card">
+        <span>New or changed</span>
+        <strong id="summary-changes">—</strong>
+        <small>Latest collection</small>
+      </article>
+      <article class="summary-card">
+        <span>Source health</span>
+        <strong id="summary-health">—</strong>
+        <small id="summary-health-detail">—</small>
+      </article>
+    </section>
+
+    <section class="controls" aria-label="Filters">
+      <label class="search-control">
+        <span>Search</span>
+        <input id="search-input" type="search" placeholder="Title, institution, topic…" autocomplete="off">
+      </label>
+      <label>
+        <span>Horizon</span>
+        <select id="horizon-filter">
+          <option value="all">All horizons</option>
+          <option value="execution">Execution</option>
+          <option value="preparation">Preparation</option>
+          <option value="scouting">Scouting</option>
+          <option value="lookback">Recent / lookback</option>
+        </select>
+      </label>
+      <label>
+        <span>Jurisdiction</span>
+        <select id="jurisdiction-filter"><option value="all">All jurisdictions</option></select>
+      </label>
+      <label>
+        <span>Topic</span>
+        <select id="topic-filter"><option value="all">All topics</option></select>
+      </label>
+      <label>
+        <span>Minimum score</span>
+        <select id="score-filter">
+          <option value="0">Any score</option>
+          <option value="40">40+</option>
+          <option value="60" selected>60+</option>
+          <option value="80">80+</option>
+        </select>
+      </label>
+      <label>
+        <span>Sort</span>
+        <select id="sort-filter">
+          <option value="score">Opportunity score</option>
+          <option value="date">Event date</option>
+          <option value="newest">Newest change</option>
+        </select>
+      </label>
+    </section>
+
+    <nav class="tabs" aria-label="Views">
+      <button class="tab active" data-view="opportunities" type="button">Opportunities</button>
+      <button class="tab" data-view="changes" type="button">Changes</button>
+      <button class="tab" data-view="sources" type="button">Source health</button>
+    </nav>
+
+    <section id="opportunities-view" class="view active">
+      <div class="view-heading">
+        <div>
+          <h2>Ranked opportunities</h2>
+          <p id="results-count">Loading…</p>
+        </div>
+        <button id="clear-filters" class="button text" type="button">Clear filters</button>
+      </div>
+      <div id="opportunity-list" class="card-list" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state hidden">No opportunities match the current filters.</div>
+    </section>
+
+    <section id="changes-view" class="view">
+      <div class="view-heading">
+        <div><h2>Latest changes</h2><p>New, updated, and removed records from the most recent collection.</p></div>
+      </div>
+      <div id="changes-list" class="card-list"></div>
+    </section>
+
+    <section id="sources-view" class="view">
+      <div class="view-heading">
+        <div><h2>Source health</h2><p>Collection status for each official source.</p></div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Source</th><th>Status</th><th>Events</th><th>Checked</th><th>Details</th></tr></thead>
+          <tbody id="sources-table"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span id="generated-at">Data not loaded</span>
+    <span>Times shown in America/Vancouver.</span>
+  </footer>
+
+  <template id="opportunity-template">
+    <article class="opportunity-card">
+      <div class="score-block"><strong class="score"></strong><span>score</span></div>
+      <div class="opportunity-body">
+        <div class="card-meta"></div>
+        <h3><a class="title-link" target="_blank" rel="noopener noreferrer"></a></h3>
+        <p class="why-now"></p>
+        <div class="tag-row"></div>
+        <details>
+          <summary>Opportunity details</summary>
+          <div class="details-grid">
+            <div><h4>Potential angles</h4><ul class="angle-list"></ul></div>
+            <div><h4>Score rationale</h4><ul class="score-list"></ul></div>
+          </div>
+        </details>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
