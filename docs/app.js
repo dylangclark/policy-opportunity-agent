@@ -29,7 +29,7 @@ function formatDate(value, includeTime = true) {
 }
 
 function eventDate(item) {
-  return item.relevant_at || item.deadline_at || item.scheduled_at || item.published_at || item.generated_at || null;
+  return item.relevant_at || item.deadline_at || item.scheduled_at || item.published_at || null;
 }
 
 function dateKeyInVancouver(value) {
