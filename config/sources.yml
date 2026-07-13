@@ -14,6 +14,7 @@ settings:
   min_host_interval_seconds: 0.5
   drop_undated_events: true
   deduplicate_events: true
+  clean_event_titles: true
 sources:
 - id: boc-upcoming
   name: Bank of Canada upcoming events
