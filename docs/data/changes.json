@@ -1,192 +1,178 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:351dcb412091fb44eeff",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:305c4d297c910c118051",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 240: HEALTH Health Professions and Occupations, s. 345 (1) Effective July 13, 2026, Clark Ryan Konczak is appointed as a Professional Member to the board of the College of Complement..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:4b46ee32cadf69478d98",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 241: HEALTH Health Professions and Occupations, s. 345 (1) Effective July 13, 2026, Gene Patterson is appointed as a Public Member to the board of the College of Complementary Health..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:92412133f7e407eb7f38",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 231: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Jason C. LeBlond, K.C., is appointed as a Judge of the Provincial Court of British Columbia."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:cbe8e4a2046bd732d051",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 232: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Matthew J.H. Stacey is appointed as a Judge of the Provincial Court of British Columbia."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:000ed1de28260ca2cc2d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 267: SOCIAL DEVELOPMENT AND POVERTY REDUCTION Employment and Assistance for Persons with Disabilities, s. 26 Effective July 13, 2026, the Employment and Assistance for Persons with D..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "end_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
-      "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:6f4fe54b6bd62d4f232e",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:cebadb046729299bde2f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-25: STEPHANSON, S. (STEPHANSON) – Letter of Comment"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:87fa8fd1e761af526a13",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:ea6e1f9059ba267fe464",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-26: FERRI, S. (FERRI) – Letter of Comment"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:e5dfa3eb8715c1319147",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:684bc7432ca0aa258c5e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:0a7bc7b98d81b44a01c3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC filing of Annual Review for 2027 Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:688c5428898dc77bf099",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:f7921d55bd1d07d77594",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:fb6a4ce6756e72a0f146",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:194ab443fad941843bf4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:c4f08fd1c0d1aca22b90",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:6741f7ce6ad137677d3d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:18537747aca41fcf8cdb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener registration deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:0fa0a6d448a0f03ca800",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-proceedings:647d58c71db0b7ed7340",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-27: BAYER, R. (BAYER) – Letter of Comment"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-2: Creative Energy submitting confirmation of public notice in compliance with Order G-146-26"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:3fd9922072c74791c245",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "statcan-daily:d0e9b8f6bd18403e2c34",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 157: INDIGENOUS RELATIONS AND RECONCILIATION First Peoples' Heritage, Language and Culture, s. 3 (2) (a) Rena Soutar is appointed to the First Peoples' Heritage, Language and Culture..."
+      "source_id": "statcan-daily",
+      "title": "Electric Power Selling Price Index, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bc-legal-orders:535bb970419b81a53968",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-deadlines:0511207f8715c2c09c72",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 164: HEALTH Pharmaceutical Services; Drug Price Regulation, s. 7 (1) Effective April 15, 2026, MO 61/2017 is amended by adding the listed drug to Schedule 3 — High Cost Drugs. Copyri..."
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP public notice of the Application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:ae84459bd6f089838fdd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-36: MURRAY, A. (MURRAY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:048b34e9088361c8ee17",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "bcuc-proceedings:0298d19b85091980f4fc",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-37: LI, C. (LI) – Letter of Comment"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP public notice of the Application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:612e44c0a856ee75d2a4",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "statcan-key-indicators:f31e31f3135af1a99ec0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-38: MACKIE, C. (MACKIE) – Letter of Comment"
+      "source_id": "statcan-key-indicators",
+      "title": "Gross domestic product by industry"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:20dfba6af3aa6f501fc6",
+      "detected_at": "2026-07-14T19:21:20.840765Z",
+      "event_id": "statcan-key-indicators:2db086a5a455bc7d222b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-39: CALCRAFT, F. (CALCRAFT) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:dcaee1e1eac2a3e33ed6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — D-1: FRIOUD, S. (FRIOUD) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:7411e911bb653ef741d4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-3: FOLKES, L. (FOLKES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T07:22:53.083403Z",
-      "event_id": "bcuc-proceedings:5a87142cd7ea4cc45927",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-4: ANDERSON, S. (ANDERSON) – Letter of Comment"
+      "source_id": "statcan-key-indicators",
+      "title": "Principal field crop areas"
     }
   ],
-  "generated_at": "2026-07-14T07:22:53.083403+00:00",
-  "run_id": "20260714T072253Z-a7d4f70e",
+  "generated_at": "2026-07-14T19:21:20.840765+00:00",
+  "run_id": "20260714T192120Z-037859c7",
   "schema_version": "1.0"
 }
