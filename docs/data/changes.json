@@ -1,178 +1,316 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:305c4d297c910c118051",
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:cebadb046729299bde2f",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:7b9ffce5a62812491107",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:ea6e1f9059ba267fe464",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:be7b737448cd8bd98454",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC confirmation of compliance with public notice requirements, except social media reminder posts"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:684bc7432ca0aa258c5e",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:0f74144eb965412659d8",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:0a7bc7b98d81b44a01c3",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:28c27cd82d7f69eb4094",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC filing of Annual Review for 2027 Rates Application"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:688c5428898dc77bf099",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:60cb68911e25f06b285c",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC public notice of Application"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI filing of Annual Review for 2027 Delivery Rates Application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:f7921d55bd1d07d77594",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:a9bcaed4402d23ea6b1f",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC reply argument"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI public notice of Application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:fb6a4ce6756e72a0f146",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:5a4d7f136d1d62ae33a2",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI reply argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:194ab443fad941843bf4",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:37a09e885df708539e73",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:c4f08fd1c0d1aca22b90",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:dd451caaa6c2ba6eeb5e",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener final argument"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI responses to BCUC and Intervener IR No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:6741f7ce6ad137677d3d",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:a81c0cbba43a742a02b3",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Intervener final argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:18537747aca41fcf8cdb",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:8b58dcc9dc5a1a01e979",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener registration deadline"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Intervener IR No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:0fa0a6d448a0f03ca800",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:82fc025709caf20dc3d6",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Letters of comment deadline"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Intervener registration deadline"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-proceedings:647d58c71db0b7ed7340",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-deadlines:8d9050d1516723f1e1e6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:01d1365d2b5fe043cdfc",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-2: Creative Energy submitting confirmation of public notice in compliance with Order G-146-26"
+      "title": "BC Hydro TS 6 Amendment — A-5: Order G-152-26 regarding response to COSCO late request to intervene"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "statcan-daily:d0e9b8f6bd18403e2c34",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric Power Selling Price Index, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-deadlines:0511207f8715c2c09c72",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP public notice of the Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "bcuc-proceedings:0298d19b85091980f4fc",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:99958854af5600e9c59b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP public notice of the Application"
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:616b2157529f0bfba115",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-2: Order G-150-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:23fd93b971c99caeca31",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:b4d73111c007f25bb08c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:7cbc11953c01d9c2d4cb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with public notice requirements, except social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:2c39a3ae9d1d295dfd0d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:085d9c84bc8b115b43b7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI filing of Annual Review for 2027 Delivery Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:d45988da0a021cc25ff9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:9e05282ac2398754deb3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:6f88a0e60fdec95f5487",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:0de8cda20c5fc7368cc3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:c4090ab21f2b2598417e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:1f76ca4abb7f485b738b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — Intervener IR No. 1 to FEI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:c3bdd39ae3e0bd728556",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — Intervener registration deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:d3ef0295a5d051eeeb7f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "statcan-key-indicators:f31e31f3135af1a99ec0",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:aa039b88666d39bff281",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-40: KING, G.S. (KING) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-14T19:21:20.840765Z",
-      "event_id": "statcan-key-indicators:2db086a5a455bc7d222b",
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:151595fa7962b648cb92",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Principal field crop areas"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-41: ZWICKY, J. (ZWICKY) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:5ca25a5f2113a3838890",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-42: GOULET, E. (GOULET) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-15T07:23:03.343074Z",
+      "event_id": "bcuc-proceedings:c5174cbdd314c69b13ed",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-43: WOLFERSTAN, R. (WOLFERSTAN) – Letter of Comment"
     }
   ],
-  "generated_at": "2026-07-14T19:21:20.840765+00:00",
-  "run_id": "20260714T192120Z-037859c7",
+  "generated_at": "2026-07-15T07:23:03.343074+00:00",
+  "run_id": "20260715T072303Z-17343748",
   "schema_version": "1.0"
 }
