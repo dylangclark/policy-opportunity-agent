@@ -3,200 +3,188 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "source_url",
+        "end_at",
         "content_hash"
       ],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-key-indicators:245919aa9b2274968ebc",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Monthly Survey of Manufacturing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-key-indicators:f50e93ffde740c1c1cfe",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Wholesale trade"
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "boc-press-releases:89fe5778ed6ba187dd5c",
-      "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada maintains the policy rate at 2¼%"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "boc-speeches:688006c6a3b7b086aae3",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Monetary Policy Report Press Conference Opening Statement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "cer-news:7c0e773864519e0dac44",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canadian crude oil imports dipped slightly in 2025, with most still coming from the U.S."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "finance-canada-news:c090ab5010dbfc53a6f7",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne meets with Provincial and Territorial Finance Ministers in Charlottetown, advances internal trade through key harmonization milestone"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "gazette-part-ii:b27503c0b0fcfa44caa7",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, July 15, 2026, volume 159, number 14"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:499cf1c2a7271d4eef82",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:df146880819decbb7c72",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Health Reports, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:8dd47505947f9cfe7d88",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:5712364fdd7eae3dab51",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New motor vehicle sales, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:051612e82cad60c3ca8e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "bcuc-deadlines:933c069eac76a656c4f0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "bcuc-deadlines:2a53e91337b7058ab3a7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP confirmation of compliance with public notice requirements, except social media posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "bcuc-proceedings:2b8c18e980f427d66822",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:1255c2d98969e8eb496f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — Letters of comment deadline"
+      "title": "BC Hydro CPCN for the West End Substation Project — C4-2: Lord Roberts PAC submitting Information Request No. 3 to BC Hydro"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "bcuc-proceedings:7aad90a5ad832d2d6773",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:9a1fee682e0d4f1bab43",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP confirmation of compliance with public notice requirements, except social media posts"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-28: DUBE G. (DUBE) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:92081b7b23b16b297a5c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-29: VILAY, S. (VILAY) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:943bdce68b91f21c953b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — B-3: BC Hydro submitting response to Letters of Comments"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "cer-news:d6ad0057f35d51125f61",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bc-legal-orders:2c5e3948c1827f4308b7",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "We want your input on the Remediation Process Guide"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 145: HOUSING AND MUNICIPAL AFFAIRS Short-Term Rental Accommodations, s. 38 (a) Effective June 1, 2026, the Short-Term Rental Accommodations Regulation, B.C. Reg. 268/2023, is amended..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "iaac-major-projects:a4cb3462adb675ea86c3",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-deadlines:70c0d65b91df8bfaf451",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "New Nuclear at Wesleyville Project: — The Impact Assessment Agency of Canada posted the notice of commencement of an impact assessment and issued the Integrated Tailored Impact Statement Guidelines and required plans to the proponent for the preparation of"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — BC Hydro response to letters of comment, if any"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:85b4ec0bb55d29b0521a",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:d8c3d7d0d23fad6acb82",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index: New basket weights, <span class=\"refper\">2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — B-6-2: PUBLIC – BC Hydro submitting revised response to CEBC Information Request No. 1.1.4"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:953cb32f320067f8374b",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:bfde61f4a3fb3ea64ef1",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — B-9: BC Hydro submitting workshop presentation"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-15T19:22:44.417341Z",
-      "event_id": "statcan-daily:269ce42a7d21f1914be7",
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:01b4d18ae843b03839c4",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-44: CARPENTER, C. (CARPENTER) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:142ba356e8e6d6b59d06",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-45: BROWN, I. (BROWN) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:ddcb56a42742cdf4c99a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-46: NEWMAN, E. (NEWMAN) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:496c09177a80bd124380",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-47: KROPF, S. (KROPF) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:0589a8bfe389ca7df094",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-48: PLIKETT, P. (PLIKETT) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:f980b8fe89e4fcd22e40",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — BC Hydro response to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:81e13db5e6672b34a897",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C3-3: BCSEA-MS2S submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:491a2d1373e510e1aa13",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C4-2: CEC-COSCO-RCIA submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:6f259b8c0554b0a9c0e3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C5-2: FNCOC-NRRM submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:11cba188909956521649",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C6-2: FNEMC-HBFN submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T07:21:01.673682Z",
+      "event_id": "bcuc-proceedings:56bdcdc96fb4fe18dcf0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C7-2: LIEC-Saanich-Richmond submitting Information Request No. 1 to FEI"
     }
   ],
-  "generated_at": "2026-07-15T19:22:44.417341+00:00",
-  "run_id": "20260715T192244Z-ad0f9315",
+  "generated_at": "2026-07-16T07:21:01.673682+00:00",
+  "run_id": "20260716T072101Z-c2b29f81",
   "schema_version": "1.0"
 }
