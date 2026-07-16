@@ -1,190 +1,331 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "end_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:2b4910673f8295470052",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "bc-regulations",
+      "title": "293/2026 Amends B.C. Reg. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, parts effective October 1, 2026 and June 1, 2027 113/2026 July 9, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:1255c2d98969e8eb496f",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:e55fc7f8f6e922fac7b7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — C4-2: Lord Roberts PAC submitting Information Request No. 3 to BC Hydro"
+      "source_id": "bc-regulations",
+      "title": "294/2026 Amends B.C. Reg. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, effective February 18, 2026 112/2026 July 9, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:9a1fee682e0d4f1bab43",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:766b4f5e916b77e608a5",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-28: DUBE G. (DUBE) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "295/2026 Amends, effective October 1, 2026, B.C. Regs. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation 96/2013 — Provincial Sales Tax Regulation 114/2026 July 9, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:92081b7b23b16b297a5c",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:f67b20caa2e49b4eec02",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-29: VILAY, S. (VILAY) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "298/2026 Enacts Direction to the British Columbia Utilities Commission Respecting the Exemption of Independent Power Producers 123/2026 July 10, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:943bdce68b91f21c953b",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:70b9ce64603d7b78a0ef",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "299/2026 Amends B.C. Reg. 93/2025 — Renewable Energy Projects (Streamlined Permitting) Regulation 122/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:dfaa9151ace2a682e245",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "301/2026 Amends B.C. Reg. 145/2019 — Natural Gas Tax Credit Regulation, effective June 1, 2025 118/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:63c8e9dfeff73c130b46",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "302/2026 Amends B.C. Reg. 100/2002 — Home Owner Grant Regulation, effective January 1, 2027 117/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:4e038bbed0ec9a704d44",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "303/2026 Amends B.C. Reg. 93/2013 — Designated Accommodation Area Tax Regulation 120/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:7cb58b27867b86f551fc",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "304/2026 Enacts K’ih ts aaʔ dz e Designated Area No. 1 for the period ending June 30, 2030 116/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:2713729dba3f9613f70f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "311/2026 Amends B.C. Regs. 427/94 — Health Care Employers Regulation 84/2003 — Social Services Employers Regulation 121/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:8a24c6a68c04114d61ed",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "313/2026 Amends B.C. Regs. 422/90 — Offence Act Forms Regulation, parts effective August 14, 2026 and January 1, 2029 124/2005 — Federal Contraventions Forms Regulation, parts effective August 14, 2026 and January 1, 2029 119/2026 July 10, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:6d08c85e02eef825618a",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "326/2026 Amends B.C. Reg. 381/2008 — BC Timber Sales Regulation 124/2026 July 13, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:3ebd69d329c492a8d062",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "M273/2026 Amends B.C. Reg. 12/2015 — Wildlife Management Areas Regulation 115/2026 July 9, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:59536f2e178dc867bb91",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — B-3: BC Hydro submitting response to Letters of Comments"
+      "title": "BC Hydro CPCN for the West End Substation Project — A-10: BCUC Information Request No. 3 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:fbe6901524e2faddfa25",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-30: SILVERTHORNE, A. (SILVERTHORNE) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:6b9e39a6ba63c0ca17dc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-31: DINARDO, D. (DINARDO) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:520a3a34355f239769ec",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-32: SILVERTHORNE, M. (SILVERTHORNE, M.) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:e74a8b43a8d84dce13aa",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-33: VAJDA, A. (VAJDA) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:69a559d4808af8734f6d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-34: BRANDL, A. (BRANDL) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:51ca223f01e063c4a598",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-35: WILTZEN, Z. (WILTZEN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:b866ae88d41fcf72a881",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-36: SUKHIJA, G. (SUKHIJA) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "boc-upcoming:a82a0056d595e030c041",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Release: Business Outlook Survey and Canadian Survey of Consumer Expectations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "federal-forward-regulatory-initiatives:f345d282745afa8b7796",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Environment and Climate Change Canada: Forward Regulatory Plan 2024 to 2026 — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:38268e670cb2f418738d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:ac25b9e7a5b8a11aad76",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: The category \"English and French\" in the Census of Population language data, <span class=\"refper\">2022</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:b4c3ca9f4e05eb485e63",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bc-legal-orders:2c5e3948c1827f4308b7",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bc-regulations:c1482af36d17141023b6",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 145: HOUSING AND MUNICIPAL AFFAIRS Short-Term Rental Accommodations, s. 38 (a) Effective June 1, 2026, the Short-Term Rental Accommodations Regulation, B.C. Reg. 268/2023, is amended..."
+      "source_id": "bc-regulations",
+      "title": "214/2026 Amends B.C. Reg. 298/2007 — Coroners Regulation 93/2026 June 1, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-deadlines:70c0d65b91df8bfaf451",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-deadlines:e141f3dc3d1180c516c4",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — BC Hydro response to letters of comment, if any"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BCUC and Intervener IR No. 3 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:d8c3d7d0d23fad6acb82",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "bcuc-proceedings:9a52763ff23f20731f3f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — B-6-2: PUBLIC – BC Hydro submitting revised response to CEBC Information Request No. 1.1.4"
+      "title": "BC Hydro CPCN for the West End Substation Project — BCUC and Intervener IR No. 3 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:bfde61f4a3fb3ea64ef1",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "boc-upcoming:7c52a6e3532ba2c4c2c8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — B-9: BC Hydro submitting workshop presentation"
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement and Monetary Policy Report"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:01b4d18ae843b03839c4",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:58fe37bc9f6045dcd269",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-44: CARPENTER, C. (CARPENTER) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:142ba356e8e6d6b59d06",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:6c5216401f251fee1311",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-45: BROWN, I. (BROWN) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Economic impact of the wireless telecommunications carriers industry, <span class=\"refper\">2024</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:ddcb56a42742cdf4c99a",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:682c651065cbdb223737",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-46: NEWMAN, E. (NEWMAN) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Inter-corporate ownership: Data product, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:496c09177a80bd124380",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:8e92354345f8c9e78d91",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-47: KROPF, S. (KROPF) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Job vacancies, <span class=\"refper\">first quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:0589a8bfe389ca7df094",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:046f2d4ef9c008256d02",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-48: PLIKETT, P. (PLIKETT) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Study: Extreme weather impacts on consumers and insurers in Canada: An updated analysis, <span class=\"refper\">December 2019 to December 2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:f980b8fe89e4fcd22e40",
+      "detected_at": "2026-07-16T19:21:54.685482Z",
+      "event_id": "statcan-daily:11078efab8d5f85f776d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — BC Hydro response to letters of comment, if any"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:81e13db5e6672b34a897",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C3-3: BCSEA-MS2S submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:491a2d1373e510e1aa13",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C4-2: CEC-COSCO-RCIA submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:6f259b8c0554b0a9c0e3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C5-2: FNCOC-NRRM submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:11cba188909956521649",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C6-2: FNEMC-HBFN submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-16T07:21:01.673682Z",
-      "event_id": "bcuc-proceedings:56bdcdc96fb4fe18dcf0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C7-2: LIEC-Saanich-Richmond submitting Information Request No. 1 to FEI"
+      "source_id": "statcan-daily",
+      "title": "Study: The homeownership trajectories of recent immigrants, <span class=\"refper\">2017 to 2021</span>"
     }
   ],
-  "generated_at": "2026-07-16T07:21:01.673682+00:00",
-  "run_id": "20260716T072101Z-c2b29f81",
+  "generated_at": "2026-07-16T19:21:54.685482+00:00",
+  "run_id": "20260716T192154Z-93958cd2",
   "schema_version": "1.0"
 }
