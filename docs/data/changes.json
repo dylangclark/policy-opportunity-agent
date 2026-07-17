@@ -3,1268 +3,209 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "title",
         "content_hash"
       ],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:ac25b9e7a5b8a11aad76",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "statcan-daily",
+      "title": "Study: The category \"English and French\" in the Census of Population language data"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-key-indicators:e85519eb66b56899e9aa",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:c4c8158815cd133067c6",
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-proceedings:01787f24ddd1cb0782b5",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — BCUC Information Request (IR) No. 1 to ICBC"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C1-4: BCSEA submitting Information Request No. 3 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:6306c1b3aea9c77422e0",
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-proceedings:0caf921fbda5732b935f",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC confirmation of compliance with public notice requirements"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C2-5: COSCO-CEC-RCIA submitting Information Request No. 3 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:78c3e224793a3bdb33a4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC public notice of Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:019fc405bf2e1b7d776f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:2fa9f52800515e84ed1b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:128732aecec320e167fc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:a4bf875b5392a2f72a6c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C1-2: MoveUP submitting Information Request No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:80ae2be5c741e8f45a65",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 and 2027 Incremental DSM Expenditures — G-153-26: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bc-legal-orders:6af71a5f818ac48a8ae8",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 146: Police, s. 38.05 Effective April 19, 2026, OIC 560/2024 is amended by repealing and replacing paragraph (c). [re: remuneration for chief civilian director, Jessica Charlotte Ber..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bc-legal-orders:71cd8517a8462501c913",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 147: Public Service, s. 15 OIC 497/2023 is amended by repealing and replacing paragraph (c). [re: remuneration for Cary Chiu as Advocate for Service Quality, SDPR]"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-deadlines:2840cbad8de3bb19d73a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Transmission Service Time-Varying Rates — BC Hydro reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:80650e28531c68964d68",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-100: BOURASSA, B. (BOURASSA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:907e3bced417755641ec",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-101: CORBETT, M. (CORBETT) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:987863a340fd6145d7b2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-102: AINSLIE, G. (AINSLIE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:88127b6fa9f0080d07d3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-103: SCHOENRANK, L. (SCHOENRANK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:3d4c389b5a166ebb3637",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-104: ROBINSON, B. (ROBINSON, B.) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:f755566b5d5e619a7367",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-105: FIRE, A. (FIRE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9e873d6ffe117731373d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-106: SANDERSON, B. (SANDERSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:ee33e30545d17ce351c9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-107: SCHREYER, D. (SCHREYER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:1620a2596ded1daf1195",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-108: NIJJAR, H. (NIJJAR) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4a0d24a526b33c48f138",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-109: CAWLEY, L. (CAWLEY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:942c0cab2fc29ad05fb3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-110: HART, E. (HART) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b6111fce772c8dd047e9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-111: FINIGAN, K. (FINIGAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9d1caa40331b5df971bd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-112: NICHOLSON, W. (NICHOLSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:43ef26fd7959f156b952",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-113: KETTLE, H. (KETTLE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:aeaac271937099b4a816",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-114: GULSTENE, J. (GULSTENE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:f04f2a7d62e8d9c13cbd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-115: DRYDEN, F. (DRYDEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:be3cf8e91c1f0a4dc128",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-116: OCHMANEK, E. (OCHMANEK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e343ad29802f71098061",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-117: DALTON, R. (DALTON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:56cb84557a02ad1f02e0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-118: STEVENS, J. (STEVENS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:3042f52367f637a3ae1b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-119: FINDLAY, W. (FINDLAY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:46d39ca46983da219b21",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-120: SVENSON, B. (SVENSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4c744a40f703e64761a7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-121: AL-JANABY, J. (AL-JANABY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9e73f0913e1941765344",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-122: EVANS, S. (EVANS, S.) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:94c91f1efb68ae380124",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-123: RICHARDS, C. (RICHARDS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b618f85903e38875c073",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-124: HUSTER, K. (HUSTER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:526cc1294d973ccf127d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-125: SCHULZ, A. (SCHULZ) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:bfea37e0a3ebc9933083",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-126: LEVY, S. (LEVY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:5788f38d52a3e7773e98",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-127: YANG, H. (YANG) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:eb3b70d2256b1777698e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-128: FARRELL, C. (FARRELL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:245de0268d9005422867",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-129: MERGENS, J. (MERGENS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e0cd9454325931a942ed",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-130: SWAYNE, S. (SWAYNE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9c3eb278e01115981f62",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-131: YUEN, R. (YUEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9d58be2aa4b916595b26",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-132: NOMUS, A. (NOMUS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e6708adebe009de468c4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-133: WILDING, M. (WILDING) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9a8b4ad0c1dafdc4d517",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-134: CRAWFORD, P. (CRAWFORD) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9c0a60d7fa4bed1f4a6b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-135: NELSON, B. (NELSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:fa118cfc844ca0c8698b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-136: MORRISSEAU, S. (MORRISSEAU) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e1760217322c3def6e3f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-137: GARRISON, R. (GARRISON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:6dffd49918c4178419ea",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-138: MOSKWA, P. (MOSKWA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9bc3aff3e64dc36931c2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-139: WARWICK, S. (WARWICK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:8820ad916ef084d00577",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-140: BROSSARD, S. (BROSSARD) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:fba6cc335b89974dc8b9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-141: HAYWARD, D. (HAYWARD) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:92af8052a5dd409e1588",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-142: PETERS, K. (PETERS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:992a09b9687ddf7f68b8",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-143: CHU, M. (CHU) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:214702506fc076a69c85",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-144: OYAMA, P. (OYAMA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:46070deecf1dca2bda59",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-145: EDMONDS, C. (EDMONDS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:2e42d9f5216e89fec990",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-146: DESCHAMPS, L. (DESCHAMPS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:f8f85bc28766e89a3aa2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-147: PIVNICK, E. (PIVNICK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:c9213d9edde77b47b867",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-148: BARTELS, K. (BARTELS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:150a083963b798f9ba90",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-149: HANSEN, I. (HANSEN) - Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:665be452f991a30bf106",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-150: RAUCH, R. (RAUCH) - Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:c622deb19594e927341f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-151: HAWKINS, M. (HAWKINS) - Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b636916c480ba5bc0e3a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-152: NOWAK, D. (NOWAK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:3f4b2373783359825004",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-153: BRADE, E. (BRADE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:07e082377de32a24d3c4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-154: WIBOWO, M. (WIBOWO) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:3c7826049bd0d5d7f427",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-155: MACMILLAN, E. (MACMILLAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:8b5ec4aa956ff3566361",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-156: LOWAN, A. (LOWAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:8d238098c09c336a006e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-157: POLE, N. (POLE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:78e0ff5ea22136daa0be",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-158: WILSON, J. (WILSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:fcacd11b6afb5dde8949",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-159: MILES, A. (MILES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:5ef2c263d3570ddd48e3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-160: GAMBIOLI, N. (GAMBIOLI) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:3a52ec832fe2ba01d9f5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-161: HENEGAR, H. (HENEGAR) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4b62536f4cd5f4329f8e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-162: LOWREY, U. (LOWREY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:51bf5f40903c2b3a1f45",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-163: PIRON, M. (PIRON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:059d0fdd69bb43122e51",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-164: GRAVES, C. (GRAVES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:8282c1fb505f0488da85",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-165: MUNROE, D. (MUNROE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:001409e8dbccf443f945",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-166: PAULS, D. (PAULS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:ff429b5b4586f5771849",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-167: ROUSSEAU, L. (ROUSSEAU) - Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:68cd4363c8fe39d08037",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-168: BARRATT, D. (BARRATT) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:04702f93b8ea2b75e6bb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-33-1: Ashwell submitting additional Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:bf6cfc63dfb9c297f036",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-49: GOLDSBERRY, N. (GOLDSBERRY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:7bb5cba1c6804817b2d6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-50: MACNAB, H. (MACNAB) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4eda64f5b1b6901cf288",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-51: DOUGLAS, P. (DOUGLAS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b76684f0aad2dc627f02",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-52: BRAY, J. (BRAY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:0abc5e08314f54ad59f7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-53: SCHMOLKA, P. (SCHMOLKA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:aefe0c16172a86318daa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-54: MAAN, J.K. (MAAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:71610b15df3895e73f31",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-55: REES, S. (REES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:bf69dd7b5930e819d372",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-56: PO, J. (PO) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:8e6fdcb24fd2b0cbbc2f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-57: KUEHN, D. (KUEHN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:940b3bc6008d12686c46",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-58: ROONEY, T. (ROONEY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:f94e351dad48202c907d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-59: MENDENHALL, M. (MENDENHALL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:49ced32f02292a4ca489",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-60: JACKSON, L. (JACKSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:c125c1a278beaa4a38c3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-61: PETERSON, M. (PETERSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:59a2625a7d5dbcb035af",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-62: KASSNER, A. (KAASNER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:2c18f2eb26ee1932f6b7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-63: CRAIG, J. (CRAIG) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:291ac62346ee6e54e80c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-64: PAUNONEN, D. (PAUNONEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4cf0b03f93d927e80300",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-65: BECKMAN, P. (BECKMAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:021852557f64f9985aac",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-66: CULLIS, T. (CULLIS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:69ca83e8cf87c19f81ed",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-67: ROBINSON, J. (ROBINSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:529bf67acc28894fb588",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-68: EYLES, C. (EYLES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:96e83e62cc20a2d12682",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-69: SWITZER, R. (SWITZER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:6709a50dfd5d8e3ef5f2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-70: CAMPBELL, K. (CAMPBELL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:4d7282443f11235bc0b0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-71: SADLER, G. (SADLER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:405be2574c96ef23b02d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-72: RAWLING, J. (RAWLING) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e8333b3f7400772d2a23",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-73: HOGAN, L. (HOGAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:0f7e4546d945862166bd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-74: THOMPSON, M. (THOMPSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:799dbf944f96f3152297",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-75: PREVOST, E. (PREVOST) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b6dd1225b823f5356f0e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-76: CHISHAM, V. (CHISHAM) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:67c214df396fc1e6316b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-77: EDDY, N.W. (EDDY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:1272cbcdd76fe6138677",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-78: MILLSIP, K. (MILLSIP) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:729ef6983d45e0509400",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-79: MCBEE, R. (MCBEE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:340b80abb7a3b96f91f4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-80: L., RACHEL (L., RACHEL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:419987bd448589ea962b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-81: MURPHY, A. (MURPHY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:c0526877211fbc3f56f0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-82: GRAVELLE, S. (GRAVELLE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:eae91a3fbeb16b4c173b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-83: SANTAROSSA, M. (SANTAROSSA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:307e903aeee734bd123c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-84: BERNHARDT, B. (BERNHARDT) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:fcc7c99a7732e73a7905",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-85: WALL, M. (WALL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:d8a83d5261ef7e377c1f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-86: SARAMA, I. (SARAMA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:b5d93e847d258f53f62b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-87: CALLO, E. (CALLO) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:15076916efa497a45384",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-88: SCHULTZ, A. (SCHULTZ) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:6b61d9ccedd44cbe979a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-89: MACDONNELL, J. (MACDONNELL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:f43d41a770ecef7a8654",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-90: MONGA, B. (MONGA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:bf78fda9fab898457818",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-91: BRYKSA, J. (BRYKSA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:ce8f507dcf679e7624f2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-92: LIGHTWATER, J. (LIGHTWATER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:15c1d20f310a8779eb13",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-93: LEE, N. (LEE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:2be6f617bc4969c9d7e8",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-94: ARGUE, J. (ARGUE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:ba6937fcf177b9daedc0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-95: EDWARDS, E. (EDWARDS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:1edb6f859f5fab0d3acd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-96: CLARE, A. (CLARE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:e1835794fd8b064d09a9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-97: BROOKE, P. (BROOKE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:efa049a76014ad1c1f5c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-98: REIDY, C. (REIDY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:abd0ff8c467c004daacd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-99: VIRK, S. (VIRK) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:ca191e46277c0b67d74d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — June-16: Transcript Volume 1 Revised"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:bd6084aa07aa3775b80b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Transmission Service Time-Varying Rates — BC Hydro reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:9854241c87f039cc0bb0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — B-1-1: CONFIDENTIAL – FAES submitting live financial model from Appendix B"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:07b927dbb14985590659",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — B-1: FORTISBC ALTERNATIVE ENERGY SERVICES INC. (FAES) – Fiscal 2026/2027 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "bcuc-proceedings:97ce5e0e4b50794acc16",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-6: REUBEN, F. (REUBEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "federal-forward-regulatory-initiatives:f345d282745afa8b7796",
-      "schema_version": "1.0",
-      "source_id": "federal-forward-regulatory-initiatives",
-      "title": "Environment and Climate Change Canada: Forward Regulatory Plan 2024 to 2026 — Canada Gazette Part II/final publication"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-17T07:15:07.395694Z",
-      "event_id": "gazette-part-i:01a6955f7f27635f9d6a",
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "gazette-part-i:0f95982d543f1fed425b",
       "schema_version": "1.0",
       "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, May 30, 2026, volume 160, number 22"
+      "title": "Canada Gazette - Part I, July 18, 2026, volume 160, number 29"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:7954e0c682e632bf81b1",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:5773c65203a6ec609f39",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian potato production (seeded area), <span class=\"refper\">2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:21f443c29af5f50a5b56",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Construction Union Wage Rate Index, <span class=\"refper\">January to June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:1ac67e1a00c72d8eee7f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Non-Bank Mortgage Lenders, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-deadlines:9a44b950247a5d0e141b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2025 Integrated Resource Plan — Intervener Final Argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-deadlines:a1ff3dba392fc87a99f6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2026 Interim Electricity Purchase Agreement for the Brandywine Creek Project — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-deadlines:6a9758d9e1fdefcee497",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Fiscal 2026/27 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 — Delta School District No. 37 IR No. 1 to FAES (if any)"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-proceedings:685604b956d0e03ffa2a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — Intervener Final Argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-proceedings:42a3e2cd462ccbb2456a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "bcuc-proceedings:71e0d8e6e2fa72526b24",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — Delta School District No. 37 IR No. 1 to FAES (if any)"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:ed9bcb6a2edc828752c0",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's population estimates, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:8993b1bef8e04548e06f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employer pension plans (trusteed pension funds), <span class=\"refper\">fourth quarter 2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:deb212017c9f54f81570",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:6012062512cdeeb8e3fb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:596258a41be4a4d77a41",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Telecommunications services producer price indexes, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:075f7f03e4a7b2d221df",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Waste Management Survey: Waste Disposal, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-17T19:17:28.613333Z",
+      "event_id": "statcan-daily:64dc6fce6df6748fa4f9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Workplace artificial intelligence use: A profile of sociodemographic and job characteristics, <span class=\"refper\">September 2024 to July 2025</span>"
     }
   ],
-  "generated_at": "2026-07-17T07:15:07.395694+00:00",
-  "run_id": "20260717T071507Z-0cf66206",
+  "generated_at": "2026-07-17T19:17:28.613333+00:00",
+  "run_id": "20260717T191728Z-21463e02",
   "schema_version": "1.0"
 }
