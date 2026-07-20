@@ -3,129 +3,312 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "description",
+        "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:da1ebb617ef488c37050",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "iaac-major-projects:024ef7ea6c4baa736b73",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 323: HOUSING AND MUNICIPAL AFFAIRS Ministry of Lands, Parks and Housing, s. 10 Effective July 19, 2026, the following appointments to the British Columbia Housing Management Commissi..."
+      "source_id": "iaac-major-projects",
+      "title": "Trigon Pacific LPG Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Trigon Pacific LPG Project and provide feedback by July 24, 2026."
     },
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-key-indicators:38ff00c2b0f21b37437c",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-key-indicators:9fc3545d27e5e826f9ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bcuc-proceedings:b4fb8e551f549a2c3adc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Customer Choice Annual General Meeting — B-2: FEI submission regarding AGM process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bcuc-proceedings:53a51cf54d0ef895604e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-9: SY, S. (SY) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "cer-news:d157b81871eb9357873a",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Inspection Officer Order issued to Chilliwack landowner"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "govtogether-bc:3bf5484762952e382a39",
       "schema_version": "1.0",
       "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "title": "Natural Resource Tribunals"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:a90974f3f7017ecf2b70",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "iaac-major-projects:6804e791ab5eae93bc74",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 165: HEALTH Mental Health, s. 3 (1) 1. MO 335/2024 is rescinded; and 2. MO 393/2016, Schedule A, is amended by adding a designation of \"Spiritwood Homes, Maple Ridge\"."
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: — The participant funding application period closed on July 17, 2026."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:63e1293e6d870ffa040e",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:4cacd823deabb3f61d08",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 149: FINANCE Nisg̱a’a Final Agreement, s. 6.1 The Nisg̱a’a Nation Taxation Agreement Amendment Agreement (No. 4) is approved."
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">June 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:af2c1b7ca99ff0f2ecdc",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:e32939bd005897241583",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 150: FORESTS Wildfire, s. 69 (2) The Wildfire Regulation, B.C. Reg. 38/2005, is amended as set out in the Schedule."
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">May 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:83b7e782b917273886ef",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:8d07bbf9d9a7e8e76c81",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 151: FINANCE Public Sector Employers, s. 15 Section 2 of the Health Care Employers Regulation, B.C. Reg. 427/94, is amended by adding \"BC Shared Health Services\"."
+      "source_id": "statcan-daily",
+      "title": "Monthly credit aggregates, <span class=\"refper\">May 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bc-legal-orders:3f65b2bf096dddc4eb5b",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:5199c628f7932ebb2789",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 152: TRANSPORTATION AND TRANSIT Motor Vehicle, s. 209 (1) and (2) The Motor Vehicle Act Regulations, B.C. Reg. 26/58, are amended as set out in the Schedule."
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:d213c89569cad88c53ff",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:47cac29d75242450cf7d",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bc-regulations:dc9c3f98baef0dc84050",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "222/2026 Amends B.C. Reg. 109/2016 — Information Management Regulation 96/2026 June 5, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bc-regulations:de35170c270fce5c2b41",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "225/2026 Amends B.C. Reg. 53/2010 — Education and Health Sector Organizations Regulation 95/2026 June 5, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bc-regulations:a92246e3d83c0dc9360f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "227/2026 Amends B.C. Reg. 105/2022 — Accessible British Columbia Regulation, effective June 30, 2026 94/2026 June 5, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bcuc-deadlines:5330e2badc62dc80fc00",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener IR No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "bcuc-proceedings:1c6b4322e9c87a40af90",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — A-12: Panel letter regarding posting of letters of comment"
+      "title": "BC Hydro TS 6 Amendment — Intervener IR No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:1070959b075c56494b8a",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "finance-canada-news:50bea7021a752a793c6b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — B-10: BC Hydro submitting corrections to the Workshop Transcripts"
+      "source_id": "finance-canada-news",
+      "title": "Canadians to Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:e894befb5b06e7572c7a",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "finance-canada-news:9f1479adc6ce4e63fbd9",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-3: BC Hydro submitting confirmation of social media reminder posts in compliance with G-121-26"
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne at the Conference of Montreal for a fireside chat"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:2b10c085a73021efc6d1",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:9794981e8b5c5864314f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C4-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Accounting Services Price Index, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:2082bb032cfa95da761c",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:0d2b2f1d266ef08e4010",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-1: ASSOCIATION OF MAJOR POWER CUSTOMERS (AMPC) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Balance sheet of the agricultural sector, <span class=\"refper\">December 31, 2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-20T07:19:02.322125Z",
-      "event_id": "bcuc-proceedings:2c9307777715fc6312a4",
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:063ddfb7c11b6bb77713",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C6-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:95318ec22c20c2c58fde",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:50a46d19f6eb40315985",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly credit aggregates, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:d70db7a263d6c6c69e41",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:dbcbcf47131a2b22ae3e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:d95217be426ffdd4a74e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New analysis on Indigenous language use in Canada, <span class=\"refper\">2021 and 2022</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:b410d974b62bbd7dc5ac",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Police-reported mass casualty events in Canada, <span class=\"refper\">2010 to 2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:8bcc7e2be6c592dfd550",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:edb72e876cc3dad6df23",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:63f77d663854ab8f2129",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Health Care Clinics in Canada: Data availability, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "event_id": "statcan-daily:18be85fd78edb8ef7946",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">April 2026</span>"
     }
   ],
-  "generated_at": "2026-07-20T07:19:02.322125+00:00",
-  "run_id": "20260720T071902Z-8e67a306",
+  "generated_at": "2026-07-20T19:24:44.800377+00:00",
+  "run_id": "20260720T192444Z-fdad51e2",
   "schema_version": "1.0"
 }
