@@ -1,25 +1,131 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-19T19:21:27.161174Z",
-      "event_id": "finance-canada-news:eb89c65e2ab16cd28704",
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:da1ebb617ef488c37050",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Shawinigan to unveil the coming-into-effect of the one-time top-up payment under the new Canada Groceries and Essentials Benefit"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 323: HOUSING AND MUNICIPAL AFFAIRS Ministry of Lands, Parks and Housing, s. 10 Effective July 19, 2026, the following appointments to the British Columbia Housing Management Commissi..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-19T19:21:27.161174Z",
-      "event_id": "finance-canada-news:3bd3656ab3d3b7e8e9e7",
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:a90974f3f7017ecf2b70",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Turnbull to make an announcement at the Sustainable Finance Summit in Montréal"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 165: HEALTH Mental Health, s. 3 (1) 1. MO 335/2024 is rescinded; and 2. MO 393/2016, Schedule A, is amended by adding a designation of \"Spiritwood Homes, Maple Ridge\"."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:63e1293e6d870ffa040e",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 149: FINANCE Nisg̱a’a Final Agreement, s. 6.1 The Nisg̱a’a Nation Taxation Agreement Amendment Agreement (No. 4) is approved."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:af2c1b7ca99ff0f2ecdc",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 150: FORESTS Wildfire, s. 69 (2) The Wildfire Regulation, B.C. Reg. 38/2005, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:83b7e782b917273886ef",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 151: FINANCE Public Sector Employers, s. 15 Section 2 of the Health Care Employers Regulation, B.C. Reg. 427/94, is amended by adding \"BC Shared Health Services\"."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bc-legal-orders:3f65b2bf096dddc4eb5b",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 152: TRANSPORTATION AND TRANSIT Motor Vehicle, s. 209 (1) and (2) The Motor Vehicle Act Regulations, B.C. Reg. 26/58, are amended as set out in the Schedule."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:47cac29d75242450cf7d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — A-12: Panel letter regarding posting of letters of comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:1070959b075c56494b8a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — B-10: BC Hydro submitting corrections to the Workshop Transcripts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:e894befb5b06e7572c7a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — B-3: BC Hydro submitting confirmation of social media reminder posts in compliance with G-121-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:2b10c085a73021efc6d1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C4-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:2082bb032cfa95da761c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C5-1: ASSOCIATION OF MAJOR POWER CUSTOMERS (AMPC) – Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-20T07:19:02.322125Z",
+      "event_id": "bcuc-proceedings:2c9307777715fc6312a4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C6-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
     }
   ],
-  "generated_at": "2026-07-19T19:21:27.161174+00:00",
-  "run_id": "20260719T192127Z-3419ecef",
+  "generated_at": "2026-07-20T07:19:02.322125+00:00",
+  "run_id": "20260720T071902Z-8e67a306",
   "schema_version": "1.0"
 }
