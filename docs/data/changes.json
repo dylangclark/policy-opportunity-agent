@@ -3,312 +3,231 @@
     {
       "change_type": "changed",
       "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
         "description",
-        "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "iaac-major-projects:024ef7ea6c4baa736b73",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Trigon Pacific LPG Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Trigon Pacific LPG Project and provide feedback by July 24, 2026."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-key-indicators:38ff00c2b0f21b37437c",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-key-indicators:9fc3545d27e5e826f9ab",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bcuc-proceedings:b4fb8e551f549a2c3adc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Customer Choice Annual General Meeting — B-2: FEI submission regarding AGM process"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bcuc-proceedings:53a51cf54d0ef895604e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-9: SY, S. (SY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "cer-news:d157b81871eb9357873a",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Inspection Officer Order issued to Chilliwack landowner"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
       "event_id": "govtogether-bc:3bf5484762952e382a39",
       "schema_version": "1.0",
       "source_id": "govtogether-bc",
       "title": "Natural Resource Tribunals"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "iaac-major-projects:6804e791ab5eae93bc74",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "lifecycle",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "govtogether-bc:9c51246951714a29feb9",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "15-Mile Processing Hub Project: — The participant funding application period closed on July 17, 2026."
+      "source_id": "govtogether-bc",
+      "title": "Thompson River Watersheds Forest Landscape Plan"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:4cacd823deabb3f61d08",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:e32939bd005897241583",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Investment in building construction, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:8d07bbf9d9a7e8e76c81",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:5199c628f7932ebb2789",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:d213c89569cad88c53ff",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bc-regulations:dc9c3f98baef0dc84050",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "222/2026 Amends B.C. Reg. 109/2016 — Information Management Regulation 96/2026 June 5, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bc-regulations:de35170c270fce5c2b41",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "225/2026 Amends B.C. Reg. 53/2010 — Education and Health Sector Organizations Regulation 95/2026 June 5, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bc-regulations:a92246e3d83c0dc9360f",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "227/2026 Amends B.C. Reg. 105/2022 — Accessible British Columbia Regulation, effective June 30, 2026 94/2026 June 5, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bcuc-deadlines:5330e2badc62dc80fc00",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener IR No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "bcuc-proceedings:1c6b4322e9c87a40af90",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:14b818132b48aa1803f9",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Intervener IR No. 1 to BC Hydro"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-44: MOULTON, M. (MOULTON) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "finance-canada-news:50bea7021a752a793c6b",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:310940990817f85c2d3c",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Canadians to Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-45: GARRETT, S. (GARRETT) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "finance-canada-news:9f1479adc6ce4e63fbd9",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:f4a52432dee54d968fcd",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne at the Conference of Montreal for a fireside chat"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-46: PHILIP, J. (PHILIP) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:9794981e8b5c5864314f",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:251fdd74d4dd90744c0a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Accounting Services Price Index, <span class=\"refper\">2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-47: HIGGINS, J. (HIGGINS) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:0d2b2f1d266ef08e4010",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:8e3489f4772791fddea4",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Balance sheet of the agricultural sector, <span class=\"refper\">December 31, 2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-48: SCHOELER, D. (SCHOELER) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:063ddfb7c11b6bb77713",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:df4ec36cacda5ab7a64e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-49: SHAHIR MALEK MOHAMMADI, A. (SHAHIR MALEK MOHAMMADI) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:95318ec22c20c2c58fde",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:014188c82b8e46c0c4be",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-50: DOBUZINSKIS, L. (DOBUZINSKIS) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:50a46d19f6eb40315985",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:bba36cca239470fdb5e5",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-51: FOUCART, A. (FOUCART) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:d70db7a263d6c6c69e41",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:0967acda90e2c9c2203c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-52: KIRITCHKOV, L. (KIRITCHKOV) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:dbcbcf47131a2b22ae3e",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:4715f62afa5a353aee75",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-53: STOCK, J. (STOCK) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:d95217be426ffdd4a74e",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:b107a51d4cd3dd522b18",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New analysis on Indigenous language use in Canada, <span class=\"refper\">2021 and 2022</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-54: HARRIS, P. (HARRIS) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:b410d974b62bbd7dc5ac",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:5eef9a4f0fd3f68ee1aa",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Police-reported mass casualty events in Canada, <span class=\"refper\">2010 to 2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-55: ISHIKAWA, N. (ISHIKAWA) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:8bcc7e2be6c592dfd550",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:a3e7de433164663536aa",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Services Price Index, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-56: ROGERS, D. (ROGERS) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:edb72e876cc3dad6df23",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:d8d46835ebd4a3c0c228",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-57: OAKES, J. (OAKES) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:63f77d663854ab8f2129",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:6f0d4977ba604065728a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Health Care Clinics in Canada: Data availability, <span class=\"refper\">2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-58: PACKER, S. (PACKER) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-20T19:24:44.800377Z",
-      "event_id": "statcan-daily:18be85fd78edb8ef7946",
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:3bac5c88be07cfac2f14",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale Services Price Index, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-59: THRESHER, M. (THRESHER) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:72414d7890bca34bcc9a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-60: BOURGEOIS, S. (BOURGEOIS) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:7485226b39f9c092a2b6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-61: DERDEYN, S. (DERDEYN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "bcuc-proceedings:cc071200f1b73b21ebe5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Customer Choice Annual General Meeting — D-1: EASY ENERGY (EASY ENERGY) – Submission regarding AGM Process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-21T07:16:04.927312Z",
+      "event_id": "iaac-major-projects:fe24d100dfd006b537ac",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Crawford Nickel Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
     }
   ],
-  "generated_at": "2026-07-20T19:24:44.800377+00:00",
-  "run_id": "20260720T192444Z-fdad51e2",
+  "generated_at": "2026-07-21T07:16:04.927312+00:00",
+  "run_id": "20260721T071604Z-89b0c89c",
   "schema_version": "1.0"
 }
