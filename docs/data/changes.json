@@ -1,68 +1,160 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "bc-legal-orders:b7072c2bc945aa289419",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:a5ccc06e3fdf7c887b4d",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 276: HOUSING AND MUNICIPAL AFFAIRS Islands Trust, s. 40 (3) The following individuals are reappointed as members to the Islands Trust Conservancy Board: (a) effective July 21, 2026,..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "end_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
-      "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C4-3: Lord Roberts PAC submitting Request for Procedural Direction"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "bcuc-proceedings:70ed988ce41e42a469c2",
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:2b992b4a614d9ace92f1",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-65: MCLAUGHLIN, T. (MCLAUGHLIN) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-69: WANG, Z. (WANG) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "bcuc-proceedings:c1f019270179390d1a1b",
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:5c457dadfd23f8db2bad",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-66: ELKEI, A. (ELKEI) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-70: MARIC, A. (MARIC) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "bcuc-proceedings:f03b08bf67b73196ba1b",
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:a63d4187b7c37b02954f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-67: DES ROSIERS, F. (DES ROSIERS) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-71: CHERUKUMALLI, H. (CHERUKUMALLI) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-22T07:15:25.577364Z",
-      "event_id": "bcuc-proceedings:20f17a60710653c8aa67",
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:b51331a78be21c0bb88e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-68: ARSENAULT, D. (ARSENAULT) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-72: GILMOUR, L. (GILMOUR) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "iaac-major-projects:07337f1ae581b17b4756",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: —The Impact Assessment Agency of Canada issued the summary of issues to the proponent on July 17, 2026, for the preparation of its response to the summary of issues and detailed project description, if required."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:5e3502b7671c8f1e39d3",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:e61edf8ef95429171a3e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Passenger bus and urban transit, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:24df28fa9f9bf6a2204b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Police-reported crime statistics in Canada, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "bcuc-proceedings:4b533b866efa7f290e3a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Senakw 2026–2027 Rates and Rate Design — G-149-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "cer-news:7c0e773864519e0dac44",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canadian crude oil imports dipped slightly in 2025, with most still coming from the U.S."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "iaac-major-projects:6804e791ab5eae93bc74",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: — The participant funding application period closed on July 17, 2026."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:12e3986947cdd579a183",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:d09c94e6e9ab70b79b0c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:8cbbf480bfd351d9a337",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Mushroom Growers' Survey, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:b89f3f9aad8472e7c234",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Flash estimates of selected services industries, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-22T19:16:21.312227Z",
+      "event_id": "statcan-daily:18cd069e3f32291b9c83",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">April 2026</span>"
     }
   ],
-  "generated_at": "2026-07-22T07:15:25.577364+00:00",
-  "run_id": "20260722T071525Z-9cf07bb1",
+  "generated_at": "2026-07-22T19:16:21.312227+00:00",
+  "run_id": "20260722T191621Z-89834ee5",
   "schema_version": "1.0"
 }
