@@ -3,242 +3,335 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-key-indicators:5e389a4c8a2e2d199c0c",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "statcan-key-indicators",
+      "title": "Retail trade"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-key-indicators:7504ac684fc75605d445",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:dfb21216dab0f987669c",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "bcuc-proceedings:6b2224cd49f9e033e905",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro Final Argument"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-73-1: Muir submitting additional Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:6608b04eb49ef90fe2de",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "bcuc-proceedings:079417d6c7930c3ab935",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro Reply Argument"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-73: MUIR, J. (MUIR) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:f3695e8554cf6129a6c8",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "bcuc-proceedings:ff17f8ac21aa79dfc387",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro response to Lord Roberts Annex PAC Motion"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-74: KRAUSE, A. (KRAUSE) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:bfbfc9fc6fd6017d79af",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "bcuc-proceedings:691624dc0aac0d469049",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro responses to BCUC and Intervener Information Request No. 3"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — D-4: CANADIAN ASSOCIATION OF PETROLEUM PRODUCERS (CAPP) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:b041281c7e6926dbf95d",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "finance-canada-news:9723884b6c0e11f41555",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — Intervener Final Argument"
+      "source_id": "finance-canada-news",
+      "title": "Government launches consultation on draft legislation for various tax measures"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:03d0975d25172c3424cf",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:d5715757a38116b97e41",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — Letters of comment deadline"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: HUMA — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:5458d37abe0263d0da95",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:9e0830e127d20a636ce5",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — A-11: Order G-158-26 amending the regulatory timetable"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:a52ad0ec200e5d332a9d",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:239585a5c641740f1874",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — BC Hydro response to Lord Roberts Annex PAC Motion"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Main Estimates 2026-27: Vote 1 under Office of the Commissioner of Lobbying, Vote 1 under Office of the Conflict of Interest and Ethics Commissioner, Vote 1 under Office of the Senate Ethics Officer, Votes 1 and 5 under Offices of the Information and Privacy Commissioners of Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:00fd21a5337e415ca22d",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:eac93715c0bc2d3c335e",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — BC Hydro responses to BCUC and Intervener Information Request No. 3"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HUMA — Workers in the Seasonal Industry and the Employment Insurance Program"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:6245e45d2606cbe9f81d",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:bc992646b76c29cfaf19",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — A-1: Panel Appointment"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PACP — Arctic Waters Surveillance"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:a2e586406c1e3094661c",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:60579254d48a44d608b9",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PACP — Delivering Canada's Future Fighter Jet Capability"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:5817b75b1d5b4f4946ee",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:01954487ee5770fe5708",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:01615c0115a65289a4dc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:f8f6a6ff39244462d9e5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:672320fb46c22026a064",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:99141d07b398ec9066fd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "bcuc-proceedings:80ae2be5c741e8f45a65",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-1: BIG WHITE GAS UTILITY LTD. (BIG WHITE) – Fiscal 2027 to 2031 Permanent Rates Application"
+      "title": "FEI 2026 and 2027 Incremental DSM Expenditures — G-153-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:1b0fc551c6a9244d3739",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "boc-speeches:d16548d47eae5e4c1cdd",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro Final Argument"
+      "source_id": "boc-speeches",
+      "title": "Adjusting for growth and resilience"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:57d815690bf36d5b7cc0",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "boc-speeches:0d53daf54f6cb6cc247b",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro Reply Argument"
+      "source_id": "boc-speeches",
+      "title": "Global imbalances, growth and stability"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:5601b4d2cd482e8a6ace",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "boc-speeches:aefa2fd16ff656eb7eb8",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro responses to BCUC and Intervener IR No. 3"
+      "source_id": "boc-speeches",
+      "title": "Media Availability: France-Canada Chamber of commerce and Paris Europlace"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:1fcf54a9d559b6e495a1",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "boc-speeches:65571a3655c7e1c90623",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — Intervener Final Argument"
+      "source_id": "boc-speeches",
+      "title": "Speech: France-Canada Chamber of commerce and Paris Europlace"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-deadlines:1b5418761501dbc96bcb",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "finance-canada-news:c2dd7ce6a4346ba88bce",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — Letters of comment deadline"
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada introduces targeted support to help Canada’s airline sector weather global fuel market volatility"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:a515aac24d22b4856f04",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:36be099519f04071d329",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — A-13: BCUC response to Puri late request to intervene"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:91d99a5c4610ad7fa824",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — A-14: Order G-132-26 with instructions to interveners"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:28849b59c554f2ee67a4",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:ea10120555f5e9446290",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-171: Consolidated Letters of Comment – June 22, Volume 1"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:e9820432af16e69db188",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:113310b3d29a5ff3799a",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — BC Hydro responses to BCUC and Intervener IR No. 3"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:8f98d86d21f39e577078",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:bf7ce5dea308e001bce0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A-3: BCUC Information Request No. 1 to FORTISBC INC. (FBC)"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: MORE — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:3a2614881d5c40568124",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A-4: BCUC Information Request No. 1 to INNERGEX GROUP OF ENTITIES (INNERGEX)"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:4c9ec80a2c92def909b8",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "iaac-major-projects:56c73f41be64e6b01e5c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A-5: BCUC Information Request No. 1 to COLUMBIA POWER CORPORATION (CPC)"
+      "source_id": "iaac-major-projects",
+      "title": "Port of Botwood Wharf Rehabilitation Project: — The proponent provided its response to summary of issues to the Impact Assessment Agency of Canada."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:ff7cc7871ed7dc57fff1",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:892ec623744f5cf7de98",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C2-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T07:24:10.816198Z",
-      "event_id": "bcuc-proceedings:12512ded52fc388d8196",
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:09fabe22f99a28b00d61",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C4-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY SOCIETY (COSCO) AND RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) (COSCO-RCIA) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:912f283c0173b1627b56",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-23T19:16:47.256442Z",
+      "event_id": "statcan-daily:8ffb07ea83cc81656c19",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">April 2026</span>"
     }
   ],
-  "generated_at": "2026-07-23T07:24:10.816198+00:00",
-  "run_id": "20260723T072410Z-fd6f934f",
+  "generated_at": "2026-07-23T19:16:47.256442+00:00",
+  "run_id": "20260723T191647Z-48be79c2",
   "schema_version": "1.0"
 }
