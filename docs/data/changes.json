@@ -6,11 +6,11 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-key-indicators:5e389a4c8a2e2d199c0c",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Retail trade"
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
     },
     {
       "change_type": "changed",
@@ -18,320 +18,323 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-key-indicators:7504ac684fc75605d445",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Travel between Canada and other countries"
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "bcuc-proceedings:6b2224cd49f9e033e905",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:aaa3a27e192d769e8032",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "331/2026 Enacts Credit Reporting and Credit Monitoring Regulation, effective August 1, 2027 126/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:a2f5316dc444b1347c05",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "332/2026 Amends B.C. Reg. 473/2003 — Personal Information Protection Act Regulations, effective August 1, 2027 132/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:c2a153c7e85c95e10472",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:fd01329422e65c2b1a06",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "334/2026 Amends B.C. Reg. 52/2020 — Fuel Price Transparency Regulation 129/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:677cf112575f5aaebee6",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "335/2026 Amends B.C. Reg. 251/2004 — Coal Act Regulation 127/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:eab0bbe811115157509e",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "336/2026 Amends B.C. Reg. 274/2002 — Legislative Precinct Regulation 130/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:85d280c16c5788ac2080",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "337/2026 Amends B.C. Reg. 109/2003 — Designation Regulation 128/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:c1dfe236502b01f5e41b",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "338/2026 S.B.C. 2026, c. 15 — see Acts in Force 131/2026 July 17, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:2356f7224e565696d9fc",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "349/2026 Enacts Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation 133/2026 July 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:12cd3a964078896b7575",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "350/2026 Amends, effective October 19, 2026, B.C. Regs. 4/2021 — Basic Vehicle Damage Coverage Regulation 447/83 — Insurance (Vehicle) Regulation 134/2026 July 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:7bc51a46d58d417f11a0",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Chief Electoral Officer Amends B.C. Reg. 66/2022 — Ballot Form Regulation 139/2026 July 21, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:76ffc76d4c7793b97ae3",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Chief Electoral Officer Enacts Advertising Sponsor Disclosure Report Regulation Repeals B.C. Reg. 8/2001 — Advertising Sponsor Disclosure Report Regulation 140/2026 July 21, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:ad3e84d828b5a07e4a22",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "M278/2026 Amends B.C. Reg. 301/90 — Environmental Data Quality Assurance Regulation Repeals B.C. Regs. 98/2023 240/2024 138/2026 July 21, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:278bc047234223d860e6",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective March 1, 2027 136/2026 July 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:b5e4e480570f9092e75f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective November 6, 2026 135/2026 July 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-regulations:70c4edf36c96277035f9",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective September 1, 2027 137/2026 July 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:1ed5e6cc13e0c79670d0",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-73-1: Muir submitting additional Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-75: BOYLE, M. (BOYLE) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "bcuc-proceedings:079417d6c7930c3ab935",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:60b3e0e314e46a646357",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-73: MUIR, J. (MUIR) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-76: KNEZEVIC, M. (KNEZEVIC) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "bcuc-proceedings:ff17f8ac21aa79dfc387",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:b592b3de9484199f6eb3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-74: KRAUSE, A. (KRAUSE) – Letter of Comment"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — A-4: BCUC Information Request No. 1 to FEI"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "bcuc-proceedings:691624dc0aac0d469049",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legal-orders:58d0c1dd7676b2470308",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 153: FINANCE Pension Benefits Standards Amendment, ss. 26 and 37; Pension Benefits Standards, s. 133 (a) Effective April 30, 2026, (i) sections 2, 9 (b), 24 (a) and 26 of the Pension..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legal-orders:f1ef6f652a85b733c7b5",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 154: Public Service, s. 12 Effective April 27, 2026, the appointment of Denise Devenny, made by OIC 585/2019, is rescinded, and Denise Devenny is appointed as an Acting Assistant Dep..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bc-legal-orders:b5301a4c8db4860c7ffe",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 155: Public Service, s. 12 Effective April 27, 2026, Keith Charles Parker is appointed as Assistant Deputy Minister, Ministry of Emergency Management and Climate Readiness."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-deadlines:361fc48701c3a9306033",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — BCUC Information Request (IR) No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:5bc9d98e24471f690d7d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — D-4: CANADIAN ASSOCIATION OF PETROLEUM PRODUCERS (CAPP) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "finance-canada-news:9723884b6c0e11f41555",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government launches consultation on draft legislation for various tax measures"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:d5715757a38116b97e41",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:9e0830e127d20a636ce5",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:239585a5c641740f1874",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Main Estimates 2026-27: Vote 1 under Office of the Commissioner of Lobbying, Vote 1 under Office of the Conflict of Interest and Ethics Commissioner, Vote 1 under Office of the Senate Ethics Officer, Votes 1 and 5 under Offices of the Information and Privacy Commissioners of Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:eac93715c0bc2d3c335e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: HUMA — Workers in the Seasonal Industry and the Employment Insurance Program"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:bc992646b76c29cfaf19",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PACP — Arctic Waters Surveillance"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:60579254d48a44d608b9",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PACP — Delivering Canada's Future Fighter Jet Capability"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:5817b75b1d5b4f4946ee",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:01954487ee5770fe5708",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:01615c0115a65289a4dc",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Natural gas supply and disposition, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:f8f6a6ff39244462d9e5",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Refined petroleum products, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:672320fb46c22026a064",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:99141d07b398ec9066fd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel between Canada and other countries, <span class=\"refper\">May 2026</span>"
+      "title": "BC Hydro 2025 IRP — D-172: Consolidated Letters of Comment – June 23, Volume 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "bcuc-proceedings:80ae2be5c741e8f45a65",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:af4f0a01029a91e0fda3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 and 2027 Incremental DSM Expenditures — G-153-26: Docket filing"
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "boc-speeches:d16548d47eae5e4c1cdd",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:c4c7b410a7130a45d60e",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Adjusting for growth and resilience"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — C7-2-1: LIEC-Saanich-Richmond submitting erratum to Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "boc-speeches:0d53daf54f6cb6cc247b",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:d1d076ef0d610790fcfe",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Global imbalances, growth and stability"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-3: FEI submitting confirmation of social media reminder posts in compliance with G-122-26"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "boc-speeches:aefa2fd16ff656eb7eb8",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "bcuc-proceedings:b9992dac151990ebff19",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Media Availability: France-Canada Chamber of commerce and Paris Europlace"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — BCUC Information Request (IR) No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "boc-speeches:65571a3655c7e1c90623",
+      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "event_id": "gazette-part-i:5f3a6d82a97fce8c7f04",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: France-Canada Chamber of commerce and Paris Europlace"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "finance-canada-news:c2dd7ce6a4346ba88bce",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada introduces targeted support to help Canada’s airline sector weather global fuel market volatility"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:36be099519f04071d329",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:ea10120555f5e9446290",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:113310b3d29a5ff3799a",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:bf7ce5dea308e001bce0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: MORE — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "iaac-major-projects:56c73f41be64e6b01e5c",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Port of Botwood Wharf Rehabilitation Project: — The proponent provided its response to summary of issues to the Impact Assessment Agency of Canada."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:892ec623744f5cf7de98",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:09fabe22f99a28b00d61",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Natural gas supply and disposition, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:912f283c0173b1627b56",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Refined petroleum products, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-23T19:16:47.256442Z",
-      "event_id": "statcan-daily:8ffb07ea83cc81656c19",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel between Canada and other countries, <span class=\"refper\">April 2026</span>"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, June 8, 2026, volume 160, extra number 5"
     }
   ],
-  "generated_at": "2026-07-23T19:16:47.256442+00:00",
-  "run_id": "20260723T191647Z-48be79c2",
+  "generated_at": "2026-07-24T07:22:14.733726+00:00",
+  "run_id": "20260724T072214Z-d23f4f43",
   "schema_version": "1.0"
 }
