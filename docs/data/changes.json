@@ -6,7 +6,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
       "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -18,7 +18,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
       "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -30,7 +30,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
       "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -42,7 +42,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
       "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -54,7 +54,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
       "event_id": "bc-legislature-calendar:d778de1251d99434849c",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -63,278 +63,179 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-key-indicators:45012d7b1e07ce4b6b4d",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:aaa3a27e192d769e8032",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "331/2026 Enacts Credit Reporting and Credit Monitoring Regulation, effective August 1, 2027 126/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:a2f5316dc444b1347c05",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "332/2026 Amends B.C. Reg. 473/2003 — Personal Information Protection Act Regulations, effective August 1, 2027 132/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:c2a153c7e85c95e10472",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:fd01329422e65c2b1a06",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "334/2026 Amends B.C. Reg. 52/2020 — Fuel Price Transparency Regulation 129/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:677cf112575f5aaebee6",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "335/2026 Amends B.C. Reg. 251/2004 — Coal Act Regulation 127/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:eab0bbe811115157509e",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "336/2026 Amends B.C. Reg. 274/2002 — Legislative Precinct Regulation 130/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:85d280c16c5788ac2080",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "337/2026 Amends B.C. Reg. 109/2003 — Designation Regulation 128/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:c1dfe236502b01f5e41b",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "338/2026 S.B.C. 2026, c. 15 — see Acts in Force 131/2026 July 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:2356f7224e565696d9fc",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "349/2026 Enacts Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation 133/2026 July 20, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:12cd3a964078896b7575",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "350/2026 Amends, effective October 19, 2026, B.C. Regs. 4/2021 — Basic Vehicle Damage Coverage Regulation 447/83 — Insurance (Vehicle) Regulation 134/2026 July 20, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:7bc51a46d58d417f11a0",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Chief Electoral Officer Amends B.C. Reg. 66/2022 — Ballot Form Regulation 139/2026 July 21, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:76ffc76d4c7793b97ae3",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Chief Electoral Officer Enacts Advertising Sponsor Disclosure Report Regulation Repeals B.C. Reg. 8/2001 — Advertising Sponsor Disclosure Report Regulation 140/2026 July 21, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:ad3e84d828b5a07e4a22",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M278/2026 Amends B.C. Reg. 301/90 — Environmental Data Quality Assurance Regulation Repeals B.C. Regs. 98/2023 240/2024 138/2026 July 21, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:278bc047234223d860e6",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective March 1, 2027 136/2026 July 20, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:b5e4e480570f9092e75f",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective November 6, 2026 135/2026 July 20, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-regulations:70c4edf36c96277035f9",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective September 1, 2027 137/2026 July 20, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:1ed5e6cc13e0c79670d0",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "bcuc-proceedings:bfe82b08aab77a54312a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-75: BOYLE, M. (BOYLE) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-37-1: Friends of Nelson Park submitting additional Letters of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:60b3e0e314e46a646357",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "bcuc-proceedings:60e35a1482ee57242f39",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-76: KNEZEVIC, M. (KNEZEVIC) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-37-2: Friends of Nelson Park submitting additional Letters of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:b592b3de9484199f6eb3",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "bcuc-proceedings:4e6dbc5845c4d91d2ddb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — A-4: BCUC Information Request No. 1 to FEI"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-77: THOMPSON, S. (THOMPSON) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-legal-orders:58d0c1dd7676b2470308",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "bcuc-proceedings:d57abf59d49ec2665c9a",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 153: FINANCE Pension Benefits Standards Amendment, ss. 26 and 37; Pension Benefits Standards, s. 133 (a) Effective April 30, 2026, (i) sections 2, 9 (b), 24 (a) and 26 of the Pension..."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-78: MOSES, K. (MOSES) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-legal-orders:f1ef6f652a85b733c7b5",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "cer-news:fa611536db9827ab3779",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 154: Public Service, s. 12 Effective April 27, 2026, the appointment of Denise Devenny, made by OIC 585/2019, is rescinded, and Denise Devenny is appointed as an Acting Assistant Dep..."
+      "source_id": "cer-news",
+      "title": "Wildfire season & natural hazards: how we’re monitoring the pipelines we regulate"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bc-legal-orders:b5301a4c8db4860c7ffe",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "iaac-major-projects:fa2fa68d1e0a5b68aa9a",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 155: Public Service, s. 12 Effective April 27, 2026, Keith Charles Parker is appointed as Assistant Deputy Minister, Ministry of Emergency Management and Climate Readiness."
+      "source_id": "iaac-major-projects",
+      "title": "Eskay Creek Revitalization Project: — An administrative update has been made to the decision statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:d04bb619d926411b13d8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building construction price indexes, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:b6a97b6e239fcb27f9b2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:e77b1183b465c39d001d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:81ad012380eb0de74fa7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:c4078d12512d50f83521",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-deadlines:361fc48701c3a9306033",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "bcuc-deadlines:78c3e224793a3bdb33a4",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — BCUC Information Request (IR) No. 1"
+      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC public notice of Application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:5bc9d98e24471f690d7d",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:78136116c373f26db9f5",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — D-172: Consolidated Letters of Comment – June 23, Volume 1"
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:af4f0a01029a91e0fda3",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:acd9438996c2d3a8c8b2",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — A-1: Panel Appointment"
+      "source_id": "statcan-daily",
+      "title": "Foreign control in the Canadian economy, <span class=\"refper\">2024</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:c4c7b410a7130a45d60e",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:cfeb3fc3626e32d89c28",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — C7-2-1: LIEC-Saanich-Richmond submitting erratum to Information Request No. 1 to FEI"
+      "source_id": "statcan-daily",
+      "title": "Labour market outcomes for college and university graduates, <span class=\"refper\">2010 to 2022</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:d1d076ef0d610790fcfe",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-daily:069f2fcd3f7044e2c360",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-3: FEI submitting confirmation of social media reminder posts in compliance with G-122-26"
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "bcuc-proceedings:b9992dac151990ebff19",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-key-indicators:3f1690faa9be48f09755",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — BCUC Information Request (IR) No. 1"
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T07:22:14.733726Z",
-      "event_id": "gazette-part-i:5f3a6d82a97fce8c7f04",
+      "detected_at": "2026-07-24T19:21:24.381937Z",
+      "event_id": "statcan-key-indicators:bfc4ca83b8f8041e861b",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, June 8, 2026, volume 160, extra number 5"
+      "source_id": "statcan-key-indicators",
+      "title": "Labour Force Survey"
     }
   ],
-  "generated_at": "2026-07-24T07:22:14.733726+00:00",
-  "run_id": "20260724T072214Z-d23f4f43",
+  "generated_at": "2026-07-24T19:21:24.381937+00:00",
+  "run_id": "20260724T192124Z-174fab56",
   "schema_version": "1.0"
 }

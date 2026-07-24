@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 35,
-    "events": 934,
-    "opportunities": 841,
+    "changes": 24,
+    "events": 938,
+    "opportunities": 845,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 13521,
-      "count": 35,
+      "bytes": 8623,
+      "count": 24,
       "path": "changes.json",
-      "sha256": "dda0745a9931b15d36bc79e51a580916f5eb86f849127a29c388e806ec014909"
+      "sha256": "c8fe65b9c92c92d45353f63fcc959cab0c0485acd5738035f939b1e389b3a2cc"
     },
     "events": {
-      "bytes": 1447600,
-      "count": 934,
+      "bytes": 1456257,
+      "count": 938,
       "path": "events.json",
-      "sha256": "52e6820abb505b23013e53e384ce820fc826a7681263f681109c452b05e126ae"
+      "sha256": "4eadb4b82e96b42e20834009777b8c45e206f8cc1d58d1e49033828e52faf82e"
     },
     "heartbeat": {
       "bytes": 225,
       "path": "heartbeat.json",
-      "sha256": "277ab529a4fae91adf75dfcfc596121af7f35ce624f11a41318ea09565419afb"
+      "sha256": "502eba7204495c52e520db33d87cfa3ee4b31f1c689e75cc771029e6fbc88d15"
     },
     "opportunities": {
-      "bytes": 1620543,
-      "count": 841,
+      "bytes": 1626031,
+      "count": 845,
       "path": "opportunities.json",
-      "sha256": "4a120f12ecc6c9fa7614494a9e192d04f686e7c60ecc91243d0b523171a897bf"
+      "sha256": "f62dad25b1c395b3aa556c7089bbd3aadb44bd3442d6993e966103089c7d9f99"
     },
     "source_status": {
-      "bytes": 15538,
+      "bytes": 15518,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "a97d44e2e86a5cc78bd1b258a81ea06a5a80a23cac95cd9d6eed851463d26a95"
+      "sha256": "f7f85b2617509709148f786d05b7df9f401bbc76bc995ba6e580ef53d44a4996"
     }
   },
-  "generated_at": "2026-07-24T07:22:14.733726Z",
+  "generated_at": "2026-07-24T19:21:24.381937Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260724T072214Z-d23f4f43",
+  "run_id": "20260724T192124Z-174fab56",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 4,
-    "ok": 24
+    "not_modified": 2,
+    "ok": 26
   },
   "status": "ok",
   "timezone": "America/Vancouver"
