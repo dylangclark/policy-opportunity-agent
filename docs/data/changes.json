@@ -3,239 +3,301 @@
     {
       "change_type": "changed",
       "changed_fields": [
+        "title",
+        "description",
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-key-indicators:45012d7b1e07ce4b6b4d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Industrial product and raw materials price indexes"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bcuc-proceedings:bfe82b08aab77a54312a",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:079417d6c7930c3ab935",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-1: Friends of Nelson Park submitting additional Letters of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-73: MUIR, J. (MUIR) – Withdrawn by submitter"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bcuc-proceedings:60e35a1482ee57242f39",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:c43a86a3a80c5012ed8b",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 277: WATER, LAND AND RESOURCE STEWARDSHIP Ministry of Lands, Parks and Housing, s. 9 (1) (a) The disposition of the described Crown land to the Cheslatta Carrier Nation is ordered. [..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:79d2090bce6a50fce97f",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 278: ENVIRONMENT AND PARKS Environmental Management, ss. 138 and 139 (a) B.C. Reg. 98/2023 and B.C. Reg. 240/2024 are repealed, and (b) the Environmental Data Quality Assurance Regul..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:3a419cee177080200689",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 328: INDIGENOUS RELATIONS AND RECONCILIATION Declaration on the Rights of Indigenous Peoples, s. 7 The Minister of Indigenous Relations and Reconciliation is authorized, on behalf of..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:4e025635f50ba8acde0d",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 329: FORESTS Forest, ss. 128 and 129 (a) The Cassiar Timber Exemption (2019) Order, OIC 421/2019, is amended as set out in Schedule 1, (b) the Haida Gwaii Timber Exemption (2019) Ord..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:73ec500265b88da11fef",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 330: WATER, LAND AND RESOURCE STEWARDSHIP Water Sustainability, s. 39 OIC 606/2014, as amended by OIC 548/2019, is amended by striking out \"October 31, 2026\" and substituting \"Octobe..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:7626eada11272fbf8ab4",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 331: ATTORNEY GENERAL Business Practices and Consumer Protection Amendment (No. 2), 2025, s. 27; Business Practices and Consumer Protection, s. 197 Effective August 1, 2027, (a) sect..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:f0d3282cf0f3cb7548df",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 332: ATTORNEY GENERAL Personal Information Protection, s. 58 Effective August 1, 2027, the Personal Information Protection Act Regulations, B.C. Reg. 473/2003, are amended as set out..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:7293b826c5cd625b0def",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 333: ATTORNEY GENERAL Attorney General Statutes Amendment, 2025, s. 23 Sections 12 to 20 of the Attorney General Statutes Amendment Act, 2025, S.B.C. 2025, c. 16, are brought into f..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:dd607f4d935e66af45ea",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 334: ENERGY AND CLIMATE SOLUTIONS Fuel Price Transparency, s. 23 The Fuel Price Transparency Regulation, B.C. Reg. 52/2020, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:eead0c8026ad507378cb",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 335: MINING AND CRITICAL MINERALS Coal, s. 26 (2) The Coal Act Regulation, B.C. Reg. 251/2004, is amended in the Schedule as described."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:f482e8412870890210b0",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 336: TRANSPORTATION AND TRANSIT Legislative Assembly Management Committee, s. 8 The Legislative Precinct Regulation, B.C. Reg. 274/2002, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:edffcafecd9eabd903ab",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 337: TRANSPORTATION AND TRANSIT Coastal Ferry, ss. 30 and 76 Schedule A to the Designation Regulation, B.C. Reg. 109/2003, is amended by repealing and replacing page A9.1."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:409ebfee44e9299a6619",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 338: HOUSING AND MUNICIPAL AFFAIRS Miscellaneous Statutes Amendment, 2026, s. 33; University Endowment Land, s. 14 (2) (a) Sections 17 to 21, 23 and 24 of the Miscellaneous Statutes..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:c0787e85f3fd729637fe",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 339: HOUSING AND MUNICIPAL AFFAIRS Local Government, ss. 12 and 41 (4); Community Charter, s. 6 (a) Letters Patent are issued for the City of Nanaimo; (b) Letters Patent are issued f..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:269ebd6d62d8435a6817",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 341: ENERGY AND CLIMATE SOLUTIONS Hydro and Power Authority, s. 4 Harkamal Singh Bains and Norman Joseph Mayr are appointed as directors of the British Columbia Hydro and Power Autho..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:011f162ccd84500d1190",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 349: ENVIRONMENT AND PARKS Environmental Assessment, s. 7 The Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation is made."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bc-legal-orders:db497e2bd9fa5d45dca0",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 350: PUBLIC SAFETY AND SOLICITOR GENERAL Insurance (Vehicle), ss. 45, 72, 180 and 181; Motor Vehicle, ss. 23, 25 and 210; Motor Vehicle Amendment, 2025, ss. 9 (a) and 12 Effective Oc..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:24568bcf03516279e6ba",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-2: Friends of Nelson Park submitting additional Letters of Comment"
+      "title": "BC Hydro 2025 IRP — F-17-26: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bcuc-proceedings:4e6dbc5845c4d91d2ddb",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:59166ea6196c9bc561d9",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-77: THOMPSON, S. (THOMPSON) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-79: CLARKE, M. (CLARKE) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bcuc-proceedings:d57abf59d49ec2665c9a",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:47fac0e115fe6add820a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-78: MOSES, K. (MOSES) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-80: GOGO, J. (GOGO) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "cer-news:fa611536db9827ab3779",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:2a22ac3e7568b0f198de",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Wildfire season & natural hazards: how we’re monitoring the pipelines we regulate"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-81: DUQUETTE, E. (DUQUETTE) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "iaac-major-projects:fa2fa68d1e0a5b68aa9a",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:e94f0b44a936fdf7c77d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-2: FEI submitting 2027 Annual Review of Delivery Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "house-committees:1c468296af26e512cfb9",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, July 29, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "iaac-major-projects:eafaf32ce74d5aa21024",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Eskay Creek Revitalization Project: — An administrative update has been made to the decision statement."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:d04bb619d926411b13d8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building construction price indexes, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:b6a97b6e239fcb27f9b2",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:e77b1183b465c39d001d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:81ad012380eb0de74fa7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Housing Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:c4078d12512d50f83521",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">June 2026</span>"
+      "title": "Trigon Pacific LPG Project: — The public comment period on the summary of the Initial Project Description and the funding application period are now closed."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "bcuc-deadlines:78c3e224793a3bdb33a4",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:3f4bb6d45bebef6bea0f",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — ICBC public notice of Application"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-173: Consolidated Letters of Comment – June 24, Volume 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:78136116c373f26db9f5",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:d021e39271070a4f16fc",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic and Social Reports, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:acd9438996c2d3a8c8b2",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:14adca6b93d850d930cc",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Foreign control in the Canadian economy, <span class=\"refper\">2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Section 41 UCA Applicability to Wilsey Facilities — D-2: SPLATSIN (SPLATSIN) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:cfeb3fc3626e32d89c28",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "bcuc-proceedings:136e0619fb628f0341a3",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour market outcomes for college and university graduates, <span class=\"refper\">2010 to 2022</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-daily:069f2fcd3f7044e2c360",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "iaac-major-projects:fe24d100dfd006b537ac",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">May 2026</span>"
+      "source_id": "iaac-major-projects",
+      "title": "Crawford Nickel Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-key-indicators:3f1690faa9be48f09755",
+      "detected_at": "2026-07-25T07:23:16.880302Z",
+      "event_id": "iaac-major-projects:024ef7ea6c4baa736b73",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Building permits"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-24T19:21:24.381937Z",
-      "event_id": "statcan-key-indicators:bfc4ca83b8f8041e861b",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "iaac-major-projects",
+      "title": "Trigon Pacific LPG Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Trigon Pacific LPG Project and provide feedback by July 24, 2026."
     }
   ],
-  "generated_at": "2026-07-24T19:21:24.381937+00:00",
-  "run_id": "20260724T192124Z-174fab56",
+  "generated_at": "2026-07-25T07:23:16.880302+00:00",
+  "run_id": "20260725T072316Z-09f97b7f",
   "schema_version": "1.0"
 }
