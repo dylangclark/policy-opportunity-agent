@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-26T07:21:15.323687+00:00",
-  "run_id": "20260726T072115Z-31fb9e88",
+  "generated_at": "2026-07-26T19:23:18.633254+00:00",
+  "run_id": "20260726T192318Z-94533b0b",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 10,
+      "event_count": 10,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "boc-upcoming",
       "source_name": "Bank of Canada upcoming events",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.bankofcanada.ca/content_type/upcoming-events/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 2,
+      "event_count": 2,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "boc-press-releases",
       "source_name": "Bank of Canada press releases",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 2,
+      "event_count": 2,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "boc-speeches",
       "source_name": "Bank of Canada speeches",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.bankofcanada.ca/content_type/speeches/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "statcan_schedule",
       "event_count": 0,
       "http_status": 304,
@@ -60,7 +60,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -74,7 +74,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -88,7 +88,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bcuc_deadlines",
       "event_count": 76,
       "http_status": 200,
@@ -102,7 +102,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bcuc_proceedings",
       "event_count": 208,
       "http_status": 200,
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -142,7 +142,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -156,7 +156,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -170,7 +170,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -184,7 +184,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -198,21 +198,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "federal_consultations",
       "event_count": 0,
-      "http_status": 200,
+      "http_status": 304,
       "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "federal-consultations",
       "source_name": "Government of Canada consultations",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://open.canada.ca/data/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354/download/consultations.csv",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "govtogether",
       "event_count": 57,
       "http_status": 200,
@@ -226,35 +226,35 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bc_laws_regulations",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 55,
+      "event_count": 55,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bc-regulations",
       "source_name": "B.C. Regulations Bulletin",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.bclaws.gov.bc.ca/civix/document/id/regulationbulletin/regulationbulletin/2026cumulati",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "house_committees",
-      "event_count": 1,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "error": "ReadTimeout: The read operation timed out",
+      "event_count": 0,
+      "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "house-committees",
       "source_name": "House of Commons committee meetings",
-      "stale": false,
-      "status": "ok",
+      "stale": true,
+      "status": "failed",
       "url": "https://www.ourcommons.ca/Committees/en/Meetings",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "html_date_list",
       "event_count": 6,
       "http_status": 200,
@@ -268,7 +268,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -282,7 +282,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -295,7 +295,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 13,
       "http_status": 200,
@@ -309,7 +309,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "rss",
       "event_count": 2,
       "http_status": 200,
@@ -323,7 +323,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -336,7 +336,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -349,7 +349,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -363,7 +363,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -377,7 +377,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bc_orders",
       "event_count": 156,
       "http_status": 200,
@@ -391,7 +391,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "federal_regulatory_plans",
       "event_count": 58,
       "http_status": 200,
@@ -405,7 +405,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "iaac_milestones",
       "event_count": 2,
       "http_status": 200,
@@ -435,18 +435,20 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-26T07:21:15.323687Z",
+      "checked_at": "2026-07-26T19:23:18.633254Z",
       "collector": "house_committee_reports",
-      "event_count": 66,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "error": "House report list failed (https://www.ourcommons.ca/Committees/en/Work?show=reports): ReadTimeout: The read operation timed out",
+      "event_count": 0,
+      "retained_previous_count": 61,
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "source_name": "House committee reports and government responses",
-      "stale": false,
-      "status": "ok",
+      "stale": true,
+      "status": "failed",
       "url": "https://www.ourcommons.ca/Committees/en/Work?show=reports",
-      "warnings": []
+      "warnings": [
+        "House report list failed (https://www.ourcommons.ca/Committees/en/Work?show=reports): ReadTimeout: The read operation timed out"
+      ]
     }
   ]
 }
