@@ -1,25 +1,46 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-25T19:18:14.821166Z",
-      "event_id": "boc-press-releases:6a7f206b1413d1eede29",
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-26T07:21:15.323687Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
       "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada maintains the policy rate at 2¼%"
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-25T19:18:14.821166Z",
-      "event_id": "iaac-major-projects:240656d802efc0182b2d",
+      "detected_at": "2026-07-26T07:21:15.323687Z",
+      "event_id": "bcuc-proceedings:c0d46911d45aeb7e0f36",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — A-15: Panel letter regarding transcript corrections"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-26T07:21:15.323687Z",
+      "event_id": "bcuc-proceedings:9b9f3b3d19eb8909b359",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — D-174: Consolidated Letters of Comment – June 25, Volume 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-26T07:21:15.323687Z",
+      "event_id": "iaac-major-projects:eafaf32ce74d5aa21024",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Webequie Supply Road Project: — The Government of Canada issued the impact assessment decision statement to the proponent."
+      "title": "Trigon Pacific LPG Project: — The public comment period on the summary of the Initial Project Description and the funding application period are now closed."
     }
   ],
-  "generated_at": "2026-07-25T19:18:14.821166+00:00",
-  "run_id": "20260725T191814Z-ad0f20fa",
+  "generated_at": "2026-07-26T07:21:15.323687+00:00",
+  "run_id": "20260726T072115Z-31fb9e88",
   "schema_version": "1.0"
 }
