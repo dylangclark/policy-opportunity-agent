@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 13,
-    "events": 939,
-    "opportunities": 845,
+    "changes": 21,
+    "events": 931,
+    "opportunities": 837,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 5850,
-      "count": 13,
+      "bytes": 7725,
+      "count": 21,
       "path": "changes.json",
-      "sha256": "0a59938aee08274bd322d5d072df02e0766c93da5fc5e9649f3973d0b7edcb4e"
+      "sha256": "4cf2731c79c16e7a1174682535018202324a1474e1e1f50242a4a0cb2097c46a"
     },
     "events": {
-      "bytes": 1456848,
-      "count": 939,
+      "bytes": 1446272,
+      "count": 931,
       "path": "events.json",
-      "sha256": "c65303b45205bb83523ff0e869fcbaa6dcf84bdcea4825500552bae3599ac893"
+      "sha256": "61aa427d84ff94caf244f02dde4696883d3e46d7859f5fb12adf8693c0bf0e35"
     },
     "heartbeat": {
       "bytes": 225,
       "path": "heartbeat.json",
-      "sha256": "0ea414344afbe017b55ce14e73e56dfda277e41154cf5c18601618c627abcd61"
+      "sha256": "c77a028b3a18a9e3e1b136a84fae5cbf6a0ba42551c08993db776e2aa0b91005"
     },
     "opportunities": {
-      "bytes": 1630575,
-      "count": 845,
+      "bytes": 1616031,
+      "count": 837,
       "path": "opportunities.json",
-      "sha256": "22998f5629689ba0229b4288ee524177b4c025e91ebcf123fb4e75a20f375d5a"
+      "sha256": "4ce359f0a8bdb58bcadeaa0af774d96202d8bde17c636aae816a7c4b3708749a"
     },
     "source_status": {
-      "bytes": 15650,
+      "bytes": 15600,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "9047ec971e5a89216940ee13c7546c15c7dbe9932d2c8eac6c26213a8399b562"
+      "sha256": "970dd845d6b3105592647b5bbfd977de6ab36a1fc3c3ddf95559fad2099ea3b2"
     }
   },
-  "generated_at": "2026-07-27T07:21:51.609455Z",
+  "generated_at": "2026-07-27T19:22:59.127447Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260727T072151Z-e1ddc66f",
+  "run_id": "20260727T192259Z-9c461d76",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 8,
-    "ok": 20
+    "not_modified": 3,
+    "ok": 25
   },
   "status": "ok",
   "timezone": "America/Vancouver"

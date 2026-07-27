@@ -3,125 +3,198 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "description",
+        "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "iaac-major-projects:07337f1ae581b17b4756",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: —The Impact Assessment Agency of Canada issued the summary of issues to the proponent on July 17, 2026, for the preparation of its response to the summary of issues and detailed project description, if required."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "boc-press-releases:3c66eae09b982300dac9",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "cer-news:ff6c38caf8897d8df217",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – May 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "cer-news:1b39790b2d8327738d2b",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – May 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "finance-canada-news:a6020ecf84c86d88c932",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada announces loan support to Millar Western Forest Products Ltd."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "iaac-major-projects:fc7739ae076ac5078617",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Brandon Dispatchable Capacity Project: — The public comment period on the summary of the initial project description closed on July 19, 2026."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:8e14e0ef08e46b31719b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:c7170ec5db2863e2f42e",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "cer-news:d157b81871eb9357873a",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 176: CHILDREN AND FAMILY DEVELOPMENT Social Workers, s. 4 Effective April 25, 2026, the following individuals are appointed as members to the British Columbia College of Social Worke..."
+      "source_id": "cer-news",
+      "title": "Inspection Officer Order issued to Chilliwack landowner"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:15db0141c281699255e0",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "finance-canada-news:702ea293e8df9f3afc99",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 183: HEALTH Health Authorities, s. 4 Effective April 30, 2026, Penny Marie Anguish is appointed as a voting member of the Vancouver Island Health Authority for a term ending April 30..."
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Toronto to open Toronto Stock Exchange and participate in a fireside chat"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:d62f88f048d263b5e5bd",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:6d88e86672a67887014c",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 184: HEALTH Health Authorities, s. 4 Effective April 30, 2026, Rita Parikh is appointed as a voting member of the Vancouver Island Health Authority for a term ending April 30, 2027."
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:930cd9ef6ec86347737c",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:fa813abbd2298febe530",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 187: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, ss. 6.4, 6.5, 108 and 109 (a) The Controlled Alien Species Regulation, B.C. Reg. 94/2009, is amended as set out in Appendix 1, and..."
+      "source_id": "statcan-daily",
+      "title": "Census of Environment: Human landscape modification index, <span class=\"refper\">2020</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:d4f47248540a509e20dc",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:6e8a6a824374dd7d3f8c",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 162: Constitution, ss. 10, 13 and 14 OIC 596/2024 is amended in Appendix B as set out in the Schedule. [re: Firefighters' Health Act, Gaming Control Act, Liquor Distribution Act,..."
+      "source_id": "statcan-daily",
+      "title": "Government finance statistics, <span class=\"refper\">first quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:351bddc6eca5f348daf4",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:e4a46fa3c82c7e7251b5",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 163: HEALTH Public Health, ss. 111 and 113 (a) The Reporting Information Affecting Public Health Regulation, B.C. Reg. 167/2018, is amended as set out in Appendix 1, and (b) effectiv..."
+      "source_id": "statcan-daily",
+      "title": "Hours worked and labour productivity in the provinces and the territories, <span class=\"refper\">2011 to 2024 (updated data) and 2025 (preliminary)</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:ae435e7ae00bae988d01",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:250509e27aef5b173634",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 164: TRANSPORTATION AND TRANSIT Land, s. 31 The 2024 Transfer to Canada (Kwantlen First Nation) Order, OIC 512/2024, is amended by repealing and replacing Schedule A."
+      "source_id": "statcan-daily",
+      "title": "National tourism indicators, <span class=\"refper\">first quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bc-legal-orders:60d6abc57fc2d0413bbb",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:3c0ac1f46ef5b9bfc484",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 165: ATTORNEY GENERAL and WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, ss. 64.1 and 109; Offence, s. 132 (a) Section 12 (c) of the Designation and Exemption Regulation, B.C. Reg. 1..."
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bcuc-proceedings:5b476a3e66daa357ebc9",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:d5c31a966ce70b9f2931",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — A-2: G-137-26 establishing a regulatory timetable"
+      "source_id": "statcan-daily",
+      "title": "Private radio broadcasting, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bcuc-proceedings:da2cfef106a2160e578a",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:318b00f0fc428ee7c8f7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — A2-1: BCUC Staff Submission – BC Hydro update to the application"
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bcuc-proceedings:ee173645b1d02721695a",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:a7744946a56a62da3405",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — D-1: FORTISBC INC. (FBC) – Response to BCUC Information Request No. 1"
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-27T07:21:51.609455Z",
-      "event_id": "bcuc-proceedings:277605b210e01861ee44",
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:b8b4a8b6c2d0742730ce",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — A-2: Order G-136-26 establishing a regulatory timetable"
+      "source_id": "statcan-daily",
+      "title": "Survey of Commercial and Institutional Energy Use: Hospital and postsecondary campuses, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:3e908d180b9f41270e74",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Television broadcasting, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-27T19:22:59.127447Z",
+      "event_id": "statcan-daily:71f7a1e5215ee6736435",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">May 2026</span>"
     }
   ],
-  "generated_at": "2026-07-27T07:21:51.609455+00:00",
-  "run_id": "20260727T072151Z-e1ddc66f",
+  "generated_at": "2026-07-27T19:22:59.127447+00:00",
+  "run_id": "20260727T192259Z-9c461d76",
   "schema_version": "1.0"
 }
