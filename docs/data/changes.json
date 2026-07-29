@@ -3,64 +3,141 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "end_at",
+        "title",
+        "description",
+        "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
-      "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "BC Arts Council Strategy and Action Plan"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bcuc-proceedings:44c29be6206e6ef95fa3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-10: BC Hydro submitting response to Lord Roberts Annex PAC Motion"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bcuc-proceedings:68c9bdae204d5110ad3a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-92: CAIRD, S. (CAIRD) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bcuc-proceedings:0be47947ec86b0c5f2dc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — A-5: Order G-160-26 regarding late requests to intervene and proceeding scope"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
       "event_id": "bcuc-proceedings:74796a474d319a7fdadc",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C5-1: THE CORPORATION OF DISTRICT OF SAANICH (SAANICH) – Late Request to Intervene"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C5-1: THE CORPORATION OF DISTRICT OF SAANICH (SAANICH) AND THE CITY OF RICHMOND (RICHMOND) (SAANICH-RICHMOND) – Late Request to Intervene"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:36567fa9461f1a376808",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Pension plans in Canada, <span class=\"refper\">as of January 1, 2025</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "bcuc-proceedings:8dc83578e10cc7bfec88",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-93: MATCHULLIS, A. (MATCHULLIS) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "bcuc-proceedings:6faac63b8e479384058f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-94: FOSTON, K. (FOSTON) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "cer-news:e02c5074cae705b4af85",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada’s refined petroleum product imports rose in 2025 as U.S. remained dominant supplier"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "gazette-part-ii:79ef7e5d4d4be3307281",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, July 29, 2026, volume 159, number 15"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "house-committees:7414d7f6bac3ba979d0b",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Government Operations and Estimates (OGGO) — Wednesday, August 12, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "iaac-major-projects:6993f20bbc57935f39e0",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Brandon Dispatchable Capacity Project: — The Impact Assessment Agency of Canada issued the summary of issues to the proponent on July 28, 2026, for the preparation of its response to the summary of issues."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "iaac-major-projects:6b7e25c56b9c6b9b3391",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Joyce Lake Direct Shipping Iron Ore Project: — The Impact Assessment Agency of Canada posted the tailored impact statement guidelines and required plans to the proponent for the preparation of its impact statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:08a816a84ac5465202e9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Financial Information of Universities, <span class=\"refper\">2024/2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:85fdd15402e159c7f501",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:985309785efa6db89b8f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Major grain deliveries, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:6215a1144e41570efd08",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Milled wheat and wheat flour produced, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
       "event_id": "bcuc-proceedings:99a36eb24bf4e943166a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "FEI 2026 Review of Mains Extension and Connection Policies — C6-1: CITY OF RICHMOND (RICHMOND) – Late Request to Intervene"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
       "event_id": "house-committees:810699c31a1924047ec8",
       "schema_version": "1.0",
       "source_id": "house-committees",
@@ -69,59 +146,86 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bc-legal-orders:9dfa5810a2edd86510b1",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "iaac-major-projects:fc7739ae076ac5078617",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 166: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective May 1, 2026, Jacinta Ann Lawton is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "iaac-major-projects",
+      "title": "Brandon Dispatchable Capacity Project: — The public comment period on the summary of the initial project description closed on July 19, 2026."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bc-legal-orders:29200f7d9f4badd4b7d3",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:7d52caa0b4a856c2fec8",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 167: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective May 1, 2026, Perbeen Mann is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "statcan-daily",
+      "title": "Federal Science and Technology Expenditures and Personnel"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bc-legal-orders:809103d4c4eba35c7818",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:7ad0368b0d4129a257c5",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 168: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective May 21, 2026, Scott Robert Ramsay Wright is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">April 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bcuc-deadlines:f3695e8554cf6129a6c8",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:29e211398b8e625b7ef3",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro response to Lord Roberts Annex PAC Motion"
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">March 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "bcuc-proceedings:a52ad0ec200e5d332a9d",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:34c84eaf0e8359dd7c2f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — BC Hydro response to Lord Roberts Annex PAC Motion"
+      "source_id": "statcan-daily",
+      "title": "Natural resource indicators, <span class=\"refper\">first quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-29T07:24:49.173870Z",
-      "event_id": "house-committees:1c468296af26e512cfb9",
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:5a97ab97264b193cf019",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, July 29, 2026"
+      "source_id": "statcan-daily",
+      "title": "Study: Portrait of the Latin American populations in Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-daily:f14a3237dd47a092d452",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey Methodology, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-key-indicators:245919aa9b2274968ebc",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-07-29T19:24:46.223130Z",
+      "event_id": "statcan-key-indicators:f50e93ffde740c1c1cfe",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
     }
   ],
-  "generated_at": "2026-07-29T07:24:49.173870+00:00",
-  "run_id": "20260729T072449Z-00a842d2",
+  "generated_at": "2026-07-29T19:24:46.223130+00:00",
+  "run_id": "20260729T192446Z-9393bff2",
   "schema_version": "1.0"
 }
