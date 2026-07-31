@@ -6,548 +6,392 @@
         "end_at",
         "content_hash"
       ],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
       "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
       "schema_version": "1.0",
       "source_id": "govtogether-bc",
       "title": "BC Arts Council Strategy and Action Plan"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-key-indicators:72448b07bbb9801c6907",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:da3e652b61f89a75152e",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Payroll employment, earnings and hours, and job vacancies"
+      "source_id": "bc-regulations",
+      "title": "355/2026 Amends B.C. Reg. 477/2003 — Residential Tenancy Regulation, effective July 30, 2026 142/2026 July 23, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-deadlines:23a18d687cb57ba5c284",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:03af49a94ba85ed83548",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "356/2026 Enacts Residential Tenancy (Supportive Housing) Regulation, effective July 30, 2026 143/2026 July 23, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:772ad91a99ba6b522211",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "357/2026 Amends B.C. Reg. 143/2026 — Residential Tenancy (Supportive Housing) Regulation, effective December 1, 2026 144/2026 July 23, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:7898b12e12cf8bc1a217",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "359/2026 Amends B.C. Reg. 396/95 — Employment Standards Regulation, effective August 1,2026 141/2026 July 23, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:a0618d7e3a6b7eb95e43",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "360/2026 Amends B.C. Reg. 245/2013 — Direction No. 5 to the British Columbia Utilities Commission 147/2026 July 24, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:6bd49d5b6e90f01fbccb",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "362/2026 Amends B.C. Reg. 102/2012 — Greenhouse Gas Reduction (Clean Energy) Regulation 145/2026 July 24, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:490f469ff971a0b72b81",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "363/2026 S.B.C. 2026, c. 4 — see Acts in Force Enacts Post-Secondary International Education (Designated Institutions) Regulation, Part 1 effective September 1, 2026 and Part 2 effective January 1, 2027 146/2026 July 24, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-regulations:5afe07e34ed39b217248",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Treasury Board Enacts British Columbia Strategic Investments Regulation 148/2026 July 24, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:52e02180b8f14206715d",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Entities’ comments on the Proposed IBR Implementation Plans"
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BCUC Information Request (IR) No. 1 to BWGU"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-deadlines:fdccaa3a5068eb9d3525",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:9a99e5a52eb8de68b248",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU confirmation of compliance with public and customer notice requirements"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:135e42b324aeed859b3d",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:ef9f76501255bdadf926",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU final argument and reply to letters of comment, if any"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:7670d2a0a0ddbfa79fc3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:3499bab22acf1efdd5c0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:6d4259a15038651da2f3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU to provide supplemental information"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:4800fa63125c40692d4e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:f63aa9c5dd128eeadab4",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — A-12: Order G-161-26 denying the Greenhorn Strata Motion"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-102: HUGHES, J. (HUGHES) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:3ba4bb10a3595ef94f16",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:bda1c5520dcc7cde06b5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-100: ANDERSON, K. (ANDERSON) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — A-2: Order G-163-26 establishing a regulatory timetable"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:094650a27aac78fb2b6e",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:a939f1dd9d19ea6519c6",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-101: JOHNSTON, B. (JOHNSTON) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BCUC Information Request (IR) No. 1 to BWGU"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:d42c8f4917ddb761cb65",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:44cf2f5070a9e4fe9d9a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-3: Friends of Nelson Park submitting additional Letters of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU confirmation of compliance with public and customer notice requirements"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:4bf78153b4ecd5724313",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:8b8e6bf2a59a2b5a6e49",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-95: BROOKS, C.G. (BROOKS) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU final argument and reply to letters of comment, if any"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:12e3406e608ce289de20",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:e4c0eedc68368a4f29ad",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-96: DEMICHELIS, H. (DEMICHELIS) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU public notice of Application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:7ff561879a90720fda98",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:863ccaa1be008747c35e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-97: BOFFI, N. (BOFFI) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU responses to BCUC IR No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:e5593fd64bcd646eed13",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:69acd5b83bce8f40abcf",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-98: SHIVERAL, L. (SHIVERAL) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU to provide supplemental information"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:3792eab07e9597b6d013",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:91715225d8eaa0278e98",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-99: WILSON, J. (WILSON) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — Letters of comment deadline"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:84287a8a2cf80d2fb241",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:13107beacc30fe12c4c2",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A-6: Order R-9-26 establishing a further regulatory timetable"
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-10: CITY OF VANCOUVER (COV) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:c9d06dd7e1dd68b6535b",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:18b3e3ebb7710fe7f164",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — Entities’ comments on the Proposed IBR Implementation Plans"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C1-2: BCSEA submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:283c8f21b5818659b6a8",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:46b2ed1c285909ad77cb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C2-2: CEC submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:bc8492583ed2a980283a",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:878014a7b2d13d462b59",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC MRS Rules of Procedure Revisions — July-29: Docket filing"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C3-2: MoveUP submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:f70a0cf26c39c6018741",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:7614d7c81a08039e7b6a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-3: FEI submitting confirmation of public notice in compliance with G-150-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "boc-upcoming:e612ee0b473eb9fc8c26",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Release: Market Participants Survey"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:907fe04b4406baba1f98",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:d6d47ed3a34083deedbf",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committees:901a1b9052b2c7e4c583",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "iaac-major-projects:64790ff5828904c28174",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Brandon Dispatchable Capacity Project: — The participant funding application period closed on July 29, 2026."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:56f5a1524c6a493d974d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:b18b72406aaba6628b52",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Certified organic fruit and vegetable production estimates, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:cd38774f403637a0a20a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:6a6bbcc8cd62573894da",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:0995aed8e95d85be80bb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:8c85d4a1a27a7b73e268",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Use of generative artificial intelligence tools among Canadian workers, <span class=\"refper\">March 2026</span>"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C5-2: Saanich-Richmond submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bc-legal-orders:51521d1e6c2d85fa9477",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bc-legal-orders:7d7d75314fc2be36e9a3",
       "schema_version": "1.0",
       "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 169: ATTORNEY GENERAL Offence, s.132 The Violation Ticket Administration and Fines Regulation, B.C. Reg. 89/97, is amended as set out in the Schedule."
+      "title": "B.C. Order in Council 171: INDIGENOUS RELATIONS AND RECONCILIATION Treaty Commission, ss. 7 and 11 Angela Gail Wesley is appointed as a commissioner of the British Columbia Treaty Commission for a term of..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-deadlines:0f74144eb965412659d8",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-deadlines:8ae67a9ea4a178048fae",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with public notice requirements, except social media reminder posts"
+      "title": "BC Hydro — 2025 Integrated Resource Plan — BC Hydro Reply Argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:2d0cdb7dedd5da0abf39",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "bcuc-proceedings:3246bd1e804f2a0e2d81",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-7-1: CONFIDENTIAL – BC Hydro submitting response to BCUC Information Request No. 2"
+      "title": "BC Hydro 2025 IRP — BC Hydro Reply Argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:2975e566253ec0f3fd0d",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:7678ab41d62375aad0cc",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-7: PUBLIC – BC Hydro submitting response to BCUC Information Request No. 2"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Health Canada: Regulations Amending Certain Regulations Made Under the Food and Drugs Act (Shortages and Discontinuation of Sale of Drugs and Medical Devices) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:f4c9c3064db6a3bad293",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:3d44aff4afb68edd666a",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-8-1: CONFIDENTIAL – BC Hydro submitting response to Intervener Information Request No. 2"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Administrative Monetary Penalty Regulations (Marine Liability Act and Wrecked, Abandoned, or Hazardous Vessels Act) and Amendments to the Regulations Respecting Compulsory Insurance for Ships Carrying Passengers (Marine Liability Act) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:9d94bc84d2a30aa93722",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:e4d430a34cc2eb3704b1",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-8: PUBLIC – BC Hydro submitting response to Intervener Information Request No. 2 – Replaced July 3rd, 2026"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Launch and Re-entry Regulations — consultation"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:e60b2801ea2bb0a1424d",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:8b769cb617d63aa766f4",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-9-1: CONFIDENTIAL – BC Hydro submitting Stage 3 Application for the CPCN for the West End Substation Project"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Order Exempting Thirteen Navigable Waters, located in Newfoundland and Labrador, from the Application of Sections 22(1) and 23(1) of the Canadian Navigable Waters Act — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:f8e40881bcd557037023",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:9ed4b60c156774bd745f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-9: PUBLIC – BC Hydro submitting Stage 3 Application for the CPCN for the West End Substation Project"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Railway Personnel Training and Qualifications Regulations — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:311c26d2a04aa85c8ca1",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:4975a47107879cb9b7d2",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-17: TUCKER, L. (TUCKER) – Letter of Comment"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending Certain Regulations Made Under the Transportation of Dangerous Goods Act, 1992 (Part 12 and International Harmonization Update) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:8d0ac711d17c06adff82",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:ccac163844d5a9176da3",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — B-2: FAES submitting confirmation of notice in compliance with G-136-26"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Security Regulations, 2012 (Security Program for Air Carriers) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:f38f7853d6e2ed1b1ed8",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:f1ede117418f38d1d89f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — A-3: Order G-138-26 regarding requests to intervene and proceeding scope"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation of Dangerous Goods Regulations (Canadian Update) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:7cbc11953c01d9c2d4cb",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:5b447ac90b19a16dde9c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — FEI confirmation of compliance with public notice requirements, except social media reminder posts"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations (Division 1 – Oil) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:db1fe39c4fbe26b77767",
+      "detected_at": "2026-07-31T07:23:53.358344Z",
+      "event_id": "federal-forward-regulatory-initiatives:7716a944e8c86301a4cf",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Minibins, Clark Reefer, Disposal Queen and Mullen at Annacis Island – Permanent Rates — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "bcuc-proceedings:858c3c93a07c3ec3226c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Minibins, Clark Reefer, Disposal Queen and Mullen at Annacis Island – Permanent Rates — A-2: Order G-140-26 approving interim rates"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "boc-upcoming:38ed7fe35b1e70d90239",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:8c665f31609f86d4d202",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — Supplementary Estimates (C), 2025-26: Vote 5c under Canadian Institutes of Health Research, Vote 10c under Department of Health, Votes 1c and 10c under Public Health Agency of Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:d5715757a38116b97e41",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:9e0830e127d20a636ce5",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:239585a5c641740f1874",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Main Estimates 2026-27: Vote 1 under Office of the Commissioner of Lobbying, Vote 1 under Office of the Conflict of Interest and Ethics Commissioner, Vote 1 under Office of the Senate Ethics Officer, Votes 1 and 5 under Offices of the Information and Privacy Commissioners of Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committee-reports:5817b75b1d5b4f4946ee",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "house-committees:7414d7f6bac3ba979d0b",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Government Operations and Estimates (OGGO) — Wednesday, August 12, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "iaac-major-projects:6993f20bbc57935f39e0",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Brandon Dispatchable Capacity Project: — The Impact Assessment Agency of Canada issued the summary of issues to the proponent on July 28, 2026, for the preparation of its response to the summary of issues."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:877a189f6889a5aac012",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:69ee8056375e46078549",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:205bbf8315c2948c8f40",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:24a7b986ffe81eed8a6a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:9965c38e50d67aa32a01",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Municipal wastewater systems in Canada, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:670df3f917ddbf23c845",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-30T19:23:40.414362Z",
-      "event_id": "statcan-daily:7970771b545a894c0b34",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Principal field crop areas, <span class=\"refper\">June 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Repeal of Obsolete Airport Zoning Regulations — consultation"
     }
   ],
-  "generated_at": "2026-07-30T19:23:40.414362+00:00",
-  "run_id": "20260730T192340Z-93794e3c",
+  "generated_at": "2026-07-31T07:23:53.358344+00:00",
+  "run_id": "20260731T072353Z-97492b9c",
   "schema_version": "1.0"
 }
