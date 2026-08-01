@@ -3,354 +3,483 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "description",
-        "published_at",
+        "lifecycle",
+        "start_at",
         "content_hash"
       ],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "fiscal-monitor:39a8db5513fa84d5397f",
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:7c94b0a38a54ff647e82",
       "schema_version": "1.0",
-      "source_id": "fiscal-monitor",
-      "title": "Fiscal Monitor publication page changed"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 284: POST-SECONDARY EDUCATION AND FUTURE SKILLS College and Institute, s. 9 As set out in Appendices A to D, and effective July 31, 2026, various individuals are appointed to the fol..."
     },
     {
       "change_type": "changed",
       "changed_fields": [
-        "source_url",
+        "published_at",
         "content_hash"
       ],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-key-indicators:45ba5c03ff72fe2e575a",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:a4caaa80b918545a4309",
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:0b07b5f68b12ea028893",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-11-1: CONFIDENTIAL – BC Hydro submitting response to BCUC Information Request No. 3"
+      "title": "BC Hydro Site C Reporting — F2016: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:9bae2cdf6e3e55e11339",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:3a7067a946b1a1760a11",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-11: PUBLIC – BC Hydro submitting response to BCUC Information Request No. 3"
+      "title": "BC Hydro Site C Reporting — F2018: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:87fbaa7a8ba96b2baba1",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:92768c4c8dd38a44b028",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-12-1: CONFIDENTIAL – BC Hydro submitting response to Intervener Information Request No. 3"
+      "title": "BC Hydro Site C Reporting — F2019: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:ba5f1a07f119b002b932",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:a34ac3e92421c6e92103",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-12: PUBLIC – BC Hydro submitting response to Intervener Information Request No. 3"
+      "title": "BC Hydro Site C Reporting — July-11: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:af59be6b2f6b49ea9a1b",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:08230a09d7583a6d414d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — C3-3: The Greenhorn submitting request to accept intervener motion"
+      "title": "BC Hydro Site C Reporting — July-1: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:0f84e2954ff6ec9c008a",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:d2a9ce267862c4add24b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-103: WEBSTER, A. (WEBSTER) – Letter of Comment"
+      "title": "BC Hydro Site C Reporting — July-2015: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:67db15f62c07d974fdb7",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:8975446a6018674b0a38",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-104: BAKER, B. (BAKER) – Letter of Comment"
+      "title": "BC Hydro Site C Reporting — July-31: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:77bbba23b8d94d7cf1ea",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:3fd9cd319d18915f594a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-105: PHINOPOULOU, N. (PHINOPOULOU) – Letter of Comment"
+      "title": "BC Hydro Site C Reporting — June-10: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:1dd612525db8f7cc4383",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:f95c3bc55a218a86053b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-106: BOE, T. (BOE) – Letter of Comment"
+      "title": "BC Hydro Site C Reporting — June-16: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:f719e678ec7997834c38",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C4-2: COSCO-RCIA submitting Information Request No. 1 to FE"
+      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:a85452a6c13a06c065d5",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:9d8d8bbcd1154182fdbf",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — A-1: Panel Appointment"
+      "title": "BC Hydro Site C Reporting — June-2017: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:9d5178b0bd06c158d6dd",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:8eb8cccf124ac0bbb67f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — A2-1: BCUC Staff Questions No. 1 to FEI"
+      "title": "BC Hydro Site C Reporting — June-2019: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:ab2068047a5cef40d286",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:94933fb4a4a58029394b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — G-164-26: Docket filing"
+      "title": "BC Hydro Site C Reporting — June-2021: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "boc-press-releases:b2f2c51e5210cf77c0be",
-      "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "G7 2026 Cross-Border Coordination Exercise (CBCE)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "finance-canada-news:cecae71fcc68119ff8f7",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Canada imposes provisional safeguard tariff on imports of wood cabinets and vanities to protect Canadian manufacturers and workers"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "gazette-part-i:869a892f520b132128e7",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 1, 2026, volume 160, number 31"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "gazette-part-i:c33ef4ea738d1174a8fa",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, July 25, 2026, volume 160, number 30"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "gazette-part-i:4adbc1841403a8dc7453",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, July 31, 2026, volume 160, extra number 6"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "iaac-major-projects:ef8f4f6098034732d91e",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Crawford Nickel Project: — The Government of Canada issued the impact assessment decision statement to the proponent."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:8c0775f0f6864c40a3cb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:d3c105b7365cd1d731ad",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:6dec2dd5a525a86abb35",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:c1cc74001301f392820a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:37ac053fbbe9b2536f8f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Condominium Apartment Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:c6dcefb3182571f61648",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Poultry and egg statistics, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-daily:819a6dc65d9f741a3955",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bc-regulations:b2509ad6aabc0784f97a",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M236/2026 Amends, effective July 1, 2026, B.C. Regs. 76/84 — Closed Areas Regulation 168/90 — Designation and Exemption Regulation 190/84 — Hunting Regulation 134/93 — Limited Entry Hunting Regulation 18/2024 — Motor Vehicle Prohibition Regulation 338/82 — Wildlife Act Commercial Activities Regulation 340/82 — Wildlife Act General Regulation 97/2026 June 16, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bc-regulations:1640fcb574a0318efbcc",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M237/2026 Amends B.C. Reg. 129/2025 — Regulated Health Practitioners Regulation 98/2026 June 16, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-deadlines:bfbfc9fc6fd6017d79af",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — BC Hydro responses to BCUC and Intervener Information Request No. 3"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-deadlines:080464e2d98e2e2d6593",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — Intervener IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:00fd21a5337e415ca22d",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:fa1f96d2b6befdd6de53",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — BC Hydro responses to BCUC and Intervener Information Request No. 3"
+      "title": "BC Hydro Site C Reporting — June-22: Docket filing"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "bcuc-proceedings:5a3f6fd5abeabc176eaa",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:0f90c09e0c07cfa63f1e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — Intervener IR No. 1"
+      "title": "BC Hydro Site C Reporting — June-23: Docket filing"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "cer-news:fa611536db9827ab3779",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:29caf869b4652250056d",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Wildfire season & natural hazards: how we’re monitoring the pipelines we regulate"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-29: Docket filing"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "govtogether-bc:1a254323486075e4aab2",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:96b1dbc00a4918a84f9d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-30: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:7be170cbe2f6fdda1de3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-5: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:46f23db9e1c8e7d458ce",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — May-21: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "end_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
       "schema_version": "1.0",
       "source_id": "govtogether-bc",
-      "title": "Land Transfers in Northeast British Columbia"
+      "title": "BC Arts Council Strategy and Action Plan"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:fa6cedb752585d137a70",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 281: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 57 Effective January 1, 2027, the Northern Rockies Regional Municipality Risk Assessment and Eme..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:0abee7697e3983496fe3",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 283: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferee, are designated as exempt from the payment of taxes..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:6a1abf24fa1cb75bfb61",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 286: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective July 29, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:ccac9416d5ee86cf5060",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 287: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective August 5, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs. Copyr..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:ce0e9d02ebc66b96bd34",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 352: Public Service, s. 12 Effective August 10, 2026, Jade Dawn Ashbourne is appointed as an Assistant Deputy Minister, Ministry of Housing and Municipal Affairs."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:9208a243362fce7798ff",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 353: Public Service, s. 15 Effective August 4, 2026, Abigail Louise Kerr Martin is appointed as an Administrative Assistant in the Office of the Minister of Emergency Management and..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:8e152552f500e1dfad68",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 354: Public Service, s. 15 Effective August 4, 2026, Immaculate Nayiga Kiwanuka is appointed as a Senior Advisor in the Office of the Minister of Health, as described."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:77beffb3f7c523666ab3",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 355: HOUSING AND MUNICIPAL AFFAIRS Residential Tenancy, s. 97; Residential Tenancy Amendment, 2026, s. 20 Effective July 30, 2026, (a) various provisions of the Residential Tenancy A..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:e7bbb3e251cee7128609",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 356: HOUSING AND MUNICIPAL AFFAIRS Residential Tenancy, s. 97 Effective July 30, 2026, the Residential Tenancy (Supportive Housing) Regulation is made."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:7870e2cd218452a987f9",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 357: HOUSING AND MUNICIPAL AFFAIRS Residential Tenancy, s. 97; Residential Tenancy Amendment, 2026, s. 20 Effective December 1, 2026, (a) sections 7, 17 and 18 of the Residential Ten..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:33bd807120df0e9b8907",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 358: AGRICULTURE AND FOOD Supreme Court, s. 11 Effective July 23, 2026, Michael D. Shirreff is appointed as an Associate Judge of the Supreme Court of British Columbia."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:437f868faf2a5f47d254",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 359: LABOUR Labour Statutes Amendment, 2026, s. 19; Employment Standards, s. 127 Effective August 1, 2026, (a) the Labour Statutes Amendment Act, 2026, S.B.C. 2026, c. 10, is brough..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:685212808279d5c27d21",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 360: ENERGY AND CLIMATE SOLUTIONS Utilities Commission, s. 3 Direction No. 5 to the British Columbia Utilities Commission, B.C. Reg. 245/2013, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:cbbea455e5aa99b6e980",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 361: ENERGY AND CLIMATE SOLUTIONS Utilities Commission, s. 5 The Request for Annual Report Respecting the Tilbury Island Phase 1A and 1B Facilities order is made."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:c42fc09c627997c2c117",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 362: ENERGY AND CLIMATE SOLUTIONS Clean Energy, s. 35 Section 2 of the Greenhouse Gas Reduction (Clean Energy) Regulation, B.C. Reg. 102/2012, is amended by striking out \"March 31, 2..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:37329f3422f2c2a47160",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 363: POST-SECONDARY EDUCATION AND FUTURE SKILLS Post-Secondary International Education (Designated Institutions), ss. 2, 3, 4 (2), 7 (1), 9, 33 (2) and (3) and 38 (a) Effective Septe..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:735012514cd79a8f3c8e",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 364: Public Service, s. 12 Effective August 4, 2026, Ashley Bodnar is appointed as an Acting Assistant Deputy Minister, Ministry of Children and Family Development."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-legal-orders:af45b457d26a44f9af24",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 365: Public Service, s. 12 Effective August 10, 2026, Kiersten Dawn Fisher is appointed as an Assistant Deputy Minister, Ministry of Education and Child Care."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:6c5bb8f7af8f1fce6f4c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2024 Call for Power EPAs K’ómoks FN Request Confidential Info — G-165-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:715efbb73e06ce5c0402",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-107: SOBH, J. (SOBH) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:bc96ed5c93fcc7e7ad63",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-108: HOGSTEAD, C. (HOGSTEAD) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:c137ee0adf5b261f0c20",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-109: YOUSEFBIGLOO, C. (YOUSEFBIGLOO) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:3bc698aa27ad9675efff",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-110: SAGASTUME, D. (SAGASTUME) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bcuc-proceedings:a250536e6fa3dd6308a9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — B-3: FAES submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "iaac-major-projects:fa2fa68d1e0a5b68aa9a",
+      "detected_at": "2026-08-01T07:19:42.074613Z",
+      "event_id": "bc-regulations:c3cc4d56bcd90973fde5",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eskay Creek Revitalization Project: — An administrative update has been made to the decision statement."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-07-31T19:22:21.102506Z",
-      "event_id": "statcan-key-indicators:e85519eb66b56899e9aa",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international transactions in securities"
+      "source_id": "bc-regulations",
+      "title": "35/2026 Amends, effective August 1, 2026, B.C. Regs. 294/2004 — Business Practices and Consumer Protection Regulation 272/2004 — Consumer Contracts Regulation 295/2004 — Debt Collection and Repayment Regulation 12/2009 — Home Inspector Licensing Regulation 10/2026 February 9, 2026"
     }
   ],
-  "generated_at": "2026-07-31T19:22:21.102506+00:00",
-  "run_id": "20260731T192221Z-322cc3a0",
+  "generated_at": "2026-08-01T07:19:42.074613+00:00",
+  "run_id": "20260801T071942Z-bc84395b",
   "schema_version": "1.0"
 }

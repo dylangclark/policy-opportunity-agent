@@ -1,80 +1,80 @@
 {
-  "generated_at": "2026-07-31T19:22:21.102506+00:00",
-  "run_id": "20260731T192221Z-322cc3a0",
+  "generated_at": "2026-08-01T07:19:42.074613+00:00",
+  "run_id": "20260801T071942Z-bc84395b",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 10,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 10,
       "schema_version": "1.0",
       "source_id": "boc-upcoming",
       "source_name": "Bank of Canada upcoming events",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/upcoming-events/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 4,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 4,
       "schema_version": "1.0",
       "source_id": "boc-press-releases",
       "source_name": "Bank of Canada press releases",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 2,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 2,
       "schema_version": "1.0",
       "source_id": "boc-speeches",
       "source_name": "Bank of Canada speeches",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/speeches/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "statcan_schedule",
-      "event_count": 138,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 138,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 75,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 75,
       "schema_version": "1.0",
       "source_id": "statcan-daily",
       "source_name": "Statistics Canada The Daily",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -88,7 +88,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bcuc_deadlines",
       "event_count": 76,
       "http_status": 200,
@@ -102,9 +102,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bcuc_proceedings",
-      "event_count": 244,
+      "event_count": 250,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -115,7 +115,6 @@
       "url": "https://www.bcuc.com/OurWork/Proceedings",
       "warnings": [
         "Limited BCUC docket collection to 25 proceedings.",
-        "Application 1424: no recent timetable or docket rows parsed.",
         "Application 1408: no recent timetable or docket rows parsed.",
         "Application 1437: no recent timetable or docket rows parsed.",
         "Application 1433: no recent timetable or docket rows parsed.",
@@ -127,7 +126,7 @@
       ]
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -141,7 +140,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -155,49 +154,49 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 8,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 8,
       "schema_version": "1.0",
       "source_id": "gazette-part-i",
       "source_name": "Canada Gazette Part I",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.gazette.gc.ca/rss/p1-eng.xml",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 9,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 9,
       "schema_version": "1.0",
       "source_id": "gazette-part-ii",
       "source_name": "Canada Gazette Part II",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.gazette.gc.ca/rss/p2-eng.xml",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
-      "event_count": 1,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "gazette-part-iii",
       "source_name": "Canada Gazette Part III",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.gazette.gc.ca/rss/en-ls-eng.xml",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -211,7 +210,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "govtogether",
       "event_count": 56,
       "http_status": 200,
@@ -225,9 +224,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bc_laws_regulations",
-      "event_count": 61,
+      "event_count": 60,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -239,7 +238,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "house_committees",
       "event_count": 1,
       "http_status": 200,
@@ -253,7 +252,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "html_date_list",
       "event_count": 7,
       "http_status": 200,
@@ -267,7 +266,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -281,7 +280,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -294,7 +293,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
       "event_count": 15,
       "http_status": 200,
@@ -308,7 +307,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "rss",
       "event_count": 3,
       "http_status": 200,
@@ -322,7 +321,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -335,7 +334,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -348,21 +347,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "page_watch",
-      "event_count": 1,
+      "event_count": 0,
       "http_status": 200,
-      "retained_previous_count": 0,
+      "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "fiscal-monitor",
       "source_name": "Finance Canada Fiscal Monitor page",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.canada.ca/en/department-finance/services/publications/fiscal-monitor.html",
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -376,9 +375,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bc_orders",
-      "event_count": 143,
+      "event_count": 161,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -390,7 +389,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "federal_regulatory_plans",
       "event_count": 48,
       "http_status": 200,
@@ -404,7 +403,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -420,7 +419,7 @@
       ]
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "iaac_milestones",
       "event_count": 3,
       "http_status": 200,
@@ -434,7 +433,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-07-31T19:22:21.102506Z",
+      "checked_at": "2026-08-01T07:19:42.074613Z",
       "collector": "house_committee_reports",
       "event_count": 63,
       "http_status": 200,
