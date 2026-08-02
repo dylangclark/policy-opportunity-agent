@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 8,
+    "changes": 0,
     "events": 991,
-    "opportunities": 910,
+    "opportunities": 905,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 3281,
-      "count": 8,
+      "bytes": 142,
+      "count": 0,
       "path": "changes.json",
-      "sha256": "a965e3fe3c68859d76da0c83a3774bdcd4ed50c3ea4bfd76ab8624109791438b"
+      "sha256": "70dc8a8e2605f01ab988de7c08469fc7a5d18e11be11543914dc740ec351fc90"
     },
     "events": {
       "bytes": 1523225,
       "count": 991,
       "path": "events.json",
-      "sha256": "c615be84e0148d5e2541438a02ffc46d119af227b02fa8e397ff9f5e9cad7b90"
+      "sha256": "19fe6cdbcb2695a4e21d53337d541e2f9e40021286d1deeeeee26a960bf4b9b3"
     },
     "heartbeat": {
       "bytes": 225,
       "path": "heartbeat.json",
-      "sha256": "6396e1ea9c330465fa5f5c05374ea52be85a4f9454b0d7d6906d249bade525f1"
+      "sha256": "a6547c9f3d9a544510795584753d0626683a487f7b76f9861d2afaf26c894c96"
     },
     "opportunities": {
-      "bytes": 1754234,
-      "count": 910,
+      "bytes": 1745742,
+      "count": 905,
       "path": "opportunities.json",
-      "sha256": "412891a134badc555a684cc6244960c39dcbb76e126679b04ef071cbc5707032"
+      "sha256": "a8f0108c730dee7fa76d5e101d4e63a9481edd74664ae35b5e481405cfe0ebed"
     },
     "source_status": {
-      "bytes": 15506,
+      "bytes": 15486,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "5e657166e8ed2a51fb6d209290aeecfdf21df72429498754a10f207a2623ce95"
+      "sha256": "05fbe343dad2c928a8f7582615a594a860e24cddc989a84aab7255780be5a5bc"
     }
   },
-  "generated_at": "2026-08-02T07:20:44.845517Z",
+  "generated_at": "2026-08-02T19:24:12.888882Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260802T072044Z-dd32b760",
+  "run_id": "20260802T192412Z-02f744e3",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 8,
-    "ok": 20
+    "not_modified": 6,
+    "ok": 22
   },
   "status": "ok",
   "timezone": "America/Vancouver"
