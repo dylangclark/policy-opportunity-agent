@@ -1,79 +1,340 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "bc-legal-orders:517d672660cacd2e9e97",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 188: WATER, LAND AND RESOURCE STEWARDSHIP Land, ss. 97 (1.2) and 103 The registration of the Titles in fee simple, for the lands shown on Schedule A, are removed from the operation o..."
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "bc-legal-orders:9f5e93de247488a24d8c",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 194: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective May 7, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in App..."
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "bc-legal-orders:5f7a847f7666ef5e67f7",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 196: FINANCE Land Tax Deferment, ss. 8 and 9; Budget Measures Implementation, 2026, s. 96 Effective January 1, 2026, the Interest Rate Regulation, B.C. Reg. 75/2017, is amended as se..."
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
     },
     {
-      "change_type": "removed",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-key-indicators:38335b4939a09f6c1081",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canadian international merchandise trade"
+    },
+    {
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "bcuc-proceedings:c69bcc6db5270fb0dad2",
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:d53ece4f3db9180a7967",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-2: GREENOUGH, M. (GREENOUGH) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-111: JUTSON, J. (JUTSON) – Letter of Comment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "bcuc-proceedings:d999b0ac74aa40979f5d",
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:0adc10d3828e978fa9b1",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-3: FOLEY, D. (FOLEY) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-112: REARDON, C. (REARDON) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:3916b57dddaf0019ae5b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-113: JOHNSTON, J. (JOHNSTON, J.) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:af7757aa1b42ecbd3052",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-114: DRACKOVA, N. (DRACKOVA) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:8063486a5bbe6f0a0cb5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-115: CHESTER, S. (CHESTER) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:361f6d3d07494d36de3d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-116: SAKIN, T. (SAKIN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:e13f976d009be0e556cc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-117: ABHARI, N. (ABHARI) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:00b01efa6bfc91460c71",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-118: FAHIMI, S. (FAHIMI) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:4b2b1c17f2b8aa4ff878",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-119: BARANG, G. (BARANG) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:287afafbc85ce1e85448",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-120: DESPARD, E. (DESPARD) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:64cc42226f94ff392b3a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-3: Order G-167-26 approving interim rates"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "boc-upcoming:1adefe4473944a3230b9",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Publication: Summary of Deliberations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "iaac-major-projects:1f4c732d3092dbb28721",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Timiskaming Dam-Bridge of Quebec Replacement Project: — The Minister of the Environment, Climate Change and Nature issued the environmental assessment decision statement to the proponent."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "iaac-major-projects:4dfbcfeff5e4271b14bc",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Yellowhead Copper Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its notice of impact assessment decision with reasons."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:7db651697f4026e8c918",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international merchandise trade, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:7a701bd08931222abcd8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international trade in services, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:42645b1bc6a3a165c01b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "finance-canada-news:5ee5153b06b724c0fe80",
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-regulations:84dddd384cf46b2a64a9",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Legislation passes to boost housing supply and help make housing more attainable for all Canadians"
+      "source_id": "bc-regulations",
+      "title": "252/2026 Repeals B.C. Reg. 142/2011 — Sustainable Environment Fund Revenue Regulation, effective July 1, 2026 Enacts Sustainable Environment Fund Regulation, effective July 1, 2026 100/2026 June 19, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "finance-canada-news:e7685f1762720d844c2e",
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-regulations:6ce62622f3c8168d570c",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Legislation passes to implement measures from the Spring Economic Update 2026"
+      "source_id": "bc-regulations",
+      "title": "253/2026 Amends B.C. Reg. 63/88 — Hazardous Waste Regulation, effective July 1, 2026 101/2026 June 19, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-04T07:24:43.622995Z",
-      "event_id": "govtogether-bc:9c51246951714a29feb9",
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bc-regulations:263acb64e96f8f817abe",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "Thompson River Watersheds Forest Landscape Plan"
+      "source_id": "bc-regulations",
+      "title": "254/2026 Amends B.C. Reg. 375/96 — Contaminated Sites Regulation, effective July 1, 2026 102/2026 June 19, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-deadlines:0a7bc7b98d81b44a01c3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC filing of Annual Review for 2027 Rates Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-deadlines:c4c8158815cd133067c6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — BCUC Information Request (IR) No. 1 to ICBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "bcuc-proceedings:bc8492583ed2a980283a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC MRS Rules of Procedure Revisions — July-29: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "boc-upcoming:d6ae2e186c6ed254d753",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Civic Holiday"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:bdace69a581f2e0185f5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing Services Price Index, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:62d1e9b9b8deb112cb3d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-daily:181c6ec48a9969d52250",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-key-indicators:38ff00c2b0f21b37437c",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T19:20:12.831987Z",
+      "event_id": "statcan-key-indicators:9fc3545d27e5e826f9ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
     }
   ],
-  "generated_at": "2026-08-04T07:24:43.622995+00:00",
-  "run_id": "20260804T072443Z-c6802f6f",
+  "generated_at": "2026-08-04T19:20:12.831987+00:00",
+  "run_id": "20260804T192012Z-c3fe7121",
   "schema_version": "1.0"
 }
