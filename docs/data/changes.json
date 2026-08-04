@@ -1,94 +1,79 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "bc-legal-orders:517d672660cacd2e9e97",
       "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
-      "schema_version": "1.0",
-      "source_id": "bc-legislature-calendar",
-      "title": "In Session"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 188: WATER, LAND AND RESOURCE STEWARDSHIP Land, ss. 97 (1.2) and 103 The registration of the Titles in fee simple, for the lands shown on Schedule A, are removed from the operation o..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "cer-news:ff6c38caf8897d8df217",
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "bc-legal-orders:9f5e93de247488a24d8c",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – May 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 194: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective May 7, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in App..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "cer-news:1b39790b2d8327738d2b",
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "bc-legal-orders:5f7a847f7666ef5e67f7",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Refined Petroleum Products – May 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 196: FINANCE Land Tax Deferment, ss. 8 and 9; Budget Measures Implementation, 2026, s. 96 Effective January 1, 2026, the Interest Rate Regulation, B.C. Reg. 75/2017, is amended as se..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-03T19:22:19.658521Z",
-      "event_id": "finance-canada-news:627a46ab040fe1833526",
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "bcuc-proceedings:c69bcc6db5270fb0dad2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-2: GREENOUGH, M. (GREENOUGH) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "bcuc-proceedings:d999b0ac74aa40979f5d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-3: FOLEY, D. (FOLEY) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "finance-canada-news:5ee5153b06b724c0fe80",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Canada announces provisional safeguard tariff on imports of canned vegetables to protect Canadian producers"
+      "title": "Legislation passes to boost housing supply and help make housing more attainable for all Canadians"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "finance-canada-news:e7685f1762720d844c2e",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Legislation passes to implement measures from the Spring Economic Update 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-04T07:24:43.622995Z",
+      "event_id": "govtogether-bc:9c51246951714a29feb9",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Thompson River Watersheds Forest Landscape Plan"
     }
   ],
-  "generated_at": "2026-08-03T19:22:19.658521+00:00",
-  "run_id": "20260803T192219Z-e5d652cc",
+  "generated_at": "2026-08-04T07:24:43.622995+00:00",
+  "run_id": "20260804T072443Z-c6802f6f",
   "schema_version": "1.0"
 }
