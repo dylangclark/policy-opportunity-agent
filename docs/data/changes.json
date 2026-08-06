@@ -3,378 +3,119 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "published_at",
         "content_hash"
       ],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bc-legal-orders:ccac9416d5ee86cf5060",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 287: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective August 5, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs. Copyr..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
+      "detected_at": "2026-08-06T19:22:45.843503Z",
       "event_id": "bcuc-proceedings:816a4956724270728e3e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — E-19-26: Docket filing"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:13b28b1af5975875fb07",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:6d53c52e921f1049aafd",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — A-13: Order G-168-26 dismissing the Lord Robert Annex Parent Advisory Committee Motion"
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:a5701afa6547e698b9ed",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-181: HOUSE, Q. (HOUSE) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:a9d639ba1cfd3e7fdf9c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-182: SUTHERLAND, J. (SUTHERLAND) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:eef133366bfa2a0f936b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-183: WINTER, R. (WINTER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:668ff74bdc51aad659ab",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-184: OGILVIE, D. (OGILVIE) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:646426658834e85cda9e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-185: BOUMA, M. (BOUMA) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:846f6eea527a5d55f722",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-186: ABNEY, J. (ABNEY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:01f3eb2e45a3c0f29c80",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-187: CHAN, K. (CHAN, K.) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:62133b11751e69bee812",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-188: ALSTON-O’CONNOR, J. (ALSTON-O’CONNOR) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:144d522d4aa3634fb6f8",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-189: SHELLEY, K. (SHELLEY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:e7f71582a2958fb04d2f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-190: ISAAK, S. (ISAAK) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:24d1ef1dd18314240d44",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-191: FRASER, K. (FRASER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:08742e2a33f1c7bf1a2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-192: FREER, P. (FREER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:101ea97a49be10bc01b1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-193: BAYLEY, N. (BAYLEY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:74fb2f653cdd07761b28",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-194: HICKS, O. (HICKS) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:4e0cc6539a792cbb1b46",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-195: BURKE, H. (BURKE) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:d86f08a5b3d6882c5876",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-196: CAMERON, S. (CAMERON) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:5de79fa1e25c17c405d7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-197: ASCHE, D. (ASCHE) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:e3983c8acf0bc1bede58",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-198: PICKFORD, A. (PICKFORD) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:c12532dd6a5cbe105734",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-199: CLIFFORD, A. (CLIFFORD) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:26554da4c258f7acac91",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-200: KEENAN, A. (KEENAN, A.) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:63ac1c738c3340125b71",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-201: DARKO, J. (DARKO) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:68cc741f2f542ad14449",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-202: CHESTER, C. (CHESTER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:caa5793661a5e7fadbaf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-203: BOYER, W. (BOYER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:5ae683eb6106496632b8",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-204: JASPER, A. (JASPER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:1624c6845b876bbf47cd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-205: GOMEZ, S. (GOMEZ) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:1840a8384e9d8c478de5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-206: KERZNER, R. (KERZNER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:333055b3c6968c234764",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-207: BRINCK, D. (BRINCK) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:c11600d24f27ba8d2aff",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-4: Friends of Nelson Park submitting additional Letters of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:9ad1553e043b0723cf78",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-5: Friends of Nelson Park submitting additional Letters of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:1e01f013947aa477502c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — B-3: BC Hydro submitting confirmation of notice requirements in compliance with G-137-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:f489d97930fbf225a0a4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-6: PUTTONEN, A. (PUTTONEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:5e3b04d288dcfb98f458",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-7: EMMERSON, J. (EMMERSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:b5e34654f6aee99c3bf5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Cambie Gardens CPCN for the TES Expansion — C1-4: COV and SUCCESS submitting Legal Counsel Contact"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:b3a819dcac69c2e370af",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-2: Order G-146-26 establishing a regulatory timetable (with public notice)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:96f1cdfd20f8fc7809b6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Customer Choice Annual General Meeting — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "bcuc-proceedings:51488a8e1d92c1cac3dd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Customer Choice Annual General Meeting — A-2: BCUC submitting request for submissions to FEI and Licensed Gas Marketers"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "iaac-major-projects:64790ff5828904c28174",
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "iaac-major-projects:bde5311eb814c5e9151e",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Brandon Dispatchable Capacity Project: — The participant funding application period closed on July 29, 2026."
+      "title": "Marten Falls Community Access Road Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:8e38caf2921cd97f2095",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian foreign post indexes, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:44ed5c47bf1265fcf008",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sawmills, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-06T07:22:33.035080Z",
-      "event_id": "iaac-major-projects:6b7e25c56b9c6b9b3391",
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "finance-canada-news:5675119f555c182a6cef",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Joyce Lake Direct Shipping Iron Ore Project: — The Impact Assessment Agency of Canada posted the tailored impact statement guidelines and required plans to the proponent for the preparation of its impact statement."
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Courtice to make an important joint announcement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:029ebfb2bf81e735b391",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international merchandise trade, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:978b490de1a9e7501e91",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international trade in services, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:5f0d71cc027fd926c4cd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National culture indicators, <span class=\"refper\">fourth quarter 2025 and first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-daily:7bcd916b5c82ad802b23",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Individual and institutional investors in residential real estate, <span class=\"refper\">2022</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-key-indicators:5e389a4c8a2e2d199c0c",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Retail trade"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-06T19:22:45.843503Z",
+      "event_id": "statcan-key-indicators:7504ac684fc75605d445",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
     }
   ],
-  "generated_at": "2026-08-06T07:22:33.035080+00:00",
-  "run_id": "20260806T072233Z-a4014d8c",
+  "generated_at": "2026-08-06T19:22:45.843503+00:00",
+  "run_id": "20260806T192245Z-45986e93",
   "schema_version": "1.0"
 }
