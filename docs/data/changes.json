@@ -1,361 +1,160 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-key-indicators:aaebd4a1ddd9fcaba4dc",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bc-legal-orders:66e9b9b2ea556168ded9",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 288: EDUCATION AND CHILD CARE School, s. 11.1 (0.1) (b) Effective August 1, 2026, Brad Baker is appointed as superintendent of appeals for a term ending July 31, 2027, and MO 429/202..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:a7c7a782c2b9ed59e92e",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bc-legal-orders:fe5b0c46b2348f18d1ec",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A-7: BCUC-proposed IBR standards implementation plans and comment form"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 289: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective August 6, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:5fcf48e3d0a3edb4b8a0",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bc-legal-orders:79514047758ac95a24fa",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-1: Panel Appointment"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 368: Public Service, s. 15 Effective August 4, 2026, the individuals named are appointed to positions as set out in the Appendix and indicated in the Schedule: Sophia Frances Brownse..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:04ec114fa10c5241f732",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bc-legal-orders:3c2de41d97f589afd691",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-2: Order G-151-26 establishing a regulatory timetable"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 369: Public Service, s. 15 Effective August 4, 2026, the individuals named are appointed as set out in the Appendix and as indicated in the Schedule: Taylor Lee Cunningham — Administ..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:4d5f186b7cdaabc44d27",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:e3d5e16a8f2daeb022e8",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-2: FBC submitting 2027 Annual Review of Delivery Rates Application"
+      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:3ad42f2734c4d970179d",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:dcee42bead7421fdc6eb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-3: FBC submitting confirmation of public notice in compliance with G-151-26"
+      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — B-1: FORTISBC ENERGY INC. (FEI) – Application for Permanent Rates and Agreement for Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:cdf520cb2a7f3b4ed898",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:dc4d6a4d4edd11bbc976",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — G-169-26: Docket filing"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:d157b345d20348aa1990",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:e34fbdf9f711fc8f234f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-12: STOKES, T. (STOKES) – Letter of Comment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:65e0453ae7df73f55661",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:9c375c95855ca6765e18",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-14: PERNDL, H. (PERNDL) – Letter of Comment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:bbc097a67f9d34a5b8fe",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-15: GOOCH, P. (GOOCH) – Letter of Comment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:dded2ad877a27cd60566",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+      "title": "BC Hydro CPCN for the West End Substation Project — D-16: ROSENBERG, R. (ROSENBERG) – Letter of Comment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:6f9b95aa15813fa253d7",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:402890bf23fb2f21fc93",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+      "title": "BC Hydro MRS Assessment Report No. 19 — D-1-1: FBC confirming no additional comments"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
+      "event_id": "bcuc-proceedings:d507446e5a48f4790e2e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
+      "title": "BC Hydro MRS Assessment Report No. 19 — D-3: INNERGEX GROUP OF ENTITIES (INNERGEX) – Response to BCUC Information Request No. 1"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:0c5ce4d24f59aa0ff4f9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:ab31a3275fd9adc4bacc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener registration deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:f0d388f9aecb09bee26f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
       "event_id": "bcuc-proceedings:65e9020f9a01f95adaf9",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "FBC Revised PSPS Policy — A-1: Panel Appointment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
       "event_id": "bcuc-proceedings:723165217ade4dddd476",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "FBC Revised PSPS Policy — A2-1: Staff submission dated July 2, 2026 to FortisBC Inc. (FBC), containing correspondence filed by Donegal Wilson, MLA for Boundary-Similkameen regarding FBC’s Public Safety Power Shutoff Policy (PSPS)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
       "event_id": "bcuc-proceedings:4b3bd98ee32b75a6c8df",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "FBC Revised PSPS Policy — B-2: FBC submitting PSPS Policy Response to MLA Wilson"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
+      "detected_at": "2026-08-08T07:20:16.023231Z",
       "event_id": "bcuc-proceedings:b364eb8fcf616adb916e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "title": "FBC Revised PSPS Policy — L-16-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:ff458da6e52c386b677b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-11: REGIONAL DISTRICT OF CENTRAL OKANAGAN (RDCO) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "cer-news:1e0478e08b94a60cc5e7",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "New Contractor Oversight Guidance"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "gazette-part-i:a05743afa937fa20ba30",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 8, 2026, volume 160, number 32"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:95a37a52e11f42ad36a4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial chemicals and synthetic resins, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:42badef0baa655f14029",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:932777b0793bf83179d6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Residential Renovation Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-deadlines:4d249f661352dd707e65",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Fiscal 2026/27 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 — FAES response to IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-deadlines:ea6e1f9059ba267fe464",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC confirmation of compliance with public notice requirements, except social media reminder posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:6c5bb8f7af8f1fce6f4c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2024 Call for Power EPAs K’ómoks FN Request Confidential Info — G-165-26: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:cf54846218d0f265a378",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — FAES response to IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:a85452a6c13a06c065d5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:9d5178b0bd06c158d6dd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — A2-1: BCUC Staff Questions No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "bcuc-proceedings:ab2068047a5cef40d286",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI ColdStar Amending Agreement No. 5 — G-164-26: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "cer-news:e02c5074cae705b4af85",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canada’s refined petroleum product imports rose in 2025 as U.S. remained dominant supplier"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:5686fb04e964dd258aec",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Firearms and intimate partner violence in Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:62596635ab30deff8446",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Nunavut Air Exit Survey and Nunavut Cruise Exit Survey, <span class=\"refper\">third quarter 2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:6dabf580daca34e99ffc",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Commodity Survey, <span class=\"refper\">April 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-daily:b1d8bc2d725d286fa179",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Feeling the heat: More than half of Canadians are highly concerned about climate change"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-07T19:23:07.900304Z",
-      "event_id": "statcan-key-indicators:45012d7b1e07ce4b6b4d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Industrial product and raw materials price indexes"
     }
   ],
-  "generated_at": "2026-08-07T19:23:07.900304+00:00",
-  "run_id": "20260807T192307Z-0cc1f02b",
+  "generated_at": "2026-08-08T07:20:16.023231+00:00",
+  "run_id": "20260808T072016Z-52c25c17",
   "schema_version": "1.0"
 }
