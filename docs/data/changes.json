@@ -1,6 +1,34 @@
 {
-  "changes": [],
-  "generated_at": "2026-08-08T19:23:07.871998+00:00",
-  "run_id": "20260808T192307Z-abc49308",
+  "changes": [
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-09T07:17:56.994771Z",
+      "event_id": "bcuc-proceedings:a8cec32fcb4280ebb040",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-18: SUDDS, R. (SUDDS) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-09T07:17:56.994771Z",
+      "event_id": "bcuc-proceedings:33ad62e287bbdbd68378",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — A-3: BCUC Information Request No. 1 to FAES"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-09T07:17:56.994771Z",
+      "event_id": "iaac-major-projects:1f4c732d3092dbb28721",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Timiskaming Dam-Bridge of Quebec Replacement Project: — The Minister of the Environment, Climate Change and Nature issued the environmental assessment decision statement to the proponent."
+    }
+  ],
+  "generated_at": "2026-08-09T07:17:56.994771+00:00",
+  "run_id": "20260809T071756Z-575a426d",
   "schema_version": "1.0"
 }
