@@ -1,52 +1,218 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T07:22:30.710906Z",
-      "event_id": "bc-legal-orders:7264e0da034f1b45f8da",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "iaac-major-projects:bde5311eb814c5e9151e",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 184: WATER, LAND AND RESOURCE STEWARDSHIP Land, s. 31 The 2026 Transfer to Canada (Blueberry River First Nations) Order is made as described."
+      "source_id": "iaac-major-projects",
+      "title": "Marten Falls Community Access Road Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-10T07:22:30.710906Z",
-      "event_id": "bc-legal-orders:19d1b68a8fd28b5fcb0a",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 187: PUBLIC SAFETY AND SOLICITOR GENERAL Police, ss. 74, 74.1 and 74.2; Police Amendment, 2024, s. 131 (a) The South Coast British Columbia Transportation Authority Police Service Re..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T07:22:30.710906Z",
-      "event_id": "bcuc-proceedings:132896205b819e08f9b5",
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bcuc-proceedings:2bb48c7c98d513ba916b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-19: ELDRIDGE, M. (ELDRIDGE) – Letter of Comment"
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-12: GIBSON, C. (GIBSON) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "house-committees:538be91a90424f628f66",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "iaac-major-projects:6b52629e298558ff992b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Port of Quebec International Container Terminal Project: — The President of the Impact Assessment Agency of Canada has determined that the Port of Quebec International Container Terminal Project proposed by QSL International Ltd."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:7af8a68ea57b21ab1e08",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm product prices, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:38241d2739651ba4c0fb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Commodity Survey, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T07:22:30.710906Z",
-      "event_id": "bcuc-proceedings:f4f08e639f272d989baa",
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bc-regulations:561078ff6c9e4c325554",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-20: VIITAMAKI, K. (VIITAMAKI) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "266/2026 Amends B.C. Reg. 58/2005 — Correction Act Regulation 106/2026 June 26, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T07:22:30.710906Z",
-      "event_id": "bcuc-proceedings:d73d9ac5db28d59f2140",
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bc-regulations:7a136600266ee4d097cd",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "267/2026 Amends B.C. Reg. 265/2002 — Employment and Assistance for Persons with Disabilities Regulation, effective July 13, 2026 107/2026 June 26, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bc-regulations:65de3df9b6c54aa094e8",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "268/2026 Amends B.C. Reg. 263/2002 — Employment and Assistance Regulation, effective July 1 and August 1, 2026 and April 1, 2027 108/2026 June 26, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bc-regulations:bbb31e8d75a4029b567a",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Chief Gold Commissioner Amends B.C. Regs. 57/2025 — Temporary Mineral Land Reserve (No Mineral Claim Registrations) Regulation 74/2025 — Temporary Mineral Land Reserve (No Mineral or Placer Claim Registrations) Regulation 104/2026 June 25, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bc-regulations:a77ca73f6b090fbbf9a6",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "M244/2026 Enacts FortisBC Inc. Exemption Regulation 103/2026 June 24, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bcuc-deadlines:fdccaa3a5068eb9d3525",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "bcuc-proceedings:283c8f21b5818659b6a8",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — A-4: BCUC Information Request No. 1 to BC Hydro"
+      "title": "BC Hydro MRS Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "finance-canada-news:1a62ebf30bdc7c50fb7f",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Government pre-publishes regulations to prevent fraud and facilitate the next phase of consumer-driven banking"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "finance-canada-news:cbd5dcaf64a078dfd429",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Montréal to participate in an armchair discussion at the International Energy Agency Conference"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "house-committees:901a1b9052b2c7e4c583",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:172c474338560f0d6df2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:4673ccf19429d6901c21",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm Input Price Index, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:474a3f5758cfb4d03039",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm product prices, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:dac85e41f1793b6bcf57",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour Force Survey, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:2edf20ebf3536e609b2c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Police-reported hate crime and cybercrime, preliminary quarterly data, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-10T19:24:55.110474Z",
+      "event_id": "statcan-daily:e3df619a1bca31d5963f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Provisional death counts, <span class=\"refper\">January 2024 to April 2026</span>"
     }
   ],
-  "generated_at": "2026-08-10T07:22:30.710906+00:00",
-  "run_id": "20260810T072230Z-a4d0e2fe",
+  "generated_at": "2026-08-10T19:24:55.110474+00:00",
+  "run_id": "20260810T192455Z-c4aee22e",
   "schema_version": "1.0"
 }
