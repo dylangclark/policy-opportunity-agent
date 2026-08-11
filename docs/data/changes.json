@@ -3,216 +3,139 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "description",
-        "identifiers",
+        "lifecycle",
+        "start_at",
         "content_hash"
       ],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "iaac-major-projects:bde5311eb814c5e9151e",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:ce0e9d02ebc66b96bd34",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marten Falls Community Access Road Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 352: Public Service, s. 12 Effective August 10, 2026, Jade Dawn Ashbourne is appointed as an Assistant Deputy Minister, Ministry of Housing and Municipal Affairs."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:af45b457d26a44f9af24",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 365: Public Service, s. 12 Effective August 10, 2026, Kiersten Dawn Fisher is appointed as an Assistant Deputy Minister, Ministry of Education and Child Care."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bcuc-proceedings:2bb48c7c98d513ba916b",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:df292f31bb588801beef",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-12: GIBSON, C. (GIBSON) – Letter of Comment"
+      "title": "BC Hydro CPCN for the West End Substation Project — B-12-2: PUBLIC – BC Hydro submitting revised response to Lord Roberts PAC Information Request 3.7.1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "house-committees:538be91a90424f628f66",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "iaac-major-projects:6b52629e298558ff992b",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Port of Quebec International Container Terminal Project: — The President of the Impact Assessment Agency of Canada has determined that the Port of Quebec International Container Terminal Project proposed by QSL International Ltd."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:7af8a68ea57b21ab1e08",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:38241d2739651ba4c0fb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Commodity Survey, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bc-regulations:561078ff6c9e4c325554",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "266/2026 Amends B.C. Reg. 58/2005 — Correction Act Regulation 106/2026 June 26, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bc-regulations:7a136600266ee4d097cd",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "267/2026 Amends B.C. Reg. 265/2002 — Employment and Assistance for Persons with Disabilities Regulation, effective July 13, 2026 107/2026 June 26, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bc-regulations:65de3df9b6c54aa094e8",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "268/2026 Amends B.C. Reg. 263/2002 — Employment and Assistance Regulation, effective July 1 and August 1, 2026 and April 1, 2027 108/2026 June 26, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bc-regulations:bbb31e8d75a4029b567a",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Chief Gold Commissioner Amends B.C. Regs. 57/2025 — Temporary Mineral Land Reserve (No Mineral Claim Registrations) Regulation 74/2025 — Temporary Mineral Land Reserve (No Mineral or Placer Claim Registrations) Regulation 104/2026 June 25, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bc-regulations:a77ca73f6b090fbbf9a6",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M244/2026 Enacts FortisBC Inc. Exemption Regulation 103/2026 June 24, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bcuc-deadlines:fdccaa3a5068eb9d3525",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "bcuc-proceedings:283c8f21b5818659b6a8",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:74d0e3e0f776146dcf37",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — Proposed IBR Implementation Plans to Entities"
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-13: FIRST THINGS FIRST OKANAGAN (FTFO) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "finance-canada-news:1a62ebf30bdc7c50fb7f",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:767d5853ecd3de046f34",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government pre-publishes regulations to prevent fraud and facilitate the next phase of consumer-driven banking"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 199: ENERGY AND CLIMATE SOLUTIONS Low Carbon Fuels, s. 57 The Low Carbon Fuels (Technical) Regulation, B.C. Reg. 295/2023, is amended as set out in the Schedule."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "finance-canada-news:cbd5dcaf64a078dfd429",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:9d7081bf3534455d7b39",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Montréal to participate in an armchair discussion at the International Energy Agency Conference"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 202: CITIZENS' SERVICES Freedom of Information and Protection of Privacy, s. 76.1 Schedules 2 and 3 to the Freedom of Information and Protection of Privacy Act, R.S.B.C. 1996, c. 16..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "house-committees:901a1b9052b2c7e4c583",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:12d208aaeb36a5595195",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 203: EDUCATION AND CHILD CARE School, s. 168.001 The Child Care Order, MO 326/2020, is repealed and the Child Care Order set out in the Schedule is made."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:172c474338560f0d6df2",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:0a682ab06a9cc707864e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building permits, <span class=\"refper\">May 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 205: CITIZENS' SERVICES Freedom of Information and Protection of Privacy, s. 76.1 Schedule 2 of the Freedom of Information and Protection of Privacy Act, R.S.B.C. 1996, c. 165, is a..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:4673ccf19429d6901c21",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bc-legal-orders:2a891cf6cdb46b2872ae",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm Input Price Index, <span class=\"refper\">first quarter 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 206: TRANSPORTATION AND TRANSIT South Coast British Columbia Transportation Authority, s. 172 (1) Darryl Walker is appointed as a member of the screening panel constituted under sect..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:474a3f5758cfb4d03039",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:969a7793be2a431454db",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-21: DIXON, S. (DIXON) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:dac85e41f1793b6bcf57",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:4df184d0ba56cb18de2c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-22: JANG, J. (JANG) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:2edf20ebf3536e609b2c",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:e1ab1f993ec04dfa6658",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Police-reported hate crime and cybercrime, preliminary quarterly data, <span class=\"refper\">first quarter 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-23: FARNSWORTH, C. (FARNSWORTH) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-10T19:24:55.110474Z",
-      "event_id": "statcan-daily:e3df619a1bca31d5963f",
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "bcuc-proceedings:52bd23336dd49cb9e008",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Provisional death counts, <span class=\"refper\">January 2024 to April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-24: PAYNE-MCDONALD, K. (PAYNE-MCDONALD) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T07:23:34.707677Z",
+      "event_id": "iaac-major-projects:4dfbcfeff5e4271b14bc",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Yellowhead Copper Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its notice of impact assessment decision with reasons."
     }
   ],
-  "generated_at": "2026-08-10T19:24:55.110474+00:00",
-  "run_id": "20260810T192455Z-c4aee22e",
+  "generated_at": "2026-08-11T07:23:34.707677+00:00",
+  "run_id": "20260811T072334Z-c5835f6a",
   "schema_version": "1.0"
 }
