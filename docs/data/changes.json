@@ -1,141 +1,367 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:ce0e9d02ebc66b96bd34",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:15bd7644d9ad477bd3b4",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 352: Public Service, s. 12 Effective August 10, 2026, Jade Dawn Ashbourne is appointed as an Assistant Deputy Minister, Ministry of Housing and Municipal Affairs."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:af45b457d26a44f9af24",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 365: Public Service, s. 12 Effective August 10, 2026, Kiersten Dawn Fisher is appointed as an Assistant Deputy Minister, Ministry of Education and Child Care."
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — BCUC Information Request (IR) No. 1 to Metergy"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:df292f31bb588801beef",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:41f3f7e2f660a5f581d8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — B-12-2: PUBLIC – BC Hydro submitting revised response to Lord Roberts PAC Information Request 3.7.1"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Letters of comment deadline"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:74d0e3e0f776146dcf37",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:f63be7d323c5e01b60ed",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:f6e8d5e8782c237c630e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to provide Public Notice"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:ecd071a778dbd181c8ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with Public Notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:41ce97694f8bf3d9829a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to provide to BCUC Supplemental Information"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:68bb230f00ca57a89dce",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-13: FIRST THINGS FIRST OKANAGAN (FTFO) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — A-1: Panel Appointment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:767d5853ecd3de046f34",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 199: ENERGY AND CLIMATE SOLUTIONS Low Carbon Fuels, s. 57 The Low Carbon Fuels (Technical) Regulation, B.C. Reg. 295/2023, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:9d7081bf3534455d7b39",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 202: CITIZENS' SERVICES Freedom of Information and Protection of Privacy, s. 76.1 Schedules 2 and 3 to the Freedom of Information and Protection of Privacy Act, R.S.B.C. 1996, c. 16..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:12d208aaeb36a5595195",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 203: EDUCATION AND CHILD CARE School, s. 168.001 The Child Care Order, MO 326/2020, is repealed and the Child Care Order set out in the Schedule is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:0a682ab06a9cc707864e",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 205: CITIZENS' SERVICES Freedom of Information and Protection of Privacy, s. 76.1 Schedule 2 of the Freedom of Information and Protection of Privacy Act, R.S.B.C. 1996, c. 165, is a..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bc-legal-orders:2a891cf6cdb46b2872ae",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 206: TRANSPORTATION AND TRANSIT South Coast British Columbia Transportation Authority, s. 172 (1) Darryl Walker is appointed as a member of the screening panel constituted under sect..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:969a7793be2a431454db",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:1f48ecff3dfd8905b322",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-21: DIXON, S. (DIXON) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — A-2: Order G-171-26 establishing a regulatory timetable"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:4df184d0ba56cb18de2c",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:63f97b41a5d8a788426f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-22: JANG, J. (JANG) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — A2-1: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:e1ab1f993ec04dfa6658",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:3d22c5f532be12b5e22c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-23: FARNSWORTH, C. (FARNSWORTH) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — A2-2: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "bcuc-proceedings:52bd23336dd49cb9e008",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:3a376227ee14f976dc6c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-24: PAYNE-MCDONALD, K. (PAYNE-MCDONALD) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — A2-3: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 4188 Yew Street, Vancouver, BC regarding Metergy"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-11T07:23:34.707677Z",
-      "event_id": "iaac-major-projects:4dfbcfeff5e4271b14bc",
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:1cb48ff5953ff6588e32",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A2-4: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:6b9c4d751f6bc6531ddd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — BCUC Information Request (IR) No. 1 to Metergy"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:008c1e9aeb9e45db00ca",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:7a8f640286705b989e02",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:bc4fc07a65aaffbe4b04",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to provide Public Notice"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:8a0b4cf429232f59e769",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with Public Notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:af1f7b8967b2aec5f57f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to provide to BCUC Supplemental Information"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:c11c348d4a0c2e4414f9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-14: DEVONSHIRE, J. (DEVONSHIRE) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "govtogether-bc:9ecc7b053c23a4642d57",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Arts Council Strategy and Action Plan"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "iaac-major-projects:31aba4aee018c9487045",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Yellowhead Copper Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its notice of impact assessment decision with reasons."
+      "title": "Trigon Pacific LPG Project: — The Impact Assessment Agency of Canada issued the Summary of Issues to the proponent on August 4, 2026, for the preparation of its response to the summary of issues."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "statcan-daily:af8fad49191d15f364e6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric Power Selling Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "statcan-daily:af2926bff0b55f5580c9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-deadlines:bcdc11785cc194432b20",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2026 Long Term Gas Resource Plan — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:5fcf48e3d0a3edb4b8a0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:04ec114fa10c5241f732",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-2: Order G-151-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:4d5f186b7cdaabc44d27",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-2: FBC submitting 2027 Annual Review of Delivery Rates Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:3ad42f2734c4d970179d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-3: FBC submitting confirmation of public notice in compliance with G-151-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:cdf520cb2a7f3b4ed898",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:d157b345d20348aa1990",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:65e0453ae7df73f55661",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:6f9b95aa15813fa253d7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:0c5ce4d24f59aa0ff4f9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:ab31a3275fd9adc4bacc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener registration deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:f0d388f9aecb09bee26f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "bcuc-proceedings:5597ad398fe03ccadd31",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-11T19:19:25.629201Z",
+      "event_id": "gazette-part-i:a55967dcc9aabc8223eb",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, June 27, 2026, volume 160, number 26"
     }
   ],
-  "generated_at": "2026-08-11T07:23:34.707677+00:00",
-  "run_id": "20260811T072334Z-c5835f6a",
+  "generated_at": "2026-08-11T19:19:25.629201+00:00",
+  "run_id": "20260811T191925Z-c4d22ebb",
   "schema_version": "1.0"
 }
