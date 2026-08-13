@@ -1,109 +1,286 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "statcan-key-indicators:74b02a97e703352196db",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Building permits"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "bcuc-proceedings:af5d2251d076eb18442a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — D-4: CAPITAL POWER LIMITED PARTNERSHIP (CAPITAL POWER) – Letter of Comment on proposed IBR Standards implementation plans"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "cer-news:0ef46006312b5fc4b671",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canada’s heat pump market has grown nearly sixfold since 2000"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "gazette-part-ii:b4c5f6c504dacfc673ee",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, August 12, 2026, volume 159, number 16"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "iaac-major-projects:de537c106e9803676aee",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Cedar LNG Project: — An administrative update has been made to the Decision Statement."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "statcan-daily:d67864d0b3d018822c47",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Adult criminal court and youth court, preliminary quarterly data, <span class=\"refper\">fourth quarter of 2025/2026 </span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "statcan-daily:9ea7b2542593c604f772",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building permits, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "bcuc-deadlines:18537747aca41fcf8cdb",
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:b109b2e839c5d6e32498",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener registration deadline"
+      "title": "BC Utilities Commission — Fuel Price Transparency Act Administrative Expense Recovery Fee Framework — Initial submissions"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:ab973eeb1dc3f7f4658f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Fuel Price Transparency Act Administrative Expense Recovery Fee Framework — Reply submissions"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:b189281e1675db4be8eb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BCUC Information Request (IR) No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:8b7b9ffc22a9d84c7ab6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:77b7ef61cdf5b6a64472",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS final argument and reply, if any, to letters of comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:4797b27ff262ad062bc6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS public notice of Applications"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:100a74ff73345699b506",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS responses to IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-deadlines:0345aa43827e7c0184b5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:27f4ba08459991c5c5a7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC FPTA Fee Framework — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:a139cc023c4db797871d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC FPTA Fee Framework — A-2: Order G-172-26 establishing a regulatory timetable and Invitation for Submissions"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:b5015011a7e734a404aa",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC FPTA Fee Framework — Initial submissions"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:c036445678b9d1acf272",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC FPTA Fee Framework — Reply submissions"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:f976c40ec31cc51e647f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:de0bc0061a9b3deae19f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-2: Order G-173-26 establishing regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:83ce461cab3ea532d4f4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A2-1: BCUC Staff submitting BCUC letter dated July 17, 2026, with supplemental information request"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:66c7e015f3d7d35827a6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A2-2: BCUC Staff submitting BCUC email dated August 7, 2026, regarding potential confidentiality concerns"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:c6422d25decfbd003251",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-1: BLUESTEM MULTI-UTILITY SERVICES ULC (BMUS) – Application for Tariff Amendments effective July 1, 2024, for Natural Gas Service at Sun Rivers and Sonoma Pines"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:f988c97ebc86ad58bec3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-3: BMUS application for Tariff Amendments effective July 1, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:60b7df2ecccc8e7bfa83",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-4: BMUS submitting supplemental information"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:d46c6baba1b87240f65d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-5: BMUS submitting clarification request"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:e7caafb58c6750185b29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BCUC Information Request (IR) No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:6a2b90e7303283ad80c7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:a77a9fabc87e7bedc789",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS final argument and reply, if any, to letters of comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:224fda67a256848634a0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS public notice of Applications"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:224f31d462b8be009ea0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS responses to IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:b9757294ebc33694e818",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "iaac-major-projects:bde5311eb814c5e9151e",
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:6f4fe54b6bd62d4f232e",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marten Falls Community Access Road Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received and posted its executive summary."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-25: STEPHANSON, S. (STEPHANSON) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "statcan-daily:34520a19d7bf36c4eacd",
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:87fa8fd1e761af526a13",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-26: FERRI, S. (FERRI) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-12T19:17:39.282307Z",
-      "event_id": "statcan-daily:8b24b914942838ff6400",
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:e5dfa3eb8715c1319147",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Lending Services Price Index, <span class=\"refper\">first quarter 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-27: BAYER, R. (BAYER) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:0fe4af2db0c409e0e30c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C2-2: BCSEA submitting update to legal representative"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-13T07:15:39.285007Z",
+      "event_id": "bcuc-proceedings:647d58c71db0b7ed7340",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-2: Creative Energy submitting confirmation of public notice in compliance with Order G-146-26"
     }
   ],
-  "generated_at": "2026-08-12T19:17:39.282307+00:00",
-  "run_id": "20260812T191739Z-daacbce0",
+  "generated_at": "2026-08-13T07:15:39.285007+00:00",
+  "run_id": "20260813T071539Z-a040b9ed",
   "schema_version": "1.0"
 }
