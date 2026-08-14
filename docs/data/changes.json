@@ -1,205 +1,256 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bc-regulations:4c5ec081f8df25545f7c",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "source_url",
+        "topics",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:3d28853db3226af3ae92",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "373/2026 Amends B.C. Reg. 254/2016 — Reservists' Leave Regulation 150/2026 August 6, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-2: Replaced by B-2-1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bc-regulations:69ebffbc0bf3b218fb33",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "Chief Gold Commissioner Amends B.C. Regs. 271/2007 — Mineral Land Reserve (No Mineral or Placer Claim Registrations) Regulation 71/2010 — Mineral Land Reserve (No Mineral Claim Registrations) Regulation 151/2026 August 10, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bc-regulations:0d1702339ba5050f1ecc",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M291/2026 Enacts Island Generation Facility Exemption Regulation 149/2026 August 5, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "govtogether-bc:631305564cb856f6e01d",
-      "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "Williams Lake Timber Supply Area"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "house-committees:1a3190d763436bee5c17",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, August 17, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "iaac-major-projects:be34f1df9ac8d0d25cc6",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "15-Mile Processing Hub Project: —The proponent provided its response to the Summary of Issues to the Impact Assessment Agency of Canada."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "iaac-major-projects:949c5dd6fc5982edc14e",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Yellowhead Copper Project: — The Minister of the Environment, Climate Change and Nature approved the Government of British Columbia's (B.C."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "statcan-daily:8641961662f8948dc2e4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consulting Services Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "statcan-daily:a7cb00ee605c0821b84e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Commercial and Institutional Energy Use: Commercial and institutional buildings, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bc-regulations:a024e7a2f159536880a5",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M262/2026 Amends B.C. Reg. 314/2012 — School Calendar Regulation, effective July 1, 2026 109/2026 June 29, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-deadlines:7670d2a0a0ddbfa79fc3",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:de0a60a40f2a78f56230",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU public notice of Application"
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — BCUC Information Request (IR) No. 1 to KVULP"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-deadlines:6d4259a15038651da2f3",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:d891ce93efe08eb5c1fd",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU to provide supplemental information"
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:4247c763e4cb92644206",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:2d2558d8bcb255620e13",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:b88701e93da49518ef3f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP reply to letters of comment, if any, and final arguments"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:5ea72043947ad78bdccf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP responses to BCUC IR No.1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:cc078edd4df57b5ba5c3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — Kwasen Village Utility Limited Partnership (KVULP) public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-deadlines:28f6fc6944b3ff01eaf5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:cb8a0103f07ff5b0fa55",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — B-4: BC Hydro submitting response to letters of comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-2-1: Big White submitting revised Supplemental Information in compliance with Appendix B of G-163-26"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:816a4956724270728e3e",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:dda24d4dfe7e47eb917a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2026 Interim EPA for the Brandywine Creek Project — E-19-26: Docket filing"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-3: Big White submitting confirmation of public notice in compliance with G-163-26"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:e4c0eedc68368a4f29ad",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:a1276ae71df1355bc2c1",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU public notice of Application"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-2: Order G-174-26 establishing a regulatory timetable"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:69acd5b83bce8f40abcf",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:74d56647475dc5705a62",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU to provide supplemental information"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — BCUC Information Request (IR) No. 1 to KVULP"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:e3d5e16a8f2daeb022e8",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:0ff8601ee2ce82d89966",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — A-1: Panel Appointment"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:dcee42bead7421fdc6eb",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:223520dc4b5dccad1f25",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — B-1: FORTISBC ENERGY INC. (FEI) – Application for Permanent Rates and Agreement for Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with social media reminder posts"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "bcuc-proceedings:dc4d6a4d4edd11bbc976",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:cee552ddf4dbca53631c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Emterra at Mid Island Station in Nanaimo – Permanent Rates — G-169-26: Docket filing"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP reply to letters of comment, if any, and final arguments"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:1369ed0eabfcbef7d683",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP responses to BCUC IR No.1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:1e1d824589f69c962b57",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — Kwasen Village Utility Limited Partnership (KVULP) public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:198270a6e92a7c589395",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "house-committees:538be91a90424f628f66",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bc-legal-orders:24244891657d31e23691",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Wednesday, August 12, 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 189: Public Service, s. 15 Effective May 25, 2026, Landen James Kleisinger is appointed as a Deputy Communications Director in the Office of the Premier as described."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "statcan-daily:d0e9b8f6bd18403e2c34",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bc-legal-orders:e89b3b452420838b64cd",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric Power Selling Price Index, <span class=\"refper\">May 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 190: Public Service, s. 15 Effective May 25, 2026, Erin Kimberley Burchett is appointed as Press Secretary in the Office of the Premier as described."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-13T19:17:28.405852Z",
-      "event_id": "statcan-key-indicators:72448b07bbb9801c6907",
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:01d1365d2b5fe043cdfc",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Payroll employment, earnings and hours, and job vacancies"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-5: Order G-152-26 regarding response to COSCO late request to intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:f988c97ebc86ad58bec3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-3: BMUS application for Tariff Amendments effective July 1, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:99958854af5600e9c59b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "bcuc-proceedings:616b2157529f0bfba115",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-2: Order G-150-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "finance-canada-news:c07dd9c35d5d512e2a0d",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Alberta to make an important announcement at Jasper National Park"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "iaac-major-projects:6b52629e298558ff992b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Port of Quebec International Container Terminal Project: — The President of the Impact Assessment Agency of Canada has determined that the Port of Quebec International Container Terminal Project proposed by QSL International Ltd."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-14T07:24:20.631469Z",
+      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
     }
   ],
-  "generated_at": "2026-08-13T19:17:28.405852+00:00",
-  "run_id": "20260813T191728Z-9e3df945",
+  "generated_at": "2026-08-14T07:24:20.631469+00:00",
+  "run_id": "20260814T072420Z-fb772804",
   "schema_version": "1.0"
 }
