@@ -6,7 +6,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-15T19:22:51.582002Z",
+      "detected_at": "2026-08-16T07:22:30.781448Z",
       "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -18,7 +18,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-15T19:22:51.582002Z",
+      "detected_at": "2026-08-16T07:22:30.781448Z",
       "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -30,7 +30,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-15T19:22:51.582002Z",
+      "detected_at": "2026-08-16T07:22:30.781448Z",
       "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -42,7 +42,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-15T19:22:51.582002Z",
+      "detected_at": "2026-08-16T07:22:30.781448Z",
       "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -54,14 +54,104 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-15T19:22:51.582002Z",
+      "detected_at": "2026-08-16T07:22:30.781448Z",
       "event_id": "bc-legislature-calendar:d778de1251d99434849c",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
       "title": "In Session"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:59536f2e178dc867bb91",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — A-10: BCUC Information Request No. 3 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:01787f24ddd1cb0782b5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C1-4: BCSEA submitting Information Request No. 3 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:0caf921fbda5732b935f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C2-5: COSCO-CEC-RCIA submitting Information Request No. 3 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:b866ae88d41fcf72a881",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-36: SUKHIJA, G. (SUKHIJA) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:4463fac5d204e888b8b6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-37: FRIENDS OF NELSON PARK (FRIENDS OF NELSON PARK) – Letters of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:8757cd340a0d4750c85d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-38: DANCYGER, H. (DANCYGER) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:b60309d2245c15c507eb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-39: CATTERALL, J. (CATTERALL) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:70ed988ce41e42a469c2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-65: MCLAUGHLIN, T. (MCLAUGHLIN) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:a4bf875b5392a2f72a6c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C1-2: MoveUP submitting Information Request No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-16T07:22:30.781448Z",
+      "event_id": "bcuc-proceedings:fcc51eb7cc897b41a88c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-1: PUBLIC – FORTISBC ALTERNATIVE ENERGY SERVICES INC. (FAES) AND VILLAGE UTILITY LIMITED PARTNERSHIP (KVULP) (FAES-KVULP) – Application for a Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System"
     }
   ],
-  "generated_at": "2026-08-15T19:22:51.582002+00:00",
-  "run_id": "20260815T192251Z-3367074d",
+  "generated_at": "2026-08-16T07:22:30.781448+00:00",
+  "run_id": "20260816T072230Z-33b4c376",
   "schema_version": "1.0"
 }
