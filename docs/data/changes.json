@@ -1,124 +1,206 @@
 {
   "changes": [
     {
-      "change_type": "removed",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "iaac-major-projects:be34f1df9ac8d0d25cc6",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: —The proponent provided its response to the Summary of Issues to the Impact Assessment Agency of Canada."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-key-indicators:8c4109f2fa1fbf2c65c6",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-key-indicators:d10ed2882a4952694e88",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
+    },
+    {
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:faf7a2245fe1494e61c4",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "bcuc-proceedings:f42da69db813adb5521f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-40: NICKERSON, S. (NICKERSON) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — D-1: CHRISTIAN, R. (CHRISTIAN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "iaac-major-projects:6b7e25c56b9c6b9b3391",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Joyce Lake Direct Shipping Iron Ore Project: — The Impact Assessment Agency of Canada posted the tailored impact statement guidelines and required plans to the proponent for the preparation of its impact statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:dc4111e6fc9431a64473",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:c20474338f746827ae0a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:4796e510136ec29ba123",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:942b96e19c3049e805ed",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:07157849556b8b9a5879",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:faf489128c2b7ae8432f",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "bcuc-deadlines:75d2114312925c007c1d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-41: BIDDLE, D. (BIDDLE) – Letter of Comment"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2026 Long Term Gas Resource Plan — FEI final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:0089186f277c6faee48e",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "bcuc-proceedings:474206d8b8d1daa03110",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-42: ARAUJO, M. (ARAUJO) – Letter of Comment"
+      "title": "FEI 2026 Long Term Gas Resource Plan — FEI final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:4086bed84795581a71eb",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "finance-canada-news:142b8f284c4cd10e94c7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-43: CARPENTER, B. (CARPENTER) – Letter of Comment"
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to launch the 2026 pre-budget consultations"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:14b818132b48aa1803f9",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "iaac-major-projects:de537c106e9803676aee",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-44: MOULTON, M. (MOULTON) – Letter of Comment"
+      "source_id": "iaac-major-projects",
+      "title": "Cedar LNG Project: — An administrative update has been made to the Decision Statement."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:c1f019270179390d1a1b",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:7954e0c682e632bf81b1",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-66: ELKEI, A. (ELKEI) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:f03b08bf67b73196ba1b",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:5773c65203a6ec609f39",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-67: DES ROSIERS, F. (DES ROSIERS) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Canadian potato production (seeded area), <span class=\"refper\">2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:0c92872defaa0f84d48c",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:21f443c29af5f50a5b56",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C2-3: BCSEA submitting Information Request No. 1 to BC Hydro"
+      "source_id": "statcan-daily",
+      "title": "Construction Union Wage Rate Index, <span class=\"refper\">January to June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:8a9cf93035e120f4ae61",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:38268e670cb2f418738d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C4-2: CEC submitting Information Request No. 1 to BC Hydro"
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:88c8f65f9c674e8157b6",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:ac25b9e7a5b8a11aad76",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-2: AMPC submitting Information Request No. 1 to BC Hydro"
+      "source_id": "statcan-daily",
+      "title": "Study: The category \"English and French\" in the Census of Population language data"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:7d2ebb88f338d225af12",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:1ac67e1a00c72d8eee7f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C6-2: RCIA submitting Information Request No. 1 to BC Hydro"
+      "source_id": "statcan-daily",
+      "title": "Survey of Non-Bank Mortgage Lenders, <span class=\"refper\">first quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:fca21664568af32600ef",
+      "detected_at": "2026-08-17T19:23:09.556635Z",
+      "event_id": "statcan-daily:b4c3ca9f4e05eb485e63",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-1-1: CONFIDENTIAL – FAES-KVULP submitting Application for a CPCN for the Kwasen Village District TES"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-17T07:18:15.056650Z",
-      "event_id": "bcuc-proceedings:53a51cf54d0ef895604e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — D-9: SY, S. (SY) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">May 2026</span>"
     }
   ],
-  "generated_at": "2026-08-17T07:18:15.056650+00:00",
-  "run_id": "20260817T071815Z-5d2ff7f1",
+  "generated_at": "2026-08-17T19:23:09.556635+00:00",
+  "run_id": "20260817T192309Z-5becb888",
   "schema_version": "1.0"
 }
