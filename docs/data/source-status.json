@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T07:15:09.163683+00:00",
-  "run_id": "20260818T071509Z-512c5c84",
+  "generated_at": "2026-08-18T19:16:12.912413+00:00",
+  "run_id": "20260818T191612Z-a8fb5c6a",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 10,
       "http_status": 200,
@@ -18,7 +18,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 3,
       "http_status": 200,
@@ -32,7 +32,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 200,
@@ -48,35 +48,35 @@
       ]
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "statcan_schedule",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 131,
+      "event_count": 130,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 69,
+      "event_count": 70,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "statcan-daily",
       "source_name": "Statistics Canada The Daily",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -90,9 +90,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bcuc_deadlines",
-      "event_count": 82,
+      "event_count": 80,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -104,9 +104,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bcuc_proceedings",
-      "event_count": 306,
+      "event_count": 307,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -143,7 +143,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -157,7 +157,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -171,7 +171,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -185,7 +185,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -199,7 +199,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -213,7 +213,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "govtogether",
       "event_count": 55,
       "http_status": 200,
@@ -227,7 +227,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bc_laws_regulations",
       "event_count": 54,
       "http_status": 200,
@@ -241,7 +241,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "house_committees",
       "event_count": 0,
       "http_status": 200,
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "html_date_list",
       "event_count": 6,
       "http_status": 200,
@@ -271,7 +271,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -285,7 +285,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -298,7 +298,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 7,
       "http_status": 200,
@@ -312,7 +312,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "rss",
       "event_count": 2,
       "http_status": 200,
@@ -326,7 +326,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -339,7 +339,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -352,7 +352,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -366,7 +366,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -380,7 +380,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bc_orders",
       "event_count": 163,
       "http_status": 200,
@@ -394,21 +394,23 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "federal_regulatory_plans",
-      "event_count": 48,
+      "event_count": 2,
       "http_status": 200,
-      "retained_previous_count": 0,
+      "retained_previous_count": 46,
       "schema_version": "1.0",
       "source_id": "federal-forward-regulatory-initiatives",
       "source_name": "Federal forward regulatory initiative milestones",
-      "stale": false,
-      "status": "ok",
+      "stale": true,
+      "status": "partial",
       "url": "https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/regulatory-evaluation-results/government-wide-regulatory-plans-reports.html",
-      "warnings": []
+      "warnings": [
+        "Forward regulatory plan failed (https://tc.canada.ca/en/corporate-services/acts-regulations/forward-regulatory-plan): HTTPStatusError: Client error '403 Forbidden' for url 'https://tc.canada.ca/en/corporate-services/acts-regulations/forward-regulatory-plan'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -424,9 +426,9 @@
       ]
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "iaac_milestones",
-      "event_count": 3,
+      "event_count": 2,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -438,7 +440,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-18T07:15:09.163683Z",
+      "checked_at": "2026-08-18T19:16:12.912413Z",
       "collector": "house_committee_reports",
       "event_count": 63,
       "http_status": 200,
