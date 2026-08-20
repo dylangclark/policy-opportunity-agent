@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 45,
-    "events": 1018,
-    "opportunities": 922,
+    "changes": 36,
+    "events": 1013,
+    "opportunities": 911,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 17949,
-      "count": 45,
+      "bytes": 14324,
+      "count": 36,
       "path": "changes.json",
-      "sha256": "1092ebae47ad2db7751fc49b256425e47e0327fbcaaa6e85591102d1d00a3108"
+      "sha256": "13c8c5337d8d7463041f4a4a4d7cee99a7f4a16bca76f8d6c7ffe0d104ec36f0"
     },
     "events": {
-      "bytes": 1566249,
-      "count": 1018,
+      "bytes": 1561216,
+      "count": 1013,
       "path": "events.json",
-      "sha256": "3bc8e6068a8b31cd2986401027ea5ca8795861d24bf96cf5ac6ccd06028eac49"
+      "sha256": "65492449173af41abaf3cc8c7b5f21f5f1e869af91c994f31fa78325cc3270b0"
     },
     "heartbeat": {
-      "bytes": 249,
+      "bytes": 248,
       "path": "heartbeat.json",
-      "sha256": "fc5f64403d23a0d7e969cc5b8c75d29bd864589b5fda9d7c64697134c1dd0b71"
+      "sha256": "0cc7feee6888eb1e73a7ec73d12e8a224c6a7443f663ac274db4c423b06a564e"
     },
     "opportunities": {
-      "bytes": 1770455,
-      "count": 922,
+      "bytes": 1748661,
+      "count": 911,
       "path": "opportunities.json",
-      "sha256": "78adea50c07768a2577648cd635e4f3125708ef6ce71464d8f59f06e255628bd"
+      "sha256": "5647a345826f473107eea59e42ad18b9ffc9e38044b980d10bb0fc43a8ba5b72"
     },
     "source_status": {
-      "bytes": 19397,
+      "bytes": 15649,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "e1fbda5c39d8e4108a688b20b81daf2e14b15bf460438f7b926ecb8b929b36dc"
+      "sha256": "2958e3d71b00dd247e2ffbc55280a7cd6fe716260e115e3f39f8a10ceabccf36"
     }
   },
-  "generated_at": "2026-08-20T07:24:01.862010Z",
+  "generated_at": "2026-08-20T19:20:18.748309Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260820T072401Z-9e8a2edf",
+  "run_id": "20260820T192018Z-6704c6a3",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 10,
-    "ok": 16,
+    "not_modified": 5,
+    "ok": 21,
     "partial": 2
   },
   "status": "partial",

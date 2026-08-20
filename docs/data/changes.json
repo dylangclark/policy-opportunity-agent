@@ -1,412 +1,341 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:167e34426c5528425cbb",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bcuc-proceedings:f719e678ec7997834c38",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — B-4: BC Hydro submitting comments on the Proposed IBR Implementation Plans"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C4-2: COSCO-RCIA submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-key-indicators:805f80bf31c4b6c65fd2",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-key-indicators:ea4b8d5d29b8080d5e95",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:d7638607aeee6da23340",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:8aa78ef354fe1e76f176",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-3: Order G-178-26 accepting interveners, establishing proceeding scope and PCA cap"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 308: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective August 14, 2026, MO 61/2017 is amended in Schedule 3 — High Cost Drugs by adding the drugs listed in th..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:663607bcb278edcdb38e",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:551e356cca5cbe796722",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C1-1: BC SUSTAINABLE ENERGY ASSOCIATION (BCSEA) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 309: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective September 3, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:b399dfd90d3d9d534939",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:a068bd55620225929ec2",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C2-1: MOVEMENT OF UNITED PROFESSIONALS (MOVEUP) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 310: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferees, are designated as exempt from the payment of taxe..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:22ffe0b9f72c7f60c90f",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:b46a6d78794fe5793d9c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C3-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 375: Constitution, s. 11; Members' Conflict of Interest, s. 11 The Schedule to OIC 597/2024 is amended by repealing and replacing items 10, 12, 16 and 18, as set out in the Appendix..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:a55ab9b637bf0c215608",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:990de438a6565c50bcf8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C4-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY SOCIETY (COSCO) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 378: Public Service, s. 15 Effective August 24, 2026, Kathlene Louise Olivares is appointed as a Ministerial Advisor in the Office of the Minister of Emergency Management and Climate..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:d17552061525141f4b78",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-legal-orders:ddea05b6519088e85326",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C5-1: RESIDENTIAL CONSUMER INTERVENOR ASSOCIATION (RCIA) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 379: Public Service, s. 15 Effective August 24, 2026, the appointment of Julina Yvonne Marie Guilbault, made by OIC 302/2025, is rescinded, and Julina Yvonne Marie Guilbault is appoi..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bcuc-proceedings:887f2c8fd3f517b614fc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy 2026 Revenue Requirements for Core TES — G-179-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "iaac-major-projects:efe9bba4cf9de44b9e03",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Brandon Dispatchable Capacity Project: — The proponent provided its response to the Summary of Issues to the Impact Assessment Agency of Canada."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:3d459163ecf732a65fa0",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Commercial rents in key Canadian economic markets, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:01e68d43fea00c820a2e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:d4ea3375c89373980218",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:dd9978e09718fcf6ead7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:4e0ed464425279c08685",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:a440a912cf5c8493df2e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-regulations:dc4dff51a65dc1f7c41e",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "290/2026 Amends B.C. Reg. 252/2022 — Skilled Trades BC Regulation 110/2026 July 6, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bc-regulations:13d62d1a195c30742008",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "M268/2026 Amends B.C. Reg. 256/2022 — Minister's Skilled Trades BC Regulation 111/2026 July 6, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bcuc-deadlines:23a18d687cb57ba5c284",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Mandatory Reliability Standards Assessment Report No. 19 — Entities’ comments on the Proposed IBR Implementation Plans"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "bcuc-proceedings:c9d06dd7e1dd68b6535b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — Entities’ comments on the Proposed IBR Implementation Plans"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:2e19978215ab4022a234",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: CIIT — Canada–Taiwan Trade-Related Cooperation"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:6d607e38060557a277b8",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: CIIT — Eliminating Forced Labour from Canadian Supply Chains"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:afa554fc2ba49651ee9e",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: HESA — Supplementary Estimates (C), 2025-26: Vote 5c under Canadian Institutes of Health Research, Vote 10c under Department of Health, Votes 1c and 10c under Public Health Agency of Canada"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:8c665f31609f86d4d202",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: HESA — Supplementary Estimates (C), 2025-26: Vote 5c under Canadian Institutes of Health Research, Vote 10c under Department of Health, Votes 1c and 10c under Public Health Agency of Canada"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:12db36c21da59fb3605e",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: HUMA — Distribution of Federal Student Grants"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:b32252d16b67e962d326",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: INAN — 2025 Reports of the Auditor General of Canada: Follow-Up on Programs for First Nations"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:ea10120555f5e9446290",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:c90105d646d3227e8695",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: INDU — Improving Productivity in Canada"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:aaff178450192bb342cd",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: OGGO — Appointment of the Parliamentary Budget Officer"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:0ae4329ff20455222756",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: PACP — Cost Overruns on Information Technology Contracts"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:0a482313ee26e6af072c",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response due: CIIT — Eliminating Forced Labour from Canadian Supply Chains"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:d11d339a57b304a9819f",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response due: INAN — 2025 Reports of the Auditor General of Canada: Follow-Up on Programs for First Nations"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
       "event_id": "house-committee-reports:dcb352a90afe158e0c1c",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response due: INDU — Improving Productivity in Canada"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "iaac-major-projects:8b6b93d63c5a394283bc",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:8b534a273f0f6486454d",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Rook I Project: - As determined in the Summary of Decision on March 4th 2026, a licence was granted for NexGen Energy Ltd's (NexGen) Rook I project."
+      "source_id": "statcan-daily",
+      "title": "Airport activity changes course in 2025"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bc-legal-orders:858827b6bd712d0af091",
+      "detected_at": "2026-08-20T19:20:18.748309Z",
+      "event_id": "statcan-daily:c0cf6d8bb5f62a620f48",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 192: WATER, LAND AND RESOURCE STEWARDSHIP Ministry of Lands, Parks and Housing, s. 6 Approval is given to the Minister of Environment and Parks and the Minister of Water, Land and Re..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bc-legal-orders:b3d4243db73493cb6365",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 194: ENVIRONMENT AND PARKS Environment and Land Use, s. 7 The following orders are repealed: (a) the Environmental Assessment (Participating Indigenous Nations — Alaska) Order, OIC 3..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-deadlines:117be294dbc08ed736ff",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Fiscal 2026/27 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-deadlines:7b9ffce5a62812491107",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:a5ccc06e3fdf7c887b4d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — C4-3: Lord Roberts PAC submitting Request for Procedural Direction"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:6f0d4977ba604065728a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-58: PACKER, S. (PACKER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:3bac5c88be07cfac2f14",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-59: THRESHER, M. (THRESHER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:72414d7890bca34bcc9a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-60: BOURGEOIS, S. (BOURGEOIS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:7485226b39f9c092a2b6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-61: DERDEYN, S. (DERDEYN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:83c304ba48a124dff1b7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-62: WALKER, A. (WALKER) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:0f0995103f1876ffc0c2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-63: HUDSON, K. (HUDSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:afc9f840d65d2d63b5e0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-64: GANJAEI, S. (GANJAEI) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:789bf20f365f7376b2e3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:b4fb8e551f549a2c3adc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Customer Choice Annual General Meeting — B-2: FEI submission regarding AGM process"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:cc071200f1b73b21ebe5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Customer Choice Annual General Meeting — D-1: EASY ENERGY (EASY ENERGY) – Submission regarding AGM Process"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:367afaea796b75f14883",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-10: FEI submitting response to MoveUP Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:b43bbe1041917502e944",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-4-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:5b04233017d4dde184e9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-4: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:ec908f255548117ae80e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-5: FEI submitting response to BCSEA-MS2S Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:27d85fbb3b2c85a90ce6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-6: FEI submitting response to CEC-COSCO-RCIA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:ad52475789ec53fc5cdd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-7: FEI submitting response to FNCOC-NRRM Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:bff4e3a47a1dd8d6d552",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-8: FEI submitting response to FNEMC-HBFN Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:f6e4c4e73b54e2b468b7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — B-9: FEI submitting response to LIEC-Saanich-Richmond Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-20T07:24:01.862010Z",
-      "event_id": "bcuc-proceedings:23fd93b971c99caeca31",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">May 2026</span>"
     }
   ],
-  "generated_at": "2026-08-20T07:24:01.862010+00:00",
-  "run_id": "20260820T072401Z-9e8a2edf",
+  "generated_at": "2026-08-20T19:20:18.748309+00:00",
+  "run_id": "20260820T192018Z-6704c6a3",
   "schema_version": "1.0"
 }
