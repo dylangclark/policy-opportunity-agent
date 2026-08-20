@@ -1,82 +1,80 @@
 {
-  "generated_at": "2026-08-19T19:17:42.717018+00:00",
-  "run_id": "20260819T191742Z-a09e8887",
+  "generated_at": "2026-08-20T07:24:01.862010+00:00",
+  "run_id": "20260820T072401Z-9e8a2edf",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
-      "event_count": 10,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 10,
       "schema_version": "1.0",
       "source_id": "boc-upcoming",
       "source_name": "Bank of Canada upcoming events",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/upcoming-events/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
-      "event_count": 3,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 3,
       "schema_version": "1.0",
       "source_id": "boc-press-releases",
       "source_name": "Bank of Canada press releases",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 0,
-      "http_status": 200,
+      "http_status": 304,
       "retained_previous_count": 2,
       "schema_version": "1.0",
       "source_id": "boc-speeches",
       "source_name": "Bank of Canada speeches",
-      "stale": true,
-      "status": "partial",
+      "stale": false,
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/speeches/feed/",
-      "warnings": [
-        "Collector returned no events; retained the last good source data."
-      ]
+      "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "statcan_schedule",
-      "event_count": 130,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 130,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
-      "event_count": 70,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 70,
       "schema_version": "1.0",
       "source_id": "statcan-daily",
       "source_name": "Statistics Canada The Daily",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom",
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -90,9 +88,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bcuc_deadlines",
-      "event_count": 78,
+      "event_count": 76,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -104,9 +102,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bcuc_proceedings",
-      "event_count": 307,
+      "event_count": 294,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -124,11 +122,12 @@
         "Application 1426: no recent timetable or docket rows parsed.",
         "Application 1403: no recent timetable or docket rows parsed.",
         "Application 1406: no recent timetable or docket rows parsed.",
+        "Application 1457: no recent timetable or docket rows parsed.",
         "Application 1456: no recent timetable or docket rows parsed."
       ]
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -142,7 +141,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -156,7 +155,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -170,7 +169,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -184,7 +183,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -198,7 +197,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -212,7 +211,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "govtogether",
       "event_count": 53,
       "http_status": 200,
@@ -226,7 +225,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bc_laws_regulations",
       "event_count": 54,
       "http_status": 200,
@@ -240,7 +239,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "house_committees",
       "event_count": 0,
       "http_status": 200,
@@ -256,7 +255,7 @@
       ]
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "html_date_list",
       "event_count": 6,
       "http_status": 200,
@@ -270,7 +269,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -284,7 +283,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -297,7 +296,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 7,
       "http_status": 200,
@@ -311,7 +310,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "rss",
       "event_count": 2,
       "http_status": 200,
@@ -325,7 +324,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -338,7 +337,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -351,7 +350,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -365,7 +364,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -379,9 +378,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bc_orders",
-      "event_count": 163,
+      "event_count": 161,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -393,7 +392,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "federal_regulatory_plans",
       "event_count": 48,
       "http_status": 200,
@@ -407,7 +406,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -423,9 +422,9 @@
       ]
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "iaac_milestones",
-      "event_count": 2,
+      "event_count": 3,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -437,18 +436,31 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-08-19T19:17:42.717018Z",
+      "checked_at": "2026-08-20T07:24:01.862010Z",
       "collector": "house_committee_reports",
       "event_count": 63,
       "http_status": 200,
-      "retained_previous_count": 0,
+      "retained_previous_count": 13,
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "source_name": "House committee reports and government responses",
-      "stale": false,
-      "status": "ok",
+      "stale": true,
+      "status": "partial",
       "url": "https://www.ourcommons.ca/Committees/en/Work?show=reports",
-      "warnings": []
+      "warnings": [
+        "House report list failed (https://www.ourcommons.ca/committees/en/Work?pageNumber=2&pageSize=10&parl=45&ses=1&show=reports&sortBySelected=LatestEvents): ReadTimeout: The read operation timed out",
+        "House report list failed (https://www.ourcommons.ca/committees/en/Work?pageNumber=7&pageSize=10&parl=45&ses=1&show=reports&sortBySelected=LatestEvents): ReadTimeout: The read operation timed out",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/INDU/report-4/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/INDU/Reports/RP14200969/indurp04/indurp04-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/FAAE/report-9/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/FAAE/Reports/RP14092807/faaerp09/faaerp09-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/FAAE/report-10/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/FAAE/Reports/RP14167169/faaerp10/faaerp10-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/INAN/report-5/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/INAN/Reports/RP14143004/inanrp05/inanrp05-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/ENVI/report-5/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/ENVI/Reports/RP14096003/envirp05/envirp05-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/LANG/report-5/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/LANG/Reports/RP14122134/langrp05/langrp05-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/SECU/report-4/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/SECU/Reports/RP14107685/securp04/securp04-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/HUMA/report-10/): ReadTimeout: The read operation timed out",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/RNNR/report-3/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/RNNR/Reports/RP14102565/rnnrrp03/rnnrrp03-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
+        "House report detail failed (https://www.ourcommons.ca/DocumentViewer/en/45-1/FAAE/report-8/): HTTPStatusError: Server error '502 Bad Gateway' for url 'https://www.ourcommons.ca/Content/Committee/451/FAAE/Reports/RP14079638/faaerp08/faaerp08-e.pdf'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502"
+      ]
     }
   ]
 }
