@@ -1,154 +1,88 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-key-indicators:6872443c68888574b8f3",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Retail trade"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "finance-canada-news:db784a955b205dfefcfa",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne to welcome India's Minister of Finance and Corporate Affairs to Canada to reinforce bilateral ties"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "gazette-part-i:899b67f7cbf7bfe083e3",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 22, 2026, volume 160, number 34"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:b3fec9a0b72505ca59a5",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Integrating the Canadian Health Measures Survey and administrative data for use in Statistics Canada's research data centres"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:5a0da9ab329adedae9be",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly civil aviation statistics, <span class=\"refper\">third quarter 2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:df12c93974d6f721d5f8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Refined petroleum products, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:e9b4b8e84bdb30722ed3",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "bcuc-deadlines:b041281c7e6926dbf95d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the West End Substation Project — Intervener Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "bcuc-deadlines:4797b27ff262ad062bc6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS public notice of Applications"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "bcuc-proceedings:3f15fc5cbce0014f71fd",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:309b14dbb3f8270b53cb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — Intervener Final Argument"
+      "title": "BCUC FPTA Fee Framework — D-2: DALL CONTRACTING LTD. (DALL CONTRACTING) – submission regarding the Draft Fee Framework"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "iaac-major-projects:390c6a8623a10b44971b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Sorel-Tracy Port Terminal Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "bcuc-proceedings:224fda67a256848634a0",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:5458d37abe0263d0da95",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS public notice of Applications"
+      "title": "BC Hydro CPCN for the West End Substation Project — A-11: Order G-158-26 amending the regulatory timetable"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "gazette-part-i:b76c132addb7c07ecf03",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:b51331a78be21c0bb88e",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, July 4, 2026, volume 160, number 27"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-72: GILMOUR, L. (GILMOUR) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:5e3502b7671c8f1e39d3",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:6b2224cd49f9e033e905",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic and Social Reports, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-73-1: Muir submitting additional Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:e61edf8ef95429171a3e",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:6245e45d2606cbe9f81d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Passenger bus and urban transit, <span class=\"refper\">2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-daily:24df28fa9f9bf6a2204b",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:c6422d25decfbd003251",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Police-reported crime statistics in Canada, <span class=\"refper\">2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-1: BLUESTEM MULTI-UTILITY SERVICES ULC (BMUS) – Application for Tariff Amendments effective July 1, 2024, for Natural Gas Service at Sun Rivers and Sonoma Pines"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-21T19:15:11.612225Z",
-      "event_id": "statcan-key-indicators:aaebd4a1ddd9fcaba4dc",
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "bcuc-proceedings:60b7df2ecccc8e7bfa83",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-4: BMUS submitting supplemental information"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-22T07:15:19.148388Z",
+      "event_id": "iaac-major-projects:6b7e25c56b9c6b9b3391",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Joyce Lake Direct Shipping Iron Ore Project: — The Impact Assessment Agency of Canada posted the tailored impact statement guidelines and required plans to the proponent for the preparation of its impact statement."
     }
   ],
-  "generated_at": "2026-08-21T19:15:11.612225+00:00",
-  "run_id": "20260821T191511Z-b52cf9a7",
+  "generated_at": "2026-08-22T07:15:19.148388+00:00",
+  "run_id": "20260822T071519Z-e3a0749e",
   "schema_version": "1.0"
 }
