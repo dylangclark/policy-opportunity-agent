@@ -3,95 +3,23 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:bfe82b08aab77a54312a",
+      "detected_at": "2026-08-23T19:17:25.517494Z",
+      "event_id": "bc-regulations:e55fc7f8f6e922fac7b7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-1: Friends of Nelson Park submitting additional Letters of Comment"
+      "source_id": "bc-regulations",
+      "title": "294/2026 Amends B.C. Reg. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, effective February 18, 2026 112/2026 July 9, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:60e35a1482ee57242f39",
+      "detected_at": "2026-08-23T19:17:25.517494Z",
+      "event_id": "bc-regulations:3ebd69d329c492a8d062",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-37-2: Friends of Nelson Park submitting additional Letters of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:ff17f8ac21aa79dfc387",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-74: KRAUSE, A. (KRAUSE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:1ed5e6cc13e0c79670d0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-75: BOYLE, M. (BOYLE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:60b3e0e314e46a646357",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-76: KNEZEVIC, M. (KNEZEVIC) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:4e6dbc5845c4d91d2ddb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-77: THOMPSON, S. (THOMPSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:d57abf59d49ec2665c9a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-78: MOSES, K. (MOSES) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:691624dc0aac0d469049",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — D-4: CANADIAN ASSOCIATION OF PETROLEUM PRODUCERS (CAPP) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "bcuc-proceedings:b592b3de9484199f6eb3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — A-4: BCUC Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T07:20:40.339131Z",
-      "event_id": "iaac-major-projects:949c5dd6fc5982edc14e",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Yellowhead Copper Project: — The Minister of the Environment, Climate Change and Nature approved the Government of British Columbia's (B.C."
+      "source_id": "bc-regulations",
+      "title": "M273/2026 Amends B.C. Reg. 12/2015 — Wildlife Management Areas Regulation 115/2026 July 9, 2026"
     }
   ],
-  "generated_at": "2026-08-23T07:20:40.339131+00:00",
-  "run_id": "20260823T072040Z-8f82bd19",
+  "generated_at": "2026-08-23T19:17:25.517494+00:00",
+  "run_id": "20260823T191725Z-db87699e",
   "schema_version": "1.0"
 }
