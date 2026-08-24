@@ -1,25 +1,184 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-23T19:17:25.517494Z",
-      "event_id": "bc-regulations:e55fc7f8f6e922fac7b7",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "294/2026 Amends B.C. Reg. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, effective February 18, 2026 112/2026 July 9, 2026"
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "finance-canada-news:7bcfe7c0c90328f5ec4e",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Montréal to host pre-budget consultations ahead of Budget 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-23T19:17:25.517494Z",
-      "event_id": "bc-regulations:3ebd69d329c492a8d062",
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:bae221348d8bd0f6a088",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M273/2026 Amends B.C. Reg. 12/2015 — Wildlife Management Areas Regulation 115/2026 July 9, 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 213: EDUCATION AND CHILD CARE Early Learning and Child Care, s. 5 Effective May 24, 2026, various individuals are appointed as members of the Provincial Child Care Council, for terms..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:651149825d340b64bffa",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 214: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 68 The Peace River Regional District Emergency Measures Order is made."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:0b15617350d18286acfd",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 219: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferee, are designated as exempt from the payment of taxes..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:cae34ca91cf75a47f175",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 221: HEALTH Pharmaceutical Services; Drug Price Regulation, s. 7 (1) Effective May 27, 2026, MO 61/2017 is amended by adding the drugs listed in Appendix 1 to Schedule 3 — High Cost..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:f88af767bd81cc050612",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 222: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, ss. 108 and 109 (a) The Hunting Regulation, B.C. Reg. 190/84, is amended as set out in Appendix 1, (b) the Limited Entry Hunting R..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:41b5a6fa4bbf530dde8c",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 204: Public Service, s. 15 Effective May 25, 2026, Anna Marie Bundschuh is appointed as a Ministerial Advisor in the Office of the Premier for a term ending September 19, 2026, as de..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bc-legal-orders:2adb949b739820af1926",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 206: ATTORNEY GENERAL Environmental Management, ss. 93 (3) and 93.1 (1) (b); Forest and Range Practices, ss. 140.1 (3) and 140.2 (b); Energy Resource Activities, ss. 19 (3) and 20 (b..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bcuc-proceedings:24568bcf03516279e6ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — F-17-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bcuc-proceedings:59166ea6196c9bc561d9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-79: CLARKE, M. (CLARKE) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bcuc-proceedings:47fac0e115fe6add820a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-80: GOGO, J. (GOGO) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bcuc-proceedings:2a22ac3e7568b0f198de",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-81: DUQUETTE, E. (DUQUETTE) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "event_id": "bcuc-proceedings:e94f0b44a936fdf7c77d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-2: FEI submitting 2027 Annual Review of Delivery Rates Application"
     }
   ],
-  "generated_at": "2026-08-23T19:17:25.517494+00:00",
-  "run_id": "20260823T191725Z-db87699e",
+  "generated_at": "2026-08-24T07:18:24.343501+00:00",
+  "run_id": "20260824T071824Z-284057ab",
   "schema_version": "1.0"
 }
