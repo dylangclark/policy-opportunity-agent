@@ -6,7 +6,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
       "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -18,7 +18,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
       "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -30,7 +30,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
       "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -42,7 +42,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
       "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -54,131 +54,350 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
       "event_id": "bc-legislature-calendar:d778de1251d99434849c",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
       "title": "In Session"
     },
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "iaac-major-projects:efe9bba4cf9de44b9e03",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Brandon Dispatchable Capacity Project: — The proponent provided its response to the Summary of Issues to the Impact Assessment Agency of Canada."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "iaac-major-projects:390c6a8623a10b44971b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Sorel-Tracy Port Terminal Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-key-indicators:5fa1f9e3acb544a9c629",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Quarterly financial statistics for enterprises"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "finance-canada-news:7bcfe7c0c90328f5ec4e",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Montréal to host pre-budget consultations ahead of Budget 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:bae221348d8bd0f6a088",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 213: EDUCATION AND CHILD CARE Early Learning and Child Care, s. 5 Effective May 24, 2026, various individuals are appointed as members of the Provincial Child Care Council, for terms..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:651149825d340b64bffa",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 214: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 68 The Peace River Regional District Emergency Measures Order is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:0b15617350d18286acfd",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 219: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferee, are designated as exempt from the payment of taxes..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:cae34ca91cf75a47f175",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 221: HEALTH Pharmaceutical Services; Drug Price Regulation, s. 7 (1) Effective May 27, 2026, MO 61/2017 is amended by adding the drugs listed in Appendix 1 to Schedule 3 — High Cost..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:f88af767bd81cc050612",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 222: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, ss. 108 and 109 (a) The Hunting Regulation, B.C. Reg. 190/84, is amended as set out in Appendix 1, (b) the Limited Entry Hunting R..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:41b5a6fa4bbf530dde8c",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 204: Public Service, s. 15 Effective May 25, 2026, Anna Marie Bundschuh is appointed as a Ministerial Advisor in the Office of the Premier for a term ending September 19, 2026, as de..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bc-legal-orders:2adb949b739820af1926",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 206: ATTORNEY GENERAL Environmental Management, ss. 93 (3) and 93.1 (1) (b); Forest and Range Practices, ss. 140.1 (3) and 140.2 (b); Energy Resource Activities, ss. 19 (3) and 20 (b..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bcuc-proceedings:24568bcf03516279e6ba",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:21f89e89f467e1a8ce60",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — F-17-26: Docket filing"
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:8772aff8063bc7a0d0a2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A2-1: BCUC Staff Questions No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:032d56360880be902d2d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — G-180-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:ee0623290f0f96fd3b79",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — G-183-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "gazette-part-i:1c15c45bbc9e96848e3c",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, August 24, 2026, volume 160, extra number 7"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:6013cbee1ee60351f2b5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Livestock estimates, <span class=\"refper\">July 1, 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:dc4ddfa55a60f9af48e8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:44e31cd446d9d480f676",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:7deb77ab7213ef13abdb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Quarterly financial statistics for enterprises, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bcuc-proceedings:59166ea6196c9bc561d9",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:f67b20caa2e49b4eec02",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-79: CLARKE, M. (CLARKE) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "298/2026 Enacts Direction to the British Columbia Utilities Commission Respecting the Exemption of Independent Power Producers 123/2026 July 10, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bcuc-proceedings:47fac0e115fe6add820a",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:70b9ce64603d7b78a0ef",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-80: GOGO, J. (GOGO) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "299/2026 Amends B.C. Reg. 93/2025 — Renewable Energy Projects (Streamlined Permitting) Regulation 122/2026 July 10, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bcuc-proceedings:2a22ac3e7568b0f198de",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:dfaa9151ace2a682e245",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-81: DUQUETTE, E. (DUQUETTE) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "301/2026 Amends B.C. Reg. 145/2019 — Natural Gas Tax Credit Regulation, effective June 1, 2025 118/2026 July 10, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-24T07:18:24.343501Z",
-      "event_id": "bcuc-proceedings:e94f0b44a936fdf7c77d",
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:4e038bbed0ec9a704d44",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "303/2026 Amends B.C. Reg. 93/2013 — Designated Accommodation Area Tax Regulation 120/2026 July 10, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:7cb58b27867b86f551fc",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "304/2026 Enacts K’ih ts aaʔ dz e Designated Area No. 1 for the period ending June 30, 2030 116/2026 July 10, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:2713729dba3f9613f70f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "311/2026 Amends B.C. Regs. 427/94 — Health Care Employers Regulation 84/2003 — Social Services Employers Regulation 121/2026 July 10, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bc-regulations:8a24c6a68c04114d61ed",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "313/2026 Amends B.C. Regs. 422/90 — Offence Act Forms Regulation, parts effective August 14, 2026 and January 1, 2029 124/2005 — Federal Contraventions Forms Regulation, parts effective August 14, 2026 and January 1, 2029 119/2026 July 10, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-deadlines:93b195493480aa71d4f5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Fiscal 2026/27 Annual Cost of Service Rate for the Thermal Energy Service to Delta School District No. 37 — FAES final argument and response to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-deadlines:305c4d297c910c118051",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC decision on intervener registrations and instructions on proceeding scope"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:5d610ababb1c09eb5f75",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-2: FEI submitting 2027 Annual Review of Delivery Rates Application"
+      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — FAES final argument and response to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:d152011b07d95fb20789",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI RS 48 LNG and Renewable LNG Service — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:d51b68c40e32a3063722",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI RS 48 LNG and Renewable LNG Service — B-1: FORTISBC ENERGY INC. (FEI) – Rate Schedule 48 Liquefied Natural Gas and Renewable LNG Sales, Transport, Dispensing and Jetty Service Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "bcuc-proceedings:53a6ecc410411c518cd5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI RS 48 LNG and Renewable LNG Service — G-177-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "cer-news:1e0478e08b94a60cc5e7",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "New Contractor Oversight Guidance"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:d04bb619d926411b13d8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building construction price indexes, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:01954487ee5770fe5708",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:b6a97b6e239fcb27f9b2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:e77b1183b465c39d001d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:01615c0115a65289a4dc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:81ad012380eb0de74fa7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:f8f6a6ff39244462d9e5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:672320fb46c22026a064",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:99141d07b398ec9066fd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-24T19:16:20.196716Z",
+      "event_id": "statcan-daily:c4078d12512d50f83521",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">June 2026</span>"
     }
   ],
-  "generated_at": "2026-08-24T07:18:24.343501+00:00",
-  "run_id": "20260824T071824Z-284057ab",
+  "generated_at": "2026-08-24T19:16:20.196716+00:00",
+  "run_id": "20260824T191620Z-311b1395",
   "schema_version": "1.0"
 }
