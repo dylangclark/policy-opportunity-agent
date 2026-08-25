@@ -1,60 +1,115 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-25T07:19:39.852885Z",
-      "event_id": "bc-legal-orders:990de438a6565c50bcf8",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 378: Public Service, s. 15 Effective August 24, 2026, Kathlene Louise Olivares is appointed as a Ministerial Advisor in the Office of the Minister of Emergency Management and Climate..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-08-25T07:19:39.852885Z",
-      "event_id": "bc-legal-orders:ddea05b6519088e85326",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 379: Public Service, s. 15 Effective August 24, 2026, the appointment of Julina Yvonne Marie Guilbault, made by OIC 302/2025, is rescinded, and Julina Yvonne Marie Guilbault is appoi..."
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-25T07:19:39.852885Z",
-      "event_id": "bcuc-proceedings:baed865a3c691bc7da9a",
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-proceedings:c34b819f597d69af199a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro MRS Assessment Report No. 19 — A2-1: BCUC Staff submitting NERC webinar on new IBR-related standards effective in 2026 and 2027"
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-6: BMUS submitting confirmation of public notice in compliance with Directive 2 of Order G-173-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-25T07:19:39.852885Z",
-      "event_id": "finance-canada-news:74fb455f23931f2bb9af",
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "finance-canada-news:2b57534a7fca679223e6",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister of Finance meets with provincial and territorial counterparts on Canada’s response to latest U.S. tariffs"
+      "title": "Canada announces targeted countermeasures and substantive support for workers and businesses in response to U.S. tariffs"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-25T07:19:39.852885Z",
-      "event_id": "finance-canada-news:d3ab4805d9bccf993af1",
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "finance-canada-news:6328e28fe226280dabda",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Ministers Champagne, Joly, Hajdu and Solomon to announce Canadian response to U.S. tariffs"
+      "title": "List of products from the United States subject to counter-tariffs effective September 8, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "finance-canada-news:dfebb408ec20a3bb7102",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Support for Canadian workers and businesses affected by U.S. tariffs"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "statcan-daily:87380455a2d6aa8d897f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National Travel Survey and Visitor Travel Survey, <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "statcan-daily:bbb425d48372c467260d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "statcan-daily:5defbc8de1808a056686",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-deadlines:8b7b9ffc22a9d84c7ab6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-deadlines:cc078edd4df57b5ba5c3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — Kwasen Village Utility Limited Partnership (KVULP) public notice of Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-deadlines:4797b8577da08c042443",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — BCUC Information Request (IR) No. 1 to Nelson Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-proceedings:6a2b90e7303283ad80c7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-25T19:21:59.062630Z",
+      "event_id": "bcuc-proceedings:1e1d824589f69c962b57",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — Kwasen Village Utility Limited Partnership (KVULP) public notice of Application"
     }
   ],
-  "generated_at": "2026-08-25T07:19:39.852885+00:00",
-  "run_id": "20260825T071939Z-dd40d256",
+  "generated_at": "2026-08-25T19:21:59.062630+00:00",
+  "run_id": "20260825T192159Z-a6681e46",
   "schema_version": "1.0"
 }
