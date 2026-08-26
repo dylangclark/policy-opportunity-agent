@@ -1,16 +1,133 @@
 {
   "changes": [
     {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "cer-news:05fa41a0f6219c0b2446",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – June 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "cer-news:904089b1ecf84d6b73fb",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada-Newfoundland and Labrador Offshore Oil Production: Mature Fields and New Frontiers"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "cer-news:e833d07919c1143d8854",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – June 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "finance-canada-news:de779cb5dbe6e4c7fd4e",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Department of Finance meets with stakeholders on Canada’s response to U.S. tariffs"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "finance-canada-news:c9c9796fa79c0a5fa70b",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Long in Sarnia to highlight Canadian response to U.S. tariffs"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "gazette-part-ii:5c79b1e4e44cb897cc5c",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, August 26, 2026, volume 159, number 17"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "statcan-daily:c78f1c080341ac60425e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian Housing Statistics Program, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "statcan-daily:3feb1415bcc881bc7895",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "statcan-daily:6c67424ffcabe79b61e9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">June 2026</span>"
+    },
+    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T07:20:58.380055Z",
-      "event_id": "bcuc-proceedings:f66c958e5f4e27857783",
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "cer-news:0ef46006312b5fc4b671",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-82: O'DAY, E. (O'DAY) – Letter of Comment"
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada’s heat pump market has grown nearly sixfold since 2000"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "gazette-part-ii:7b985a66068bca017a7b",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, May 20, 2026, volume 159, number 10"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "iaac-major-projects:8b6b93d63c5a394283bc",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Rook I Project: - As determined in the Summary of Decision on March 4th 2026, a licence was granted for NexGen Energy Ltd's (NexGen) Rook I project."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "statcan-daily:8e14e0ef08e46b31719b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-26T19:23:04.287758Z",
+      "event_id": "statcan-key-indicators:74b02a97e703352196db",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
     }
   ],
-  "generated_at": "2026-08-26T07:20:58.380055+00:00",
-  "run_id": "20260826T072058Z-14e78741",
+  "generated_at": "2026-08-26T19:23:04.287758+00:00",
+  "run_id": "20260826T192304Z-0c64331c",
   "schema_version": "1.0"
 }
