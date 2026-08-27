@@ -1,178 +1,356 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:b2fc346d14e930f58018",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-key-indicators:372f550496ad6353e034",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-2: FAES-KVULP submitting confirmation of public notice in compliance with G-174-26"
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's balance of international payments"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-key-indicators:3c2c8bacad7571f118e9",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Payroll employment, earnings and hours, and job vacancies"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:39779206048da05702df",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bc-regulations:a4c8784c3f2648b363d0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-4: BCUC Information Request No. 1 to FEI"
+      "source_id": "bc-regulations",
+      "title": "M316/2026 Amends B.C. Reg. 133/2025 — Nurses and Midwives Regulation 152/2026 August 24, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:0c4dd8d56394cacaec4e",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:9b72e56aff0936d1da3d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C1-2: BCSEA submitting update to legal representative"
+      "title": "BC Hydro Optional Transmission Service Time-Varying Rates — G-184-26: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "finance-canada-news:85e8396df14e6157dc3c",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:8e3d6ffc66594c5fb65c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-3: Order G-182-26 accepting interveners, establishing proceeding scope and PCA cap"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:4d5f186b7cdaabc44d27",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-2: FBC submitting 2027 Annual Review of Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:3ad42f2734c4d970179d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-3: FBC submitting confirmation of public notice in compliance with G-151-26"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:d157b345d20348aa1990",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:a6ba111067d56155ab7a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C1-1: BC SUSTAINABLE ENERGY ASSOCIATION (BCSEA) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:55ab0c2e0d07a7413c93",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C1-2: BCSEA submitting update to legal representative"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:adeb27b2366b95ff1df4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C2-1: MOVEMENT OF UNITED PROFESSIONALS (MOVEUP) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:b490841348df1e6a313f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C3-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:9a1f1e455e858b912357",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-1: INDUSTRIAL CONSUMERS GROUP (ICG) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:b16f789ac4ab75c62a49",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C5-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, AND TENANTS RESOURCE AND ADVISORY CENTRE (COSCO) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:dc742178c29499e7f427",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C6-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:65e0453ae7df73f55661",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:6f9b95aa15813fa253d7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:0c5ce4d24f59aa0ff4f9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:f0d388f9aecb09bee26f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:1a0b6494105f9fd11769",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — A-3: BCUC Information Request No. 1 to ICBC"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:45c96f73ccb76cc96e4a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — B-3: ICBC submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:0cc7f4d20520a8d74925",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — ICBC response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "finance-canada-news:970c4dad63b952652426",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister of Finance meets with chief economists to discuss economic outlook and fiscal priorities"
+      "title": "Inaugural Canada-India Finance Ministers’ Economic and Financial Dialogue"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-deadlines:d891ce93efe08eb5c1fd",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "finance-canada-news:eab40505a6eabba288b1",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
+      "source_id": "finance-canada-news",
+      "title": "The Government of Canada highlights targeted countermeasures and substantive support for workers and businesses in response to U.S. tariffs in Sarnia"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-deadlines:be7b737448cd8bd98454",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:a51a78028877e0e22688",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">June 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-deadlines:128732aecec320e167fc",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:cb5c87d48a166903a3e3",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — Letters of comment deadline"
+      "source_id": "statcan-daily",
+      "title": "Canada's balance of international payments, <span class=\"refper\">second quarter 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:15c046038eaf33237940",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:4c06fd152e2055c322c8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — C3-2: The Greenhorn submitting Ground Anchor Encroachment clarification request"
+      "source_id": "statcan-daily",
+      "title": "Dairy statistics, <span class=\"refper\">second quarter 2026</span>"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:84cb6eb7c9f674828204",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:70709a8d40c21bd8853f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-83: HACHÉ, G. (HACHÉ) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:da3db8367b0a32225e73",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bc-regulations:6d08c85e02eef825618a",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-84: VAJDA, L. (VAJDA) – Letter of Comment"
+      "source_id": "bc-regulations",
+      "title": "326/2026 Amends B.C. Reg. 381/2008 — BC Timber Sales Regulation 124/2026 July 13, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:08fe663cc0243be93630",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-85: HARTEL, D. (HARTEL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:857dd1a9814431726f04",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:887f2c8fd3f517b614fc",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-86: SHILINGTON, L. (SHILINGTON) – Letter of Comment"
+      "title": "Creative Energy 2026 Revenue Requirements for Core TES — G-179-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:7d87a9e66ab53c339d2f",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "bcuc-proceedings:cc82915bd2c90593a740",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-87: FORSTER, N. (FORSTER) – Letter of Comment"
+      "title": "FEI CNG Fuelling for Minibins, Clark Reefer, Disposal Queen and Mullen at Annacis Island – Permanent Rates — G-181-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:bb4d68dd84ed5d9c28a1",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "finance-canada-news:7039dae4d38f55a52f76",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-88: FEATHERSTONE, R. (FEATHERSTONE) – Letter of Comment"
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Charlottetown, PEI, to host pre-budget consultations and Finance Ministers’ Meeting"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:7681316efe20cc2a602f",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:c6dc9e533cdca5c59540",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-89: HANSFORD, M. (HANSFORD) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Census of Environment: Wildfire experiences among Indigenous Peoples, <span class=\"refper\">2021 to 2024</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:15c1238077c589821406",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:3515753855f9e89f18a4",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-90: WALSH, J. (WALSH) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:0ff8601ee2ce82d89966",
+      "detected_at": "2026-08-27T19:19:29.365098Z",
+      "event_id": "statcan-daily:36567fa9461f1a376808",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:74796a474d319a7fdadc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C5-1: THE CORPORATION OF DISTRICT OF SAANICH (SAANICH) AND THE CITY OF RICHMOND (RICHMOND) (SAANICH-RICHMOND) – Late Request to Intervene"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-27T07:22:23.092244Z",
-      "event_id": "bcuc-proceedings:b4d73111c007f25bb08c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "statcan-daily",
+      "title": "Pension plans in Canada, <span class=\"refper\">as of January 1, 2025</span>"
     }
   ],
-  "generated_at": "2026-08-27T07:22:23.092244+00:00",
-  "run_id": "20260827T072223Z-7005e18c",
+  "generated_at": "2026-08-27T19:19:29.365098+00:00",
+  "run_id": "20260827T191929Z-12b96812",
   "schema_version": "1.0"
 }
