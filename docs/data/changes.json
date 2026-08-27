@@ -3,131 +3,176 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "cer-news:05fa41a0f6219c0b2446",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:b2fc346d14e930f58018",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – June 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-2: FAES-KVULP submitting confirmation of public notice in compliance with G-174-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "cer-news:904089b1ecf84d6b73fb",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:39779206048da05702df",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canada-Newfoundland and Labrador Offshore Oil Production: Mature Fields and New Frontiers"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-4: BCUC Information Request No. 1 to FEI"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "cer-news:e833d07919c1143d8854",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:0c4dd8d56394cacaec4e",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Refined Petroleum Products – June 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C1-2: BCSEA submitting update to legal representative"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "finance-canada-news:de779cb5dbe6e4c7fd4e",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "finance-canada-news:85e8396df14e6157dc3c",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Department of Finance meets with stakeholders on Canada’s response to U.S. tariffs"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "finance-canada-news:c9c9796fa79c0a5fa70b",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Secretary of State Long in Sarnia to highlight Canadian response to U.S. tariffs"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "gazette-part-ii:5c79b1e4e44cb897cc5c",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, August 26, 2026, volume 159, number 17"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "statcan-daily:c78f1c080341ac60425e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Housing Statistics Program, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "statcan-daily:3feb1415bcc881bc7895",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic and Social Reports, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "statcan-daily:6c67424ffcabe79b61e9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Food services and drinking places, <span class=\"refper\">June 2026</span>"
+      "title": "Minister of Finance meets with chief economists to discuss economic outlook and fiscal priorities"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "cer-news:0ef46006312b5fc4b671",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-deadlines:d891ce93efe08eb5c1fd",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canada’s heat pump market has grown nearly sixfold since 2000"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "gazette-part-ii:7b985a66068bca017a7b",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-deadlines:be7b737448cd8bd98454",
       "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, May 20, 2026, volume 159, number 10"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "iaac-major-projects:8b6b93d63c5a394283bc",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-deadlines:128732aecec320e167fc",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Rook I Project: - As determined in the Summary of Decision on March 4th 2026, a licence was granted for NexGen Energy Ltd's (NexGen) Rook I project."
+      "source_id": "bcuc-deadlines",
+      "title": "ICBC — Increase Individual Information Technology Capital Project Reporting Threshold — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "statcan-daily:8e14e0ef08e46b31719b",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:15c046038eaf33237940",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Railway carloadings, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — C3-2: The Greenhorn submitting Ground Anchor Encroachment clarification request"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-26T19:23:04.287758Z",
-      "event_id": "statcan-key-indicators:74b02a97e703352196db",
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:84cb6eb7c9f674828204",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Building permits"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-83: HACHÉ, G. (HACHÉ) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:da3db8367b0a32225e73",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-84: VAJDA, L. (VAJDA) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:08fe663cc0243be93630",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-85: HARTEL, D. (HARTEL) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:857dd1a9814431726f04",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-86: SHILINGTON, L. (SHILINGTON) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:7d87a9e66ab53c339d2f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-87: FORSTER, N. (FORSTER) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:bb4d68dd84ed5d9c28a1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-88: FEATHERSTONE, R. (FEATHERSTONE) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:7681316efe20cc2a602f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-89: HANSFORD, M. (HANSFORD) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:15c1238077c589821406",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-90: WALSH, J. (WALSH) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:0ff8601ee2ce82d89966",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with public notice requirements, except social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:74796a474d319a7fdadc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — C5-1: THE CORPORATION OF DISTRICT OF SAANICH (SAANICH) AND THE CITY OF RICHMOND (RICHMOND) (SAANICH-RICHMOND) – Late Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-27T07:22:23.092244Z",
+      "event_id": "bcuc-proceedings:b4d73111c007f25bb08c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — BCUC Information Request (IR) No. 1 to FEI"
     }
   ],
-  "generated_at": "2026-08-26T19:23:04.287758+00:00",
-  "run_id": "20260826T192304Z-0c64331c",
+  "generated_at": "2026-08-27T07:22:23.092244+00:00",
+  "run_id": "20260827T072223Z-7005e18c",
   "schema_version": "1.0"
 }
