@@ -1,106 +1,412 @@
 {
   "changes": [
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bc-legal-orders:c5645e0e2771da5c00e7",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "boc-speeches:9d31af1061a4e670acda",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 214: PUBLIC SAFETY AND SOLICITOR GENERAL Coroners, s. 73 Section 6 (1) of the Coroners Regulation, B.C. Reg. 298/2007, is amended by striking out \"$32.32\" and substituting \"$49.77\"."
+      "source_id": "boc-speeches",
+      "title": "Unveiling Canada’s new $20 bank note - Speech (Webcasts)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "iaac-major-projects:912d6856286d596a53ed",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Arctic Over-the-Horizon Radar Project — Clearview Receiver Site: — The President of the Impact Assessment Agency of Canada has determined that the Arctic Over-the-Horizon Radar Project — Clearview Receiver Site proposed by the Department of National Defence does not warrant designatio"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "iaac-major-projects:779f3d250473f13104dc",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Whabouchi Mining Project: — The President of the Impact Assessment Agency of Canada issued an amended Environmental Assessment Decision Statement to the proponent."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:0c6ebe4c2e092b25094c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian Survey on Business Conditions, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:276ec8dd2bcd1bb681d2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:57ece4c2b19d45f96fe8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy statistics, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:b1e9d323762b37365eff",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm cash receipts, <span class=\"refper\">January to June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:7b91089465e1eff7dd81",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "For-hire Motor Carrier Freight Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:cc464509dcb67759d36d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:c127931da7585f07b147",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product by industry, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:badebd64af247b06ba37",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product, income and expenditure, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:a057fa20db7db543bc4e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:50e3ac4da725177808db",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:57338da8ebda44a1fe08",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:395a7a32d2dc940f39ea",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bc-legal-orders:d35852d23369ec8e7571",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:c2a153c7e85c95e10472",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 215: Public Service, s. 15 Effective June 1, 2026, (a) to (c) and (g) the appointment of Brittany Anne Flamank, made by OIC 247/2025, is rescinded, and Brittany Anne Flamank is appoi..."
+      "source_id": "bc-regulations",
+      "title": "333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:af59be6b2f6b49ea9a1b",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:fd01329422e65c2b1a06",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "334/2026 Amends B.C. Reg. 52/2020 — Fuel Price Transparency Regulation 129/2026 July 17, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:677cf112575f5aaebee6",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "335/2026 Amends B.C. Reg. 251/2004 — Coal Act Regulation 127/2026 July 17, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:eab0bbe811115157509e",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "336/2026 Amends B.C. Reg. 274/2002 — Legislative Precinct Regulation 130/2026 July 17, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:85d280c16c5788ac2080",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "337/2026 Amends B.C. Reg. 109/2003 — Designation Regulation 128/2026 July 17, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bc-regulations:c1dfe236502b01f5e41b",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "338/2026 S.B.C. 2026, c. 15 — see Acts in Force 131/2026 July 17, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bcuc-deadlines:cebadb046729299bde2f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bcuc-proceedings:21f89e89f467e1a8ce60",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — C3-3: The Greenhorn submitting request to accept intervener motion"
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:1dd612525db8f7cc4383",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bcuc-proceedings:8772aff8063bc7a0d0a2",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-106: BOE, T. (BOE) – Letter of Comment"
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A2-1: BCUC Staff Questions No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:715efbb73e06ce5c0402",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "bcuc-proceedings:032d56360880be902d2d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-107: SOBH, J. (SOBH) – Letter of Comment"
+      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — G-180-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:bc96ed5c93fcc7e7ad63",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "iaac-major-projects:390c6a8623a10b44971b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-108: HOGSTEAD, C. (HOGSTEAD) – Letter of Comment"
+      "source_id": "iaac-major-projects",
+      "title": "Sorel-Tracy Port Terminal Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:c137ee0adf5b261f0c20",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:56f5a1524c6a493d974d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-109: YOUSEFBIGLOO, C. (YOUSEFBIGLOO) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:3bc698aa27ad9675efff",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:b18b72406aaba6628b52",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-110: SAGASTUME, D. (SAGASTUME) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Certified organic fruit and vegetable production estimates, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:d53ece4f3db9180a7967",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:8c0775f0f6864c40a3cb",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-111: JUTSON, J. (JUTSON) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Energy statistics, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:0adc10d3828e978fa9b1",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:08a816a84ac5465202e9",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the West End Substation Project — D-112: REARDON, C. (REARDON) – Letter of Comment"
+      "source_id": "statcan-daily",
+      "title": "Financial Information of Universities, <span class=\"refper\">2024/2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T07:16:25.350967Z",
-      "event_id": "bcuc-proceedings:a250536e6fa3dd6308a9",
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:85fdd15402e159c7f501",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES F2026/27 COS Rate for Delta School District No. 37 — B-3: FAES submitting response to BCUC Information Request No. 1"
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:d3c105b7365cd1d731ad",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:6dec2dd5a525a86abb35",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product by industry, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:c1cc74001301f392820a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:985309785efa6db89b8f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Major grain deliveries, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:6215a1144e41570efd08",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Milled wheat and wheat flour produced, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:cd38774f403637a0a20a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">April 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:37ac053fbbe9b2536f8f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Condominium Apartment Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:6a6bbcc8cd62573894da",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:0995aed8e95d85be80bb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">May 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:c6dcefb3182571f61648",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Poultry and egg statistics, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:819a6dc65d9f741a3955",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-daily:8c85d4a1a27a7b73e268",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Use of generative artificial intelligence tools among Canadian workers, <span class=\"refper\">March 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-key-indicators:8c4109f2fa1fbf2c65c6",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-08-31T19:18:07.860635Z",
+      "event_id": "statcan-key-indicators:d10ed2882a4952694e88",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
     }
   ],
-  "generated_at": "2026-08-31T07:16:25.350967+00:00",
-  "run_id": "20260831T071625Z-315ded96",
+  "generated_at": "2026-08-31T19:18:07.860635+00:00",
+  "run_id": "20260831T191807Z-c980e5d3",
   "schema_version": "1.0"
 }
