@@ -1,412 +1,659 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "boc-speeches:9d31af1061a4e670acda",
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:0b07b5f68b12ea028893",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Unveiling Canada’s new $20 bank note - Speech (Webcasts)"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2016: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:3a7067a946b1a1760a11",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2018: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:92768c4c8dd38a44b028",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2019: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:a34ac3e92421c6e92103",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-11: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:08230a09d7583a6d414d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-1: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:d2a9ce267862c4add24b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-2015: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:8975446a6018674b0a38",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-31: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:3fd9cd319d18915f594a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-10: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:f95c3bc55a218a86053b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-16: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:9d8d8bbcd1154182fdbf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2017: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:8eb8cccf124ac0bbb67f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2019: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:94933fb4a4a58029394b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2021: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:fa1f96d2b6befdd6de53",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-22: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:0f90c09e0c07cfa63f1e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-23: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:29caf869b4652250056d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-29: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:96b1dbc00a4918a84f9d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-30: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:7be170cbe2f6fdda1de3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-5: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:46f23db9e1c8e7d458ce",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — May-21: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "iaac-major-projects:912d6856286d596a53ed",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Arctic Over-the-Horizon Radar Project — Clearview Receiver Site: — The President of the Impact Assessment Agency of Canada has determined that the Arctic Over-the-Horizon Radar Project — Clearview Receiver Site proposed by the Department of National Defence does not warrant designatio"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "iaac-major-projects:779f3d250473f13104dc",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Whabouchi Mining Project: — The President of the Impact Assessment Agency of Canada issued an amended Environmental Assessment Decision Statement to the proponent."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:0c6ebe4c2e092b25094c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Survey on Business Conditions, <span class=\"refper\">third quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:276ec8dd2bcd1bb681d2",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:57ece4c2b19d45f96fe8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:b1e9d323762b37365eff",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm cash receipts, <span class=\"refper\">January to June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:7b91089465e1eff7dd81",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "For-hire Motor Carrier Freight Services Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:cc464509dcb67759d36d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:c127931da7585f07b147",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:badebd64af247b06ba37",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product, income and expenditure, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:a057fa20db7db543bc4e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:50e3ac4da725177808db",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:57338da8ebda44a1fe08",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:395a7a32d2dc940f39ea",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:c2a153c7e85c95e10472",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:fd01329422e65c2b1a06",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "334/2026 Amends B.C. Reg. 52/2020 — Fuel Price Transparency Regulation 129/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:677cf112575f5aaebee6",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "335/2026 Amends B.C. Reg. 251/2004 — Coal Act Regulation 127/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:eab0bbe811115157509e",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "336/2026 Amends B.C. Reg. 274/2002 — Legislative Precinct Regulation 130/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:85d280c16c5788ac2080",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "337/2026 Amends B.C. Reg. 109/2003 — Designation Regulation 128/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bc-regulations:c1dfe236502b01f5e41b",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "338/2026 S.B.C. 2026, c. 15 — see Acts in Force 131/2026 July 17, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bcuc-deadlines:cebadb046729299bde2f",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:4293a0d3e8e443dc24fa",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — BCUC Information Request (IR) No. 1 to FBC"
+      "title": "BC Hydro — 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bcuc-proceedings:21f89e89f467e1a8ce60",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:b0b5b600ec173c91d339",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2025 Call for Power — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:3d0a1fee0b8616448d1c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2025 Call for Power — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:5b231cb5757dd230fc43",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:fe87d1aa7e3cb73b3a31",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:d1f790a3b3112d4ff12c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:19c4f52729a2fbf1da5e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:04415743cd4e4c22228f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:9f426f4972d2665e65a7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:21a71d7cb832634c657f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A-1: Panel Appointment"
+      "title": "BC Hydro 2025 Call for Power — A-1: Panel Appointment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bcuc-proceedings:8772aff8063bc7a0d0a2",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:530d420d79ea2b7dc72d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — A2-1: BCUC Staff Questions No. 1 to BC Hydro"
+      "title": "BC Hydro 2025 Call for Power — A-2: Order G-188-26 establishing a regulatory timetable"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "bcuc-proceedings:032d56360880be902d2d",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:11eca1499fa9f8793642",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro RS 3808 PPA with FBC Tranche 2 Energy Price — G-180-26: Docket filing"
+      "title": "BC Hydro 2025 Call for Power — B-1-1: CONFIDENTIAL – BC Hydro submitting 2025 Call for Power Application"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "iaac-major-projects:390c6a8623a10b44971b",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:7886afadecedff7ca71d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – 2025 Call for Power Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:45f81a6dc4a81441e82a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:6a54fb87ab7838c5684e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:b59b91e0095ed90f2300",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:75c39fdff8e3dee9884b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:e2eee1045b03ab1f839e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — A-2: Order G-192-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:da0a20aac4d8ff74c58d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Tariff Supplement No. 116 Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:d8aa93965cb0405bf4e7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:626057bd801264c5c413",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:8ccabe16012cbc58512c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:03caf80b4e849fee9277",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:52a8038d431d4fa38eda",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:60e0e65776632e66961b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:61ffccb519a390d35ff9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C2-2: MoveUP submitting Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:048be2257584a4aad1ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Emterra at Langford Station - Permanent Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:3c6f3eeead9667dbab96",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Emterra at Langford Station - Permanent Rates — G-191-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "finance-canada-news:face29b968a8748b1caa",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to hold media callback while he is attending G20 meetings"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "iaac-major-projects:70bc7c4f651533e332d0",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Sorel-Tracy Port Terminal Project: — The Impact Assessment Agency of Canada (IAAC) finalized the impact assessment report based on comments received."
+      "title": "Marten Falls Community Access Road Project: — The Minister of the Environment, Climate Change and Nature issued the impact assessment decision statement to the proponent."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:56f5a1524c6a493d974d",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bc-legal-orders:2b2f76919adcbb020952",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">May 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 223: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective June 4, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in Ap..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:b18b72406aaba6628b52",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bc-legal-orders:e30f9aabcae4403168a0",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Certified organic fruit and vegetable production estimates, <span class=\"refper\">2025</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 217: WATER, LAND AND RESOURCE STEWARDSHIP Land, s. 31 The 2026 Transfer to Canada (Westbank First Nation — Ferry Wharf) Order is made as described."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:8c0775f0f6864c40a3cb",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bc-legal-orders:3aa2a403439dadf73adf",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">May 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 218: WATER, LAND AND RESOURCE STEWARDSHIP Land, s. 31 The 2026 Transfer to Canada (Westbank First Nation — Gallaghers) Order is made as described."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:08a816a84ac5465202e9",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bc-regulations:f00ce6dcbebede189e22",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Financial Information of Universities, <span class=\"refper\">2024/2025</span>"
+      "source_id": "bc-regulations",
+      "title": "250/2026 Amends B.C. Reg. 188/61 — British Columbia Chicken Marketing Scheme, 1961, effective September 1, 2026 99/2026 June 19, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:85fdd15402e159c7f501",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:caa48f43766bf11c4a4d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Food services and drinking places, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro confirmation of compliance with public notice requirements"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:d3c105b7365cd1d731ad",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:3ab4105ffc6772a6045c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro public notice of application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:6dec2dd5a525a86abb35",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:a4e07c58e6949815c21d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:c1cc74001301f392820a",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:2da143210b51eaa04411",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:985309785efa6db89b8f",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:6a7676991895da00cc0f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Major grain deliveries, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:6215a1144e41570efd08",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-deadlines:306fb0bee1a5b0a8636b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Milled wheat and wheat flour produced, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:cd38774f403637a0a20a",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:3916b57dddaf0019ae5b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">April 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — D-113: JOHNSTON, J. (JOHNSTON, J.) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:37ac053fbbe9b2536f8f",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:663607bcb278edcdb38e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Condominium Apartment Price Index, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C1-1: BC SUSTAINABLE ENERGY ASSOCIATION (BCSEA) – Request to Intervene"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:6a6bbcc8cd62573894da",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:52e6c5fcbd7b4f9fb300",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for City of Kamloops in Kamloops Amending Agreement No. 2 - Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:0995aed8e95d85be80bb",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:98bc9d39d33bf8322e0f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">May 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for City of Kamloops in Kamloops Amending Agreement No. 2 - Permanent Rates — B-1: FORTISBC ENERGY INC. (FEI) – Application for Permanent Rates and Amending Agreement No. 2 for the City of Kamloops at the Kamloops CNG Fuelling Station"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:c6dcefb3182571f61648",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:b9e41083dd66c170f8b8",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Poultry and egg statistics, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for City of Kamloops in Kamloops Amending Agreement No. 2 - Permanent Rates — G-189-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:819a6dc65d9f741a3955",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:637c82a48fa9b0d74cfa",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling from Mid Island Co-op Fuelling Station - Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-daily:8c85d4a1a27a7b73e268",
+      "detected_at": "2026-09-01T07:16:11.587125Z",
+      "event_id": "bcuc-proceedings:e70bfb963b439abf0e9e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Use of generative artificial intelligence tools among Canadian workers, <span class=\"refper\">March 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-key-indicators:8c4109f2fa1fbf2c65c6",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international transactions in securities"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-08-31T19:18:07.860635Z",
-      "event_id": "statcan-key-indicators:d10ed2882a4952694e88",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling from Mid Island Co-op Fuelling Station - Permanent Rates — G-190-26: Docket filing"
     }
   ],
-  "generated_at": "2026-08-31T19:18:07.860635+00:00",
-  "run_id": "20260831T191807Z-c980e5d3",
+  "generated_at": "2026-09-01T07:16:11.587125+00:00",
+  "run_id": "20260901T071611Z-796b7c7c",
   "schema_version": "1.0"
 }
