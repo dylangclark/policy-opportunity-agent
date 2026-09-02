@@ -3,80 +3,90 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "description",
+        "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "bc-legal-orders:17871e0cc81d7898c205",
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 250: AGRICULTURE AND FOOD Natural Products Marketing (BC), ss. 2 and 22 Effective September 1, 2026, the British Columbia Chicken Marketing Scheme, 1961, B.C. Reg. 188/61, is amended..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "bc-legal-orders:37329f3422f2c2a47160",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 363: POST-SECONDARY EDUCATION AND FUTURE SKILLS Post-Secondary International Education (Designated Institutions), ss. 2, 3, 4 (2), 7 (1), 9, 33 (2) and (3) and 38 (a) Effective Septe..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "bc-legal-orders:8f81d7f7fd2100953731",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 381: Public Service, ss. 14 and 15 Effective September 1, 2026, Andrew James Mercier is appointed as Chief of Staff in the Office of the Premier and is declared to have the status of..."
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "finance-canada-news:c4c1c391c39e719090f7",
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "boc-press-releases:273c3da49d9a2cc73b60",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada maintains the policy rate at 2¼%"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "boc-speeches:647311bd8bed8f762e46",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Monetary Policy Decision Press Conference Opening Statement"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "finance-canada-news:b02decb8814c2ab7ca01",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister Champagne advances Canada's economic interests at G20 meeting in North Carolina"
+      "title": "The Government of Canada extends the federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "iaac-major-projects:a1460c6f6183c79aad49",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Great Bear Gold Project: — To support federal permitting coordination for the Great Bear Gold Project, the Government of Canada has posted the detailed permitting plan."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "statcan-daily:2b41e022c7353840e89a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "bc-legal-orders:9af0c74a51b65983d005",
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "cer-news:05fa41a0f6219c0b2446",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 219: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 (a) The Northcentral Mineral and Coal Deferral Area Order, OIC 265/2025, is amended as described, and (b) the..."
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – June 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "bc-legal-orders:a3e0c28aeec6464c6381",
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "cer-news:904089b1ecf84d6b73fb",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 82: TRANSPORTATION AND TRANSIT Passenger Transportation, ss. 53, 59, 59.01, 59.2, 59.3, 59.4 and 59.5 (a) The Passenger Transportation Regulation, B.C. Reg. 266/2004, is amended as..."
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada-Newfoundland and Labrador Offshore Oil Production: Mature Fields and New Frontiers"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-02T07:21:33.810652Z",
-      "event_id": "govtogether-bc:61e16dd03bcf9a3ec814",
+      "detected_at": "2026-09-02T19:17:20.341195Z",
+      "event_id": "statcan-key-indicators:9cc2a8eabdcf920aeb15",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "App-based Gig Workers"
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
     }
   ],
-  "generated_at": "2026-09-02T07:21:33.810652+00:00",
-  "run_id": "20260902T072133Z-17b6f7cd",
+  "generated_at": "2026-09-02T19:17:20.341195+00:00",
+  "run_id": "20260902T191720Z-4bc028cf",
   "schema_version": "1.0"
 }
