@@ -1,763 +1,82 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:8e3d6ffc66594c5fb65c",
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "bc-legal-orders:17871e0cc81d7898c205",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-3: Order G-182-26 accepting interveners, establishing proceeding scope and PCA cap"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 250: AGRICULTURE AND FOOD Natural Products Marketing (BC), ss. 2 and 22 Effective September 1, 2026, the British Columbia Chicken Marketing Scheme, 1961, B.C. Reg. 188/61, is amended..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "bc-legal-orders:37329f3422f2c2a47160",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 363: POST-SECONDARY EDUCATION AND FUTURE SKILLS Post-Secondary International Education (Designated Institutions), ss. 2, 3, 4 (2), 7 (1), 9, 33 (2) and (3) and 38 (a) Effective Septe..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "bc-legal-orders:8f81d7f7fd2100953731",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 381: Public Service, ss. 14 and 15 Effective September 1, 2026, Andrew James Mercier is appointed as Chief of Staff in the Office of the Premier and is declared to have the status of..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:5b04adea8bc3645eba48",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-4: BCUC Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:3ad42f2734c4d970179d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-3: FBC submitting confirmation of public notice in compliance with G-151-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:55ab0c2e0d07a7413c93",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C1-2: BCSEA submitting update to legal representative"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:adeb27b2366b95ff1df4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C2-1: MOVEMENT OF UNITED PROFESSIONALS (MOVEUP) – Request to Intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:b490841348df1e6a313f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C3-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Request to Intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9a1f1e455e858b912357",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-1: INDUSTRIAL CONSUMERS GROUP (ICG) – Request to Intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:b16f789ac4ab75c62a49",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C5-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, AND TENANTS RESOURCE AND ADVISORY CENTRE (COSCO) – Request to Intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:dc742178c29499e7f427",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C6-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:65e0453ae7df73f55661",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:6f9b95aa15813fa253d7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:0c5ce4d24f59aa0ff4f9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:f0d388f9aecb09bee26f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:1a0b6494105f9fd11769",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — A-3: BCUC Information Request No. 1 to ICBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:45c96f73ccb76cc96e4a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — B-3: ICBC submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:0cc7f4d20520a8d74925",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "ICBC Increase Individual IT Capital Project Reporting Threshold — ICBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9714ea2ff2d1d1943baa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro 2026 and 2027 Revenue Requirements – Compliance Filing — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:03ed6f1304763ed8b868",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro 2026 and 2027 Revenue Requirements – Compliance Filing — G-187-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:09e2f6cf42cc2556ceef",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — A-3: BCUC Information Request No. 1 to Nelson Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:bd587ce2ab925dc49966",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-3: WRANGLER, D. (WRANGLER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:4e202914fca277ee3c3c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:2e46c6cb8ecfd85d2751",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9d3621bb966425137191",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "finance-canada-news:db7e86bdd080716c06be",
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "finance-canada-news:c4c1c391c39e719090f7",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister Champagne to make an affordability announcement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "house-committee-reports:afa554fc2ba49651ee9e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — Supplementary Estimates (C), 2025-26: Vote 5c under Canadian Institutes of Health Research, Vote 10c under Department of Health, Votes 1c and 10c under Public Health Agency of Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "house-committee-reports:8c665f31609f86d4d202",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — Supplementary Estimates (C), 2025-26: Vote 5c under Canadian Institutes of Health Research, Vote 10c under Department of Health, Votes 1c and 10c under Public Health Agency of Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "house-committee-reports:ea10120555f5e9446290",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "house-committee-reports:0ae4329ff20455222756",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Cost Overruns on Information Technology Contracts"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "iaac-major-projects:f077be8004d2a21d0e6c",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Ontario Pumped Storage Hydropower Project: — The Impact Assessment Agency of Canada posted the Notice of Commencement of an Impact Assessment and issued the Tailored Information and Studies Guidelines and required plans to the proponent for the preparation of its"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "statcan-daily:1f3ca9ebd1343d60e015",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly capital spending: Oil and gas industries, <span class=\"refper\">second quarter 2026</span>"
+      "title": "Minister Champagne advances Canada's economic interests at G20 meeting in North Carolina"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-deadlines:db8db346c1027f85c06c",
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "bc-legal-orders:9af0c74a51b65983d005",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2026 Long Term Gas Resource Plan — Intervener final argument"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 219: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 (a) The Northcentral Mineral and Coal Deferral Area Order, OIC 265/2025, is amended as described, and (b) the..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:0b07b5f68b12ea028893",
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "bc-legal-orders:a3e0c28aeec6464c6381",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2016: Docket filing"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 82: TRANSPORTATION AND TRANSIT Passenger Transportation, ss. 53, 59, 59.01, 59.2, 59.3, 59.4 and 59.5 (a) The Passenger Transportation Regulation, B.C. Reg. 266/2004, is amended as..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:3a7067a946b1a1760a11",
+      "detected_at": "2026-09-02T07:21:33.810652Z",
+      "event_id": "govtogether-bc:61e16dd03bcf9a3ec814",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2018: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:92768c4c8dd38a44b028",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2019: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:a34ac3e92421c6e92103",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-11: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:08230a09d7583a6d414d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-1: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:d2a9ce267862c4add24b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-2015: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:8975446a6018674b0a38",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-31: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:3fd9cd319d18915f594a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-10: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:f95c3bc55a218a86053b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-16: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9d8d8bbcd1154182fdbf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2017: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:8eb8cccf124ac0bbb67f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2019: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:94933fb4a4a58029394b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2021: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:fa1f96d2b6befdd6de53",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-22: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:0f90c09e0c07cfa63f1e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-23: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:29caf869b4652250056d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-29: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:96b1dbc00a4918a84f9d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-30: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:7be170cbe2f6fdda1de3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-5: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:46f23db9e1c8e7d458ce",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — May-21: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:75c39fdff8e3dee9884b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:e2eee1045b03ab1f839e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — A-2: Order G-192-26 establishing a regulatory timetable"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:da0a20aac4d8ff74c58d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Tariff Supplement No. 116 Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:d8aa93965cb0405bf4e7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:626057bd801264c5c413",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:8ccabe16012cbc58512c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:03caf80b4e849fee9277",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:52a8038d431d4fa38eda",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:60e0e65776632e66961b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:c29ee15b8eec121421b5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-4: BC Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:603b3413a661b211ede3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-5: BC Hydro submitting response to Intervener Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:32ee811a4a30b16cb0ec",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:c13b060a8e1136a70b1d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro responses to BCUC and Intervener IR No. 2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:8c3096494acd7c5a1e05",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BCUC IR No. 2 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:29b44f2b90f382aab021",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Intervener IR No. 2 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:0822c3518f0e068ff477",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Interveners final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:9f341751ab07f9db59ee",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:f976c40ec31cc51e647f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:de0bc0061a9b3deae19f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-2: Order G-173-26 establishing regulatory timetable"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:83ce461cab3ea532d4f4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A2-1: BCUC Staff submitting BCUC letter dated July 17, 2026, with supplemental information request"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:66c7e015f3d7d35827a6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A2-2: BCUC Staff submitting BCUC email dated August 7, 2026, regarding potential confidentiality concerns"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:d46c6baba1b87240f65d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-5: BMUS submitting clarification request"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:c34b819f597d69af199a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-6: BMUS submitting confirmation of public notice in compliance with Directive 2 of Order G-173-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:e7caafb58c6750185b29",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BCUC Information Request (IR) No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:a77a9fabc87e7bedc789",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS final argument and reply, if any, to letters of comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:224f31d462b8be009ea0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS responses to IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:b9757294ebc33694e818",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-01T19:20:24.016073Z",
-      "event_id": "bcuc-proceedings:07c21f3d5674cb9ccb90",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Long Term Gas Resource Plan — Intervener final argument"
+      "source_id": "govtogether-bc",
+      "title": "App-based Gig Workers"
     }
   ],
-  "generated_at": "2026-09-01T19:20:24.016073+00:00",
-  "run_id": "20260901T192024Z-f1bed26f",
+  "generated_at": "2026-09-02T07:21:33.810652+00:00",
+  "run_id": "20260902T072133Z-17b6f7cd",
   "schema_version": "1.0"
 }
