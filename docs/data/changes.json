@@ -1,16 +1,95 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "statcan-key-indicators:ec225992b334c65abd82",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canadian international merchandise trade"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "statcan-key-indicators:0e24b0a6358efc8ab387",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Labour productivity, hourly compensation and unit labour cost"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "boc-press-releases:8dcae326947353af910a",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada unveils new vertical $20 bank note"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "boc-speeches:87099a3343363e72954c",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Unveiling of Vertical $20 Bank Note"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement"
+    },
+    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-03T07:16:22.708723Z",
-      "event_id": "bc-legal-orders:9c950ea67d6789478361",
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "bc-regulations:2356f7224e565696d9fc",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 220: Constitution, s. 12 The appointment of George Anderson, made by OIC 595/2024, is rescinded, and George Anderson is appointed as Parliamentary Secretary for Energy and Climate So..."
+      "source_id": "bc-regulations",
+      "title": "349/2026 Enacts Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation 133/2026 July 20, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "boc-upcoming:c62069a48b831e7c06e2",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "statcan-key-indicators:805f80bf31c4b6c65fd2",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-03T19:21:26.184991Z",
+      "event_id": "statcan-key-indicators:ea4b8d5d29b8080d5e95",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
     }
   ],
-  "generated_at": "2026-09-03T07:16:22.708723+00:00",
-  "run_id": "20260903T071622Z-ae518671",
+  "generated_at": "2026-09-03T19:21:26.184991+00:00",
+  "run_id": "20260903T192126Z-2916bb91",
   "schema_version": "1.0"
 }
