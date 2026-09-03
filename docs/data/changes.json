@@ -1,92 +1,16 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "boc-press-releases:273c3da49d9a2cc73b60",
-      "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada maintains the policy rate at 2¼%"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "boc-speeches:647311bd8bed8f762e46",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Monetary Policy Decision Press Conference Opening Statement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "finance-canada-news:b02decb8814c2ab7ca01",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "The Government of Canada extends the federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "iaac-major-projects:a1460c6f6183c79aad49",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Great Bear Gold Project: — To support federal permitting coordination for the Great Bear Gold Project, the Government of Canada has posted the detailed permitting plan."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "statcan-daily:2b41e022c7353840e89a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly average retail prices for selected products, <span class=\"refper\">July 2026</span>"
-    },
-    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "cer-news:05fa41a0f6219c0b2446",
+      "detected_at": "2026-09-03T07:16:22.708723Z",
+      "event_id": "bc-legal-orders:9c950ea67d6789478361",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – June 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "cer-news:904089b1ecf84d6b73fb",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Canada-Newfoundland and Labrador Offshore Oil Production: Mature Fields and New Frontiers"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-02T19:17:20.341195Z",
-      "event_id": "statcan-key-indicators:9cc2a8eabdcf920aeb15",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 220: Constitution, s. 12 The appointment of George Anderson, made by OIC 595/2024, is rescinded, and George Anderson is appointed as Parliamentary Secretary for Energy and Climate So..."
     }
   ],
-  "generated_at": "2026-09-02T19:17:20.341195+00:00",
-  "run_id": "20260902T191720Z-4bc028cf",
+  "generated_at": "2026-09-03T07:16:22.708723+00:00",
+  "run_id": "20260903T071622Z-ae518671",
   "schema_version": "1.0"
 }
