@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T19:21:26.184991+00:00",
-  "run_id": "20260903T192126Z-2916bb91",
+  "generated_at": "2026-09-04T07:18:54.035518+00:00",
+  "run_id": "20260904T071854Z-1ade81f3",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 10,
       "http_status": 200,
@@ -18,7 +18,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 4,
       "http_status": 200,
@@ -32,7 +32,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 4,
       "http_status": 200,
@@ -46,21 +46,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "statcan_schedule",
-      "event_count": 121,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 121,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -74,52 +74,57 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bcuc_anticipated_pdf",
-      "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://www.bcuc.com/OurWork/AnticipatedFilings'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-      "event_count": 0,
-      "retained_previous_count": 45,
+      "event_count": 45,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bcuc-anticipated",
       "source_name": "BCUC anticipated filings",
-      "stale": true,
-      "status": "failed",
+      "stale": false,
+      "status": "ok",
       "url": "https://www.bcuc.com/OurWork/AnticipatedFilings",
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bcuc_deadlines",
-      "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://www.bcuc.com/OurWork/ProceedingsFilingDeadlines'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-      "event_count": 0,
-      "retained_previous_count": 70,
+      "event_count": 55,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
       "source_name": "BCUC proceeding filing deadlines",
-      "stale": true,
-      "status": "failed",
+      "stale": false,
+      "status": "ok",
       "url": "https://www.bcuc.com/OurWork/ProceedingsFilingDeadlines",
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bcuc_proceedings",
-      "event_count": 0,
-      "retained_previous_count": 220,
+      "event_count": 161,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
       "source_name": "BCUC public proceeding dockets",
-      "stale": true,
-      "status": "partial",
+      "stale": false,
+      "status": "ok",
       "url": "https://www.bcuc.com/OurWork/Proceedings",
       "warnings": [
-        "Proceedings listing failed: HTTPStatusError: Client error '403 Forbidden' for url 'https://www.bcuc.com/OurWork/Proceedings'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-        "Application 1391 failed: HTTPStatusError: Client error '403 Forbidden' for url 'https://www.bcuc.com/OurWork/ViewProceeding?applicationid=1391'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-        "No recent BCUC proceeding events were parsed."
+        "Limited BCUC docket collection to 25 proceedings.",
+        "Application 1391: no recent timetable or docket rows parsed.",
+        "Application 1437: no recent timetable or docket rows parsed.",
+        "Application 1433: no recent timetable or docket rows parsed.",
+        "Application 1390: no recent timetable or docket rows parsed.",
+        "Application 1403: no recent timetable or docket rows parsed.",
+        "Application 1457: no recent timetable or docket rows parsed."
       ]
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -133,7 +138,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -147,7 +152,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -161,7 +166,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -175,7 +180,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -189,7 +194,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -203,7 +208,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "govtogether",
       "event_count": 53,
       "http_status": 200,
@@ -217,7 +222,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bc_laws_regulations",
       "event_count": 35,
       "http_status": 200,
@@ -231,21 +236,23 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "house_committees",
-      "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://www.ourcommons.ca/Committees/en/Meetings'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "event_count": 0,
+      "http_status": 200,
       "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "house-committees",
       "source_name": "House of Commons committee meetings",
       "stale": true,
-      "status": "failed",
+      "status": "partial",
       "url": "https://www.ourcommons.ca/Committees/en/Meetings",
-      "warnings": []
+      "warnings": [
+        "Collector returned no events; retained the last good source data."
+      ]
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "html_date_list",
       "event_count": 6,
       "http_status": 200,
@@ -259,7 +266,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -273,7 +280,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -286,7 +293,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 21,
       "http_status": 200,
@@ -300,7 +307,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "rss",
       "event_count": 1,
       "http_status": 200,
@@ -314,7 +321,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -327,7 +334,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -340,7 +347,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -354,7 +361,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -368,9 +375,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bc_orders",
-      "event_count": 147,
+      "event_count": 142,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -382,7 +389,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "federal_regulatory_plans",
       "event_count": 47,
       "http_status": 200,
@@ -396,7 +403,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -412,7 +419,7 @@
       ]
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "iaac_milestones",
       "event_count": 6,
       "http_status": 200,
@@ -426,20 +433,18 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-03T19:21:26.184991Z",
+      "checked_at": "2026-09-04T07:18:54.035518Z",
       "collector": "house_committee_reports",
-      "error": "House report list failed (https://www.ourcommons.ca/Committees/en/Work?show=reports): HTTPStatusError: Client error '403 Forbidden' for url 'https://www.ourcommons.ca/Committees/en/Work?show=reports'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-      "event_count": 0,
-      "retained_previous_count": 64,
+      "event_count": 63,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "source_name": "House committee reports and government responses",
-      "stale": true,
-      "status": "failed",
+      "stale": false,
+      "status": "ok",
       "url": "https://www.ourcommons.ca/Committees/en/Work?show=reports",
-      "warnings": [
-        "House report list failed (https://www.ourcommons.ca/Committees/en/Work?show=reports): HTTPStatusError: Client error '403 Forbidden' for url 'https://www.ourcommons.ca/Committees/en/Work?show=reports'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
-      ]
+      "warnings": []
     }
   ]
 }
