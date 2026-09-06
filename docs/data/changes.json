@@ -1,6 +1,25 @@
 {
-  "changes": [],
-  "generated_at": "2026-09-05T19:15:51.377444+00:00",
-  "run_id": "20260905T191551Z-d4baf3e2",
+  "changes": [
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-06T07:22:06.797600Z",
+      "event_id": "iaac-major-projects:5a6cacced12bb8686950",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Regional Assessment of Offshore Oil and Gas Exploratory Drilling East of Newfoundland and Labrador: — The public comment period on the draft follow-up program report for 2025-2026 is closed."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-06T07:22:06.797600Z",
+      "event_id": "bcuc-proceedings:159956dfe8b2e0ca5820",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — A-14: Order G-170-26 dismissing The Greenhorn Strata Reconsideration Application"
+    }
+  ],
+  "generated_at": "2026-09-06T07:22:06.797600+00:00",
+  "run_id": "20260906T072206Z-b78400c1",
   "schema_version": "1.0"
 }
