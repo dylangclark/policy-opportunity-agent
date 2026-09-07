@@ -3,14 +3,59 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-06T19:16:44.800361Z",
-      "event_id": "finance-canada-news:9723884b6c0e11f41555",
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bc-legal-orders:7dd115837c5be8d80eba",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government launches consultation on draft legislation for various tax measures"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 226: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective June 10, 2026, MO 61/2017 is amended by adding the drugs listed in Appendix 1 to Schedule 3 — High Cost..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bc-legal-orders:613c06e0a04a399b4a87",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 228: INDIGENOUS RELATIONS AND RECONCILIATION Haida Gwaii Reconciliation, s. 3 (2) (c) Percy James Crosby (HuuÛ) is appointed as chair of the Haida Gwaii Management Council for a term..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bcuc-proceedings:11eca1499fa9f8793642",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — B-1-1: CONFIDENTIAL – BC Hydro submitting 2025 Call for Power Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bcuc-proceedings:7886afadecedff7ca71d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – 2025 Call for Power Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bcuc-proceedings:a7c7a782c2b9ed59e92e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — A-7: BCUC-proposed IBR standards implementation plans and comment form"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-07T07:24:35.042331Z",
+      "event_id": "bcuc-proceedings:ff458da6e52c386b677b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-11: REGIONAL DISTRICT OF CENTRAL OKANAGAN (RDCO) – Letter of Comment"
     }
   ],
-  "generated_at": "2026-09-06T19:16:44.800361+00:00",
-  "run_id": "20260906T191644Z-be895018",
+  "generated_at": "2026-09-07T07:24:35.042331+00:00",
+  "run_id": "20260907T072435Z-a1583008",
   "schema_version": "1.0"
 }
