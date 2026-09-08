@@ -1,16 +1,199 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "iaac-major-projects:a1460c6f6183c79aad49",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Great Bear Gold Project: — To support federal permitting coordination for the Great Bear Gold Project, the Government of Canada has posted the detailed permitting plan."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "iaac-major-projects:f077be8004d2a21d0e6c",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Ontario Pumped Storage Hydropower Project: — The Impact Assessment Agency of Canada posted the Notice of Commencement of an Impact Assessment and issued the Tailored Information and Studies Guidelines and required plans to the proponent for the preparation of its"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bcuc-proceedings:708cf20553238036cd3e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Reimer at GFL Abbotsford Station - Permanent Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bcuc-proceedings:869f47b6d7e96e166267",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Reimer at GFL Abbotsford Station - Permanent Rates — G-194-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Publication: Summary of Deliberations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "finance-canada-news:cadcb68d44cd6a4d5a7a",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Alberta, will participate in an armchair discussion hosted by the Edmonton Chamber of Commerce"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "finance-canada-news:c3d8a423e9f1fb7448d4",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull in Oshawa to highlight recent affordability measures for Canadians"
+    },
+    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-08T07:25:01.535439Z",
-      "event_id": "elections-finance-calendar:60346abe031daab0a63f",
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:da3e652b61f89a75152e",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — December 31 Candidates' and third parties' electoral campaign returns (, by-elections)"
+      "source_id": "bc-regulations",
+      "title": "355/2026 Amends B.C. Reg. 477/2003 — Residential Tenancy Regulation, effective July 30, 2026 142/2026 July 23, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:03af49a94ba85ed83548",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "356/2026 Enacts Residential Tenancy (Supportive Housing) Regulation, effective July 30, 2026 143/2026 July 23, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:7898b12e12cf8bc1a217",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "359/2026 Amends B.C. Reg. 396/95 — Employment Standards Regulation, effective August 1,2026 141/2026 July 23, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:a0618d7e3a6b7eb95e43",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "360/2026 Amends B.C. Reg. 245/2013 — Direction No. 5 to the British Columbia Utilities Commission 147/2026 July 24, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:6bd49d5b6e90f01fbccb",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "362/2026 Amends B.C. Reg. 102/2012 — Greenhouse Gas Reduction (Clean Energy) Regulation 145/2026 July 24, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:490f469ff971a0b72b81",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "363/2026 S.B.C. 2026, c. 4 — see Acts in Force Enacts Post-Secondary International Education (Designated Institutions) Regulation, Part 1 effective September 1, 2026 and Part 2 effective January 1, 2027 146/2026 July 24, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bc-regulations:5afe07e34ed39b217248",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Treasury Board Enacts British Columbia Strategic Investments Regulation 148/2026 July 24, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bcuc-proceedings:048be2257584a4aad1ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Emterra at Langford Station - Permanent Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "bcuc-proceedings:3c6f3eeead9667dbab96",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Emterra at Langford Station - Permanent Rates — G-191-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "boc-upcoming:c9db0398db83b910a989",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Labour Day"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "iaac-major-projects:912d6856286d596a53ed",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Arctic Over-the-Horizon Radar Project — Clearview Receiver Site: — The President of the Impact Assessment Agency of Canada has determined that the Arctic Over-the-Horizon Radar Project — Clearview Receiver Site proposed by the Department of National Defence does not warrant designatio"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-08T19:19:23.299542Z",
+      "event_id": "statcan-key-indicators:5fa1f9e3acb544a9c629",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Quarterly financial statistics for enterprises"
     }
   ],
-  "generated_at": "2026-09-08T07:25:01.535439+00:00",
-  "run_id": "20260908T072501Z-a4736493",
+  "generated_at": "2026-09-08T19:19:23.299542+00:00",
+  "run_id": "20260908T191923Z-5df06774",
   "schema_version": "1.0"
 }
