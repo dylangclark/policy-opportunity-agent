@@ -1,54 +1,54 @@
 {
   "counts": {
     "changes": 1,
-    "events": 819,
-    "opportunities": 716,
+    "events": 818,
+    "opportunities": 714,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 587,
+      "bytes": 555,
       "count": 1,
       "path": "changes.json",
-      "sha256": "8374b93da969c2874d85d3f561268565fe6b59d63aa4410670041a6639c63161"
+      "sha256": "47c21674f8d66c17b559a0474a8ff473cad1a7b9b9d0746ca795eb2096aa9263"
     },
     "events": {
-      "bytes": 1288289,
-      "count": 819,
+      "bytes": 1286906,
+      "count": 818,
       "path": "events.json",
-      "sha256": "cfbb1601172df6bf2e409c70bc4290823da37922ac752e7886024eeccf743719"
+      "sha256": "e0d5302ff34b94e6c66bf1d8b47254cd651f1948537c71e1b6af68d43efb7c8f"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 249,
       "path": "heartbeat.json",
-      "sha256": "1cfcccf9900ee324c2314a50443fe2cca876ca96b3bd3d913048f2a4895a6fa1"
+      "sha256": "7a66dfc71e2c376886b0ae17df2bc09dfb035459ab5f0c09163d6354ffe228fd"
     },
     "opportunities": {
-      "bytes": 1380364,
-      "count": 716,
+      "bytes": 1376354,
+      "count": 714,
       "path": "opportunities.json",
-      "sha256": "5a77193bc4eff8366c4900eefd239b8235b1d0b94d4ba56016882fc76ff14cb7"
+      "sha256": "98e7e161578e8dbd9411bae909cc73d1c15e5348c656dd12e6e83d6a727eb78b"
     },
     "source_status": {
-      "bytes": 15449,
+      "bytes": 15479,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "e4c6042d449b9bc916ab4ccfacb843e991e7dabd0c133952e0bbc26ea91d0bbf"
+      "sha256": "8d93a17e17c2af8c28a9b83197bc3ac5b2ae3d375914af7cf91af459d59fff98"
     }
   },
-  "generated_at": "2026-09-07T19:18:24.352219Z",
+  "generated_at": "2026-09-08T07:25:01.535439Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260907T191824Z-9319c314",
+  "run_id": "20260908T072501Z-a4736493",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 8,
-    "ok": 19,
+    "not_modified": 11,
+    "ok": 16,
     "partial": 1
   },
   "status": "partial",
