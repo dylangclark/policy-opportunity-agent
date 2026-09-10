@@ -6,77 +6,50 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "statcan-key-indicators:de23b2257bdc6a1e58b6",
+      "detected_at": "2026-09-10T07:17:49.078437Z",
+      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Stocks of principal field crops"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "finance-canada-news:057a493cd86bd5b0e74a",
+      "detected_at": "2026-09-10T07:17:49.078437Z",
+      "event_id": "finance-canada-news:83e513ae43316655f01a",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Government of Canada Concludes Pre-Budget Consultations for Budget 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "gazette-part-ii:670e9fd8f80056ae9b87",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, Spetember 9, 2026, volume 159, number 18"
+      "title": "Statement by the Minister of Finance on the Canadian International Trade Tribunal's report on global imports of canned and frozen vegetables"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "bcuc-deadlines:6741f7ce6ad137677d3d",
+      "detected_at": "2026-09-10T07:17:49.078437Z",
+      "event_id": "bcuc-proceedings:df292f31bb588801beef",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener IR No. 1 to FBC"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the West End Substation Project — B-12-2: PUBLIC – BC Hydro submitting revised response to Lord Roberts PAC Information Request 3.7.1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "gazette-part-ii:168e8876b387c09ed8f1",
+      "detected_at": "2026-09-10T07:17:49.078437Z",
+      "event_id": "bcuc-proceedings:74d0e3e0f776146dcf37",
       "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, June 3, 2026, volume 159, number 11"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-13: FIRST THINGS FIRST OKANAGAN (FTFO) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "gazette-part-ii:912d6aa167b2fd4c09c8",
+      "detected_at": "2026-09-10T07:17:49.078437Z",
+      "event_id": "bcuc-proceedings:c11c348d4a0c2e4414f9",
       "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, June 8, 2026, volume 160, Extra number 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-09T19:16:41.460706Z",
-      "event_id": "iaac-major-projects:a1460c6f6183c79aad49",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Great Bear Gold Project: — To support federal permitting coordination for the Great Bear Gold Project, the Government of Canada has posted the detailed permitting plan."
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Long Term Gas Resource Plan — D-14: DEVONSHIRE, J. (DEVONSHIRE) – Letter of Comment"
     }
   ],
-  "generated_at": "2026-09-09T19:16:41.460706+00:00",
-  "run_id": "20260909T191641Z-5ee44708",
+  "generated_at": "2026-09-10T07:17:49.078437+00:00",
+  "run_id": "20260910T071749Z-3bf4a330",
   "schema_version": "1.0"
 }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T19:16:41.460706+00:00",
-  "run_id": "20260909T191641Z-5ee44708",
+  "generated_at": "2026-09-10T07:17:49.078437+00:00",
+  "run_id": "20260910T071749Z-3bf4a330",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 10,
       "http_status": 200,
@@ -18,7 +18,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 4,
       "http_status": 200,
@@ -32,7 +32,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 4,
       "http_status": 200,
@@ -46,21 +46,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "statcan_schedule",
-      "event_count": 119,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 119,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -74,7 +74,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -88,7 +88,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bcuc_deadlines",
       "event_count": 52,
       "http_status": 200,
@@ -102,9 +102,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bcuc_proceedings",
-      "event_count": 153,
+      "event_count": 150,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -116,6 +116,7 @@
       "warnings": [
         "Limited BCUC docket collection to 25 proceedings.",
         "Application 1391: no recent timetable or docket rows parsed.",
+        "Application 1396: no recent timetable or docket rows parsed.",
         "Application 1437: no recent timetable or docket rows parsed.",
         "Application 1433: no recent timetable or docket rows parsed.",
         "Application 1390: no recent timetable or docket rows parsed.",
@@ -124,7 +125,7 @@
       ]
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -138,7 +139,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -152,7 +153,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -166,21 +167,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
-      "event_count": 8,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 8,
       "schema_version": "1.0",
       "source_id": "gazette-part-ii",
       "source_name": "Canada Gazette Part II",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.gazette.gc.ca/rss/p2-eng.xml",
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -194,7 +195,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -208,7 +209,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "govtogether",
       "event_count": 53,
       "http_status": 200,
@@ -222,7 +223,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bc_laws_regulations",
       "event_count": 25,
       "http_status": 200,
@@ -236,7 +237,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "house_committees",
       "event_count": 0,
       "http_status": 200,
@@ -252,7 +253,7 @@
       ]
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "html_date_list",
       "event_count": 5,
       "http_status": 200,
@@ -266,7 +267,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bc_legislature_calendar",
       "event_count": 5,
       "http_status": 200,
@@ -280,7 +281,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -293,9 +294,9 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
-      "event_count": 23,
+      "event_count": 24,
       "http_status": 200,
       "retained_previous_count": 0,
       "schema_version": "1.0",
@@ -307,7 +308,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "rss",
       "event_count": 1,
       "http_status": 200,
@@ -321,7 +322,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -334,7 +335,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -347,7 +348,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -361,7 +362,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 304,
@@ -375,7 +376,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bc_orders",
       "event_count": 149,
       "http_status": 200,
@@ -389,7 +390,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "federal_regulatory_plans",
       "event_count": 47,
       "http_status": 200,
@@ -403,7 +404,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -419,7 +420,7 @@
       ]
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "iaac_milestones",
       "event_count": 3,
       "http_status": 200,
@@ -433,7 +434,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-09-09T19:16:41.460706Z",
+      "checked_at": "2026-09-10T07:17:49.078437Z",
       "collector": "house_committee_reports",
       "event_count": 63,
       "http_status": 200,

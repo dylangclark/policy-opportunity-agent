@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T19:16:41.460706+00:00",
-  "run_id": "20260909T191641Z-5ee44708",
+  "generated_at": "2026-09-10T07:17:49.078437+00:00",
+  "run_id": "20260910T071749Z-3bf4a330",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 5,
-    "ok": 22,
+    "not_modified": 7,
+    "ok": 20,
     "partial": 1
   },
   "status": "partial"
