@@ -1,488 +1,169 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-key-indicators:db0e9908f7ea0cfae13d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international investment position"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "bc-regulations:72b99b90c769565aa665",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "394/2026 Enacts Safe Access to Schools Regulation 153/2026 September 8, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "bcuc-proceedings:d66a9dfff73b37abc89c",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:2736eedc68468801794d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-4: Big White submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-press-releases:7655197ba695c7c32d1e",
-      "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada Board launches process to fill external Deputy Governor position"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:bb0cba850846fbd16dff",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Fireside Chat: Toni Gravelle, Deputy Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:56b416abb85c7bb123bd",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Carolyn Rogers, Senior Deputy Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:79e777f96978be4b01d5",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Tiff Macklem, Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "house-committees:e272b18eed00d57d94d2",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, September 24, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "house-committees:7ebd30fcafecbc646d4a",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, September 22, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:fd9e77dc8fd50e9ffd18",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international investment position, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:1fd6e68729183d81738b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international merchandise trade, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:8e07b0d9b126927ec2c7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international trade in services, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:76d0c82c775a3994ab96",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Data availability: Shared Health Priorities Indicators for Adults, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:9c3bbd3f46b8af43e8a7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic characteristics and the likelihood of first birth, <span class=\"refper\">2017 to 2023</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:abdc71b1465a85bbfd62",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric Power Selling Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:828cd37e31cc68f76daf",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:5d7498f77c8f79dc1ba8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm Product Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:a196ed566b2ba61a954b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:f783f95087818308c054",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:c010f722ea1492742b0e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour productivity, hourly compensation and unit labour cost, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:b79e077113b1bbd9e435",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New motor vehicle registrations, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:fefea2f3db5cd5a6e121",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly rent statistics, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:548040304b125b040ad9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Commodity Survey, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:24456e3af69d50c7d009",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sawmills, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:c4ba79e1c9d2a08b1c5b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sector Based Producer Price Indexes: announcement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:a4dda5be6af4cc9bd23b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Securities statistics, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:dcd9e3d7046adead4163",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Stocks of principal field crops, <span class=\"refper\">July 31, 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:9603b6908fe207c33ae6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Residential properties and homeowners in high flood hazard areas, <span class=\"refper\">2022</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-key-indicators:12fdf382c71b86532013",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-3: Creative Energy submitting Information Request No. 1 Extension Request"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "bcuc-deadlines:3499bab22acf1efdd5c0",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:92412133f7e407eb7f38",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU responses to BCUC IR No. 1"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 231: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Jason C. LeBlond, K.C., is appointed as a Judge of the Provincial Court of British Columbia."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "bcuc-proceedings:863ccaa1be008747c35e",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:cbe8e4a2046bd732d051",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 232: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Matthew J.H. Stacey is appointed as a Judge of the Provincial Court of British Columbia."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:d105b93d241e99ad21c1",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 235: INDIGENOUS RELATIONS AND RECONCILIATION Tsawwassen First Nation Final Agreement, s. 18 (a) OIC 103/2009 is repealed, (b) the minister responsible for the administration of the W..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:5a88a442963df92debf0",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 236: INDIGENOUS RELATIONS AND RECONCILIATION Maa-nulth First Nations Final Agreement, s. 17 (a) OIC 98/2011 is repealed, (b) the minister responsible for the administration of the Wi..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:21baa2d236edc25c8442",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 237: INDIGENOUS RELATIONS AND RECONCILIATION Tla’amin Final Agreement, s. 19 (a) OIC 63/2016 is repealed, (b) the minister responsible for the administration of the Wildlife Act is a..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bc-legal-orders:c317e28a3c9612e1d338",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 238: Public Service, s. 15 Effective June 15, 2026, the appointment of Seamus Leonard O'Neill Wolfe, made by OIC 39/2026, is rescinded, and Seamus Leonard O'Neill Wolfe is appointed..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:68bb230f00ca57a89dce",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU responses to BCUC IR No. 1"
+      "title": "BCUC Metergy Status as a Public Utility — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-press-releases:3c66eae09b982300dac9",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:1f48ecff3dfd8905b322",
       "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A-2: Order G-171-26 establishing a regulatory timetable"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:63f97b41a5d8a788426f",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Interest Rate Announcement"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A2-1: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:3d22c5f532be12b5e22c",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A2-2: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:3a376227ee14f976dc6c",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Remembrance Day"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A2-3: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 4188 Yew Street, Vancouver, BC regarding Metergy"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "finance-canada-news:a6020ecf84c86d88c932",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:1cb48ff5953ff6588e32",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada announces loan support to Millar Western Forest Products Ltd."
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A2-4: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "house-committees:1a3190d763436bee5c17",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:3d28853db3226af3ae92",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, August 17, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-2: Replaced by B-2-1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:8e38caf2921cd97f2095",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:d46c6baba1b87240f65d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian foreign post indexes, <span class=\"refper\">August 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-5: BMUS submitting clarification request"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:7db651697f4026e8c918",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "bcuc-proceedings:3ffa75582263e993a114",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international merchandise trade, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:7a701bd08931222abcd8",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "iaac-major-projects:028285c8abe450013e74",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international trade in services, <span class=\"refper\">June 2026</span>"
+      "source_id": "iaac-major-projects",
+      "title": "Contrecœur Port Terminal Expansion Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the draft analysis report, as well as the proposed amendments to the Decision Statement and provide feedback by September"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:42645b1bc6a3a165c01b",
+      "detected_at": "2026-09-11T07:21:58.186925Z",
+      "event_id": "iaac-major-projects:5a6cacced12bb8686950",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:af8fad49191d15f364e6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric Power Selling Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:7af8a68ea57b21ab1e08",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:95a37a52e11f42ad36a4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial chemicals and synthetic resins, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:42badef0baa655f14029",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:af2926bff0b55f5580c9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:6d53c52e921f1049aafd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly average retail prices for selected products, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:932777b0793bf83179d6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Residential Renovation Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:38241d2739651ba4c0fb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Commodity Survey, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:44ed5c47bf1265fcf008",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sawmills, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-daily:1933cb08834c729ef602",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sociodemographic characteristics and prior police-reported violence among gender-related homicide victims in Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-key-indicators:372f550496ad6353e034",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's balance of international payments"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-10T19:18:37.001233Z",
-      "event_id": "statcan-key-indicators:3c2c8bacad7571f118e9",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Payroll employment, earnings and hours, and job vacancies"
+      "source_id": "iaac-major-projects",
+      "title": "Regional Assessment of Offshore Oil and Gas Exploratory Drilling East of Newfoundland and Labrador: — The public comment period on the draft follow-up program report for 2025-2026 is closed."
     }
   ],
-  "generated_at": "2026-09-10T19:18:37.001233+00:00",
-  "run_id": "20260910T191837Z-87f2499b",
+  "generated_at": "2026-09-11T07:21:58.186925+00:00",
+  "run_id": "20260911T072158Z-45f5a0c8",
   "schema_version": "1.0"
 }
