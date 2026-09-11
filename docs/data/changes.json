@@ -1,169 +1,365 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:7db4830661eff7b02b0a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:4834ff8d56e36d332aa8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP final argument and reply, if any, to the letters of comment"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:ae5aacdcf0e4ad0cf1b4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:c774b7f0e4e1762ba30d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — Letters of comment deadline"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-key-indicators:dc817ebeeac78af370c3",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "National balance sheet and financial flow accounts"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:2736eedc68468801794d",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:3c71923b29a1b2012224",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:c1e22917a94e17f243fc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP final argument and reply, if any, to the letters of comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:2a8cd9713ddb585036bf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:da3e3ea08dab2a0db1b0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:168f66293aff98609695",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-3: Creative Energy submitting Information Request No. 1 Extension Request"
+      "title": "BC Hydro Tariff Supplement No. 116 — A-3: BCUC Information Request No. 1 to BC Hydro"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:92412133f7e407eb7f38",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 231: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Jason C. LeBlond, K.C., is appointed as a Judge of the Provincial Court of British Columbia."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:cbe8e4a2046bd732d051",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 232: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 13, 2026, Matthew J.H. Stacey is appointed as a Judge of the Provincial Court of British Columbia."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:d105b93d241e99ad21c1",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 235: INDIGENOUS RELATIONS AND RECONCILIATION Tsawwassen First Nation Final Agreement, s. 18 (a) OIC 103/2009 is repealed, (b) the minister responsible for the administration of the W..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:5a88a442963df92debf0",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 236: INDIGENOUS RELATIONS AND RECONCILIATION Maa-nulth First Nations Final Agreement, s. 17 (a) OIC 98/2011 is repealed, (b) the minister responsible for the administration of the Wi..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:21baa2d236edc25c8442",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 237: INDIGENOUS RELATIONS AND RECONCILIATION Tla’amin Final Agreement, s. 19 (a) OIC 63/2016 is repealed, (b) the minister responsible for the administration of the Wildlife Act is a..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bc-legal-orders:c317e28a3c9612e1d338",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 238: Public Service, s. 15 Effective June 15, 2026, the appointment of Seamus Leonard O'Neill Wolfe, made by OIC 39/2026, is rescinded, and Seamus Leonard O'Neill Wolfe is appointed..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:68bb230f00ca57a89dce",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:cc37d41ed2be3795e48f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A-1: Panel Appointment"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-5: Order G-197-26 amending the regulatory timetable"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:1f48ecff3dfd8905b322",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:7ae8931d1025cfff5ec5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A-2: Order G-171-26 establishing a regulatory timetable"
+      "title": "FEI 2027 Annual Review of Delivery Rates — C3-2-1: CEC submitting amended Information Request No. 1 to FEI"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:63f97b41a5d8a788426f",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:6dbd2dfec1139c6bc150",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A2-1: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
+      "title": "FEI 2027 Annual Review of Delivery Rates — C4-3: COSCO submission regarding Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "cer-news:b7f53f1e393b4ac5c98e",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Historical trends and scenario projections for energy use in Canada"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "gazette-part-i:69293cf1ad42aa8f0b90",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, September 12, 2026, volume 160, number 37"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "house-committees:7bcae0cdfe7240559df3",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, September 24, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "house-committees:3d7d4c250e9389209e28",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, September 22, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-daily:e1d7c148515d1c874b00",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-daily:d6749859118b1938edc4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National balance sheet and financial flow accounts, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:3d22c5f532be12b5e22c",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:b0b5b600ec173c91d339",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2025 Call for Power — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:04415743cd4e4c22228f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:1a90eb203e0eab2a044c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:c21c583168d0b52dc846",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP final argument and reply, if any, to the letters of comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:6c2e1945231539ce3da1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:c882d49a62b9e29cde5a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-deadlines:97aaa745b752781746d9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — Deadline for submitting letters of comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:6a54fb87ab7838c5684e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A2-2: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
+      "title": "BC Hydro 2025 Call for Power — BC Hydro public notice of application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:3a376227ee14f976dc6c",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:52a8038d431d4fa38eda",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A2-3: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 4188 Yew Street, Vancouver, BC regarding Metergy"
+      "title": "BC Hydro Tariff Supplement No. 116 — BCUC Information Request (IR) No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:1cb48ff5953ff6588e32",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "bcuc-proceedings:94d274ab25e733b81f50",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — A2-4: BCUC Staff submitting redacted correspondence related to Complaint filed by a resident at 3435 Sawmill Crescent, Vancouver, BC regarding Metergy"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — Deadline for submitting letters of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:3d28853db3226af3ae92",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "cer-news:e833d07919c1143d8854",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-2: Replaced by B-2-1"
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – June 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:d46c6baba1b87240f65d",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "finance-canada-news:ad8d049bf14ec6040a74",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-5: BMUS submitting clarification request"
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada acts to protect Canadian softwood lumber jobs, announces support to lumber company"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "bcuc-proceedings:3ffa75582263e993a114",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "gazette-part-i:c33ef4ea738d1174a8fa",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-1: Panel Appointment"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, July 25, 2026, volume 160, number 30"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "iaac-major-projects:028285c8abe450013e74",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "house-committees:e272b18eed00d57d94d2",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Contrecœur Port Terminal Expansion Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the draft analysis report, as well as the proposed amendments to the Decision Statement and provide feedback by September"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, September 24, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-11T07:21:58.186925Z",
-      "event_id": "iaac-major-projects:5a6cacced12bb8686950",
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "house-committees:7ebd30fcafecbc646d4a",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Regional Assessment of Offshore Oil and Gas Exploratory Drilling East of Newfoundland and Labrador: — The public comment period on the draft follow-up program report for 2025-2026 is closed."
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, September 22, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-daily:d67864d0b3d018822c47",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Adult criminal court and youth court, preliminary quarterly data, <span class=\"refper\">fourth quarter of 2025/2026 </span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-daily:9ea7b2542593c604f772",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-key-indicators:153f17192269e09c02b6",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Gross domestic product by industry"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-11T19:19:59.234325Z",
+      "event_id": "statcan-key-indicators:3706a6442d3ac1cd2aea",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Gross domestic product, income and expenditure"
     }
   ],
-  "generated_at": "2026-09-11T07:21:58.186925+00:00",
-  "run_id": "20260911T072158Z-45f5a0c8",
+  "generated_at": "2026-09-11T19:19:59.234325+00:00",
+  "run_id": "20260911T191959Z-223a6ae5",
   "schema_version": "1.0"
 }
