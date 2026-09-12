@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 17,
+    "changes": 0,
     "events": 785,
     "opportunities": 682,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 7103,
-      "count": 17,
+      "bytes": 142,
+      "count": 0,
       "path": "changes.json",
-      "sha256": "38db0c538ed32fdc689befa86af7bb2469c599e6288684d2ca1adbb894fd52e9"
+      "sha256": "c8b7505ebf0cb5c51d22b7c76ce011c7eb2d1909074280f9869fa004d0eb3c5d"
     },
     "events": {
       "bytes": 1236653,
       "count": 785,
       "path": "events.json",
-      "sha256": "284ca1ebf97d06f0c6fd7880d10a9c95e6e0d8769260999362247d6f80dfba82"
+      "sha256": "2e0128b548ebfbe0dc5f1ef16ac1bb3bb6c13d972c427236398ff43f0671b652"
     },
     "heartbeat": {
       "bytes": 225,
       "path": "heartbeat.json",
-      "sha256": "b6f2870757cd9d1819f5952ddf6e085908fe3162229298112717f8087b6789aa"
+      "sha256": "7449fd535cbc1d26bbcc0771dc3314e4ad2483125f44432091d373fc2136de4e"
     },
     "opportunities": {
-      "bytes": 1316213,
+      "bytes": 1315254,
       "count": 682,
       "path": "opportunities.json",
-      "sha256": "ff7ee387541e1c5a7042f58e1f733d0fa5ab58b4de86fe01fd0a9f22cfd74a00"
+      "sha256": "d5d9c9997e8b11612695726b420a4cf5d73d9d056f2f94a818067d1a710539b0"
     },
     "source_status": {
-      "bytes": 15424,
+      "bytes": 15444,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "08d4b39613a1dc503a40961014e862c6c748ec4c84ac4a4a9deb616f7f4a21c7"
+      "sha256": "a173f4434d7dea0c17d134d5b3eb18d24edd04e1c19e9a3daa964e486b5a72a4"
     }
   },
-  "generated_at": "2026-09-12T07:19:27.705680Z",
+  "generated_at": "2026-09-12T19:18:32.401206Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260912T071927Z-2ea6b819",
+  "run_id": "20260912T191832Z-c6621f0c",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 7,
-    "ok": 21
+    "not_modified": 9,
+    "ok": 19
   },
   "status": "ok",
   "timezone": "America/Vancouver"
