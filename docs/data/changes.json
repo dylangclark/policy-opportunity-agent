@@ -3,63 +3,71 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:9352c9c7225fc89cb768",
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "statcan-key-indicators:b92e80fbdf44c3380bbb",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 386: Public Service, s. 12 Effective September 14, 2026, Hugo Tremblay‑Belanger is appointed as an Assistant Deputy Minister, Ministry of Children and Family Development."
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "finance-canada-news:c1de6584beef3e987793",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada introduces new Productivity Mega Deduction to boost Canada’s advantage as the most competitive G7 country for new business investment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "iaac-major-projects:b83fb96c00031ace744b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada accepted the initial project description and will announce a joint comment period with British Columbia’s Environmental Assessment Office at a later date."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "statcan-daily:0e4f12a23d1ea7b30a7c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Job vacancies, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "statcan-daily:94d347be19b0d93dfbc2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "statcan-daily:249491af5d523cb084ec",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:038fd142d0c77437ec6e",
+      "detected_at": "2026-09-15T19:18:05.958329Z",
+      "event_id": "bcuc-deadlines:846afbc11264f6f430e0",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 232: EDUCATION AND CHILD CARE Early Learning and Child Care, s. 5 MO 213/2026 is amended by striking out \"Sukmanik\" and substituting \"Sukhmanik\"."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:409b2404e3c41f093348",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 233: INDIGENOUS RELATIONS AND RECONCILIATION First Peoples’ Heritage, Language and Culture, s. 2 (2) Effective June 11, 2026, Esther Adams, representing the Nisg̱a’a Language Group,..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:a88d9049f3875022887e",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 235: TRANSPORTATION AND TRANSIT and WATER, LAND AND RESOURCE STEWARDSHIP Land, s. 106 (2) The administration of the described land, in the South Saanich District, is transferred from..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:852f64af80c123f6b58d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 236: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, ss. 108 and 109 Effective July 1, 2026, (a) the Closed Areas Regulation, B.C. Reg. 76/84, is amended as set out in Appendix 1, (b)..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-15T07:24:45.957039Z",
-      "event_id": "bc-legal-orders:249bbe5f89b905596e56",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 237: HEALTH Health Professions and Occupations, s. 27 The Regulated Health Practitioners Regulation, B.C. Reg. 129/2025, is amended as set out in the Schedule. [re: wearable hearing..."
+      "source_id": "bcuc-deadlines",
+      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — Nelson Hydro responses to BCUC IR No. 1"
     }
   ],
-  "generated_at": "2026-09-15T07:24:45.957039+00:00",
-  "run_id": "20260915T072445Z-1c1d1241",
+  "generated_at": "2026-09-15T19:18:05.958329+00:00",
+  "run_id": "20260915T191805Z-68b86eb8",
   "schema_version": "1.0"
 }
