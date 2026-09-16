@@ -1,73 +1,133 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "statcan-key-indicators:b92e80fbdf44c3380bbb",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:4b456a1227611de2152f",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Wholesale trade"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — BCUC Information Request (IR) No. 1 to PNG"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "finance-canada-news:c1de6584beef3e987793",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:4e5e9c0c51b343d198c1",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada introduces new Productivity Mega Deduction to boost Canada’s advantage as the most competitive G7 country for new business investment"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — Letters of comment deadline"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "iaac-major-projects:b83fb96c00031ace744b",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:b8497a91061e31d36b1b",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada accepted the initial project description and will announce a joint comment period with British Columbia’s Environmental Assessment Office at a later date."
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "statcan-daily:0e4f12a23d1ea7b30a7c",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:4caf961743b3cd908214",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Job vacancies, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "statcan-daily:94d347be19b0d93dfbc2",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:c584bf215d9d7b51af46",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New motor vehicle sales, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG public notice of Application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "statcan-daily:249491af5d523cb084ec",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:21704e0db15356b96bf8",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:62dd58683c83aaf1faca",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-proceedings:21edef62e397ab6fa115",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — B-2: BC Hydro submitting confirmation of public notice in compliance with G-188-26"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "boc-speeches:e361bb9862add5b4356a",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Media Availability: Halifax Partnership"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "boc-speeches:a5d547e3c8744313408f",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Speech: Halifax Partnership"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-15T19:18:05.958329Z",
-      "event_id": "bcuc-deadlines:846afbc11264f6f430e0",
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bc-legal-orders:83096d8163c480543c45",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 246: Constitution, ss. 10, 13 and 14 OIC 596/2024 is amended in Appendix B as set out in the Schedule."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-deadlines:4293a0d3e8e443dc24fa",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — Nelson Hydro responses to BCUC IR No. 1"
+      "title": "BC Hydro — 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-proceedings:45f81a6dc4a81441e82a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T07:22:26.123861Z",
+      "event_id": "bcuc-proceedings:f42da69db813adb5521f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — D-1: CHRISTIAN, R. (CHRISTIAN) – Letter of Comment"
     }
   ],
-  "generated_at": "2026-09-15T19:18:05.958329+00:00",
-  "run_id": "20260915T191805Z-68b86eb8",
+  "generated_at": "2026-09-16T07:22:26.123861+00:00",
+  "run_id": "20260916T072226Z-00fab94c",
   "schema_version": "1.0"
 }
