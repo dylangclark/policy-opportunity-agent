@@ -1,133 +1,400 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:4b456a1227611de2152f",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-key-indicators:9a8d156433405561dcb0",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — BCUC Information Request (IR) No. 1 to PNG"
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-key-indicators:7ec6f06efc3404c9a67d",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Model-based principal field crop estimates"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:4e5e9c0c51b343d198c1",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:63f5402f09b786f57b1a",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — Letters of comment deadline"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro confirmation of compliance with public notice requirements and social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:b8497a91061e31d36b1b",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:be1cbcbdf4c14a1c648f",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with public notice requirements, except social media reminder posts"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro final argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:4caf961743b3cd908214",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:1eac72308ea48d45bb2c",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with social media reminder posts"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro public notice of application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:c584bf215d9d7b51af46",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:d6ec0c34c9601c724531",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG public notice of Application"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro reply argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:21704e0db15356b96bf8",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:08461abe6e34c0bbdb76",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG response to letters of comment (if any) and final argument"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro response to Request for Further Information (GANTT Chart)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:62dd58683c83aaf1faca",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:a40634e17b2439fd5679",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG responses to BCUC IR No. 1"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro responses to BCUC and Intervener IR No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-proceedings:21edef62e397ab6fa115",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:b2bd1f504f402b1a476f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:71d29cf6916b0ae9dffb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BCUC Information Request (IR) No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:bb4ca035db46491fa581",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:c61c2855fdb5cb00add7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Intervener IR No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:52dff0099249547e6bec",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Intervener registration deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:eef62950bee662cf4ffa",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:b32e53ec906e1565b4e2",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — B-2: BC Hydro submitting confirmation of public notice in compliance with G-188-26"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-2: Order G-200-26 establishing a regulatory timetable"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "boc-speeches:e361bb9862add5b4356a",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:e9852d5b1cddbd84aba3",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Media Availability: Halifax Partnership"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro confirmation of compliance with public notice requirements and social media reminder posts"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "boc-speeches:a5d547e3c8744313408f",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:2c3b2fc0eb0ce8209819",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: Halifax Partnership"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:d68d8dcefc164485b743",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:df052142c518dcadde83",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:6d37c721a15c19f9cb28",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro response to Request for Further Information (GANTT Chart)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:3dd3f175da021f041990",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:7e81d11a6df137ca3db4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:9be67eb037a8b71e3eba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BCUC Information Request (IR) No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:fb4648096d3c0dc908ef",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:8da2f62f766bd933e82a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Intervener IR No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:03669713b34e864b8587",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Intervener registration deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:c82188dbe3089b180cc7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:a294f91c3c0044162c76",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:78a8f6245a9dc2d19884",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Business Conditions in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:0d5d7ccb12c8a3cb76f0",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Business Counts in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:f32a9ef9aa6af016ed43",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employer pension plans (trusteed pension funds), <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:6be782b7709911a7c946",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:30d3366e904b8e67a14b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Model-based principal field crop estimates, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:303ffff118accc683cee",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Telecommunications services producer price indexes, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:a38d00a3e780848c127a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Tuition fees for degree programs, <span class=\"refper\">2026/2027</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bc-legal-orders:83096d8163c480543c45",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 246: Constitution, ss. 10, 13 and 14 OIC 596/2024 is amended in Appendix B as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-deadlines:4293a0d3e8e443dc24fa",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-deadlines:8dea6b9e415e8381d998",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
+      "title": "FortisBC Energy Inc. (gas) — 2026 Long Term Gas Resource Plan — FEI reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-proceedings:45f81a6dc4a81441e82a",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "bcuc-proceedings:d4f4d5382a3afae70d24",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — BC Hydro confirmation of compliance with public notice requirements"
+      "title": "FEI 2026 Long Term Gas Resource Plan — FEI reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-16T07:22:26.123861Z",
-      "event_id": "bcuc-proceedings:f42da69db813adb5521f",
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "cer-news:b7f53f1e393b4ac5c98e",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — D-1: CHRISTIAN, R. (CHRISTIAN) – Letter of Comment"
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Historical trends and scenario projections for energy use in Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:dc4111e6fc9431a64473",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:c20474338f746827ae0a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:4796e510136ec29ba123",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:942b96e19c3049e805ed",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-16T19:19:40.466601Z",
+      "event_id": "statcan-daily:07157849556b8b9a5879",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">June 2026</span>"
     }
   ],
-  "generated_at": "2026-09-16T07:22:26.123861+00:00",
-  "run_id": "20260916T072226Z-00fab94c",
+  "generated_at": "2026-09-16T19:19:40.466601+00:00",
+  "run_id": "20260916T191940Z-9d110c6e",
   "schema_version": "1.0"
 }
