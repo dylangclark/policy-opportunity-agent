@@ -1,34 +1,238 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-key-indicators:ec6f9b5d888574299f0d",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-key-indicators:ad841ebabafa691af460",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T07:23:54.543107Z",
-      "event_id": "bcuc-proceedings:fb76c16fbf500fc0cc5e",
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "bcuc-proceedings:1abe66674aee66276691",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-6: Order G-201-26 with decision regarding Intervener Information Request No. 1 to FEI"
+      "title": "BCUC Metergy Status as a Public Utility — D-15: PEREZ, R. (PEREZ) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "bcuc-proceedings:0cdc7d0cc9d0af736d48",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4-1: CONFIDENTIAL – Creative Energy submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "bcuc-proceedings:a787c97ab8702235e909",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4: PUBLIC – Creative Energy submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Remembrance Day"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:acf8d3d0322d88fde7c3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: AGRI — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:623e5d672a991ed7a354",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: CIIT — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "iaac-major-projects:35235f57f641315f35ac",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Milton Logistics Hub Project: — An update has been made to the Decision Statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:35fecf1ec02f99015708",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:dad553118b659e608a2d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:d4d346990cdcc48925bc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Fertilizer Shipments Survey, <span class=\"refper\">third and fourth quarters 2025/2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:0d2673465e94b2c5b4b4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:206a283aa0deccc2085b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T07:23:54.543107Z",
-      "event_id": "bcuc-proceedings:c29ee15b8eec121421b5",
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "bcuc-deadlines:2a8cd9713ddb585036bf",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-4: BC Hydro submitting response to BCUC Information Request No. 1"
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T07:23:54.543107Z",
-      "event_id": "bcuc-proceedings:603b3413a661b211ede3",
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "bcuc-proceedings:ae5aacdcf0e4ad0cf1b4",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-5: BC Hydro submitting response to Intervener Information Request No. 1"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "boc-upcoming:8ca85ff144db5329def7",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Publication: Summary of Deliberations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:76b73ea60aa9f69c0954",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: CIIT — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "house-committee-reports:907fe04b4406baba1f98",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-daily:8c695f54182006192949",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Informatics professional services price indexes, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-key-indicators:ec225992b334c65abd82",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canadian international merchandise trade"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-17T19:21:51.144291Z",
+      "event_id": "statcan-key-indicators:0e24b0a6358efc8ab387",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Labour productivity, hourly compensation and unit labour cost"
     }
   ],
-  "generated_at": "2026-09-17T07:23:54.543107+00:00",
-  "run_id": "20260917T072354Z-386103b9",
+  "generated_at": "2026-09-17T19:21:51.144291+00:00",
+  "run_id": "20260917T192151Z-120e7440",
   "schema_version": "1.0"
 }
