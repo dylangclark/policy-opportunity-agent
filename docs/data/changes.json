@@ -3,236 +3,596 @@
     {
       "change_type": "changed",
       "changed_fields": [
+        "title",
+        "description",
         "source_url",
+        "metadata_only",
         "content_hash"
       ],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-key-indicators:ec6f9b5d888574299f0d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international transactions in securities"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-key-indicators:ad841ebabafa691af460",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Industrial product and raw materials price indexes"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "bcuc-proceedings:1abe66674aee66276691",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:d66a9dfff73b37abc89c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-15: PEREZ, R. (PEREZ) – Letter of Comment"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-4: CONFIDENTIAL – Replaced September 17, 2026 – Big White submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "bcuc-proceedings:0cdc7d0cc9d0af736d48",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-regulations:50691087f93cc8d48cb8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4-1: CONFIDENTIAL – Creative Energy submitting response to BCUC Information Request No. 1"
+      "source_id": "bc-regulations",
+      "title": "395/2026 Amends B.C. Reg. 26/58 — Motor Vehicle Act Regulations, effective September 30, 2026 154/2026 September 10, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "bcuc-proceedings:a787c97ab8702235e909",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-regulations:6578c9b88458a1b3c67f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4: PUBLIC – Creative Energy submitting response to BCUC Information Request No. 1"
+      "source_id": "bc-regulations",
+      "title": "397/2026 Amends B.C. Regs. 66/2026 168/90 — Designation and Exemption Regulation, effective October 1, 2026 155/2026 September 10, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-regulations:84dfc8f5e236e6f844c3",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Remembrance Day"
+      "source_id": "bc-regulations",
+      "title": "British Columbia Energy Regulator Amends B.C. Reg. 28/2026 — Renewable Energy Projects Regulation 158/2026 September 14, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:acf8d3d0322d88fde7c3",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-regulations:1589b34f10b00339399c",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: AGRI — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bc-regulations",
+      "title": "British Columbia Securities Commission Amends B.C. Regs. 1/2000 — National Instrument 81-101 Mutual Fund Prospectus Disclosure, effective October 1, 2026 2/2000 — National Instrument 81-102 Investment Funds, effective October 1, 2026 131/98 — National Instrument 81-105 Mutual Fund Sales Practices, effective October 1, 2026 226A/2009 — National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations, effective January 1, 2027 157/2026 September 11, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-regulations:d3f8363ee1a3261282db",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
+      "source_id": "bc-regulations",
+      "title": "British Columbia Securities Commission Amends, effective September 22, 2026, B.C. Regs. 110/2004 — National Instrument 51-102 Continuous Disclosure Obligations 154/2002 — National Instrument 54-101 Communication with Beneficial Owners of Securities of a Reporting Issuer 156/2026 September 11, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:623e5d672a991ed7a354",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: CIIT — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "iaac-major-projects:35235f57f641315f35ac",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Milton Logistics Hub Project: — An update has been made to the Decision Statement."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:35fecf1ec02f99015708",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international transactions in securities, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:dad553118b659e608a2d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:d4d346990cdcc48925bc",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Fertilizer Shipments Survey, <span class=\"refper\">third and fourth quarters 2025/2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:0d2673465e94b2c5b4b4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:206a283aa0deccc2085b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Housing Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "bcuc-deadlines:2a8cd9713ddb585036bf",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:bcd918d781dac998a31e",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro submission on further process"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "bcuc-proceedings:ae5aacdcf0e4ad0cf1b4",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:82459c11eeee7016c381",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener submissions on further process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:879667c956f9816ca4ff",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP response to BCUC IR No. 1"
+      "title": "BC Hydro Nookliklonnic Creek EPA — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:681c8967e24eff85cbf5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Nookliklonnic Creek EPA — B-1-1: CONFIDENTIAL – BC Hydro submitting Nookliklonnic Creek EPA Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:27494df57af834b34e20",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Nookliklonnic Creek EPA — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Nooklikonnic Creek Hydroelectric Electricity Purchase Agreement Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:c6a331f424f91d4eb19f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Nookliklonnic Creek EPA — E-21-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:f0ca3be681591d0f8082",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-6: BCUC Request for submissions on further process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:0c6d77f2a13115f16be0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-7: Order G-205-26 Amending the Regulatory Timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:11a42a773abe8d9358b5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro submission on further process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:3c669f02a02728bcca84",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Intervener submissions on further process"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:ab17b91133a0b7c23ec7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-16: KWAN, N. (KWAN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:9fef3629024093d004fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-4-1: PUBLIC – Big White submitting redacted response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:7de994b2053ac80ab291",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-5: Big White submitting responses to Information Request No. 1 cover letter and request for confidentiality"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "finance-canada-news:d5f537b69db85d4d1d28",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to travel to the United Kingdom and Ireland to strengthen economic and security ties with European counterparts and stakeholders"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "iaac-major-projects:e95e4c155cda8097397f",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Sorel-Tracy Port Terminal Project: — The Minister of the Environment, Climate Change and Nature issued the impact assessment decision statement to the proponent."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "boc-upcoming:8ca85ff144db5329def7",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:e9e541b77bd9c2e58b8a",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 248: Public Service, s. 15 Effective June 22, 2026, the appointment of Maddie Sa-Cinn O'Neil-Johns, made by OIC 682/2024, is rescinded, and Maddie Sa-Cinn O'Neil-Johns is appointed a..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:6c89b289e9872e8ac2a1",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 249: Public Service, s. 15 Effective June 24, 2026, (a), (b), (e) and (f) the appointment of David Bruce Beninger, made by OIC 511/2025, is rescinded, and David Bruce Beninger is app..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:17871e0cc81d7898c205",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 250: AGRICULTURE AND FOOD Natural Products Marketing (BC), ss. 2 and 22 Effective September 1, 2026, the British Columbia Chicken Marketing Scheme, 1961, B.C. Reg. 188/61, is amended..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:76b73ea60aa9f69c0954",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:0b2fc25b779e4f256e1c",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: CIIT — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 252: ENVIRONMENT AND PARKS Sustainable Environment Fund, s. 6 Effective July 1, 2026, the Sustainable Environment Fund Revenue Regulation, B.C. Reg. 142/2011, is repealed and the Sus..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "house-committee-reports:907fe04b4406baba1f98",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:0fd10ef7b1cefa7469d4",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 253: ENVIRONMENT AND PARKS Environmental Management, ss. 134 and 138 (2) and (3) Effective July 1, 2026, the Hazardous Waste Regulation, B.C. Reg. 63/88, is amended as set out in the..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-daily:8c695f54182006192949",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:b5e78ee973bb6f585a92",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Informatics professional services price indexes, <span class=\"refper\">2025</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 254: ENVIRONMENT AND PARKS Environmental Management, ss. 62, 138 and 139 Effective July 1, 2026, the Contaminated Sites Regulation, B.C. Reg. 375/96, is amended as set out in the App..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-key-indicators:ec225992b334c65abd82",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:3ad5493543c562494422",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canadian international merchandise trade"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 255: MINING AND CRITICAL MINERALS Mines, s. 34 (6) Effective June 22, 2026, the amendments to the Health, Safety and Reclamation Code for Mines in British Columbia, as prepared by th..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-17T19:21:51.144291Z",
-      "event_id": "statcan-key-indicators:0e24b0a6358efc8ab387",
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bc-legal-orders:b4a8954fd36ffc154845",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour productivity, hourly compensation and unit labour cost"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 256: Public Service, s. 15 Paragraph (b) of OIC 247/2026 is repealed."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:77c05d8fea3e23520371",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:4ddd123adf218f833088",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro reply argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:a45f644a9e35608711e5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro responses to BCUC and Intervener IR No. 2"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:cd93a8da1b3d78846e55",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BCUC IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:20c18666a1903b5e6ddf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:05278e509e36c272aae8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Interveners final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-deadlines:ee94ddb8eaac2dd1e4b4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:b2a19e54572340604db8",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1-1: CONFIDENTIAL – BC Hydro submitting Application for a CPCN for the Mica Units 1 and 2 Turbine Upgrade"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:5baa015c53c0e727c1d0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Application for a Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:f5f1d54797081c475305",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — D-1-2: FBC submitting comments on the Proposed IBR Implementation Plans"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:924e62dabc41cd714123",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro MRS Assessment Report No. 19 — D-3-1: Innergex submitting comments on the Proposed IBR Implementation Plans"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:32ee811a4a30b16cb0ec",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro reply argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:c13b060a8e1136a70b1d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro responses to BCUC and Intervener IR No. 2"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:8c3096494acd7c5a1e05",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BCUC IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:29b44f2b90f382aab021",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Intervener IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:0822c3518f0e068ff477",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Interveners final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:9f341751ab07f9db59ee",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:f4756597bb3761572bad",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC FPTA Fee Framework — D-1: ACTTON PETROLEUM SALES LTD. (ACTTON) – submission regarding the Draft Fee Framework"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:b162f122382ea3d68289",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-4: BCUC Information Request No. 1 to Creative Energy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:fd2c27ded972ed3b5700",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A2-1: BCUC Staff Submission of Creative Energy Thompson Rivers University Low-Carbon District Energy System Semi-Annual Progress Report No. 2 and Material Change Report dated April 24, 2024"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:8e3d6ffc66594c5fb65c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-3: Order G-182-26 accepting interveners, establishing proceeding scope and PCA cap"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:5b04adea8bc3645eba48",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-4: BCUC Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:015913955f1a9460983b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-4: FBC submitting confirmation of social media reminder posts in compliance with G-151-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:55ab0c2e0d07a7413c93",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C1-2: BCSEA submitting update to legal representative"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:cefcffbb132d8193c250",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C1-3: BCSEA submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:fc084adbe94332a029e3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C2-2: MoveUP submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:18bda1b7acf834a44fe9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C3-2: CEC submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:06a387914a3697c5a62b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-2: ICG submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:aa76e8b31e40e8226599",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C5-2: COSCO submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:ea77e5ccc785e0a7e703",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C6-2: RCIA submitting Information Request No. 1 to FBC"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:6f9b95aa15813fa253d7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-18T07:23:29.366556Z",
+      "event_id": "bcuc-proceedings:f0d388f9aecb09bee26f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Letters of comment deadline"
     }
   ],
-  "generated_at": "2026-09-17T19:21:51.144291+00:00",
-  "run_id": "20260917T192151Z-120e7440",
+  "generated_at": "2026-09-18T07:23:29.366556+00:00",
+  "run_id": "20260918T072329Z-044373f9",
   "schema_version": "1.0"
 }
