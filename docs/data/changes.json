@@ -3,203 +3,113 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bc-legal-orders:456ac57165c0dae81dbd",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 339: FINANCE Budget Transparency and Accountability, s. 4 Effective September 10, 2026: (a) the persons identified in the schedule are members of the Economic Forecast Council as des..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bc-legal-orders:6f5844691a429e5a7fd9",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 395: PUBLIC SAFETY AND SOLICITOR GENERAL Motor Vehicle, s. 83.1 (8) Effective September 30, 2026, the Motor Vehicle Act Regulations, B.C. Reg. 26/58, are amended as set out in the Sc..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bc-legal-orders:758d2b9d122e01e02e7e",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 397: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, s. 108 (2) and (3) (a) Paragraph (a) of B.C. Reg. 66/2026 is repealed, and (b) effective October 1, 2026, the Designation and Exem..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bc-legal-orders:0db2611b8c037a0dd5cf",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 398: Public Service, s. 12 Effective September 14, 2026, Meaghan Hoyle is appointed as an Acting Associate Deputy Minister with the title of Acting Chief Executive Assessment Officer..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-proceedings:2ffa84cf631699f697fc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C1-3: MoveUP submission on further process"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-proceedings:e49a3d40af635ae70eb7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-7: BMUS submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "gazette-part-i:1eb81d5799cb53b5df97",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, September 19, 2026, volume 160, number 38"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "iaac-major-projects:cf9a00a2f3ef2140e9d1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Brandon Dispatchable Capacity Project: — The Impact Assessment Agency of Canada terminated the impact assessment process for the Brandon Dispatchable Capacity Project."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:57a0fffeff106ebed85c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:205236cd745922e634cf",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Household Spending, <span class=\"refper\">2023</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-deadlines:4800fa63125c40692d4e",
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:d7c6606184073cb47df0",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — Letters of comment deadline"
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — BCUC Information Request (IR) No. 1 to FEI"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-deadlines:100a74ff73345699b506",
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:3bc21b6837c51176304b",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS responses to IR No. 1"
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:44aa83aa6dee2c70f5a1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI public notice of Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:73cec20faa06dc54fac5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:2b1adfd74c9ea146367e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:46cd97953f73323c5e37",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "cer-news:b7f53f1e393b4ac5c98e",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Historical trends and scenario projections for energy use in Canada"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "govtogether-bc:1d7792298eebf836088c",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Private Moorage in the Southern Gulf Islands and Southeast Vancouver Island"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-proceedings:91715225d8eaa0278e98",
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-deadlines:ef9f76501255bdadf926",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Big White Gas Utility — Fiscal 2027 to 2031 Permanent Rates — BWGU final argument and reply to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-proceedings:167e34426c5528425cbb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — Letters of comment deadline"
+      "title": "BC Hydro MRS Assessment Report No. 19 — B-4: BC Hydro submitting comments on the Proposed IBR Implementation Plans"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "bcuc-proceedings:224f31d462b8be009ea0",
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-proceedings:8b8e6bf2a59a2b5a6e49",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS responses to IR No. 1"
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — BWGU final argument and reply to letters of comment, if any"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "gazette-part-i:869a892f520b132128e7",
+      "detected_at": "2026-09-19T07:19:07.450539Z",
+      "event_id": "bcuc-proceedings:d7638607aeee6da23340",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 1, 2026, volume 160, number 31"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "gazette-part-i:4adbc1841403a8dc7453",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, July 31, 2026, volume 160, extra number 6"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:5c14f302ba0c9e18351d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:ec91146ec5ccd02836d8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Health Reports, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:58cd2e0b81730968f3d4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Investment in building construction, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:098a9d8f84f23e580a33",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-daily:91e168d532cd32a5dbce",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Urban public transit, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-18T19:16:28.645185Z",
-      "event_id": "statcan-key-indicators:cc6083d6643cff03a9db",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-3: Order G-178-26 accepting interveners, establishing proceeding scope and PCA cap"
     }
   ],
-  "generated_at": "2026-09-18T19:16:28.645185+00:00",
-  "run_id": "20260918T191628Z-66ee0158",
+  "generated_at": "2026-09-19T07:19:07.450539+00:00",
+  "run_id": "20260919T071907Z-046b97c9",
   "schema_version": "1.0"
 }
