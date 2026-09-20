@@ -1,55 +1,54 @@
 {
   "counts": {
-    "changes": 4,
-    "events": 793,
-    "opportunities": 661,
+    "changes": 2,
+    "events": 791,
+    "opportunities": 659,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 1754,
-      "count": 4,
+      "bytes": 859,
+      "count": 2,
       "path": "changes.json",
-      "sha256": "ffd1a93099609d6d5db71ceb7492634882a3eaa7fbac1aeb85d8c7f877f95021"
+      "sha256": "03e0e4907b68502bd9224ae71f45f8a3b65c1f3e4ccee07abdd0bb06efe19b88"
     },
     "events": {
-      "bytes": 1253133,
-      "count": 793,
+      "bytes": 1250560,
+      "count": 791,
       "path": "events.json",
-      "sha256": "b69779d81e3258c4176274e51949d6b70237177a683de16f3456b60d22528b4c"
+      "sha256": "b88042e224cad898763e8cb561d45e34f2651df57afe420d00d9694e82f834bf"
     },
     "heartbeat": {
-      "bytes": 266,
+      "bytes": 248,
       "path": "heartbeat.json",
-      "sha256": "6fed313b3ff6bec1bf688e54e8449d7d0327254ac23553dc75b3e941c56c57b3"
+      "sha256": "658c9d7d73053d08f7d4889c0681944a564db80f88c5fd4ee700887a823b2ec2"
     },
     "opportunities": {
-      "bytes": 1279089,
-      "count": 661,
+      "bytes": 1275629,
+      "count": 659,
       "path": "opportunities.json",
-      "sha256": "80698a28cc50d98cde75779ae4a257a02ec78f584b2a6775efae1249395d27bf"
+      "sha256": "95c02bc2042ce8d34cd2171f28f1ad203d5c85d84bf996235e8a41ab68c6b787"
     },
     "source_status": {
-      "bytes": 16385,
+      "bytes": 15675,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "43804f796129e13a8e8b6a0fec1b5f90b8cd6dfb76056993103018279be1d7c8"
+      "sha256": "073f8c32f6980991da74a32f23c8d1fdaf6f460912e240f07d0de66fe0debd15"
     }
   },
-  "generated_at": "2026-09-20T07:21:40.285337Z",
+  "generated_at": "2026-09-20T19:21:09.377070Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260920T072140Z-7c75f76d",
+  "run_id": "20260920T192109Z-2f7e309d",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "failed": 1,
-    "not_modified": 10,
-    "ok": 16,
+    "not_modified": 9,
+    "ok": 18,
     "partial": 1
   },
   "status": "partial",
