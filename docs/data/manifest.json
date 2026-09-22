@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 35,
-    "events": 794,
-    "opportunities": 666,
+    "changes": 46,
+    "events": 791,
+    "opportunities": 663,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 14981,
-      "count": 35,
+      "bytes": 17994,
+      "count": 46,
       "path": "changes.json",
-      "sha256": "d1a5762eb1821a0d9c68716b73b4a3ef2c87cf5686bd7c325aeb550d3ba37dbe"
+      "sha256": "fd80820d1f8759a130a9762abce50e1ac0d9553f18dddbab2f946330ee8e1ca1"
     },
     "events": {
-      "bytes": 1253611,
-      "count": 794,
+      "bytes": 1250002,
+      "count": 791,
       "path": "events.json",
-      "sha256": "d426e1ce1bb1764a5823f781448d39f3d38788bcb7a799ceb611c71b19330fbc"
+      "sha256": "9598ab11b613d0c64390d75643664bb58684a74dfa99d85e92a9aa82f7a06aec"
     },
     "heartbeat": {
       "bytes": 248,
       "path": "heartbeat.json",
-      "sha256": "0a49ff042c94cab573a8cf3f9cc176bf25a865774fec838a2fa7ea75b18d5f75"
+      "sha256": "9c3492be8afacf2ace73550fe1dc06380e606a70c673899a257be6b1fb54e39e"
     },
     "opportunities": {
-      "bytes": 1290072,
-      "count": 666,
+      "bytes": 1286056,
+      "count": 663,
       "path": "opportunities.json",
-      "sha256": "d2c03725f8c0eecc51dc2c88bfd81d2ba42fcbcfe0cfb3bb11835fda360d0547"
+      "sha256": "e649282980b8b0ffe1f0c62b6b61e770849b8230c9de15260d570da7aaf51b70"
     },
     "source_status": {
-      "bytes": 15655,
+      "bytes": 15635,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "e0af82a84de7dd3878497fc44c6f86943a93bca3f29e3cb3a01557f360a1f3fa"
+      "sha256": "0a86653f355c8fac28fae0497311e22ca9ed17a50b71294a5b875b2d3e4c59f1"
     }
   },
-  "generated_at": "2026-09-22T07:16:46.335667Z",
+  "generated_at": "2026-09-22T19:23:38.056077Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20260922T071646Z-be4255f0",
+  "run_id": "20260922T192338Z-354ffea3",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 7,
-    "ok": 20,
+    "not_modified": 5,
+    "ok": 22,
     "partial": 1
   },
   "status": "partial",
