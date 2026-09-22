@@ -6,7 +6,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
       "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -18,7 +18,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
       "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -30,7 +30,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
       "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -42,7 +42,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
       "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -54,215 +54,284 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
       "event_id": "bc-legislature-calendar:d778de1251d99434849c",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
       "title": "In Session"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-key-indicators:734f98e9f05f919d6ab7",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "bcuc-proceedings:edef1573cf63eb4b72d0",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:879bbdd4a11099128b01",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C2-4: BCSEA submission on further process"
+      "title": "BC Hydro TS 6 Amendment — C4-3: CEC submission on further process"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "boc-speeches:c69ce7cd8e9f5386c892",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:af977ad98a30a5bc6658",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Adapting to structural forces, navigating uncertainty"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C5-3: AMPC submission on further process"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "boc-speeches:fd7ec169053ee85649eb",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:f0fd57e3497280b003b4",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Navigating uncertainty and adapting to change"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-3-1: CONFIDENTIAL – BCUC Information Request No. 1 to KVULP"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "govtogether-bc:a1f317b3f85283fdeb55",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:3d7443fe8951a4e7bc59",
       "schema_version": "1.0",
-      "source_id": "govtogether-bc",
-      "title": "Health Care Assistant Regulation"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-3: PUBLIC – BCUC Information Request No. 1 to KVULP"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:f0aa0db6be83adf49719",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:6dbce0722a72680f7153",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Housing affordability in Canada, <span class=\"refper\">2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-10: FEI submitting response to MoveUP Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:e803270c41a41489a0de",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:187e2fbdc4856c47edf6",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Investment in building construction, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-11: FEI submitting response to RCIA Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:4ac127fdbcf5bdc91a8d",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:802838ed68ceecc74c50",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-6-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:b020cb27ea80d34c6964",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:863fa5f6137f5fa70258",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-6: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:8c392c8adfa47c69844d",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:f2d86dacdf5f258d045a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: An overview of the banking industry in Canada: Understanding income within the context of regulatory and resilience requirements, <span class=\"refper\">2020 to 2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-7: FEI submitting response to BCSEA Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:c15a293e953ec781d092",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:2b2887bdfe27786a259b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Urban public transit, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-8: FEI submitting response to CEC Information Request No. 1"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "iaac-major-projects:b54077bdf73c033b46f9",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:fb61b0174e3f6dd7c442",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-9: FEI submitting response to COSCO Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:fec07b0c27a2c6a7d428",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:39567b4e5d06b786e7f8",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:5540174a00356d21a773",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:ce98b2f8eb17930b3bce",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: MORE — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "iaac-major-projects:2e5e81c6ddad078b54a7",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Lynn Lake Gold Project: — The President of the Impact Assessment Agency of Canada issued an amended Environmental Assessment Decision Statement to the proponent."
+      "title": "Tilbury Phase 2 LNG Expansion Project: — The Minister of the Environment, Climate Change and Nature issued the impact assessment decision statement to the proponent."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:3d459163ecf732a65fa0",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bc-legal-orders:4f08dd5df040d47dd13c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Commercial rents in key Canadian economic markets, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 238: HEALTH Pharmaceutical Services, Drug Plans Regulation, s. 34 (2) (a) MO 155/2015 is rescinded, and (b) the community care facilities listed in the Appendix are approved as facil..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:01e68d43fea00c820a2e",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bc-legal-orders:49a36cef54a8c8e91cc4",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">July 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 239: HEALTH Pharmaceutical Services, Drug Plans Regulation, s. 34 (2); Ministry of Health, s. 4 (2). The powers and duties of the Minister of Health under section 34 (2) of the Drug..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:b3fec9a0b72505ca59a5",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bc-legal-orders:351dcb412091fb44eeff",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Integrating the Canadian Health Measures Survey and administrative data for use in Statistics Canada's research data centres"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 240: HEALTH Health Professions and Occupations, s. 345 (1) Effective July 13, 2026, Clark Ryan Konczak is appointed as a Professional Member to the board of the College of Complement..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:d4ea3375c89373980218",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bc-legal-orders:4b46ee32cadf69478d98",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">June 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 241: HEALTH Health Professions and Occupations, s. 345 (1) Effective July 13, 2026, Gene Patterson is appointed as a Public Member to the board of the College of Complementary Health..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:dd9978e09718fcf6ead7",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bc-legal-orders:e2342dfec2d328a76c30",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">June 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 260: Constitution, ss. 10, 13 and 14 Effective July 1, 2026, OIC 596/2024 is amended in Appendix A and Appendix B as set out in the Schedule."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:4e0ed464425279c08685",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-deadlines:de0a60a40f2a78f56230",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Housing Price Index, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — BCUC Information Request (IR) No. 1 to KVULP"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:5a0da9ab329adedae9be",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "bcuc-proceedings:74d56647475dc5705a62",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly civil aviation statistics, <span class=\"refper\">third quarter 2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — BCUC Information Request (IR) No. 1 to KVULP"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:df12c93974d6f721d5f8",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "cer-news:b7f53f1e393b4ac5c98e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Refined petroleum products, <span class=\"refper\">July 2026</span>"
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Historical trends and scenario projections for energy use in Canada"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:e9b4b8e84bdb30722ed3",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:acf8d3d0322d88fde7c3",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">June 2026</span>"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: AGRI — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-21T19:17:01.604460Z",
-      "event_id": "statcan-daily:a440a912cf5c8493df2e",
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel between Canada and other countries, <span class=\"refper\">June 2026</span>"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:433b4f889fae43e71e35",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "house-committee-reports:c4038bd1b939059ffcbc",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ACVA — The Experience of Indigenous Veterans"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-22T07:16:46.335667Z",
+      "event_id": "iaac-major-projects:b83fb96c00031ace744b",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada accepted the initial project description and will announce a joint comment period with British Columbia’s Environmental Assessment Office at a later date."
     }
   ],
-  "generated_at": "2026-09-21T19:17:01.604460+00:00",
-  "run_id": "20260921T191701Z-2cf081b7",
+  "generated_at": "2026-09-22T07:16:46.335667+00:00",
+  "run_id": "20260922T071646Z-be4255f0",
   "schema_version": "1.0"
 }
