@@ -1,424 +1,97 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-key-indicators:ba2693c3f84146dcfc95",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Travel between Canada and other countries"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:02826c0d9b6fa1b93ca9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C6-3: RCIA submission on further process"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Interest Rate Announcement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "finance-canada-news:999df1cd3ff5ffe18b09",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne introduces legislation to extend the federal fuel excise tax relief for Canadians"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:076aff780b337160fb4f",
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: FINA — Recommendations of the Standing Committee on Finance for the 2026 budget"
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "house-committee-reports:907fe04b4406baba1f98",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "house-committee-reports:f716e27613fa15e15a03",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: CIIT — Eliminating Forced Labour from Canadian Supply Chains"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "iaac-major-projects:8b6b93d63c5a394283bc",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Rook I Project: - As determined in the Summary of Decision on March 4th 2026, a licence was granted for NexGen Energy Ltd's (NexGen) Rook I project."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
+      "event_id": "bc-legal-orders:ac33a8110189dd2a3ca8",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 262: HOUSING AND MUNICIPAL AFFAIRS Local Government, ss. 3, 10, 17, 18, 20, 21, 31, 32, 33, 35, 44 and 46; Community Charter, s. 6 (a) Letters Patent are issued incorporating the Dis..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-23T07:17:23.138501Z",
       "event_id": "house-committee-reports:9647ad207ef648e36a39",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: PROC — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
+      "detected_at": "2026-09-23T07:17:23.138501Z",
       "event_id": "house-committee-reports:eb13852b28df3ab57ec0",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: RNNR — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
+      "detected_at": "2026-09-23T07:17:23.138501Z",
       "event_id": "house-committee-reports:9916dea6519152d45ec0",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:1904d51be847de320660",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Canada’s 2030 emissions reduction plan: federal climate policy at a crossroads"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:22fb0a14294298aeaea9",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — A War on Civilians: Addressing the Human Toll of the Conflict in Sudan"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:4a605d41bae53b6b7b14",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — More than a Moment: Investing in Canada’s Arctic Security"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:354f67820e661e728a19",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Securing Ukraine's Future"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:0caf8f675bb3bbfc2140",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INAN — 2025 Reports of the Auditor General of Canada: Follow-Up on Programs for First Nations"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:fa6db0ef389aa7d1d6b3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Improving Productivity in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "iaac-major-projects:f038ea886047b6bb1830",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Valentine Gold Project: — An update has been made to the Decision Statement."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:a245d5a1865dbc374bf2",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:5d25e570a59d68209abd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Opioid and stimulant consumption patterns in select Canadian cities, <span class=\"refper\">January 2024 to March 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:10448d6845ed1696c864",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly civil aviation statistics, <span class=\"refper\">fourth quarter 2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:bd262498e75f4fc2d459",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Services Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:8a76554e975cceb3aabd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel between Canada and other countries, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:61a9591ae17c5f912e3e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Vehicle registrations, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "statcan-daily:37379bf4bb73bbbfee10",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale Services Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-deadlines:1eac72308ea48d45bb2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-deadlines:82459c11eeee7016c381",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener submissions on further process"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-deadlines:0345aa43827e7c0184b5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-deadlines:dd451caaa6c2ba6eeb5e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI responses to BCUC and Intervener IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-deadlines:8d9050d1516723f1e1e6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:d68d8dcefc164485b743",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:3c669f02a02728bcca84",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Intervener submissions on further process"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:b9757294ebc33694e818",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:0de8cda20c5fc7368cc3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — FEI responses to BCUC and Intervener IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "bcuc-proceedings:d3ef0295a5d051eeeb7f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "boc-upcoming:79e777f96978be4b01d5",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Tiff Macklem, Governor"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:fec07b0c27a2c6a7d428",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:b9889c656265a300b19b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: CIMM — Canada's Immigration System"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:5c4b94e748814322cf6a",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: FAAE — A War on Civilians: Addressing the Human Toll of the Conflict in Sudan"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:ff882da719cf81e0ca66",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: FAAE — More than a Moment: Investing in Canada’s Arctic Security"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:871a04242146ec79cb69",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: FAAE — Securing Ukraine's Future"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:9f230426a508a4a302e5",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Attacks on Christians and Wider Violence in Nigeria"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:6bb5018d81217b7f578b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Enduring and Overcoming: The Struggle of the Hazaras in Afghanistan"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:9ed61c243f7fb129ca89",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Haiti's Multi Faceted Crisis and Canada's Response"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:39567b4e5d06b786e7f8",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:ce98b2f8eb17930b3bce",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: MORE — Canada’s Involvement in Rules-Based International Trade and Investment Systems"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:874afc72a001aeed1611",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PACP — Connectivity in Rural and Remote Areas"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:195943a34f263f9c443e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PACP — Forests and Climate Change"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-22T19:23:38.056077Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     }
   ],
-  "generated_at": "2026-09-22T19:23:38.056077+00:00",
-  "run_id": "20260922T192338Z-354ffea3",
+  "generated_at": "2026-09-23T07:17:23.138501+00:00",
+  "run_id": "20260923T071723Z-98cdf7b6",
   "schema_version": "1.0"
 }
