@@ -1,351 +1,268 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-proceedings:f613e9ddf695e116c875",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:742f9a70c5f1cdf5e7b6",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-4: AMPC reply submission on further process"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "fiscal-monitor:39a8db5513fa84d5397f",
-      "schema_version": "1.0",
-      "source_id": "fiscal-monitor",
-      "title": "Fiscal Monitor publication page changed"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-key-indicators:ac4108a0d2d79a7a0790",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "National tourism indicators"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 346: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 68 The Peace River Regional District Emergency Measures Order, made by MO 214/2026, is repealed."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-proceedings:42fda95aee27e0403445",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:105c79bdd2d42fdfdcbf",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — B-1-1: BC Hydro submitting Errata No. 1 to the Application"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 354: HOUSING AND MUNICIPAL AFFAIRS Local Government, ss. 50, 71 (2) (a), 71 (5), 77 (6), 85, and 167 Effective July 25, 2026, an exception is provided to the District of Summerland r..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-proceedings:f84248ba69d9c002b5e7",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:6189e5ae65c3588403d8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — B-3: BC Hydro submitting response to BCUC Information Request No. 1 and amended Tariff Supplement No. 116"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 399: HOUSING AND MUNICIPAL AFFAIRS Local Government, ss. 12, 44 and 46; Community Charter, s. 6 1. Letters Patent are issued for the Town of Comox. 2. Letters Patent are issued for t..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "boc-speeches:d213cd5708fe4f871490",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:55b0dfa2003d2ee4efb1",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 400: Public Service, s. 15 Effective September 22, 2026, the appointment of Adrienne Melody Lillian MacCoy, made by OIC 26/2025, is rescinded, and Adrienne Melody Lillian MacCoy is a..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "cer-news:a68647bef7a514cc1b98",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:f29d60159892b66f3680",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – July 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 404: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Kitsumkalum Interim Protection Area Order is made."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "cer-news:b1220803572fdfe85361",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:064eda8065e135bb44c5",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Refined Petroleum Products – July 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 405: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Kitselas Interim Protection Area Order is made."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "gazette-part-i:d39074ddb597196ef6f9",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:e998c8a7756956ade928",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, September 26, 2026, volume 160, number 39"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 406: FORESTS Forest, s. 169 (a) B.C. Reg. 134/2023 is amended in paragraph (b) by striking out \"September 30, 2026\" and substituting \"September 30, 2028\", and (b) B.C. Reg. 34/2024 i..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:eb13852b28df3ab57ec0",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:c8a3b9a2406d84579962",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: RNNR — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 407: FINANCE Provincial Sales Tax, s. 240 (a) Effective November 1, 2026, the Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as set out in Schedule 1, an..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:9916dea6519152d45ec0",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:4af42d2979341f7d8b42",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 408: FINANCE Provincial Sales Tax, ss. 236 and 241 (a) Effective September 30, 2026, B.C. Reg. 114/2026 is amended by repealing section 4 of Schedule 1 and section 4 of Schedule 2, a..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bc-legal-orders:0e7a54cc020e660dc102",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 409: JOBS AND ECONOMIC GROWTH Trade Recognition, s. 15 Effective October 1, 2026, the Trade Recognition Act, S.B.C. 2026, c. 3, is brought into force."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:e8c9e95ee57342f165b2",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Canada-United States border management"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "iaac-major-projects:221457607f39decdf0b8",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Trigon Pacific LPG Project: — The proponent provided its response to the summary of issues to the Impact Assessment Agency of Canada."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:21a5ccc8d961664f90fa",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Government finance statistics, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:e53ef22f20160b6c5219",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "National tourism indicators, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:db9446afc8aa7bbca0fd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Natural resource indicators, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:6f049b8e8d521c210aed",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:b45e9a5b1a2e4bf4cd92",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:23ec6b45f48ccf9a8431",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-deadlines:d1f790a3b3112d4ff12c",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:970d2484c6322366b64b",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro final argument"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-deadlines:194ab443fad941843bf4",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:7c4d0970de0ba2324b8b",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC responses to BCUC and Intervener IR No. 1"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro reply argument"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-deadlines:0fa0a6d448a0f03ca800",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:40c46d9d9d31152cc694",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Letters of comment deadline"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro responses to RCIA and AMPC Intervener IR No. 2"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "bcuc-proceedings:8ccabe16012cbc58512c",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:4d647662f910a5669069",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Interveners final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:50bec5760b57998692e6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-deadlines:2995139282bae5391c8d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:e60157557b398e5b9a7a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to BCUC IR No. 1"
+      "title": "BC Hydro TS 6 Amendment — A-8: Order G-210-26 further regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:32ee811a4a30b16cb0ec",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:7beec50e3b0ad826f9c7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — BC Hydro responses to RCIA and AMPC Intervener IR No. 2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:0822c3518f0e068ff477",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Interveners final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:9f341751ab07f9db59ee",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:ad31e090f4bce6398c09",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "cer-news:b1842cf00014a78a26dd",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:b2fc346d14e930f58018",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Regulatory Framework Plan from 2026 to 2029"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-2: FAES-KVULP submitting confirmation of public notice in compliance with G-174-26"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "gazette-part-i:a05743afa937fa20ba30",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:39779206048da05702df",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 8, 2026, volume 160, number 32"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-4: BCUC Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:36be099519f04071d329",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:0c4dd8d56394cacaec4e",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C1-2: BCSEA submitting update to legal representative"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:86d708a8cd575ee5458e",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — B-1-1: CONFIDENTIAL – FEI submitting Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB Application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:113310b3d29a5ff3799a",
+      "detected_at": "2026-09-26T07:16:38.946652Z",
+      "event_id": "bcuc-proceedings:1a8c530996785c047325",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:3f90dbe81ebc41673602",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: SECU — Canada-United States border management"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "iaac-major-projects:cf9a00a2f3ef2140e9d1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Brandon Dispatchable Capacity Project: — The Impact Assessment Agency of Canada terminated the impact assessment process for the Brandon Dispatchable Capacity Project."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:c78f1c080341ac60425e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Housing Statistics Program, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:3feb1415bcc881bc7895",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic and Social Reports, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-daily:6c67424ffcabe79b61e9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Food services and drinking places, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-25T19:21:46.798307Z",
-      "event_id": "statcan-key-indicators:dc817ebeeac78af370c3",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "National balance sheet and financial flow accounts"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — B-1: PUBLIC – FORTISBC ENERGY INC. (FEI) – Section 71 Amending Agreements No. 1 and No. 2 to the Biomethane Purchase Agreement between FEI and Fraser Valley Biogas Ltd. Application"
     }
   ],
-  "generated_at": "2026-09-25T19:21:46.798307+00:00",
-  "run_id": "20260925T192146Z-8df2a83c",
+  "generated_at": "2026-09-26T07:16:38.946652+00:00",
+  "run_id": "20260926T071638Z-7c2da3d5",
   "schema_version": "1.0"
 }
