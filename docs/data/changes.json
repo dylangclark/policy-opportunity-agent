@@ -1,16 +1,70 @@
 {
   "changes": [
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-26T19:24:35.675346Z",
-      "event_id": "finance-canada-news:8b9ed64b47d80dfccad7",
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:2261b624bea374cd69aa",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Shawinigan, reiterating the government’s strategic investments in national defence and regional economic development"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-4-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:4da266a490d740efc41b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-4: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:558534b0c120066aa048",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-5: FEI submitting response to BCSEA Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:9059de13dd7d7c418a8d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-6: FEI submitting response to CEC Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:03474724e124f52cf11a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-7: FEI submitting response to COSCO-RCIA Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:89a8e29531fc699a05ad",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-8: FEI submitting response to MoveUP Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-27T07:25:00.280220Z",
+      "event_id": "bcuc-proceedings:5bf7a7bec164af19af43",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — B-9: FEI submitting response to Saanich-Richmond Information Request No. 1"
     }
   ],
-  "generated_at": "2026-09-26T19:24:35.675346+00:00",
-  "run_id": "20260926T192435Z-947e9da4",
+  "generated_at": "2026-09-27T07:25:00.280220+00:00",
+  "run_id": "20260927T072500Z-ec4d967e",
   "schema_version": "1.0"
 }
