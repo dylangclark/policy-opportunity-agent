@@ -1,142 +1,290 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:8a5da77de43e3672e167",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "boc-speeches:d213cd5708fe4f871490",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 244: ENERGY AND CLIMATE SOLUTIONS Utilities Commission, s. 22 The FortisBC Inc. Exemption Regulation is made."
+      "source_id": "boc-speeches",
+      "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:eac955156115b693e1b3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ENVI — Sustaining Canada’s Freshwater for Today and Tomorrow"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "iaac-major-projects:221457607f39decdf0b8",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Trigon Pacific LPG Project: — The proponent provided its response to the summary of issues to the Impact Assessment Agency of Canada."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:907fe04b4406baba1f98",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:b34a9ecaaf37b5584f25",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:6cf6d13dbe5413ffbe69",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Sustaining Canada’s Freshwater for Today and Tomorrow"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:9e2f0a630c8e0beeb7ea",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:23306b71b2e40603463d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:f8332afb41fa184f2f36",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:f53f33eb20926f4ccadb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:bb1152653052378174cb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Drinking Water Plants, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:1854b816340757ffe173",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Non-Bank Mortgage Lenders, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:807cf545f19de24ce807",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Transportation and Supply Chain Indexes: announcement"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:8677e35dd4cb3a3b2a2d",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:eb13852b28df3ab57ec0",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 262: EDUCATION AND CHILD CARE School, s. 168.02 Effective July 1, 2026, the School Calendar Regulation, B.C. Reg. 314/2012, is amended as set out in the Schedule."
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: RNNR — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:6407841774c6d43a0317",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:9916dea6519152d45ec0",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 263: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective July 2, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in Ap..."
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:712381857e6eca4db1f5",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 273: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective July 17, 2026, Clare M.F. Jennings, K.C., is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:54bc3a668d2c8bcbaae9",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:a51a78028877e0e22688",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 280: ATTORNEY GENERAL Utilities Commission, ss. 2 (1) and 2.1 (b) The following individuals are reappointed as commissioners to the British Columbia Utilities Commission: (a) effecti..."
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:a9d94797ede2d70c8d25",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:cb5c87d48a166903a3e3",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 281: HOUSING AND MUNICIPAL AFFAIRS Ministry of Lands, Parks and Housing, s. 10 The following individuals are reappointed as members to the British Columbia Housing Management Commiss..."
+      "source_id": "statcan-daily",
+      "title": "Canada's balance of international payments, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:7c94b0a38a54ff647e82",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:4c06fd152e2055c322c8",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 284: POST-SECONDARY EDUCATION AND FUTURE SKILLS College and Institute, s. 9 As set out in Appendices A to D, and effective July 31, 2026, various individuals are appointed to the fol..."
+      "source_id": "statcan-daily",
+      "title": "Dairy statistics, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bc-legal-orders:57f3b208a845aa3aba50",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:c127931da7585f07b147",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 287: PUBLIC SAFETY AND SOLICITOR GENERAL Police, ss. 23 and 24 As set out in Appendices A to E, and effective June 30, 2026, various individuals are appointed to the following police..."
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product by industry, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:2639ec94553dfe609f45",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:badebd64af247b06ba37",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "BC Hydro: China Creek Electricity Purchase Agreement (EPA) Renewal"
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product, income and expenditure, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:5ef82cba97512a1f8edd",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:a057fa20db7db543bc4e",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "BC Hydro: Nookliklonnik Creek Community EPA"
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:155b89ba8dda74c0b402",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:50e3ac4da725177808db",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "BC Hydro: Woodfibre LNG Interim Tariff Supplement"
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">May 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:308161717d3bf37cce9f",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:57338da8ebda44a1fe08",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "Cambie Gardens: Cambie Gardens TES Expansion (Fixed-Scale Affiliated TES)"
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:5393636fc9f6da7c1390",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:70709a8d40c21bd8853f",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "FEI: Application for Incremental DSM Expenditures for 2026 and 2027"
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-anticipated:cec5e1d6ef483bcf4795",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-daily:395a7a32d2dc940f39ea",
       "schema_version": "1.0",
-      "source_id": "bcuc-anticipated",
-      "title": "FEI: Long Term Gas Resource Plan"
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T07:23:49.612898Z",
-      "event_id": "bcuc-proceedings:4cc62d6c0a36fc1056c2",
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-key-indicators:272be5d0bfdc8af91c0f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-1: FORTISBC ENERGY INC. (FEI) – Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI"
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-09-28T19:23:23.142609Z",
+      "event_id": "statcan-key-indicators:9fcddf8f17627ebca5b2",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
     }
   ],
-  "generated_at": "2026-09-28T07:23:49.612898+00:00",
-  "run_id": "20260928T072349Z-8dfffd99",
+  "generated_at": "2026-09-28T19:23:23.142609+00:00",
+  "run_id": "20260928T192323Z-53c27de5",
   "schema_version": "1.0"
 }
