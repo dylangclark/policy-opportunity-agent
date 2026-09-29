@@ -1,290 +1,142 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "boc-speeches:d213cd5708fe4f871490",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-deadlines:9a9653a03bb9be4d221a",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:eac955156115b693e1b3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Sustaining Canada’s Freshwater for Today and Tomorrow"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "iaac-major-projects:221457607f39decdf0b8",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Trigon Pacific LPG Project: — The proponent provided its response to the summary of issues to the Impact Assessment Agency of Canada."
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP final argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-proceedings:bf4c041e24af8a7e6652",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-6: Order G-215-26 amending the regulatory timetable"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-proceedings:a82b7e5f46928d5390e5",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP final argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:907fe04b4406baba1f98",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-proceedings:770f90e728d82613f5df",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — A-7: Order G-213-26 regarding Intervener Final Argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:b34a9ecaaf37b5584f25",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "cer-news:2581f68ee1cf3c241495",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "cer-news",
+      "title": "CER approves Trans Mountain settlement, establishing a new framework for tolls"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:6cf6d13dbe5413ffbe69",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "house-committees:ee4b6e0703d9156d2326",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Sustaining Canada’s Freshwater for Today and Tomorrow"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, October 5, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:9e2f0a630c8e0beeb7ea",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "house-committees:d6deeaaff9e74c6985dc",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, October 8, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:23306b71b2e40603463d",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "house-committees:342bdfd85558c892f50f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Food services and drinking places, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:f8332afb41fa184f2f36",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:f53f33eb20926f4ccadb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Railway carloadings, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:bb1152653052378174cb",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Drinking Water Plants, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:1854b816340757ffe173",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Non-Bank Mortgage Lenders, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:807cf545f19de24ce807",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Transportation and Supply Chain Indexes: announcement"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, October 6, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:eb13852b28df3ab57ec0",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-deadlines:77b7ef61cdf5b6a64472",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: RNNR — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bcuc-deadlines",
+      "title": "Bluestem Multi-Utility Services ULC — Sun Rivers and Sonoma Pines Natural Gas Service Rate Schedules 3 and 5 — BMUS final argument and reply, if any, to letters of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:9916dea6519152d45ec0",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-deadlines:c1e22917a94e17f243fc",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP final argument and reply, if any, to the letters of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-deadlines:c4239df809306de558e9",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "bcuc-deadlines",
+      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — Nelson Hydro confirmation of compliance with social media reminder posts"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:a51a78028877e0e22688",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-proceedings:a77a9fabc87e7bedc789",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">June 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — BMUS final argument and reply, if any, to letters of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:cb5c87d48a166903a3e3",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "bcuc-proceedings:4834ff8d56e36d332aa8",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's balance of international payments, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP final argument and reply, if any, to the letters of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:4c06fd152e2055c322c8",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "house-committees:e734f03c7bafc2d407d4",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Dairy statistics, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, October 8, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:c127931da7585f07b147",
+      "detected_at": "2026-09-29T07:22:33.371193Z",
+      "event_id": "house-committees:bae28eb16cb025dea7b9",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:badebd64af247b06ba37",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product, income and expenditure, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:a057fa20db7db543bc4e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:50e3ac4da725177808db",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">May 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:57338da8ebda44a1fe08",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oilseed crushing statistics, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:70709a8d40c21bd8853f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-daily:395a7a32d2dc940f39ea",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-key-indicators:272be5d0bfdc8af91c0f",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-28T19:23:23.142609Z",
-      "event_id": "statcan-key-indicators:9fcddf8f17627ebca5b2",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Monthly Survey of Manufacturing"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, October 6, 2026"
     }
   ],
-  "generated_at": "2026-09-28T19:23:23.142609+00:00",
-  "run_id": "20260928T192323Z-53c27de5",
+  "generated_at": "2026-09-29T07:22:33.371193+00:00",
+  "run_id": "20260929T072233Z-08c3bffe",
   "schema_version": "1.0"
 }
