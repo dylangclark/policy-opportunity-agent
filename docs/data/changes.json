@@ -1,235 +1,61 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-key-indicators:c26ebfbf1eac4a3b4d87",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:1434d846691b2b73ae13",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:01bd82c5f7a365734edd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-1-1: CONFIDENTIAL – BC Hydro submitting Optional Fixed Bill Plus Rate Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:1c93acb74b372e236893",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) Optional Fixed Bill Plus Rate Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "boc-speeches:0bf2561a81a3d2e4007a",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Repo markets and monetary policy implementation"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "finance-canada-news:57efd4b757f1c0fc27c3",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "finance-canada-news:7f89ff4a89d448d666e7",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Statement by the Minister of Finance welcoming the Financial Action Task Force Mutual Evaluation Report, showing Canada’s strong progress in combatting financial crime"
+      "title": "Secretary of State Long in Saint John to highlight new Productivity Mega Deduction that will help businesses invest, grow and create jobs in Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "gazette-part-ii:9604dcf3116e65210326",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "iaac-major-projects:949c5dd6fc5982edc14e",
       "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Consolidated Index of Statutory Instruments (January 1, 1955 to June 30, 2026)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:62e1f1077a20d07f65d7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:e37b0be3a54f76fb3c0d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Data availability: Shared Health Priorities Indicators for Children and Youth, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:0b9fb165baf3fc77ae51",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:5fbd2ee998656a614c19",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Film and video distribution, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:5dbbac99e394283a34a6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:a5016a4b1c69fcc3bf6f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:698f67f0769e8679f486",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial research and development, including energy and intellectual property expenditures, <span class=\"refper\">2024 (actual), 2025 (preliminary) and 2026 (intentions)</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-daily:9527395f03bc65deba1e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Taking the pulse: Perceptions of democracy in Canada"
+      "source_id": "iaac-major-projects",
+      "title": "Yellowhead Copper Project: — The Minister of the Environment, Climate Change and Nature approved the Government of British Columbia's (B.C."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:c3f445ecf3828cee72ce",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "bcuc-deadlines:d7c6606184073cb47df0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-1: Panel Appointment"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — BCUC Information Request (IR) No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:8bcbab1cafdfc58fa190",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "bcuc-deadlines:3bc21b6837c51176304b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-2: Order G-206-26 establishing a regulatory timetable with public notice"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI confirmation of compliance with public notice requirements"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "bcuc-deadlines:b8497a91061e31d36b1b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with public notice requirements, except social media reminder posts"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:8d4340414d01a0681196",
+      "detected_at": "2026-09-30T07:24:25.523047Z",
+      "event_id": "iaac-major-projects:2e5e81c6ddad078b54a7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — BCUC Information Request (IR) No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:fa492f70af941adb75fa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:a31ed02d8de5c1a2c06a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:1cb27a26a9cefecaa8f7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "bcuc-proceedings:227e314ca1d0811022b6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "gazette-part-ii:1a5a822fcc017fd5e7d5",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, July 1, 2026, volume 159, number 13"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-29T19:16:47.686971Z",
-      "event_id": "statcan-key-indicators:b92e80fbdf44c3380bbb",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Wholesale trade"
+      "source_id": "iaac-major-projects",
+      "title": "Tilbury Phase 2 LNG Expansion Project: — The Minister of the Environment, Climate Change and Nature issued the impact assessment decision statement to the proponent."
     }
   ],
-  "generated_at": "2026-09-29T19:16:47.686971+00:00",
-  "run_id": "20260929T191647Z-c1583b58",
+  "generated_at": "2026-09-30T07:24:25.523047+00:00",
+  "run_id": "20260930T072425Z-9e264968",
   "schema_version": "1.0"
 }
