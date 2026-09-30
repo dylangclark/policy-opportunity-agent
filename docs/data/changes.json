@@ -3,59 +3,32 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "finance-canada-news:7f89ff4a89d448d666e7",
+      "detected_at": "2026-09-30T19:21:01.894547Z",
+      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Secretary of State Long in Saint John to highlight new Productivity Mega Deduction that will help businesses invest, grow and create jobs in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "iaac-major-projects:949c5dd6fc5982edc14e",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Yellowhead Copper Project: — The Minister of the Environment, Climate Change and Nature approved the Government of British Columbia's (B.C."
+      "source_id": "boc-upcoming",
+      "title": "Publication: Summary of Deliberations"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "bcuc-deadlines:d7c6606184073cb47df0",
+      "detected_at": "2026-09-30T19:21:01.894547Z",
+      "event_id": "boc-upcoming:bb0cba850846fbd16dff",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "boc-upcoming",
+      "title": "Fireside Chat: Toni Gravelle, Deputy Governor"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "bcuc-deadlines:3bc21b6837c51176304b",
+      "detected_at": "2026-09-30T19:21:01.894547Z",
+      "event_id": "cer-news:400b7323bf8306108a09",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "bcuc-deadlines:b8497a91061e31d36b1b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with public notice requirements, except social media reminder posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-09-30T07:24:25.523047Z",
-      "event_id": "iaac-major-projects:2e5e81c6ddad078b54a7",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Tilbury Phase 2 LNG Expansion Project: — The Minister of the Environment, Climate Change and Nature issued the impact assessment decision statement to the proponent."
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Montney Well Performance Continues to Improve: An Update on Production Trends in Canada’s Dominant Natural Gas Formation"
     }
   ],
-  "generated_at": "2026-09-30T07:24:25.523047+00:00",
-  "run_id": "20260930T072425Z-9e264968",
+  "generated_at": "2026-09-30T19:21:01.894547+00:00",
+  "run_id": "20260930T192101Z-7969b5ac",
   "schema_version": "1.0"
 }
