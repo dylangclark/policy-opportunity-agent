@@ -1,34 +1,307 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-09-30T19:21:01.894547Z",
-      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bc-legal-orders:6f5844691a429e5a7fd9",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 395: PUBLIC SAFETY AND SOLICITOR GENERAL Motor Vehicle, s. 83.1 (8) Effective September 30, 2026, the Motor Vehicle Act Regulations, B.C. Reg. 26/58, are amended as set out in the Sc..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bc-legal-orders:4af42d2979341f7d8b42",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 408: FINANCE Provincial Sales Tax, ss. 236 and 241 (a) Effective September 30, 2026, B.C. Reg. 114/2026 is amended by repealing section 4 of Schedule 1 and section 4 of Schedule 2, a..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:0b07b5f68b12ea028893",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2016: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:3a7067a946b1a1760a11",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2018: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:92768c4c8dd38a44b028",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — F2019: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:a34ac3e92421c6e92103",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-11: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:08230a09d7583a6d414d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-1: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:d2a9ce267862c4add24b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-2015: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:8975446a6018674b0a38",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — July-31: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:3fd9cd319d18915f594a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-10: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:f95c3bc55a218a86053b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-16: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:9d8d8bbcd1154182fdbf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2017: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:8eb8cccf124ac0bbb67f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2019: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:94933fb4a4a58029394b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-2021: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:fa1f96d2b6befdd6de53",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-22: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:0f90c09e0c07cfa63f1e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-23: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:29caf869b4652250056d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-29: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:96b1dbc00a4918a84f9d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-30: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:7be170cbe2f6fdda1de3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — June-5: Docket filing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "published_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:46f23db9e1c8e7d458ce",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Site C Reporting — May-21: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-30T19:21:01.894547Z",
-      "event_id": "boc-upcoming:bb0cba850846fbd16dff",
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:21a71d7cb832634c657f",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Fireside Chat: Toni Gravelle, Deputy Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-09-30T19:21:01.894547Z",
-      "event_id": "cer-news:400b7323bf8306108a09",
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:530d420d79ea2b7dc72d",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Montney Well Performance Continues to Improve: An Update on Production Trends in Canada’s Dominant Natural Gas Formation"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — A-2: Order G-188-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:75c39fdff8e3dee9884b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:e2eee1045b03ab1f839e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — A-2: Order G-192-26 establishing a regulatory timetable"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T07:15:10.120296Z",
+      "event_id": "bcuc-proceedings:61ffccb519a390d35ff9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C2-2: MoveUP submitting Information Request No. 1 to FEI"
     }
   ],
-  "generated_at": "2026-09-30T19:21:01.894547+00:00",
-  "run_id": "20260930T192101Z-7969b5ac",
+  "generated_at": "2026-10-01T07:15:10.120296+00:00",
+  "run_id": "20261001T071510Z-9ad16ecd",
   "schema_version": "1.0"
 }
