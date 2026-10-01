@@ -3,305 +3,324 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "title",
+        "description",
         "content_hash"
       ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bc-legal-orders:6f5844691a429e5a7fd9",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:c4ba79e1c9d2a08b1c5b",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 395: PUBLIC SAFETY AND SOLICITOR GENERAL Motor Vehicle, s. 83.1 (8) Effective September 30, 2026, the Motor Vehicle Act Regulations, B.C. Reg. 26/58, are amended as set out in the Sc..."
+      "source_id": "statcan-daily",
+      "title": "Sector-based Producer Price Indexes: announcement"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bc-legal-orders:4af42d2979341f7d8b42",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 408: FINANCE Provincial Sales Tax, ss. 236 and 241 (a) Effective September 30, 2026, B.C. Reg. 114/2026 is amended by repealing section 4 of Schedule 1 and section 4 of Schedule 2, a..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:0b07b5f68b12ea028893",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bcuc-proceedings:dedadf95fd1bbb6889c9",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2016: Docket filing"
+      "title": "BCUC Metergy Status as a Public Utility — B-4: Metergy submitting regulatory timetable extension request"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:3a7067a946b1a1760a11",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-speeches:55b6aae5c320815469bf",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2018: Docket filing"
+      "source_id": "boc-speeches",
+      "title": "Canada’s housing affordability dilemma"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:92768c4c8dd38a44b028",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-speeches:056573a92696823043ea",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — F2019: Docket filing"
+      "source_id": "boc-speeches",
+      "title": "The complexity of housing affordability"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:a34ac3e92421c6e92103",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-upcoming:2cd1355e46c598832651",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-11: Docket filing"
+      "source_id": "boc-upcoming",
+      "title": "Christmas Day"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:08230a09d7583a6d414d",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:f599b4a462af6d8c8636",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-1: Docket filing"
+      "source_id": "statcan-daily",
+      "title": "Canadian postsecondary enrolments and graduates, <span class=\"refper\">2024/2025</span>"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:d2a9ce267862c4add24b",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:2748b6e846688b0293d7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-2015: Docket filing"
+      "source_id": "statcan-daily",
+      "title": "Integrated Criminal Court Survey, <span class=\"refper\">2024/2025</span>"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:8975446a6018674b0a38",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:9112c403d0f9e55877f7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — July-31: Docket filing"
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">July 2026</span>"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:3fd9cd319d18915f594a",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:768e74da26fc207a435f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-10: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:f95c3bc55a218a86053b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-16: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:31a20cc4ea070e3fc8f1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-18: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:9d8d8bbcd1154182fdbf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2017: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:8eb8cccf124ac0bbb67f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2019: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:94933fb4a4a58029394b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-2021: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:fa1f96d2b6befdd6de53",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-22: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:0f90c09e0c07cfa63f1e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-23: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:29caf869b4652250056d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-29: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:96b1dbc00a4918a84f9d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-30: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:7be170cbe2f6fdda1de3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — June-5: Docket filing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "published_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:46f23db9e1c8e7d458ce",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Site C Reporting — May-21: Docket filing"
+      "source_id": "statcan-daily",
+      "title": "Survey on Health Care Access and Experiences - Virtual Care and Pharmaceuticals: Data availability announcement, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:21a71d7cb832634c657f",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:354d1f9532c18e9dfd15",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — A-1: Panel Appointment"
+      "source_id": "bc-regulations",
+      "title": "156/2026 Repeals B.C. Reg. 373/80 — Firearm (Authorization) Regulation, effective October 1, 2026 63/2026 April 27, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:530d420d79ea2b7dc72d",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:45f0082dcc0bb032865b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — A-2: Order G-188-26 establishing a regulatory timetable"
+      "source_id": "bc-regulations",
+      "title": "157/2026 Enacts Firearm Violence Prevention General Regulation, effective October 1, 2026 64/2026 April 27, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:75c39fdff8e3dee9884b",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:e005a39a6813ff6d8cd7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — A-1: Panel Appointment"
+      "source_id": "bc-regulations",
+      "title": "158/2026 Enacts Firearm Violence Prevention (Designated Property) Regulation, effective October 1, 2026 65/2026 April 27, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:e2eee1045b03ab1f839e",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:9fb4e9201c896c31803f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — A-2: Order G-192-26 establishing a regulatory timetable"
+      "source_id": "bc-regulations",
+      "title": "159/2026 Amends B.C. Reg. 164/73 — Summit Creek Campground and Recreation Area Regulations, effective October 1, 2026 66/2026 April 27, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-01T07:15:10.120296Z",
-      "event_id": "bcuc-proceedings:61ffccb519a390d35ff9",
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:c36bf3829150fe486075",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C2-2: MoveUP submitting Information Request No. 1 to FEI"
+      "source_id": "bc-regulations",
+      "title": "160/2026 Amends B.C. Reg. 89/97 — Violation Ticket Administration and Fines Regulation, effective October 1, 2026 67/2026 April 27, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:96d63ca9b46ad2246d84",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "161/2026 Amends B.C. Reg. 318/2004 — Conservation Officer Service Authority Regulation, effective October 1, 2026 68/2026 April 27, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:87ededa1735e1a52df7f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "264/2026 Amends B.C. Reg. 135/2024 — Tax Appeals Regulation, effective October 1, 2026 Note: B.C. Reg. 135/2024 is also made under the Employer Health Tax Act, Insurance Premium Tax Act, Logging Tax Act, Mineral Tax Act, Motor Fuel Tax Act, Property Transfer Tax Act, Provincial Sales Tax Act, Residential Property (Short-Term Holding) Profit Tax Act, Speculation and Vacancy Tax Act and Tobacco Tax Act. 105/2026 June 26, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:2b4910673f8295470052",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "293/2026 Amends B.C. Reg. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, parts effective October 1, 2026 and June 1, 2027 113/2026 July 9, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:766b4f5e916b77e608a5",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "295/2026 Amends, effective October 1, 2026, B.C. Regs. 97/2013 — Provincial Sales Tax Exemption and Refund Regulation 96/2013 — Provincial Sales Tax Regulation 114/2026 July 9, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:6d4755a3e4d1fdfa8f06",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "British Columbia Energy Regulator Amends B.C. Regs. 112/2019 — Dormancy and Shutdown Regulation 27/2025 — Hydrogen Facility Regulation 48/2021 — Processing Facility Regulation 199/2011 — Service Regulation 50/2021 — Requirements for Consultation and Notification Regulation, effective October 1, 2026 27/2026 March 10, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "bc-regulations:507397f013e26bd3e93f",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective October 1, 2026 39/2026 March 19, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-speeches:647311bd8bed8f762e46",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Monetary Policy Decision Press Conference Opening Statement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-speeches:c2b5ff10e2e01ff08253",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Press Conference: Policy Rate Announcement — September 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "boc-upcoming:a79a13ec3a16c3c31188",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "National Day for Truth and Reconciliation"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "iaac-major-projects:f038ea886047b6bb1830",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Valentine Gold Project: — An update has been made to the Decision Statement."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:0c6ebe4c2e092b25094c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian Survey on Business Conditions, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:276ec8dd2bcd1bb681d2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:57ece4c2b19d45f96fe8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy statistics, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:b1e9d323762b37365eff",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm cash receipts, <span class=\"refper\">January to June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:7b91089465e1eff7dd81",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "For-hire Motor Carrier Freight Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:cc464509dcb67759d36d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-daily:1f3ca9ebd1343d60e015",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Quarterly capital spending: Oil and gas industries, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-key-indicators:9a8d156433405561dcb0",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-key-indicators:ec6f9b5d888574299f0d",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-key-indicators:ad841ebabafa691af460",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-01T19:17:30.382283Z",
+      "event_id": "statcan-key-indicators:7ec6f06efc3404c9a67d",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Model-based principal field crop estimates"
     }
   ],
-  "generated_at": "2026-10-01T07:15:10.120296+00:00",
-  "run_id": "20261001T071510Z-9ad16ecd",
+  "generated_at": "2026-10-01T19:17:30.382283+00:00",
+  "run_id": "20261001T191730Z-80ba9948",
   "schema_version": "1.0"
 }
