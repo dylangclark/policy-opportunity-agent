@@ -1,680 +1,340 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:638e5410aed08f1f9d8f",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:3b28d092814c887556df",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 293: FINANCE Provincial Sales Tax, ss. 236 and 241 (a) Effective October 1, 2026, the Provincial Sales Tax Exemption and Refund Regulation, B.C. Reg. 97/2013, is amended as set out i..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:1596bf3f6d9940fcff9a",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 295: FINANCE Provincial Sales Tax, ss. 236, 241 and 246 Effective October 1, 2026, (a) the Provincial Sales Tax Exemption and Refund Regulation, B.C. Reg. 97/2013, is amended as set..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:758d2b9d122e01e02e7e",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 397: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, s. 108 (2) and (3) (a) Paragraph (a) of B.C. Reg. 66/2026 is repealed, and (b) effective October 1, 2026, the Designation and Exem..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:0e7a54cc020e660dc102",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 409: JOBS AND ECONOMIC GROWTH Trade Recognition, s. 15 Effective October 1, 2026, the Trade Recognition Act, S.B.C. 2026, c. 3, is brought into force."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — A-1: Panel Appointment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-regulations:e5eb710d66f15baabf88",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:a9a2611546d802ec0096",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "BC Financial Services Authority Enacts Credit Union Capital Requirements Rules, effective January 1, 2027 163/2026 September 29, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Next Revenue Requirements Application Request to Rescind Order G-108-25 Directive 2 Application"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:f2fed7b7ecbfcd41dc4d",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:cd84271e5e6312fcf4db",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — G-218-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:1726e738e9318d910e87",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — D-1: ASSOCIATION OF MAJOR POWER CUSTOMERS OF BC (AMPC) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:e61aa2f0dbb29e0311df",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C5-5: AMPC submitting Information Request No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:095b17d033cc2097a74f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C6-4: RCIA submitting Information Request No. 2 to BC Hydro"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "boc-upcoming:dc67110a5d299d8f5312",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Boxing Day"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "finance-canada-news:cfdd05261b3df91aaa47",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister of Finance meets with provincial and territorial counterparts to discuss economic growth, health care and internal trade"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "gazette-part-i:2e737c5ce00ea86a2efe",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 3, 2026, volume 160, number 40"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:8eb0c2eb44fb5860e027",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PACP — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:ecf21338104d0933b041",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "statcan-daily:1b8ff59ef3a17dafadd7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian foreign post indexes, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "statcan-daily:6919c1d131c9b547933a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "statcan-daily:948db015cdcfe4622906",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Motor vehicle fuel sales, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-deadlines:2995139282bae5391c8d",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:080bf24a9e5e2ba9cf92",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-deadlines:9f426f4972d2665e65a7",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements to residential customers"
+      "title": "BC Hydro — Tariff Supplement No. 116 — Letters of comment deadline"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:60d53b6f19ef7f232460",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-deadlines:37a09e885df708539e73",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with social media reminder posts"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:31d446dafddcca952f1b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:33b2d513d1ff277a1a5f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro provides public notice of the Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:ef75f5c2e9248ee99a00",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro reply argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:216b439b88a127337833",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro responses to BCUC and Intervener IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:65df961460ad7ebf4d55",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BCUC decision on intervener registrations"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:bc8536d10703fc9acb8f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BCUC Information Request No. 1 (IR No. 1) to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:a1b7b74d6d577cf899b0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Intervener final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:ba6a5990a4b29daaf311",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Intervener IR No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:3c876c6683cd25a01268",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Intervener registration deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:69259053697f8db2edd4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:0cb52c6d44f575483673",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
       "event_id": "bcuc-deadlines:cc63f0109226eb459d16",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
       "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to ICG’s letter (if any)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:93f73e12e88e7f924a8a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:8f3c746ef628a64e779d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:defa9548c02b2772466a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:4b849cdb440b11805fa7",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:60e0e65776632e66961b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1-2: PUBLIC – BC Hydro submitting Errata No. 1 to the application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:c74c609f33ef24f5e1b5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1-3: CONFIDENTIAL – BC Hydro submitting Errata No. 1 to the application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:5860f532f0ba8300f005",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-2: BC Hydro submitting further information in compliance with directive 3 of Order G-200-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:2b9c20ca1fd4bc185284",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-2: Order G-216-26 establishing a regulatory timetable (with public notice)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:2776417a7d68bab89a84",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:a6cc11bfa9d660aeae5e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements to residential customers"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:f21c9da15120b08c1a03",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:6f45c67f918f8d7f3d9e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:2e5f94ed1175473b996a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro provides public notice of the Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:f068d1fe9040a0db81cf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro reply argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:e63fa6d7434b384ed9eb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro responses to BCUC and Intervener IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:4d198ba702036c725d2f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BCUC decision on intervener registrations"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:ef41b5bed00baf913d7d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BCUC Information Request No. 1 (IR No. 1) to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:efa536bd760fa21aa689",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — Intervener final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:1e42eed24e7b74ccc648",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — Intervener IR No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:819b003571396dc77ee7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — Intervener registration deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:859d466127f98f6a6f73",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — Letters of comment deadline"
+      "title": "BC Hydro Tariff Supplement No. 116 — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:610a50e4dad366a349e6",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 156: PUBLIC SAFETY AND SOLICITOR GENERAL Firearm, s. 10; Firearm Violence Prevention, s. 102 Effective October 1, 2026, (a) the Firearm Violence Prevention Act, S.B.C. 2021, c. 7, i..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:1ef30002bdaa492af11d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 157: PUBLIC SAFETY AND SOLICITOR GENERAL Firearm Violence Prevention, ss. 79, 80, 81 and 85 Effective October 1, 2026, the Firearm Violence Prevention General Regulation is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:2542ec0f25eb6e789e9d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 158: PUBLIC SAFETY AND SOLICITOR GENERAL Firearm Violence Prevention, ss. 79 and 82 Effective October 1, 2026, the Firearm Violence Prevention (Designated Property) Regulation is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:e511485eda15b9e92b65",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 159: PUBLIC SAFETY AND SOLICITOR GENERAL Wildlife, s. 108 (2) and (3); Creston Valley Wildlife, s. 34 (2) (b) and (e) Effective October 1, 2026, (a) the Designation and Exemption Reg..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:d240a57dcc6fc7dcc4cf",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 160: ATTORNEY GENERAL and PUBLIC SAFETY AND SOLICITOR GENERAL Offence, s.132 Effective October 1, 2026, the Violation Ticket Administration and Fines Regulation, B.C. Reg. 89/97, is..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:28ab0c11fac4cd58add0",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 161: PUBLIC SAFETY AND SOLICITOR GENERAL Environmental Management, s. 108.2; Park, s. 29 Effective October 1, 2026, the Conservation Officer Service Authority Regulation, B.C. Reg. 3..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:56e424b3f50400c4d704",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 264: ATTORNEY GENERAL Carbon Tax, s. 84.1; Court Rules, s. 1; Employer Health Tax, s. 106.1; Insurance Premium Tax, s. 42; Logging Tax, s. 43; Mineral Tax, s. 44.1; Motor Fuel Tax, s..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bc-legal-orders:774767e415e80195e690",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 289: Public Service, s. 15 Effective July 7, 2026, Zachary Aaron Gomes Gustavson is appointed as an Executive Assistant in the Office of the Minister of Public Safety and Solicitor G..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:08461abe6e34c0bbdb76",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro response to Request for Further Information (GANTT Chart)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:f7921d55bd1d07d77594",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:fb6a4ce6756e72a0f146",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-deadlines:c4f08fd1c0d1aca22b90",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:77e2a64152dcf27c6732",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:ad31e090f4bce6398c09",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-1: Panel Appointment"
+      "title": "BC Hydro TS 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:6d37c721a15c19f9cb28",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:6f88a0e60fdec95f5487",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro response to Request for Further Information (GANTT Chart)"
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:e0bcdb400c49d18c1627",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:c3e099e517ae928e0a30",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC FPTA Fee Framework — D-3: COASTAL MOUNTAIN FUELS LTD. (COASTAL MOUNTAIN FUELS) – submission regarding the Draft Fee Framework"
+      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:f435be9f9339d7fa2305",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "bcuc-proceedings:f09752f806345a358730",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC FPTA Fee Framework — D-4: CANADIAN ENERGY MARKETERS ASSOCIATION (CEMA) – submission regarding the Draft Fee Framework"
+      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — E-22-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:582e3fc32fa6231e8219",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "boc-upcoming:56b416abb85c7bb123bd",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-1: METERGY SOLUTIONS INC. (METERGY) – Request for confidential treatment"
+      "source_id": "boc-upcoming",
+      "title": "Speech: Carolyn Rogers, Senior Deputy Governor"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:4b31de74d661490104fa",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "cer-news:a68647bef7a514cc1b98",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-2-1: CONFIDENTIAL – Metergy submitting supplemental information"
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – July 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:0fa19a8ccf517a67f5cd",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "gazette-part-i:6fee27a22f44fd84ad64",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-2-2: CONFIDENTIAL – Metergy submitting supplemental information Exhibit A"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, August 15, 2026, volume 160, number 33"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:c06c394d5173b12f1056",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:febe33deec541bd92e51",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-2: Metergy submitting supplemental information"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PACP — Main Estimates 2026-27: Vote 1 under Office of the Auditor General"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:e0a35cf122f6239ef3f1",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:06e8e961df50b99c3402",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-10: BONILLA, Y. (BONILLA) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PACP — National Trade Corridors Fund - Transport Canada"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:9f8f180a17b3dbe995c0",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-11: KORABEK, N. (KORABEK) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:a2f3046bec5283d1bfdf",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-12: BULOSAN, A. (BULOSAN) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:05e8768ad6519b46f180",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:907fe04b4406baba1f98",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-1: MACKEY, K. (MACKEY) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:4d4960b58c53db19c4a4",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "house-committee-reports:b34a9ecaaf37b5584f25",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-2: UNTALAN, C. (UNTALAN) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:4d3cb2889fb9282646d1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-3: THOMPSON, V. (THOMPSON) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:2716cbb3d782729e20b0",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-4: CHAN, M.L. (CHAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:a68eb044cd4809bf60b2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-5: URREA, J. (URREA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:77d964ef9ee4e9d63a1b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-6: BAR-EL, N. (BAR-EL) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:00644800f66015c435a6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-7: PIKE, E. (PIKE) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:553e462c3b4cd5eba9de",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-8: ALVES REIGADAS, S. (ALVES REIGADAS) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "bcuc-proceedings:9fedc9691db139bebca6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-9: MARZEC, K. (MARZEC) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T07:21:26.321506Z",
-      "event_id": "iaac-major-projects:8b6b93d63c5a394283bc",
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "iaac-major-projects:2c76a1b7a85b5c7d4591",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Rook I Project: - As determined in the Summary of Decision on March 4th 2026, a licence was granted for NexGen Energy Ltd's (NexGen) Rook I project."
+      "title": "Contrecœur Port Terminal Expansion Project: — The public comment period on the draft amendments to the decision statement closed on September 4, 2026."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-02T19:19:46.272128Z",
+      "event_id": "statcan-daily:2b41e022c7353840e89a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">July 2026</span>"
     }
   ],
-  "generated_at": "2026-10-02T07:21:26.321506+00:00",
-  "run_id": "20261002T072126Z-5d3f4075",
+  "generated_at": "2026-10-02T19:19:46.272128+00:00",
+  "run_id": "20261002T191946Z-3a2188ee",
   "schema_version": "1.0"
 }
