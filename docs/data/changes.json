@@ -1,106 +1,85 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "iaac-major-projects:560db3694c1c2893512c",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "bc-legislature-calendar:d778de1251d99434849c",
+      "schema_version": "1.0",
+      "source_id": "bc-legislature-calendar",
+      "title": "In Session"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:fcd0b4dbc0890142967e",
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "boc-speeches:9d31af1061a4e670acda",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC FPTA Fee Framework — D-5: IMPERIAL OIL LIMITED (IMPERIAL OIL) – submission regarding the Draft Fee Framework"
+      "source_id": "boc-speeches",
+      "title": "Unveiling Canada’s new $20 bank note - Speech (Webcasts)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:6e049f19c2001ec17436",
+      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "event_id": "boc-speeches:87099a3343363e72954c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC FPTA Fee Framework — D-6: SUNCOR ENERGY SERVICES INC. (SUNCOR ENERGY) – submission regarding the Draft Fee Framework"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:53610af2ccfcb3072621",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-13: ALSHURAFA, S. (ALSHURAFA) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:71a52b93f40880c3c891",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-14: ALLEN, R. (ALLEN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:2ecf4cc51c25fc037586",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-3: BCUC Information Request No. 1 to BMUS"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:328579bc4d8ba2a4eb76",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C1-3: BCSEA submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:4847627214ace49d12bc",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C3-2: CEC submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:a2acd1f02c2f81bf311e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C4-2: COSCO submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "bcuc-proceedings:b995fe5f7a819ecd27c1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — C5-2: RCIA submitting Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-03T07:24:33.357451Z",
-      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+      "source_id": "boc-speeches",
+      "title": "Unveiling of Vertical $20 Bank Note"
     }
   ],
-  "generated_at": "2026-10-03T07:24:33.357451+00:00",
-  "run_id": "20261003T072433Z-e92e6e36",
+  "generated_at": "2026-10-03T19:17:33.821747+00:00",
+  "run_id": "20261003T191733Z-ce68e9dd",
   "schema_version": "1.0"
 }
