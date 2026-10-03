@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 37,
-    "events": 767,
-    "opportunities": 647,
+    "changes": 11,
+    "events": 758,
+    "opportunities": 654,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 14871,
-      "count": 37,
+      "bytes": 4562,
+      "count": 11,
       "path": "changes.json",
-      "sha256": "a6e01852c594c04c4ad20150d9dbe7094a43a0168bb132daef167e3daae18f64"
+      "sha256": "59c18d2a29f394793babb2febc2c8416d60b84b4913915111365c404ec31a9c9"
     },
     "events": {
-      "bytes": 1206488,
-      "count": 767,
+      "bytes": 1194317,
+      "count": 758,
       "path": "events.json",
-      "sha256": "9cbb4215d8b576810fe558d15f90deaf2405f4a1d332e670e1d66ae04194f66c"
+      "sha256": "ceacdf19037d9b5b1d721cf6823e449ff9cd5edc61f60361941829469158e160"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 249,
       "path": "heartbeat.json",
-      "sha256": "b7a854eb2ee64d3a1e0e979f6dcecbb7c6d44c8bfb6a6184ff8af265f9926375"
+      "sha256": "4c34535931149c9a611b9e1b15dd62315bf7a3cb7e162fa8c3b08e8300b08861"
     },
     "opportunities": {
-      "bytes": 1252636,
-      "count": 647,
+      "bytes": 1264868,
+      "count": 654,
       "path": "opportunities.json",
-      "sha256": "44ead9bdd8bdae6ac69afd18e1225f75149385e619b6787f335597bc0c4bdb85"
+      "sha256": "158eec6c20e027154d09cd3b30f144a545658b265c5ecc4579719daef86ecade"
     },
     "source_status": {
-      "bytes": 15554,
+      "bytes": 15686,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "0f02133082f38445f11f7f2b3084b21233959c226c6d582d3ec6eea7c6e72dc7"
+      "sha256": "d5f4373809456194d985aa02b4ab91eb8becc77340daa15fda4192acf4c63e57"
     }
   },
-  "generated_at": "2026-10-02T19:19:46.272128Z",
+  "generated_at": "2026-10-03T07:24:33.357451Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261002T191946Z-3a2188ee",
+  "run_id": "20261003T072433Z-e92e6e36",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 4,
-    "ok": 23,
+    "not_modified": 10,
+    "ok": 17,
     "partial": 1
   },
   "status": "partial",

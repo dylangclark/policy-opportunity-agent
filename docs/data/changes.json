@@ -3,338 +3,104 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:3b28d092814c887556df",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:a9a2611546d802ec0096",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Next Revenue Requirements Application Request to Rescind Order G-108-25 Directive 2 Application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:cd84271e5e6312fcf4db",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — G-218-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:1726e738e9318d910e87",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — D-1: ASSOCIATION OF MAJOR POWER CUSTOMERS OF BC (AMPC) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:e61aa2f0dbb29e0311df",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-5: AMPC submitting Information Request No. 2 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:095b17d033cc2097a74f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C6-4: RCIA submitting Information Request No. 2 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "boc-upcoming:dc67110a5d299d8f5312",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Boxing Day"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "finance-canada-news:cfdd05261b3df91aaa47",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister of Finance meets with provincial and territorial counterparts to discuss economic growth, health care and internal trade"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "gazette-part-i:2e737c5ce00ea86a2efe",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, October 3, 2026, volume 160, number 40"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:8eb0c2eb44fb5860e027",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "iaac-major-projects:560db3694c1c2893512c",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
       "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "statcan-daily:1b8ff59ef3a17dafadd7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian foreign post indexes, <span class=\"refper\">October 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "statcan-daily:6919c1d131c9b547933a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing Services Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "statcan-daily:948db015cdcfe4622906",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Motor vehicle fuel sales, <span class=\"refper\">2025</span>"
-    },
-    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-deadlines:2995139282bae5391c8d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-deadlines:9f426f4972d2665e65a7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement No. 116 — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-deadlines:37a09e885df708539e73",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-deadlines:cc63f0109226eb459d16",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to ICG’s letter (if any)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:60e0e65776632e66961b",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:fcd0b4dbc0890142967e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — Letters of comment deadline"
+      "title": "BCUC FPTA Fee Framework — D-5: IMPERIAL OIL LIMITED (IMPERIAL OIL) – submission regarding the Draft Fee Framework"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:ad31e090f4bce6398c09",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:6e049f19c2001ec17436",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — RCIA and AMPC Intervener IR No. 2 to BC Hydro"
+      "title": "BCUC FPTA Fee Framework — D-6: SUNCOR ENERGY SERVICES INC. (SUNCOR ENERGY) – submission regarding the Draft Fee Framework"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:6f88a0e60fdec95f5487",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:53610af2ccfcb3072621",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — FEI response to letters of comment (if any) and final argument"
+      "title": "BCUC Metergy Status as a Public Utility — D-13: ALSHURAFA, S. (ALSHURAFA) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:c3e099e517ae928e0a30",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:71a52b93f40880c3c891",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — A-1: Panel Appointment"
+      "title": "BCUC Metergy Status as a Public Utility — D-14: ALLEN, R. (ALLEN) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "bcuc-proceedings:f09752f806345a358730",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:2ecf4cc51c25fc037586",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 Amending Agreements No. 1 and No. 2 to the BPA between FEI and FVB — E-22-26: Docket filing"
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — A-3: BCUC Information Request No. 1 to BMUS"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "boc-upcoming:56b416abb85c7bb123bd",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:328579bc4d8ba2a4eb76",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Carolyn Rogers, Senior Deputy Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C1-3: BCSEA submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "cer-news:a68647bef7a514cc1b98",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:4847627214ace49d12bc",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – July 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C3-2: CEC submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "gazette-part-i:6fee27a22f44fd84ad64",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:a2acd1f02c2f81bf311e",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 15, 2026, volume 160, number 33"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C4-2: COSCO submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:febe33deec541bd92e51",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "bcuc-proceedings:b995fe5f7a819ecd27c1",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Main Estimates 2026-27: Vote 1 under Office of the Auditor General"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — C5-2: RCIA submitting Information Request No. 1 to FEI"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:06e8e961df50b99c3402",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — National Trade Corridors Fund - Transport Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:d4b727f48ec2c60da3e1",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:907fe04b4406baba1f98",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: AGRI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "house-committee-reports:b34a9ecaaf37b5584f25",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "iaac-major-projects:2c76a1b7a85b5c7d4591",
+      "detected_at": "2026-10-03T07:24:33.357451Z",
+      "event_id": "iaac-major-projects:86124bdc8657eb31d9c1",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Contrecœur Port Terminal Expansion Project: — The public comment period on the draft amendments to the decision statement closed on September 4, 2026."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-02T19:19:46.272128Z",
-      "event_id": "statcan-daily:2b41e022c7353840e89a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly average retail prices for selected products, <span class=\"refper\">July 2026</span>"
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     }
   ],
-  "generated_at": "2026-10-02T19:19:46.272128+00:00",
-  "run_id": "20261002T191946Z-3a2188ee",
+  "generated_at": "2026-10-03T07:24:33.357451+00:00",
+  "run_id": "20261003T072433Z-e92e6e36",
   "schema_version": "1.0"
 }
