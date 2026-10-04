@@ -6,7 +6,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
       "event_id": "bc-legislature-calendar:e984cc2f48b759120a21",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -18,7 +18,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
       "event_id": "bc-legislature-calendar:ab4ec68ce423854a1631",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -30,7 +30,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
       "event_id": "bc-legislature-calendar:bd4e5ffc7d0422d4215b",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -42,7 +42,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
       "event_id": "bc-legislature-calendar:becd04fc2222094293eb",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -54,7 +54,7 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
       "event_id": "bc-legislature-calendar:d778de1251d99434849c",
       "schema_version": "1.0",
       "source_id": "bc-legislature-calendar",
@@ -63,23 +63,23 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
-      "event_id": "boc-speeches:9d31af1061a4e670acda",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
+      "event_id": "bcuc-proceedings:a1cb3c97b3101be96fb4",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Unveiling Canada’s new $20 bank note - Speech (Webcasts)"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — B-2: BC Hydro submitting confirmation of public notice in compliance with G-192-26"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-03T19:17:33.821747Z",
-      "event_id": "boc-speeches:87099a3343363e72954c",
+      "detected_at": "2026-10-04T07:15:08.933595Z",
+      "event_id": "bcuc-proceedings:33263d8d5073fe4b5334",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Unveiling of Vertical $20 Bank Note"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — B-3: Metergy submitting confirmation of public notice in compliance with G-171-26"
     }
   ],
-  "generated_at": "2026-10-03T19:17:33.821747+00:00",
-  "run_id": "20261003T191733Z-ce68e9dd",
+  "generated_at": "2026-10-04T07:15:08.933595+00:00",
+  "run_id": "20261004T071508Z-13e53a3c",
   "schema_version": "1.0"
 }
