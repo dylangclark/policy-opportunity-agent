@@ -1,52 +1,218 @@
 {
   "changes": [
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T07:20:20.772725Z",
-      "event_id": "bc-legal-orders:d41bc26b60a18d5e62d2",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "iaac-major-projects:560db3694c1c2893512c",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 264: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferee, are designated as exempt from the payment of taxes..."
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-05T07:20:20.772725Z",
-      "event_id": "bc-legal-orders:558c234cadf8a355bb04",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 268: POST-SECONDARY EDUCATION AND FUTURE SKILLS Skilled Trades BC, ss. 27 (2) and 50 (1) The Minister's Skilled Trades BC Regulation, B.C. Reg. 256/2022, is amended as set out in the..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T07:20:20.772725Z",
-      "event_id": "bc-legal-orders:4fc510b1d523905fd872",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 290: POST-SECONDARY EDUCATION AND FUTURE SKILLS Skilled Trades BC, s. 27 (1) The Skilled Trades BC Regulation, B.C. Reg. 252/2022, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T07:20:20.772725Z",
-      "event_id": "bc-legal-orders:57114c6b5379494091d4",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 291: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Qat’muk Mineral Deferral Area Order is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T07:20:20.772725Z",
-      "event_id": "bcuc-proceedings:e23153c2226683389b3e",
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:c3f445ecf3828cee72ce",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-4: FEI submitting response to Out of Scope Information Requests"
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:8bcbab1cafdfc58fa190",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-2: Order G-206-26 establishing a regulatory timetable with public notice"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:615f9c412d015a269e54",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-3: BCUC Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:a31ed02d8de5c1a2c06a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:1cb27a26a9cefecaa8f7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:227e314ca1d0811022b6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:2805a57f421992fd291b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sawmills, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:ce419691b4caacc38c0f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel arrangement services, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "bcuc-proceedings:e482220334b705eec48f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Corix BMDEU 2026 to 2027 Revenue Requirements and Rates — G-209-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "finance-canada-news:db784a955b205dfefcfa",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to welcome India's Minister of Finance and Corporate Affairs to Canada to reinforce bilateral ties"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "iaac-major-projects:221457607f39decdf0b8",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Trigon Pacific LPG Project: — The proponent provided its response to the summary of issues to the Impact Assessment Agency of Canada."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:1fd6e68729183d81738b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international merchandise trade, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:8e07b0d9b126927ec2c7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international trade in services, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:76d0c82c775a3994ab96",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Data availability: Shared Health Priorities Indicators for Adults, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:5d7498f77c8f79dc1ba8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm Product Price Index, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:f783f95087818308c054",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour Force Survey, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:c010f722ea1492742b0e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour productivity, hourly compensation and unit labour cost, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:24456e3af69d50c7d009",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sawmills, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:c4ba79e1c9d2a08b1c5b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sector-based Producer Price Indexes: announcement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-daily:9603b6908fe207c33ae6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Residential properties and homeowners in high flood hazard areas, <span class=\"refper\">2022</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T19:23:33.809539Z",
+      "event_id": "statcan-key-indicators:734f98e9f05f919d6ab7",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
     }
   ],
-  "generated_at": "2026-10-05T07:20:20.772725+00:00",
-  "run_id": "20261005T072020Z-cab38c94",
+  "generated_at": "2026-10-05T19:23:33.809539+00:00",
+  "run_id": "20261005T192333Z-10a8eca4",
   "schema_version": "1.0"
 }
