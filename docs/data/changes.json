@@ -1,6 +1,52 @@
 {
-  "changes": [],
-  "generated_at": "2026-10-04T19:19:20.746989+00:00",
-  "run_id": "20261004T191920Z-d9ff0f8c",
+  "changes": [
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T07:20:20.772725Z",
+      "event_id": "bc-legal-orders:d41bc26b60a18d5e62d2",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 264: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferee, are designated as exempt from the payment of taxes..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T07:20:20.772725Z",
+      "event_id": "bc-legal-orders:558c234cadf8a355bb04",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 268: POST-SECONDARY EDUCATION AND FUTURE SKILLS Skilled Trades BC, ss. 27 (2) and 50 (1) The Minister's Skilled Trades BC Regulation, B.C. Reg. 256/2022, is amended as set out in the..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T07:20:20.772725Z",
+      "event_id": "bc-legal-orders:4fc510b1d523905fd872",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 290: POST-SECONDARY EDUCATION AND FUTURE SKILLS Skilled Trades BC, s. 27 (1) The Skilled Trades BC Regulation, B.C. Reg. 252/2022, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T07:20:20.772725Z",
+      "event_id": "bc-legal-orders:57114c6b5379494091d4",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 291: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Qat’muk Mineral Deferral Area Order is made."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-05T07:20:20.772725Z",
+      "event_id": "bcuc-proceedings:e23153c2226683389b3e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — B-4: FEI submitting response to Out of Scope Information Requests"
+    }
+  ],
+  "generated_at": "2026-10-05T07:20:20.772725+00:00",
+  "run_id": "20261005T072020Z-cab38c94",
   "schema_version": "1.0"
 }
