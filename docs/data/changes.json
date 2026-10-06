@@ -1,218 +1,160 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "iaac-major-projects:560db3694c1c2893512c",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:c3f445ecf3828cee72ce",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-proceedings:e03ab30b4bd4567ad322",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-1: Panel Appointment"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-3: BC Hydro submitting confirmation of public notice in compliance with G-200-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:8bcbab1cafdfc58fa190",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:fec07b0c27a2c6a7d428",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:a025d3d8c1bb4f392d45",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: HESA — Bill C-224, An Act to amend the Food and Drugs Act (natural health products)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:f6be58b600970197a54a",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:39567b4e5d06b786e7f8",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-deadlines:63f5402f09b786f57b1a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro confirmation of compliance with public notice requirements and social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-deadlines:52dff0099249547e6bec",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Intervener registration deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-deadlines:9a9653a03bb9be4d221a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Creative Energy Thompson Rivers — 2026-2028 Rates and Rate Design — CETRLP final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-proceedings:e9852d5b1cddbd84aba3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-2: Order G-206-26 establishing a regulatory timetable with public notice"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro confirmation of compliance with public notice requirements and social media reminder posts"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:615f9c412d015a269e54",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-proceedings:03669713b34e864b8587",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-3: BCUC Information Request No. 1 to FEI"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Intervener registration deadline"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "bcuc-proceedings:a82b7e5f46928d5390e5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:a31ed02d8de5c1a2c06a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:1cb27a26a9cefecaa8f7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:227e314ca1d0811022b6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:2805a57f421992fd291b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sawmills, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:ce419691b4caacc38c0f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel arrangement services, <span class=\"refper\">2025</span>"
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — CETRLP final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "bcuc-proceedings:e482220334b705eec48f",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:8eb0c2eb44fb5860e027",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Corix BMDEU 2026 to 2027 Revenue Requirements and Rates — G-209-26: Docket filing"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: PACP — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "finance-canada-news:db784a955b205dfefcfa",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne to welcome India's Minister of Finance and Corporate Affairs to Canada to reinforce bilateral ties"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "iaac-major-projects:221457607f39decdf0b8",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:ecf21338104d0933b041",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Trigon Pacific LPG Project: — The proponent provided its response to the summary of issues to the Impact Assessment Agency of Canada."
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:1fd6e68729183d81738b",
+      "detected_at": "2026-10-06T07:17:55.428501Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international merchandise trade, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:8e07b0d9b126927ec2c7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international trade in services, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:76d0c82c775a3994ab96",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Data availability: Shared Health Priorities Indicators for Adults, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:5d7498f77c8f79dc1ba8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm Product Price Index, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:f783f95087818308c054",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:c010f722ea1492742b0e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour productivity, hourly compensation and unit labour cost, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:24456e3af69d50c7d009",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sawmills, <span class=\"refper\">June 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:c4ba79e1c9d2a08b1c5b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sector-based Producer Price Indexes: announcement"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-daily:9603b6908fe207c33ae6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Residential properties and homeowners in high flood hazard areas, <span class=\"refper\">2022</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-05T19:23:33.809539Z",
-      "event_id": "statcan-key-indicators:734f98e9f05f919d6ab7",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
     }
   ],
-  "generated_at": "2026-10-05T19:23:33.809539+00:00",
-  "run_id": "20261005T192333Z-10a8eca4",
+  "generated_at": "2026-10-06T07:17:55.428501+00:00",
+  "run_id": "20261006T071755Z-97104707",
   "schema_version": "1.0"
 }

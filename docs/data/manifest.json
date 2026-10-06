@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 23,
-    "events": 745,
+    "changes": 17,
+    "events": 742,
     "opportunities": 623,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 8616,
-      "count": 23,
+      "bytes": 7897,
+      "count": 17,
       "path": "changes.json",
-      "sha256": "8731c831dea049065902b51e7dc589b4c194c98e3932918bf798a481715c3a70"
+      "sha256": "465092dad0ed7679f23ad9877b3507cc4b3c71d906bb8b56bf51fd7619092de5"
     },
     "events": {
-      "bytes": 1172186,
-      "count": 745,
+      "bytes": 1168928,
+      "count": 742,
       "path": "events.json",
-      "sha256": "085823b0e100f172a1fb8beab4176a8a5da83bc046627b4d1e95293eba56dc4d"
+      "sha256": "1756e370be67fb9b013f2282b35deec5076d8d992953fcb9a9255eb9aaddb38c"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 249,
       "path": "heartbeat.json",
-      "sha256": "2384979e71f11a266b3aa29bdb93bb9a69983e39f66fa59c39d4b57b298ace85"
+      "sha256": "2c78fd25a5a5cf9e4de670c8347b5a57c3352df046cbb68976d55d8483f1a2b9"
     },
     "opportunities": {
-      "bytes": 1205905,
+      "bytes": 1206281,
       "count": 623,
       "path": "opportunities.json",
-      "sha256": "9c87e9e56fccebe945759ea1b7e0e4c4d767b77687b8220fe3c1f573f8fae017"
+      "sha256": "9113d8bd839737e6148982275dd8abaf1321ba6033eca768984d0e3da460b404"
     },
     "source_status": {
-      "bytes": 15635,
+      "bytes": 15695,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "d48f82e948f6e4feff1a5f0d9e48ffc3180e6a357509a04ec8c563c379dbc8f0"
+      "sha256": "979dc896d128b9b20274a060fbbf82c4b09fb7faf1db2acac6eba5c8d398c761"
     }
   },
-  "generated_at": "2026-10-05T19:23:33.809539Z",
+  "generated_at": "2026-10-06T07:17:55.428501Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261005T192333Z-10a8eca4",
+  "run_id": "20261006T071755Z-97104707",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 5,
-    "ok": 22,
+    "not_modified": 11,
+    "ok": 16,
     "partial": 1
   },
   "status": "partial",
