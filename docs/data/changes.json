@@ -1,537 +1,63 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-daily:ce419691b4caacc38c0f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Travel arrangement services, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-key-indicators:c2ac43d04e2350884da8",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canadian international merchandise trade"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:90939c37c8203360c731",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-6: Order G-217-26 establishing an amended regulatory timetable"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:acbbcffebe16a9787f93",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-10: FBC submitting response to MoveUP Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:0d375c100aa9e01f2f6f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-11: FBC submitting response to RCIA Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:3f22f67fda99ece259d6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-12: FBC submitting response to ICG comments"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:015913955f1a9460983b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-4: FBC submitting confirmation of social media reminder posts in compliance with G-151-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:69cc8c815d43686fe3c4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-5: FBC submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:a952f8c5dba7cf1f6b1a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-6: FBC submitting response to BCSEA Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:84cd6effc2d47654f8aa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-7: FBC submitting response to CEC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:5c414e26ba1aef2ddc78",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-8: FBC submitting response to COSCO Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:1a0e4536f68869ca3ed9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:d5be87e167513ee4a7ea",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9: PUBLIC – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:cefcffbb132d8193c250",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C1-3: BCSEA submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:18bda1b7acf834a44fe9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C3-2: CEC submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:06a387914a3697c5a62b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-2: ICG submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:b6a895cebb4e6542280e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-4: ICG submitting Confidentiality Declaration and Undertaking forms"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:aa76e8b31e40e8226599",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C5-2: COSCO submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:ea77e5ccc785e0a7e703",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C6-2: RCIA submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:2bd186532cfb1f7352ff",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — D-1: NELSON HYDRO (NELSON HYDRO) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:28145f41132b36f57604",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-4: Nelson Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:8ed140eaff442eecf134",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-5: Nelson Hydro submitting confirmation of social media reminder posts in compliance with Order G-157-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:c8bcee485640b9b442ba",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-4: HARVEY, L. (HARVEY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:c6e770e1c8100d46555a",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Fireside Chat: Michelle Alexopoulos, External Deputy Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:a05eaefec46c7bc32e1b",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Fireside Chat: Tiff Macklem, Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:89691fccd57bff011cdd",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Panel: Carolyn Rogers, Senior Deputy Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:b9b28b07bb09c3b98ceb",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Panel: Tiff Macklem, Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:5070bc5ed1b6a5a28435",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "The John Kuszczak Memorial Lecture"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:116a091b31886e8563bd",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:36be099519f04071d329",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:148c2bb1033ea1ccd8b2",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:aba4e778f603309a0a57",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — The Next Phase of Canada's Indo-Pacific Strategy"
+      "title": "Committee report presented: FINA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:657a46bb4af0592023b8",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:599c18d88fc72af5e144",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:6f867ecf496a3805c372",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: RNNR — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-daily:6a94a8cdc2d1af7ab079",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international merchandise trade, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-daily:2f341c10b3617da44a05",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international trade in services, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-daily:1766c2921e33fa12bb26",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Surveying and mapping services, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-daily:5d3fabb50154f89bb3da",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Violent victimization and unwanted sexual behaviours experienced by 2SLGBTQ+ people in Canada, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "bcuc-deadlines:defa9548c02b2772466a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:dc67110a5d299d8f5312",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Boxing Day"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:2cd1355e46c598832651",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Christmas Day"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Interest Rate Announcement"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Remembrance Day"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:fec07b0c27a2c6a7d428",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
       "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
       "event_id": "house-committee-reports:c41be43210c361d82d6a",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response due: INAN — Issues Related to First Nations Communities Without Reserve Lands"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:f6be58b600970197a54a",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:39567b4e5d06b786e7f8",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
       "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
@@ -540,14 +66,77 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-06T19:17:20.959888Z",
-      "event_id": "statcan-key-indicators:ba2693c3f84146dcfc95",
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "elections-finance-calendar:30da4e70d85f7368b696",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Travel between Canada and other countries"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Leadership contestants' campaign returns (2026 NDP leadership contest)"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:116a091b31886e8563bd",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:657a46bb4af0592023b8",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:303c56a8a3656a57e232",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:599c18d88fc72af5e144",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:6f867ecf496a3805c372",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: RNNR — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T07:22:42.936514Z",
+      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-10-06T19:17:20.959888+00:00",
-  "run_id": "20261006T191720Z-5e700cbe",
+  "generated_at": "2026-10-07T07:22:42.936514+00:00",
+  "run_id": "20261007T072242Z-c58f4fbb",
   "schema_version": "1.0"
 }

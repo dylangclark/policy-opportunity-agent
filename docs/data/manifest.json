@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 60,
-    "events": 772,
-    "opportunities": 651,
+    "changes": 15,
+    "events": 771,
+    "opportunities": 644,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 23163,
-      "count": 60,
+      "bytes": 7440,
+      "count": 15,
       "path": "changes.json",
-      "sha256": "5c4baf083754951517a5674d1ca455ea35dafef225424f2d0efa7943ea405d1e"
+      "sha256": "44612ec70b380f1b69b5fc971d550a4e9f49f7a93e5745c49d53d94d66ff6204"
     },
     "events": {
-      "bytes": 1210583,
-      "count": 772,
+      "bytes": 1208603,
+      "count": 771,
       "path": "events.json",
-      "sha256": "ef00d6d1736f418e13fc4bd4d40d19c770059fc4bd079c93f38704368d5bd96c"
+      "sha256": "23f1d51c3245e494c4885581d8ae5e1ca77e5ad2e347df6acf38c7a7c5760a2f"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 249,
       "path": "heartbeat.json",
-      "sha256": "fd2d42ab1ea7fc9c1412504fed511beafc996e6ea75c69a1ecbc0b1e13caa597"
+      "sha256": "04c06bcfe08e505a0a694bf4f9d7bc8a80951162e9d37a3556832d52aa4b182b"
     },
     "opportunities": {
-      "bytes": 1256351,
-      "count": 651,
+      "bytes": 1239814,
+      "count": 644,
       "path": "opportunities.json",
-      "sha256": "1ec3dc8f404c8893b43c18ac60f4280d73a9e97431d8f2add7a50945daa913f9"
+      "sha256": "f0d44f9f2c29ff4867df673a47cfb64e44f864b6ab6683d551f41d5a7df25412"
     },
     "source_status": {
-      "bytes": 15491,
+      "bytes": 15541,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "5016a28b0e792c772529924918ce6385ad6b5b09bb6962d9bd9e5f62d53119d3"
+      "sha256": "ba57fe4a7d8aaa8eb423e709e8dbcb30c748c5ebedf84317db92f4b9690a3e3a"
     }
   },
-  "generated_at": "2026-10-06T19:17:20.959888Z",
+  "generated_at": "2026-10-07T07:22:42.936514Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261006T191720Z-5e700cbe",
+  "run_id": "20261007T072242Z-c58f4fbb",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 5,
-    "ok": 22,
+    "not_modified": 10,
+    "ok": 17,
     "partial": 1
   },
   "status": "partial",
