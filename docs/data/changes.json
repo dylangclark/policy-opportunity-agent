@@ -1,142 +1,157 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:36be099519f04071d329",
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-proceedings:008c1e9aeb9e45db00ca",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Letters of comment deadline"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-proceedings:7a8f640286705b989e02",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy responses to BCUC IR No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:aba4e778f603309a0a57",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:7a26e24d72919923d0f2",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FINA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Letters of comment deadline"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:b3f41132f9d0d564caab",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy responses to BCUC IR No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:517dfbaa9d483bc4ae5d",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to post revised Public Notice"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:c41be43210c361d82d6a",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:5919158d730501afaf82",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: INAN — Issues Related to First Nations Communities Without Reserve Lands"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with revised Public Notice requirements"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-proceedings:f5b29c2ba9785dba7f44",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A-5: Order G-220-26 amending the regulatory timetable and Public Notice"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-proceedings:b0cf86db995990922327",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to post revised Public Notice"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-proceedings:36b9e5e2c4f5cb048040",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with revised Public Notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "cer-news:c1033ec72e3fd01ac38d",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Battery storage technology is evolving as batteries play a larger role in electricity systems"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "gazette-part-ii:fb7eea53fd2822905c37",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, October 7, 2026, volume 159, number 20"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "statcan-daily:95c4367141b0472d2c98",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "elections-finance-calendar:30da4e70d85f7368b696",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:41f3f7e2f660a5f581d8",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Leadership contestants' campaign returns (2026 NDP leadership contest)"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:116a091b31886e8563bd",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "bcuc-deadlines:f63be7d323c5e01b60ed",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ACVA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy responses to BCUC IR No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:657a46bb4af0592023b8",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "gazette-part-iii:135fe0131ec2e0b52314",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+      "source_id": "gazette-part-iii",
+      "title": "Canada Gazette — Part III, volume 8, number 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:303c56a8a3656a57e232",
+      "detected_at": "2026-10-07T19:23:58.457344Z",
+      "event_id": "iaac-major-projects:949c5dd6fc5982edc14e",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Proposed Official Languages Administrative Monetary Penalties Regulations"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:599c18d88fc72af5e144",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:6f867ecf496a3805c372",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: RNNR — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-07T07:22:42.936514Z",
-      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "iaac-major-projects",
+      "title": "Yellowhead Copper Project: — The Minister of the Environment, Climate Change and Nature approved the Government of British Columbia's (B.C."
     }
   ],
-  "generated_at": "2026-10-07T07:22:42.936514+00:00",
-  "run_id": "20261007T072242Z-c58f4fbb",
+  "generated_at": "2026-10-07T19:23:58.457344+00:00",
+  "run_id": "20261007T192358Z-eee6450a",
   "schema_version": "1.0"
 }
