@@ -3,158 +3,122 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bcuc-proceedings:26761de3fbaedfffe9bf",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "bcuc-proceedings:1098c6a95ceb6262860d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — D-1: CAREY, R. (CAREY) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bcuc-proceedings:12c1cdcd2e61bcc4ff8c",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "iaac-major-projects:81e825a41b4808e373a6",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13: PUBLIC – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+      "source_id": "iaac-major-projects",
+      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Berg Copper Project as well as British Columbia's Environmental Asse"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:0be4354a3deb2f55c333",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
+      "source_id": "statcan-daily",
+      "title": "Economic contribution of critical mineral production in Canada, <span class=\"refper\">2024</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:0103e04a16640a0e5926",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:08e9be4449966a323a16",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "statcan-daily",
+      "title": "Farm Input Price Index, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:85c50a26fe5c11484ba0",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:2b624f3388ab1d93cd47",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: HESA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "statcan-daily",
+      "title": "Police-reported hate crime and cybercrime, preliminary quarterly data, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:0d96cde42b22f9a18f7a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Commodity Survey, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bc-legal-orders:a94955e0335682fae4a4",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "iaac-major-projects:560db3694c1c2893512c",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 292: WATER, LAND AND RESOURCE STEWARDSHIP Wildlife, s. 4 (2) Consent is given to the Minister of Water, Land and Resource Stewardship to amend the Wildlife Management Areas Regulatio..."
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bc-legal-orders:638e5410aed08f1f9d8f",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:abdc71b1465a85bbfd62",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 293: FINANCE Provincial Sales Tax, ss. 236 and 241 (a) Effective October 1, 2026, the Provincial Sales Tax Exemption and Refund Regulation, B.C. Reg. 97/2013, is amended as set out i..."
+      "source_id": "statcan-daily",
+      "title": "Electric Power Selling Price Index, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bc-legal-orders:c016a9d6b012af971511",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:b79e077113b1bbd9e435",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 294: FINANCE Budget Measures Implementation, 2026, s. 103; Provincial Sales Tax, ss. 236 and 241 Effective February 18, 2026, the Provincial Sales Tax Exemption and Refund Regulation..."
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle registrations, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bc-legal-orders:1596bf3f6d9940fcff9a",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:548040304b125b040ad9",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 295: FINANCE Provincial Sales Tax, ss. 236, 241 and 246 Effective October 1, 2026, (a) the Provincial Sales Tax Exemption and Refund Regulation, B.C. Reg. 97/2013, is amended as set..."
+      "source_id": "statcan-daily",
+      "title": "Retail Commodity Survey, <span class=\"refper\">June 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "bc-legal-orders:e601ec90abac02b97f54",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-daily:a4dda5be6af4cc9bd23b",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 296: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Fraser River Tunnel Project Order (No. 2) is made."
+      "source_id": "statcan-daily",
+      "title": "Securities statistics, <span class=\"refper\">second quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "finance-canada-news:7bcfe7c0c90328f5ec4e",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-key-indicators:283572b15bac617fd820",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Montréal to host pre-budget consultations ahead of Budget 2026"
+      "source_id": "statcan-key-indicators",
+      "title": "Payroll employment, earnings and hours, and job vacancies"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:753317e833c853671298",
+      "detected_at": "2026-10-08T19:15:10.549241Z",
+      "event_id": "statcan-key-indicators:9423a9ecd579c122d506",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: CIMM — Canada's Immigration System"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:36be099519f04071d329",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:16a7b60e44b2db59f424",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:c932036705710b10e71c",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: RNNR — Main Estimates 2026-27: Vote 1 under Atomic Energy of Canada Limited, Vote 1 under Canadian Energy Regulator, Vote 1 under Canadian Nuclear Safety Commission, Votes 1, 5 and 10 under Department of Natural Resources, Vote 1 under Northern Pipeline Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-08T07:16:37.856416Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "statcan-key-indicators",
+      "title": "Retail trade"
     }
   ],
-  "generated_at": "2026-10-08T07:16:37.856416+00:00",
-  "run_id": "20261008T071637Z-b543fdf8",
+  "generated_at": "2026-10-08T19:15:10.549241+00:00",
+  "run_id": "20261008T191510Z-251e708b",
   "schema_version": "1.0"
 }
