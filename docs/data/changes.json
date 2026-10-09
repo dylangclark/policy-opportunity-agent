@@ -1,349 +1,316 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-deadlines:56742ca853647e71af21",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-key-indicators:8609109d272ea8ce518d",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Permanent Rates and Amending Agreements for the Regional District of Nanaimo and Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo — FEI to provide supplemental information"
+      "source_id": "statcan-key-indicators",
+      "title": "Labour Force Survey"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:a6178906777a715e32da",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:aa792ba18f447434e577",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-19: YANG, S. (YANG) – Letter of Comment"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 358: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 101 Approval is given to the withdrawal of Joel L'Heureux as a candidate for the office of Councillor of the District of Taylor."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:816145c1c24e8bccc451",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:a6acfdec754804d93b31",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-4: Request for submission on City of Burnaby Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 359: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 101 Approval is given to the withdrawal of Megan Sage Knight as a candidate for the office of Mayor of the City of White Rock."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:a9cd56886f3c4f1951f3",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:a2beeccdf9762114cfa0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — C1-1: CITY OF BURNABY (BURNABY) – Request to Intervene"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 360: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective October 1, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:16ebcffde805de0133a6",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:bf7f2f004ac97ae71519",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — A-1: Panel Appointment"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 411: Passenger Transportation, s. 6 Effective October 1, 2026, Patricia Ellen Bood is designated as acting chair of the Passenger Transportation Board for a term ending January 31, 2..."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:f99d86aaddedffe66a48",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:9a4d498e320fae79bfdd",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — A-2: Order G-223-26 establishing a regulatory timetable"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 413: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 23, 2026, Matthew William Turnell is appointed as a Judge of the Provincial Court of British Columbia."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:bf9906344b52a80ee440",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:0bba1fe9af63f1322a3a",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — B-1: FORTISBC ENERGY INC. (FEI) – Permanent Rates and Amending Agreements for the Regional District of Nanaimo and Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 414: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 26, 2026, Manpreet Kaur Mand is appointed as a Judge of the Provincial Court of British Columbia."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:197de9fd554e15eab519",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "bc-legal-orders:60e3d0139b7fb03e083c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — FEI to provide supplemental information"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 415: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 29, 2026, David E.M. Jenkins, Jr., is appointed as a Judge of the Provincial Court of British Columbia."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "finance-canada-news:657047cd33cf82d48a0c",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "gazette-part-i:9f91b04b2dbca6c06d3a",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 10, 2026, volume 160, number 41"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:84b70437d83b130fb43b",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:1595d8f083a85e5aa9fb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Standing with Democracy and Human Rights Defenders: Strengthening Support at a Critical Time"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:ecf21338104d0933b041",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:6d29f169b6ffa8b4e604",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Annual Wholesale Trade - Commodities, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:8d99e6e5ad6b0c6d35ed",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm product prices, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:e9f710e6199472de96cd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Film, television and video post-production, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:3375958e30f4ee685d41",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour Force Survey, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:4bc045d4b9518c568840",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National supply and disposition of major grains, <span class=\"refper\">2025/2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:5ae7a63e2228ef8f5f4c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sector-based Producer Price Indexes, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "finance-canada-news:2b57534a7fca679223e6",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Government launches consultations on the modernization of the federal framework for the charitable sector"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "iaac-major-projects:560db3694c1c2893512c",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+      "title": "Canada announces targeted countermeasures and substantive support for workers and businesses in response to U.S. tariffs"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:6371929b37ca7f850d6a",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 298: ENERGY AND CLIMATE SOLUTIONS Utilities Commission, s. 3 The Direction to the British Columbia Utilities Commission Respecting the Exemption of Independent Power Producers is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:f53ce2ae094d0c20b115",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 299: ENERGY AND CLIMATE SOLUTIONS Renewable Energy Projects (Streamlined Permitting), s. 20 The Renewable Energy Projects (Streamlined Permitting) Regulation, B.C. Reg. 93/2025, is a..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:c22b5d8159485eaf2b0e",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 301: FINANCE Income Tax, s. 213 (1) and (4) Effective June 1, 2025, the Natural Gas Tax Credit Regulation, B.C. Reg. 145/2019, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:9ea1db598bc1d28c949d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 303: FINANCE Provincial Sales Tax, s. 240 Schedule 2 to the Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as described."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:ebd6a33da61b6a07bebc",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 309: Public Service, s. 12 Effective August 4, 2026, Helen Fotos is appointed as an Assistant Deputy Minister, Ministry of Citizens' Services."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:b9c394ab7092f0e4b81c",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 311: FINANCE Public Sector Employers, s. 15 (a) The Health Care Employers Regulation, B.C. Reg. 427/94, is amended as set out in Schedule 1, and (b) the Social Services Employers Reg..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:3fa5e002719d9b77d502",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 313: ATTORNEY GENERAL Offence, s. 132 (a) Effective August 14, 2026, the Offence Act Forms Regulation, B.C. Reg. 422/90, is amended as set out in Schedule 1, (b) effective August 14,..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:aa89b2d01468787f6f72",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 314: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The K’ih t͟saaʔd͟ze Protection Area Order is made."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:ea7d29384e5ced37b313",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 315: FINANCE Financial Administration, s. 18 Approval is given to forgive the described debt that is owed to the government by Brian Bonney under section 33 (b) of the Excluded Emplo..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-legal-orders:da1ebb617ef488c37050",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 323: HOUSING AND MUNICIPAL AFFAIRS Ministry of Lands, Parks and Housing, s. 10 Effective July 19, 2026, the following appointments to the British Columbia Housing Management Commissi..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bc-regulations:a4c8784c3f2648b363d0",
-      "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "M316/2026 Amends B.C. Reg. 133/2025 — Nurses and Midwives Regulation 152/2026 August 24, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-deadlines:93f73e12e88e7f924a8a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-deadlines:4b456a1227611de2152f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — BCUC Information Request (IR) No. 1 to PNG"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:015913955f1a9460983b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-4: FBC submitting confirmation of social media reminder posts in compliance with G-151-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:cefcffbb132d8193c250",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C1-3: BCSEA submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:18bda1b7acf834a44fe9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C3-2: CEC submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:06a387914a3697c5a62b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-2: ICG submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:aa76e8b31e40e8226599",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C5-2: COSCO submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:ea77e5ccc785e0a7e703",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C6-2: RCIA submitting Information Request No. 1 to FBC"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:4746eca01e1d2a92f4fd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:f20e94a3ecfe9f67b19d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-5: Invitation for Submissions Regarding Intervener Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:57c4abf4ef3b8cca20ec",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-5: FEI submitting confirmation of social media reminder posts in compliance with G-151-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:28145f41132b36f57604",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-4: Nelson Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:8ed140eaff442eecf134",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-5: Nelson Hydro submitting confirmation of social media reminder posts in compliance with Order G-157-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:c8bcee485640b9b442ba",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-4: HARVEY, L. (HARVEY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "finance-canada-news:74fb455f23931f2bb9af",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "finance-canada-news:6328e28fe226280dabda",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister of Finance meets with provincial and territorial counterparts on Canada’s response to latest U.S. tariffs"
+      "title": "List of products from the United States subject to counter-tariffs effective September 8, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T07:15:58.710006Z",
-      "event_id": "finance-canada-news:d3ab4805d9bccf993af1",
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "finance-canada-news:dfebb408ec20a3bb7102",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Ministers Champagne, Joly, Hajdu and Solomon to announce Canadian response to U.S. tariffs"
+      "title": "Support for Canadian workers and businesses affected by U.S. tariffs"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "gazette-part-i:899b67f7cbf7bfe083e3",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, August 22, 2026, volume 160, number 34"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "gazette-part-i:1c15c45bbc9e96848e3c",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, August 24, 2026, volume 160, extra number 7"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:962b5632487f8811168d",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FAAE — Amplifying Canada's Africa Strategy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:ce4fa459a96064118407",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: FAAE — Amplifying Canada's Africa Strategy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:2aeb928e3d659812d6d6",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: FAAE — Standing with Democracy and Human Rights Defenders: Strengthening Support at a Critical Time"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:0103e04a16640a0e5926",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "house-committee-reports:85c50a26fe5c11484ba0",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:9c3bbd3f46b8af43e8a7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic characteristics and the likelihood of first birth, <span class=\"refper\">2017 to 2023</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:fefea2f3db5cd5a6e121",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Quarterly rent statistics, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-daily:dcd9e3d7046adead4163",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Stocks of principal field crops, <span class=\"refper\">July 31, 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-09T19:19:16.020195Z",
+      "event_id": "statcan-key-indicators:ac4108a0d2d79a7a0790",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "National tourism indicators"
     }
   ],
-  "generated_at": "2026-10-09T07:15:58.710006+00:00",
-  "run_id": "20261009T071558Z-0a9a4b0e",
+  "generated_at": "2026-10-09T19:19:16.020195+00:00",
+  "run_id": "20261009T191916Z-b7f44312",
   "schema_version": "1.0"
 }
