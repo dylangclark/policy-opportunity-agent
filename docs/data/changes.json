@@ -1,142 +1,25 @@
 {
   "changes": [
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:2d51479488f2c2406321",
+      "detected_at": "2026-10-10T19:16:18.453173Z",
+      "event_id": "finance-canada-news:de779cb5dbe6e4c7fd4e",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-3: Order G-224-26 regarding requests to intervene"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:457cc2ff01ecfc749551",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C1-1: SHUSWAP BAND (SHUSWAP BAND) – Submitting Intervener Request"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:f4dd2a6ded566737b7fe",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C2-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Submitting Intervener Request"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:cd15fcf0aab0451759ae",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY (COSCO) – Submitting Intervener Request"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:e491cc19cf1e10226123",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C4-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Submitting Intervener Request"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:37ec8cc7a090073bb876",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:a02b1691a6ccb99f775a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "iaac-major-projects:be909b7d5ca8a2077d25",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The public comment period on the summary of the Initial Project Description and the funding application period closed on October 9, 2026."
+      "source_id": "finance-canada-news",
+      "title": "Department of Finance meets with stakeholders on Canada’s response to U.S. tariffs"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-deadlines:b2bd1f504f402b1a476f",
+      "detected_at": "2026-10-10T19:16:18.453173Z",
+      "event_id": "finance-canada-news:c9c9796fa79c0a5fa70b",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-deadlines:19c4f52729a2fbf1da5e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-deadlines:2b1adfd74c9ea146367e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:7e81d11a6df137ca3db4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:03caf80b4e849fee9277",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "bcuc-proceedings:1cb27a26a9cefecaa8f7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-10T07:21:08.901809Z",
-      "event_id": "iaac-major-projects:560db3694c1c2893512c",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Long in Sarnia to highlight Canadian response to U.S. tariffs"
     }
   ],
-  "generated_at": "2026-10-10T07:21:08.901809+00:00",
-  "run_id": "20261010T072108Z-00bc1eec",
+  "generated_at": "2026-10-10T19:16:18.453173+00:00",
+  "run_id": "20261010T191618Z-1631c305",
   "schema_version": "1.0"
 }
