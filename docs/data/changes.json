@@ -1,316 +1,142 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-key-indicators:8609109d272ea8ce518d",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:2d51479488f2c2406321",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-3: Order G-224-26 regarding requests to intervene"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:aa792ba18f447434e577",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:457cc2ff01ecfc749551",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 358: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 101 Approval is given to the withdrawal of Joel L'Heureux as a candidate for the office of Councillor of the District of Taylor."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C1-1: SHUSWAP BAND (SHUSWAP BAND) – Submitting Intervener Request"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:a6acfdec754804d93b31",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:f4dd2a6ded566737b7fe",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 359: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 101 Approval is given to the withdrawal of Megan Sage Knight as a candidate for the office of Mayor of the City of White Rock."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C2-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Submitting Intervener Request"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:a2beeccdf9762114cfa0",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:cd15fcf0aab0451759ae",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 360: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective October 1, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in..."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY (COSCO) – Submitting Intervener Request"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:bf7f2f004ac97ae71519",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:e491cc19cf1e10226123",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 411: Passenger Transportation, s. 6 Effective October 1, 2026, Patricia Ellen Bood is designated as acting chair of the Passenger Transportation Board for a term ending January 31, 2..."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C4-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Submitting Intervener Request"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:9a4d498e320fae79bfdd",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:37ec8cc7a090073bb876",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 413: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 23, 2026, Matthew William Turnell is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:0bba1fe9af63f1322a3a",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:a02b1691a6ccb99f775a",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 414: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 26, 2026, Manpreet Kaur Mand is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "bc-legal-orders:60e3d0139b7fb03e083c",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "iaac-major-projects:be909b7d5ca8a2077d25",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 415: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 29, 2026, David E.M. Jenkins, Jr., is appointed as a Judge of the Provincial Court of British Columbia."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "gazette-part-i:9f91b04b2dbca6c06d3a",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, October 10, 2026, volume 160, number 41"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:84b70437d83b130fb43b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:1595d8f083a85e5aa9fb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Standing with Democracy and Human Rights Defenders: Strengthening Support at a Critical Time"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:6d29f169b6ffa8b4e604",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Annual Wholesale Trade - Commodities, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:8d99e6e5ad6b0c6d35ed",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:e9f710e6199472de96cd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Film, television and video post-production, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:3375958e30f4ee685d41",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour Force Survey, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:4bc045d4b9518c568840",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "National supply and disposition of major grains, <span class=\"refper\">2025/2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:5ae7a63e2228ef8f5f4c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Sector-based Producer Price Indexes, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The public comment period on the summary of the Initial Project Description and the funding application period closed on October 9, 2026."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "finance-canada-news:2b57534a7fca679223e6",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-deadlines:b2bd1f504f402b1a476f",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Canada announces targeted countermeasures and substantive support for workers and businesses in response to U.S. tariffs"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "finance-canada-news:6328e28fe226280dabda",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-deadlines:19c4f52729a2fbf1da5e",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "List of products from the United States subject to counter-tariffs effective September 8, 2026"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "finance-canada-news:dfebb408ec20a3bb7102",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-deadlines:2b1adfd74c9ea146367e",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Support for Canadian workers and businesses affected by U.S. tariffs"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI responses to BCUC IR No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "gazette-part-i:899b67f7cbf7bfe083e3",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:7e81d11a6df137ca3db4",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 22, 2026, volume 160, number 34"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BCUC decision on intervener registrations and instructions on proceeding scope"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "gazette-part-i:1c15c45bbc9e96848e3c",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:03caf80b4e849fee9277",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, August 24, 2026, volume 160, extra number 7"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Tariff Supplement No. 116 — BC Hydro responses to letters of comment, if any, and Final Argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:962b5632487f8811168d",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "bcuc-proceedings:1cb27a26a9cefecaa8f7",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Amplifying Canada's Africa Strategy"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI responses to BCUC IR No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:ce4fa459a96064118407",
+      "detected_at": "2026-10-10T07:21:08.901809Z",
+      "event_id": "iaac-major-projects:560db3694c1c2893512c",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: FAAE — Amplifying Canada's Africa Strategy"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:2aeb928e3d659812d6d6",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: FAAE — Standing with Democracy and Human Rights Defenders: Strengthening Support at a Critical Time"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:0103e04a16640a0e5926",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "house-committee-reports:85c50a26fe5c11484ba0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: HESA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:9c3bbd3f46b8af43e8a7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic characteristics and the likelihood of first birth, <span class=\"refper\">2017 to 2023</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:fefea2f3db5cd5a6e121",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Quarterly rent statistics, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-daily:dcd9e3d7046adead4163",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Stocks of principal field crops, <span class=\"refper\">July 31, 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-09T19:19:16.020195Z",
-      "event_id": "statcan-key-indicators:ac4108a0d2d79a7a0790",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "National tourism indicators"
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Eastern Bridge Project and provide feedback by October 9, 2026."
     }
   ],
-  "generated_at": "2026-10-09T19:19:16.020195+00:00",
-  "run_id": "20261009T191916Z-b7f44312",
+  "generated_at": "2026-10-10T07:21:08.901809+00:00",
+  "run_id": "20261010T072108Z-00bc1eec",
   "schema_version": "1.0"
 }
