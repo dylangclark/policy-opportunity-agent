@@ -1,43 +1,104 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-14T07:17:40.792215Z",
-      "event_id": "bcuc-proceedings:8bba59a7aa057274b7c5",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "bcuc-proceedings:2b9c20ca1fd4bc185284",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-3-1: Metergy submitting confirmation of revised public notice in compliance with G-220-26"
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-2: Order G-216-26 establishing a regulatory timetable with public notice"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-key-indicators:df7689ad4b7b66c667ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-14T07:17:40.792215Z",
-      "event_id": "bcuc-proceedings:defcca19b278ec83813e",
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "bcuc-proceedings:34843e8b884e0a67dd27",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-22: BOSMA, A. (BOSMA) – Letter of Comment"
+      "title": "BCUC Metergy Status as a Public Utility — D-23: DEL ANGEL ARGUELLES, N.N. (DEL ANGEL ARGUELLES) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-daily:1440e2c3c4366b31e13c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-daily:77535738b4b5b933ee85",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Access to health care and services among the official language minority population, <span class=\"refper\">2022</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-daily:3bfb4c709ba704677bb4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Understanding quality of life among persons with disabilities in Canada—material and social well-being"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-14T07:17:40.792215Z",
-      "event_id": "bc-legal-orders:dffa0291d299578e3928",
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "bcuc-deadlines:a81c0cbba43a742a02b3",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 197: FINANCE Business Corporations, s. 433; Business Practices and Consumer Protection, s. 196; Financial Institutions, s. 289; Real Estate Services, ss. 89.2 (6) (a) and 130; Securi..."
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Intervener final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-14T07:17:40.792215Z",
-      "event_id": "bc-legal-orders:3a419cee177080200689",
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "bcuc-proceedings:c4090ab21f2b2598417e",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 328: INDIGENOUS RELATIONS AND RECONCILIATION Declaration on the Rights of Indigenous Peoples, s. 7 The Minister of Indigenous Relations and Reconciliation is authorized, on behalf of..."
+      "source_id": "bcuc-proceedings",
+      "title": "FEI 2027 Annual Review of Delivery Rates — Intervener final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-daily:6ba37522e9ddc0b94082",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-14T19:23:00.772424Z",
+      "event_id": "statcan-daily:d998a5ce641276ff8cd8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">July 2026</span>"
     }
   ],
-  "generated_at": "2026-10-14T07:17:40.792215+00:00",
-  "run_id": "20261014T071740Z-5eba6c16",
+  "generated_at": "2026-10-14T19:23:00.772424+00:00",
+  "run_id": "20261014T192300Z-e6cb168a",
   "schema_version": "1.0"
 }
