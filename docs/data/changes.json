@@ -1,411 +1,43 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "iaac-major-projects:81e825a41b4808e373a6",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Berg Copper Project as well as British Columbia's Environmental Asse"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "iaac-major-projects:be909b7d5ca8a2077d25",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The public comment period on the summary of the Initial Project Description and the funding application period closed on October 9, 2026."
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:9ee5fcb98f20dadc9d3b",
+      "detected_at": "2026-10-14T07:17:40.792215Z",
+      "event_id": "bcuc-proceedings:8bba59a7aa057274b7c5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-2: BC Hydro submitting confirmation of public notice in compliance with G-216-26"
+      "title": "BCUC Metergy Status as a Public Utility — B-3-1: Metergy submitting confirmation of revised public notice in compliance with G-220-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:55b796cc6a16f9e9e19c",
+      "detected_at": "2026-10-14T07:17:40.792215Z",
+      "event_id": "bcuc-proceedings:defcca19b278ec83813e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-20: FAN, F. (FAN) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:62a9110c3022dcd1bf42",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-21: ZHENG, Y. (ZHENG) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:28145f41132b36f57604",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-4: Nelson Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:8ed140eaff442eecf134",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-5: Nelson Hydro submitting confirmation of social media reminder posts in compliance with Order G-157-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:c8bcee485640b9b442ba",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-4: HARVEY, L. (HARVEY) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Remembrance Day"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:962b5632487f8811168d",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Amplifying Canada's Africa Strategy"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:657a46bb4af0592023b8",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:67624b1747480c8ecac5",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Amplifying Canada's Africa Strategy"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:06fdd2ce6be7154dd802",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:6f867ecf496a3805c372",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: RNNR — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:c07ec027c4047f4d5c04",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric Power Selling Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:8af735bd67badba97a70",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">September 2026</span>"
+      "title": "BCUC Metergy Status as a Public Utility — D-22: BOSMA, A. (BOSMA) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bc-regulations:92710bd9a8627ca89c4a",
+      "detected_at": "2026-10-14T07:17:40.792215Z",
+      "event_id": "bc-legal-orders:dffa0291d299578e3928",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "197/2026 Amends B.C. Reg. 65/2004 — Business Corporations Regulation, effective October 13, 2026 84/2026 May 22, 2026"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 197: FINANCE Business Corporations, s. 433; Business Practices and Consumer Protection, s. 196; Financial Institutions, s. 289; Real Estate Services, ss. 89.2 (6) (a) and 130; Securi..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-deadlines:f2fed7b7ecbfcd41dc4d",
+      "detected_at": "2026-10-14T07:17:40.792215Z",
+      "event_id": "bc-legal-orders:3a419cee177080200689",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-deadlines:33b2d513d1ff277a1a5f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro provides public notice of the Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:2776417a7d68bab89a84",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:2e5f94ed1175473b996a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro provides public notice of the Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:3b28d092814c887556df",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:a9a2611546d802ec0096",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Next Revenue Requirements Application Request to Rescind Order G-108-25 Directive 2 Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "bcuc-proceedings:cd84271e5e6312fcf4db",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Revenue Requirements G-108-25 Request to Rescind Directive 2 — G-218-26: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "boc-upcoming:0cbc3f5729fb9b79722b",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Thanksgiving Day"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:ebdaf10a093baa307683",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Canada’s 2030 emissions reduction plan: federal climate policy at a crossroads"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:0dba6da11a54860d9e8b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Report on International Student Program Reforms, of the 2026 Spring Reports of the Auditor General of Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:c41be43210c361d82d6a",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: INAN — Issues Related to First Nations Communities Without Reserve Lands"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:84b70437d83b130fb43b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:fd9e77dc8fd50e9ffd18",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international investment position, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:828cd37e31cc68f76daf",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:a196ed566b2ba61a954b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Farm product prices, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:e1d7c148515d1c874b00",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-daily:d6749859118b1938edc4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "National balance sheet and financial flow accounts, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-key-indicators:c26ebfbf1eac4a3b4d87",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-13T19:20:37.770056Z",
-      "event_id": "statcan-key-indicators:12fdf382c71b86532013",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Investment in building construction"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 328: INDIGENOUS RELATIONS AND RECONCILIATION Declaration on the Rights of Indigenous Peoples, s. 7 The Minister of Indigenous Relations and Reconciliation is authorized, on behalf of..."
     }
   ],
-  "generated_at": "2026-10-13T19:20:37.770056+00:00",
-  "run_id": "20261013T192037Z-e77a52fd",
+  "generated_at": "2026-10-14T07:17:40.792215+00:00",
+  "run_id": "20261014T071740Z-5eba6c16",
   "schema_version": "1.0"
 }
