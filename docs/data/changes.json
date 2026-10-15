@@ -1,104 +1,241 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "bcuc-proceedings:2b9c20ca1fd4bc185284",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-2: Order G-216-26 establishing a regulatory timetable with public notice"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-key-indicators:df7689ad4b7b66c667ab",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Building permits"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "bcuc-proceedings:34843e8b884e0a67dd27",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-23: DEL ANGEL ARGUELLES, N.N. (DEL ANGEL ARGUELLES) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-daily:1440e2c3c4366b31e13c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building permits, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-daily:77535738b4b5b933ee85",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Access to health care and services among the official language minority population, <span class=\"refper\">2022</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-daily:3bfb4c709ba704677bb4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Understanding quality of life among persons with disabilities in Canada—material and social well-being"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "bcuc-deadlines:a81c0cbba43a742a02b3",
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:9f839cd56f77c17c58d0",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — Intervener final argument"
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — BCUC Information Request (IR) No. 1 to FEI"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "bcuc-proceedings:c4090ab21f2b2598417e",
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:3df40625c7545aa47829",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI confirmation of compliance with notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:5d1c4b861dd4e58a57a9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:224b29d8216912816899",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to letters of comment, if any, and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:38ae863068985818d978",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:a666d9d90ae66c4254d4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:7b8767ec651fd3cf26dd",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — Intervener final argument"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-2: COSCO submitting Confidentiality Declaration and Undertaking forms"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:2a366ebe13808ab87e63",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-24: QUAN, N. (QUAN) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:16f9042292129b9d54e2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — B-2: FEI submitting supplemental information"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:7d6607a940a900956df5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Order G-225-26 establishing regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:7020719187c7070f858b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — BCUC Information Request (IR) No. 1 to FEI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:a0463b35eb7c7c87478e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI confirmation of compliance with notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:dfd83b4f723c3fcebed6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:dfff523b0ae3cce8a255",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to letters of comment, if any, and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:a3e8720b2249de3bc05f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI to provide notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:f98a54180e5860931633",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "cer-news:3670613bf2b7f411527c",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Summary of the CER Pipeline Geohazards Workshop"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-daily:6ba37522e9ddc0b94082",
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:56742ca853647e71af21",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index, <span class=\"refper\">August 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Permanent Rates and Amending Agreements for the Regional District of Nanaimo and Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo — FEI to provide supplemental information"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-14T19:23:00.772424Z",
-      "event_id": "statcan-daily:d998a5ce641276ff8cd8",
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-deadlines:7b29d86c481234415ca4",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-deadlines",
+      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:197de9fd554e15eab519",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — FEI to provide supplemental information"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:28145f41132b36f57604",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-4: Nelson Hydro submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:8ed140eaff442eecf134",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-5: Nelson Hydro submitting confirmation of social media reminder posts in compliance with Order G-157-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:c8bcee485640b9b442ba",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-4: HARVEY, L. (HARVEY) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T07:17:30.503918Z",
+      "event_id": "cer-news:b1220803572fdfe85361",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – July 2026"
     }
   ],
-  "generated_at": "2026-10-14T19:23:00.772424+00:00",
-  "run_id": "20261014T192300Z-e6cb168a",
+  "generated_at": "2026-10-15T07:17:30.503918+00:00",
+  "run_id": "20261015T071730Z-2b74f694",
   "schema_version": "1.0"
 }
