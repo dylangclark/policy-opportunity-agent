@@ -1,241 +1,299 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:9f839cd56f77c17c58d0",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "start_at",
+        "source_url",
+        "topics",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bc-regulations:20e778414cb113e0c94d",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "bc-regulations",
+      "title": "416/2026 Amends B.C. Reg. 438/81 — Prescribed Classes of Property Regulation 164/2026 October 13, 2026 Attorney General Statutes Amendment Act, 2025 120/2026 S.B.C. 2025, c. 16 — see Acts in Force 48/2026 April 7, 2026 333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026 Attorney General Statutes Amendment Act (No. 2), 2025 66/2026 S.B.C. 2025, c. 25 — see Acts in Force 22/2026 March 9, 2026 Balanced Budget and Ministerial Accountability Act Treasury Board Enacts Minister of St"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-key-indicators:d89e84397119f01c3177",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-key-indicators:3878f615b3fe5641c6b6",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:3df40625c7545aa47829",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI confirmation of compliance with notice requirements"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:5d1c4b861dd4e58a57a9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:224b29d8216912816899",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to letters of comment, if any, and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:38ae863068985818d978",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:a666d9d90ae66c4254d4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:7b8767ec651fd3cf26dd",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bcuc-proceedings:7169caea3cd19ee2114b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-2: COSCO submitting Confidentiality Declaration and Undertaking forms"
+      "title": "BCUC Metergy Status as a Public Utility — D-25: CREERY, K. (CREERY) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:2a366ebe13808ab87e63",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "boc-upcoming:c920b4ef72825fd034a6",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-24: QUAN, N. (QUAN) – Letter of Comment"
+      "source_id": "boc-upcoming",
+      "title": "Release: Senior Loan Officer Survey"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:16f9042292129b9d54e2",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — B-2: FEI submitting supplemental information"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:7d6607a940a900956df5",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:9f656104c9bab63d213c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-1: Panel Appointment"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: BCAN — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:d611c0d738bece3f373e",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Order G-225-26 establishing regulatory timetable"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FEWO — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:7020719187c7070f858b",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:49a706269939ae439866",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INAN — Issues Related to First Nations Communities Without Reserve Lands"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:a0463b35eb7c7c87478e",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:d0c89bbd92f8ae4980d7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI confirmation of compliance with notice requirements"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Main Estimates 2026-27: Votes 1 and 5 under Atlantic Canada Opportunities Agency, Votes 1 and 5 under Canadian Northern Economic Development Agency, Votes 1, 5 and 10 under Canadian Space Agency, Vote 1 under Canadian Tourism Commission, Vote 1 under Copyright Board, Votes 1, 5, 10, L15 and L20 under Department of Industry, Votes 1 and 5 under Department of Western Economic Diversification, Votes 1 and 5 under Economic Development Agency of Canada for the Regions of Quebec, Votes 1 and 5 under Federal Economic Development Agency for Northern Ontario, Votes 1 and 5 under Federal Economic Development Agency for Southern Ontario, Votes 1, 5 and 10 under National Research Council of Canada, Votes 1 and 5 under Natural Sciences and Engineering Research Council, Votes 1 and 5 under Pacific Economic Development Agency of Canada, Votes 1 and 5 under Social Sciences and Humanities Research Council, Vote 1 under Standards Council of Canada, Vote 1 under Statistics Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:dfd83b4f723c3fcebed6",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to BCUC IR No. 1"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:dfff523b0ae3cce8a255",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:70a731f83e9fbe6e84cb",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to letters of comment, if any, and final argument"
+      "source_id": "statcan-daily",
+      "title": "Disparities in decision and sentencing outcomes between Indigenous accused and White accused in youth courts in Canada, <span class=\"refper\">2016/2017 to 2022/2023</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:a3e8720b2249de3bc05f",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:5f4c555216c986d6e9ff",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI to provide notice of application"
+      "source_id": "statcan-daily",
+      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">September 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:f98a54180e5860931633",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:e0b750bb0370e6a90d43",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — Letters of comment deadline"
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "cer-news:3670613bf2b7f411527c",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:7483a4f98b1109205af3",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Summary of the CER Pipeline Geohazards Workshop"
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:35ace8be545f51caab53",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:66e8db7c6c8a6cdf4021",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:9f8365641b8f81de648a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:56742ca853647e71af21",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bcuc-deadlines:517dfbaa9d483bc4ae5d",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Permanent Rates and Amending Agreements for the Regional District of Nanaimo and Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo — FEI to provide supplemental information"
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to post revised Public Notice"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-deadlines:7b29d86c481234415ca4",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bcuc-deadlines:e81db548d2baf954ff33",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "Nelson Hydro — Certificate of Public Convenience and Necessity for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
+      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — Intervener final arguments"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:197de9fd554e15eab519",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bcuc-proceedings:b0cf86db995990922327",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — FEI to provide supplemental information"
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to post revised Public Notice"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:28145f41132b36f57604",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "bcuc-proceedings:97749a18ee4f4e2208d6",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-4: Nelson Hydro submitting response to BCUC Information Request No. 1"
+      "title": "FEI 2026 Review of Mains Extension and Connection Policies — Intervener final arguments"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:8ed140eaff442eecf134",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "boc-upcoming:a05eaefec46c7bc32e1b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — B-5: Nelson Hydro submitting confirmation of social media reminder posts in compliance with Order G-157-26"
+      "source_id": "boc-upcoming",
+      "title": "Fireside Chat: Tiff Macklem, Governor"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:c8bcee485640b9b442ba",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:657a46bb4af0592023b8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — D-4: HARVEY, L. (HARVEY) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "bcuc-proceedings:d67d7d1ae69bdc702ed2",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:06fdd2ce6be7154dd802",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Nelson Hydro CPCN for Advanced Metering Infrastructure Project — Nelson Hydro final argument and responses to letters of comment, if any"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-15T07:17:30.503918Z",
-      "event_id": "cer-news:b1220803572fdfe85361",
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Refined Petroleum Products – July 2026"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:6f867ecf496a3805c372",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: RNNR — Main Estimates 2026-27: Vote 1 under House of Commons, Vote 1 under Leaders' Debates Commission, Vote 1 under Office of the Chief Electoral Officer and Vote 1 under Parliamentary Protective Service"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:0e4f12a23d1ea7b30a7c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Job vacancies, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:94d347be19b0d93dfbc2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-15T19:23:15.930232Z",
+      "event_id": "statcan-daily:249491af5d523cb084ec",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade, <span class=\"refper\">July 2026</span>"
     }
   ],
-  "generated_at": "2026-10-15T07:17:30.503918+00:00",
-  "run_id": "20261015T071730Z-2b74f694",
+  "generated_at": "2026-10-15T19:23:15.930232+00:00",
+  "run_id": "20261015T192315Z-70502001",
   "schema_version": "1.0"
 }
