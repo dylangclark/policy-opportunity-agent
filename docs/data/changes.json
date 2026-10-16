@@ -6,392 +6,284 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-key-indicators:098193ad5c55d148cecc",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Order G-225-26 establishing regulatory timetable"
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:ec91abd541867bcadeaf",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "boc-upcoming:f2342182438e403db93b",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 362: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 101 Approval is given to the withdrawal of Tamara Pearson as a candidate for the office of Councillor of the Corporation of th..."
+      "source_id": "boc-upcoming",
+      "title": "Speech: Tiff Macklem, Governor"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:b1e61c792fa3546ceb52",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "cer-news:e2b29778330472e75e62",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 416: FINANCE Assessment, s. 19 (14.01) The Prescribed Classes of Property Regulation, B.C. Reg. 438/81, is amended as set out in the Appendix."
+      "source_id": "cer-news",
+      "title": "Inspection Officer Order issued to NorthRiver Midstream NEBC Connector GP Inc."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:c15822aac3159b51d9eb",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:b128d6af3a26cdf0a4aa",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — B-7: BC Hydro submitting response to Intervener Information Request No. 2"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Annual confirmation of registry information (associations)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:bf6cb2978421dba3d9bc",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:f4db3f516b4b3f974e83",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-3: FAES-KVULP submission on City of Burnaby Request to Intervene"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Annual confirmation of registry information (registered and eligible parties)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:ed5444db9f3b5e5f2528",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:05050db5776b63713087",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — A-1: Panel Appointment"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — June 30 Registered parties' annual financial transactions returns (fiscal year ending)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:198208644cd13963b0f6",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:a34a3b8d0de107e7ec2f",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — B-1: FORTISBC ENERGY INC. (FEI) – Application for Permanent Rates and Amending Agreement No. 1 for McRae’s Environmental Services Ltd. for Fuelling Service from the Burnaby Operations CNG Station"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Leadership contestants' campaign returns (2026 Green Party leadership contest)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:a0a671a234e16f635a4e",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:ee58fd9e2db48c36fc99",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — G-226-26: Docket filing"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — May 31 Registered associations' financial transactions returns (fiscal year ending)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:c3b1aeea4920b7669535",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:96894e3a015aa2be3a24",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-1-2: PUBLIC – FORTISBC ENERGY INC. (FEI) – Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment Application"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Registered associations' financial transactions returns"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:a465b721f8b95d6b0e28",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:395593a1a811da2330b2",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-1-3: CONFIDENTIAL – FEI Section 71 BPA Amending Agreements CFR Credits Application"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Registered parties' quarterly financial transactions returns (Q1 2027)"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:4e025635f50ba8acde0d",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:76aba23c538299ebd834",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 329: FORESTS Forest, ss. 128 and 129 (a) The Cassiar Timber Exemption (2019) Order, OIC 421/2019, is amended as set out in Schedule 1, (b) the Haida Gwaii Timber Exemption (2019) Ord..."
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Registered parties' quarterly financial transactions returns (Q2 2027)"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:73ec500265b88da11fef",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "elections-finance-calendar:6a17a4c23a2433bd01b7",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 330: WATER, LAND AND RESOURCE STEWARDSHIP Water Sustainability, s. 39 OIC 606/2014, as amended by OIC 548/2019, is amended by striking out \"October 31, 2026\" and substituting \"Octobe..."
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Registered parties' quarterly financial transactions returns (Q4 2026)"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:7293b826c5cd625b0def",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "gazette-part-i:48670783d9cdf6a2f76c",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 333: ATTORNEY GENERAL Attorney General Statutes Amendment, 2025, s. 23 Sections 12 to 20 of the Attorney General Statutes Amendment Act, 2025, S.B.C. 2025, c. 16, are brought into f..."
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 17, 2026, volume 160, number 42"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:dd607f4d935e66af45ea",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 334: ENERGY AND CLIMATE SOLUTIONS Fuel Price Transparency, s. 23 The Fuel Price Transparency Regulation, B.C. Reg. 52/2020, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:eead0c8026ad507378cb",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 335: MINING AND CRITICAL MINERALS Coal, s. 26 (2) The Coal Act Regulation, B.C. Reg. 251/2004, is amended in the Schedule as described."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:f482e8412870890210b0",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 336: TRANSPORTATION AND TRANSIT Legislative Assembly Management Committee, s. 8 The Legislative Precinct Regulation, B.C. Reg. 274/2002, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:edffcafecd9eabd903ab",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 337: TRANSPORTATION AND TRANSIT Coastal Ferry, ss. 30 and 76 Schedule A to the Designation Regulation, B.C. Reg. 109/2003, is amended by repealing and replacing page A9.1."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:409ebfee44e9299a6619",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 338: HOUSING AND MUNICIPAL AFFAIRS Miscellaneous Statutes Amendment, 2026, s. 33; University Endowment Land, s. 14 (2) (a) Sections 17 to 21, 23 and 24 of the Miscellaneous Statutes..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bc-legal-orders:c0787e85f3fd729637fe",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 339: HOUSING AND MUNICIPAL AFFAIRS Local Government, ss. 12 and 41 (4); Community Charter, s. 6 (a) Letters Patent are issued for the City of Nanaimo; (b) Letters Patent are issued f..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-deadlines:40c46d9d9d31152cc694",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro responses to RCIA and AMPC Intervener IR No. 2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:21edef62e397ab6fa115",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — B-2: BC Hydro submitting confirmation of public notice in compliance with G-188-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:7beec50e3b0ad826f9c7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro responses to RCIA and AMPC Intervener IR No. 2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:90939c37c8203360c731",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-6: Order G-217-26 establishing an amended regulatory timetable"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:acbbcffebe16a9787f93",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-10: FBC submitting response to MoveUP Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:0d375c100aa9e01f2f6f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-11: FBC submitting response to RCIA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:3f22f67fda99ece259d6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-12: FBC submitting response to ICG comments"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:26761de3fbaedfffe9bf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1 Question 2.2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:12c1cdcd2e61bcc4ff8c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13: PUBLIC – FBC submitting response to ICG Information Request No. 1 Question 2.2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:69cc8c815d43686fe3c4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-5: FBC submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:a952f8c5dba7cf1f6b1a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-6: FBC submitting response to BCSEA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:84cd6effc2d47654f8aa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-7: FBC submitting response to CEC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:5c414e26ba1aef2ddc78",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-8: FBC submitting response to COSCO Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:1a0e4536f68869ca3ed9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:d5be87e167513ee4a7ea",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9: PUBLIC – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:b6a895cebb4e6542280e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-4: ICG submitting Confidentiality Declaration and Undertaking forms"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:2bd186532cfb1f7352ff",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — D-1: NELSON HYDRO (NELSON HYDRO) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "finance-canada-news:face29b968a8748b1caa",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne to hold media callback while he is attending G20 meetings"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-16T07:21:36.351168Z",
-      "event_id": "iaac-major-projects:81e825a41b4808e373a6",
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "iaac-major-projects:6ee0ab10d4700285ebab",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Berg Copper Project as well as British Columbia's Environmental Asse"
+      "title": "Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project: — The Impact Assessment Agency of Canada posted the planning phase engagement report for the project."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:6b4fc34f12897568d310",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:ad052f0985b2362ac616",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric power thermal generating station fuel consumption, <span class=\"refper\">2025 (preliminary)</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:063a93c5d22916d1362f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electricity supply and disposition, <span class=\"refper\">2025 (preliminary)</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:28f09a776ecdffe611af",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Higher Education Expenditures on Research and Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "boc-upcoming:89691fccd57bff011cdd",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Panel: Carolyn Rogers, Senior Deputy Governor"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "cer-news:2581f68ee1cf3c241495",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "CER approves Trans Mountain settlement, establishing a new framework for tolls"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "finance-canada-news:db7e86bdd080716c06be",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to make an affordability announcement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "gazette-part-i:1b9c74b983daa7b88c7d",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, August 29, 2026, volume 160, number 35"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "iaac-major-projects:be909b7d5ca8a2077d25",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The public comment period on the summary of the Initial Project Description and the funding application period closed on October 9, 2026."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:a294f91c3c0044162c76",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:78a8f6245a9dc2d19884",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Business Conditions in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:0d5d7ccb12c8a3cb76f0",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Business Counts in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:f32a9ef9aa6af016ed43",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employer pension plans (trusteed pension funds), <span class=\"refper\">first quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:6be782b7709911a7c946",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:30d3366e904b8e67a14b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Model-based principal field crop estimates, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:303ffff118accc683cee",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Telecommunications services producer price indexes, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-16T19:15:47.158208Z",
+      "event_id": "statcan-daily:a38d00a3e780848c127a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Tuition fees for degree programs, <span class=\"refper\">2026/2027</span>"
     }
   ],
-  "generated_at": "2026-10-16T07:21:36.351168+00:00",
-  "run_id": "20261016T072136Z-856020f9",
+  "generated_at": "2026-10-16T19:15:47.158208+00:00",
+  "run_id": "20261016T191547Z-edb233f3",
   "schema_version": "1.0"
 }
