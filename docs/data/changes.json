@@ -1,238 +1,106 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "event_type",
-        "topics",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Replaced by A-2-1"
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:802df0f2634cbfc66f40",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "boc-upcoming:82936a384e5bc789d999",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "boc-upcoming",
+      "title": "Speech: Tiff Macklem, Governor"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:9093a5fc37867a8ca4e7",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "boc-press-releases:273c3da49d9a2cc73b60",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI confirmation of compliance with notice requirements"
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada maintains the policy rate at 2¼%"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:39d0b296ce2ca134657a",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "boc-upcoming:c6e770e1c8100d46555a",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to BCUC IR No. 1"
+      "source_id": "boc-upcoming",
+      "title": "Fireside Chat: Michelle Alexopoulos, External Deputy Governor"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:ad0c72ac62b6424bf86f",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "boc-upcoming:b9b28b07bb09c3b98ceb",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to letters of comment, if any, and final argument"
+      "source_id": "boc-upcoming",
+      "title": "Panel: Tiff Macklem, Governor"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:891b0728904fe892dd91",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:58c72b2f657e9fa0d2ae",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:d8e983da7e6ec09c3dea",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — D-1: ASSOCIATION OF MAJOR POWER CUSTOMERS (AMPC) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:e105dae6262f5d25bc8d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2-1: Order G-225-26A establishing regulatory timetable"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "finance-canada-news:4197cfb50c131da11855",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "finance-canada-news:b02decb8814c2ab7ca01",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Turnbull to attend APEC Finance Ministers’ Meeting in Hong Kong, advance Canada's diversification and multilateral agenda"
+      "title": "The Government of Canada extends the federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:9f839cd56f77c17c58d0",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "statcan-daily:35fecf1ec02f99015708",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — BCUC Information Request (IR) No. 1 to FEI"
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:3df40625c7545aa47829",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "statcan-daily:dad553118b659e608a2d",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI confirmation of compliance with notice requirements"
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:5d1c4b861dd4e58a57a9",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "statcan-daily:d4d346990cdcc48925bc",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to BCUC IR No. 1"
+      "source_id": "statcan-daily",
+      "title": "Fertilizer Shipments Survey, <span class=\"refper\">third and fourth quarters 2025/2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:224b29d8216912816899",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "statcan-daily:0d2673465e94b2c5b4b4",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to letters of comment, if any, and final argument"
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:38ae863068985818d978",
+      "detected_at": "2026-10-17T19:24:09.277072Z",
+      "event_id": "statcan-daily:206a283aa0deccc2085b",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-deadlines:a666d9d90ae66c4254d4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:b32e53ec906e1565b4e2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-2: Order G-200-26 establishing a regulatory timetable"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:01bd82c5f7a365734edd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-1-1: CONFIDENTIAL – BC Hydro submitting Optional Fixed Bill Plus Rate Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:1c93acb74b372e236893",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-1: PUBLIC – BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) Optional Fixed Bill Plus Rate Application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:1abe66674aee66276691",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-15: PEREZ, R. (PEREZ) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:0cdc7d0cc9d0af736d48",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4-1: CONFIDENTIAL – Creative Energy submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:a787c97ab8702235e909",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — B-4: PUBLIC – Creative Energy submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "bcuc-proceedings:fb76c16fbf500fc0cc5e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-6: Order G-201-26 with decision regarding Intervener Information Request No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "elections-finance-calendar:e926d9df3bf9cf759acd",
-      "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Statements of unpaid claims and loans (18 Months – 2025 Liberal Party leadership contest)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T07:16:58.443350Z",
-      "event_id": "finance-canada-news:c4c1c391c39e719090f7",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne advances Canada's economic interests at G20 meeting in North Carolina"
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">August 2026</span>"
     }
   ],
-  "generated_at": "2026-10-17T07:16:58.443350+00:00",
-  "run_id": "20261017T071658Z-e61520c9",
+  "generated_at": "2026-10-17T19:24:09.277072+00:00",
+  "run_id": "20261017T192409Z-38c7407a",
   "schema_version": "1.0"
 }
