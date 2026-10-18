@@ -1,106 +1,70 @@
 {
   "changes": [
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "boc-upcoming:0cfd249e3c4657a91efb",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:f0ca3be681591d0f8082",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Interest Rate Announcement"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "boc-upcoming:82936a384e5bc789d999",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Tiff Macklem, Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-6: BCUC Request for submissions on further process"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "boc-press-releases:273c3da49d9a2cc73b60",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:0c6d77f2a13115f16be0",
       "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada maintains the policy rate at 2¼%"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-7: Order G-205-26 Amending the Regulatory Timetable"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "boc-upcoming:c6e770e1c8100d46555a",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:ab17b91133a0b7c23ec7",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Fireside Chat: Michelle Alexopoulos, External Deputy Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-16: KWAN, N. (KWAN) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "boc-upcoming:b9b28b07bb09c3b98ceb",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:9fef3629024093d004fd",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Panel: Tiff Macklem, Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-4-1: PUBLIC – Big White submitting redacted response to BCUC Information Request No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "finance-canada-news:b02decb8814c2ab7ca01",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:7de994b2053ac80ab291",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "The Government of Canada extends the federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians"
+      "source_id": "bcuc-proceedings",
+      "title": "Big White Fiscal 2027 to 2031 Permanent Rates — B-5: Big White submitting responses to Information Request No. 1 cover letter and request for confidentiality"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "statcan-daily:35fecf1ec02f99015708",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:e49a3d40af635ae70eb7",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international transactions in securities, <span class=\"refper\">July 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — B-7: BMUS submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "statcan-daily:dad553118b659e608a2d",
+      "detected_at": "2026-10-18T07:16:06.213431Z",
+      "event_id": "bcuc-proceedings:c3f445ecf3828cee72ce",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "statcan-daily:d4d346990cdcc48925bc",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Fertilizer Shipments Survey, <span class=\"refper\">third and fourth quarters 2025/2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "statcan-daily:0d2673465e94b2c5b4b4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-17T19:24:09.277072Z",
-      "event_id": "statcan-daily:206a283aa0deccc2085b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Housing Price Index, <span class=\"refper\">August 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-1: Panel Appointment"
     }
   ],
-  "generated_at": "2026-10-17T19:24:09.277072+00:00",
-  "run_id": "20261017T192409Z-38c7407a",
+  "generated_at": "2026-10-18T07:16:06.213431+00:00",
+  "run_id": "20261018T071606Z-8340696b",
   "schema_version": "1.0"
 }
