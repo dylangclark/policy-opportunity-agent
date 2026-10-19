@@ -3,14 +3,68 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-18T19:23:54.982437Z",
-      "event_id": "boc-press-releases:8dcae326947353af910a",
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bc-legal-orders:c43a86a3a80c5012ed8b",
       "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada unveils new vertical $20 bank note"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 277: WATER, LAND AND RESOURCE STEWARDSHIP Ministry of Lands, Parks and Housing, s. 9 (1) (a) The disposition of the described Crown land to the Cheslatta Carrier Nation is ordered. [..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bc-legal-orders:79d2090bce6a50fce97f",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 278: ENVIRONMENT AND PARKS Environmental Management, ss. 138 and 139 (a) B.C. Reg. 98/2023 and B.C. Reg. 240/2024 are repealed, and (b) the Environmental Data Quality Assurance Regul..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bc-legal-orders:269ebd6d62d8435a6817",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 341: ENERGY AND CLIMATE SOLUTIONS Hydro and Power Authority, s. 4 Harkamal Singh Bains and Norman Joseph Mayr are appointed as directors of the British Columbia Hydro and Power Autho..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bc-legal-orders:011f162ccd84500d1190",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 349: ENVIRONMENT AND PARKS Environmental Assessment, s. 7 The Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation is made."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bcuc-proceedings:2ffa84cf631699f697fc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C1-3: MoveUP submission on further process"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bcuc-proceedings:bf9906344b52a80ee440",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — B-1: FORTISBC ENERGY INC. (FEI) – Permanent Rates and Amending Agreements for the Regional District of Nanaimo and Halton Recycling Ltd. D.B.A Emterra Environmental for Fuelling Service from the Mid Island CNG Station in Nanaimo"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-19T07:17:25.550684Z",
+      "event_id": "bcuc-proceedings:8bcbab1cafdfc58fa190",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-2: Order G-206-26 establishing a regulatory timetable with public notice"
     }
   ],
-  "generated_at": "2026-10-18T19:23:54.982437+00:00",
-  "run_id": "20261018T192354Z-d1ccca85",
+  "generated_at": "2026-10-19T07:17:25.550684+00:00",
+  "run_id": "20261019T071725Z-6e600421",
   "schema_version": "1.0"
 }
