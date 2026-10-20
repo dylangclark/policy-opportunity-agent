@@ -1,143 +1,160 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "bcuc-proceedings:7d6607a940a900956df5",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "cer-news:93287a6f07575ffb19d8",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Final Audit Report – South Bow"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:9916dea6519152d45ec0",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bc-legal-orders:db497e2bd9fa5d45dca0",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 350: PUBLIC SAFETY AND SOLICITOR GENERAL Insurance (Vehicle), ss. 45, 72, 180 and 181; Motor Vehicle, ss. 23, 25 and 210; Motor Vehicle Amendment, 2025, ss. 9 (a) and 12 Effective Oc..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-deadlines:3d0a1fee0b8616448d1c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — 2025 Call for Power — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-deadlines:5919158d730501afaf82",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with revised Public Notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-deadlines:73cec20faa06dc54fac5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — FEI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-deadlines:46cd97953f73323c5e37",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Tariff Supplement L-3 to Rate Schedule 46 LNG Sales and Dispensing Service between BC Hydro and FEI — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-proceedings:b59b91e0095ed90f2300",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-1: Panel Appointment"
+      "title": "BC Hydro 2025 Call for Power — Letters of comment deadline"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "iaac-major-projects:6ee0ab10d4700285ebab",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project: — The Impact Assessment Agency of Canada posted the planning phase engagement report for the project."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-key-indicators:81e6a25af3df4426121d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
-    },
-    {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "bcuc-proceedings:098cee16a24ee0005ef3",
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-proceedings:36b9e5e2c4f5cb048040",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Senakw Reconsideration of Order G-149-26 — G-227-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:0bc52876dcde68b1972b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Health Measures Survey: Dual-energy X-ray absorptiometry data, <span class=\"refper\">2022 to 2024</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:edf2cf60dcb1f53d833b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:9e7c1a34961802374e7d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric power generating stations, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:b19e8106e7d5148e5430",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment services, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:5b99c64c0f1b616ce1c9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour market characteristics of Canada's health workforce, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:be43b123f9cacdeb93f9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Transportation Services Index and Supply Chain Services Price Index, <span class=\"refper\">August 2026</span>"
+      "title": "BCUC Metergy Status as a Public Utility — Metergy to provide to BCUC confirmation of compliance with revised Public Notice requirements"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "bc-regulations:12cd3a964078896b7575",
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-proceedings:a31ed02d8de5c1a2c06a",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "350/2026 Amends, effective October 19, 2026, B.C. Regs. 4/2021 — Basic Vehicle Damage Coverage Regulation 447/83 — Insurance (Vehicle) Regulation 134/2026 July 20, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — FEI response to letters of comment (if any) and final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "elections-finance-calendar:96894e3a015aa2be3a24",
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "bcuc-proceedings:227e314ca1d0811022b6",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Registered associations' financial transactions returns"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:57a0fffeff106ebed85c",
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "cer-news:c1033ec72e3fd01ac38d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">July 2026</span>"
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Battery storage technology is evolving as batteries play a larger role in electricity systems"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-19T19:17:39.496278Z",
-      "event_id": "statcan-daily:205236cd745922e634cf",
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:9f656104c9bab63d213c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey of Household Spending, <span class=\"refper\">2023</span>"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: BCAN — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:d611c0d738bece3f373e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FEWO — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:d0c89bbd92f8ae4980d7",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Main Estimates 2026-27: Votes 1 and 5 under Atlantic Canada Opportunities Agency, Votes 1 and 5 under Canadian Northern Economic Development Agency, Votes 1, 5 and 10 under Canadian Space Agency, Vote 1 under Canadian Tourism Commission, Vote 1 under Copyright Board, Votes 1, 5, 10, L15 and L20 under Department of Industry, Votes 1 and 5 under Department of Western Economic Diversification, Votes 1 and 5 under Economic Development Agency of Canada for the Regions of Quebec, Votes 1 and 5 under Federal Economic Development Agency for Northern Ontario, Votes 1 and 5 under Federal Economic Development Agency for Southern Ontario, Votes 1, 5 and 10 under National Research Council of Canada, Votes 1 and 5 under Natural Sciences and Engineering Research Council, Votes 1 and 5 under Pacific Economic Development Agency of Canada, Votes 1 and 5 under Social Sciences and Humanities Research Council, Vote 1 under Standards Council of Canada, Vote 1 under Statistics Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-20T07:20:55.777642Z",
+      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-10-19T19:17:39.496278+00:00",
-  "run_id": "20261019T191739Z-3b79681c",
+  "generated_at": "2026-10-20T07:20:55.777642+00:00",
+  "run_id": "20261020T072055Z-799c83dc",
   "schema_version": "1.0"
 }
