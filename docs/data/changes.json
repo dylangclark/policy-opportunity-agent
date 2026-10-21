@@ -3,158 +3,104 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "boc-upcoming:a8c11261649e7e16aaef",
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bcuc-proceedings:9e19c77504388fd4b0c8",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-2: FEI submitting confirmation of public notice in compliance with G-225-26A"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "finance-canada-news:d68e1e7682ad0d9a66b1",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada to release Budget 2026 on November‎ 5"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:954c6c0953383cc485eb",
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "house-committee-reports:ecf21338104d0933b041",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:3c331f19cb6bd39b8c58",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INAN — Beyond Enforcement: Supporting Indigenous-Led Public Safety and Well-being Initiatives"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:fdef5d91c8ca9a7ca0fa",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INAN — Collaborative Approaches to Enforcement of Laws in Indigenous Communities"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:71590c8f10638b48c646",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "house-committee-reports:562266e983f4644d6d0d",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "iaac-major-projects:bf5220c966b81679abf3",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marban Gold Mine Project: — On October 1, 2026, the Impact Assessment Agency of Canada resumed the 180-day time limit for the planning phase of the impact assessment process."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-daily:2be371bd92e008854698",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Community Health Survey, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-daily:0f3a383d7afc1cc76282",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-daily:56b431a327c73fc6b19c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-daily:45d580b5e552b4635d2d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-daily:d3277ca03b110419b282",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Trade of culture and sport products, <span class=\"refper\">2024</span>"
+      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "boc-upcoming:a82a0056d595e030c041",
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bc-legal-orders:ce0e9d02ebc66b96bd34",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Release: Business Outlook Survey and Canadian Survey of Consumer Expectations"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 352: Public Service, s. 12 Effective August 10, 2026, Jade Dawn Ashbourne is appointed as an Assistant Deputy Minister, Ministry of Housing and Municipal Affairs."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-20T19:16:14.821477Z",
-      "event_id": "statcan-key-indicators:c2ac43d04e2350884da8",
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bc-legal-orders:9208a243362fce7798ff",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canadian international merchandise trade"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 353: Public Service, s. 15 Effective August 4, 2026, Abigail Louise Kerr Martin is appointed as an Administrative Assistant in the Office of the Minister of Emergency Management and..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bc-legal-orders:8e152552f500e1dfad68",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 354: Public Service, s. 15 Effective August 4, 2026, Immaculate Nayiga Kiwanuka is appointed as a Senior Advisor in the Office of the Minister of Health, as described."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bcuc-deadlines:891b0728904fe892dd91",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bcuc-proceedings:edef1573cf63eb4b72d0",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — C2-4: BCSEA submission on further process"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "bcuc-proceedings:a3e8720b2249de3bc05f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI to provide notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "house-committee-reports:a4a382508bab5af85d1f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: INAN — Beyond Enforcement: Supporting Indigenous-Led Public Safety and Well-being Initiatives"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "house-committee-reports:9916dea6519152d45ec0",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-21T07:18:02.049146Z",
+      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-10-20T19:16:14.821477+00:00",
-  "run_id": "20261020T191614Z-fac6c59d",
+  "generated_at": "2026-10-21T07:18:02.049146+00:00",
+  "run_id": "20261021T071802Z-2f468b52",
   "schema_version": "1.0"
 }
