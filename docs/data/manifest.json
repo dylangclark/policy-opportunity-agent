@@ -1,55 +1,56 @@
 {
   "counts": {
-    "changes": 11,
-    "events": 694,
-    "opportunities": 575,
+    "changes": 7,
+    "events": 691,
+    "opportunities": 573,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 4994,
-      "count": 11,
+      "bytes": 2355,
+      "count": 7,
       "path": "changes.json",
-      "sha256": "aa1388432d1295c2f1ec6a595d4b280beba29072cbe9801a96ac54dea63242c1"
+      "sha256": "9e4b16beec4d6e2d2c1cd36a08beed88a96360dbf6aa796751dd73e003f6ad5a"
     },
     "events": {
-      "bytes": 1116450,
-      "count": 694,
+      "bytes": 1112797,
+      "count": 691,
       "path": "events.json",
-      "sha256": "a9bc45d5de8106ab62bdb6805f289ba468a855c25ce0ce6f016d0b4a1d359f8f"
+      "sha256": "96e217e47d4cc587093de827c0ff0ce13cad3d8649829ad2318105d924a81cb4"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 265,
       "path": "heartbeat.json",
-      "sha256": "e98e780285245c0e868d7301a49cf36203cf9e6926782fe566b12944fca551a6"
+      "sha256": "56515014d95fcb6c63f4abdb225c96dfc85f9563ea193cb9b2b5f65d61ed76fd"
     },
     "opportunities": {
-      "bytes": 1097562,
-      "count": 575,
+      "bytes": 1093230,
+      "count": 573,
       "path": "opportunities.json",
-      "sha256": "724cb3d9fd6bd0715087df77ab963938b7ac76384b4520c2b8807351be0c957d"
+      "sha256": "f8cb218e0e0263fd1c3843a1084035cedb7602d0a60bf93fc3f09e8aea4068bf"
     },
     "source_status": {
-      "bytes": 15748,
+      "bytes": 16329,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "b479c72c826f6477660838f42e4bcb07645669968972d10e58ce6a0de91c46a3"
+      "sha256": "3410cb9497a4f73537133018b3bad11e1e294c62216c17847f570252a2dc2f18"
     }
   },
-  "generated_at": "2026-10-21T07:18:02.049146Z",
+  "generated_at": "2026-10-21T19:22:30.934727Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261021T071802Z-2f468b52",
+  "run_id": "20261021T192230Z-dfc36f29",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 7,
+    "failed": 1,
+    "not_modified": 4,
     "ok": 19,
-    "partial": 2
+    "partial": 4
   },
   "status": "partial",
   "timezone": "America/Vancouver"

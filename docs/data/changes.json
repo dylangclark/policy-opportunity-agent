@@ -3,104 +3,68 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bcuc-proceedings:9e19c77504388fd4b0c8",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "cer-news:ccccccb5276be8c5e6ce",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-2: FEI submitting confirmation of public notice in compliance with G-225-26A"
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada’s federally regulated energy system by the numbers"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "gazette-part-ii:476018891b6699fcda18",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, October 21, 2026, volume 159, number 21"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bc-legal-orders:ce0e9d02ebc66b96bd34",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "boc-speeches:c69ce7cd8e9f5386c892",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 352: Public Service, s. 12 Effective August 10, 2026, Jade Dawn Ashbourne is appointed as an Assistant Deputy Minister, Ministry of Housing and Municipal Affairs."
+      "source_id": "boc-speeches",
+      "title": "Adapting to structural forces, navigating uncertainty"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bc-legal-orders:9208a243362fce7798ff",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "boc-speeches:e361bb9862add5b4356a",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 353: Public Service, s. 15 Effective August 4, 2026, Abigail Louise Kerr Martin is appointed as an Administrative Assistant in the Office of the Minister of Emergency Management and..."
+      "source_id": "boc-speeches",
+      "title": "Media Availability: Halifax Partnership"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bc-legal-orders:8e152552f500e1dfad68",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "boc-speeches:fd7ec169053ee85649eb",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 354: Public Service, s. 15 Effective August 4, 2026, Immaculate Nayiga Kiwanuka is appointed as a Senior Advisor in the Office of the Minister of Health, as described."
+      "source_id": "boc-speeches",
+      "title": "Navigating uncertainty and adapting to change"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bcuc-deadlines:891b0728904fe892dd91",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "boc-speeches:a5d547e3c8744313408f",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI to provide notice of application"
+      "source_id": "boc-speeches",
+      "title": "Speech: Halifax Partnership"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bcuc-proceedings:edef1573cf63eb4b72d0",
+      "detected_at": "2026-10-21T19:22:30.934727Z",
+      "event_id": "gazette-part-ii:b27503c0b0fcfa44caa7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C2-4: BCSEA submission on further process"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "bcuc-proceedings:a3e8720b2249de3bc05f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI to provide notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "house-committee-reports:a4a382508bab5af85d1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: INAN — Beyond Enforcement: Supporting Indigenous-Led Public Safety and Well-being Initiatives"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "house-committee-reports:9916dea6519152d45ec0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-21T07:18:02.049146Z",
-      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, July 15, 2026, volume 159, number 14"
     }
   ],
-  "generated_at": "2026-10-21T07:18:02.049146+00:00",
-  "run_id": "20261021T071802Z-2f468b52",
+  "generated_at": "2026-10-21T19:22:30.934727+00:00",
+  "run_id": "20261021T192230Z-dfc36f29",
   "schema_version": "1.0"
 }
