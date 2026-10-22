@@ -1,55 +1,55 @@
 {
   "counts": {
-    "changes": 7,
-    "events": 691,
-    "opportunities": 573,
+    "changes": 34,
+    "events": 675,
+    "opportunities": 572,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 2355,
-      "count": 7,
+      "bytes": 14045,
+      "count": 34,
       "path": "changes.json",
-      "sha256": "9e4b16beec4d6e2d2c1cd36a08beed88a96360dbf6aa796751dd73e003f6ad5a"
+      "sha256": "7dd6f6a7df044f775dcef563883487cc3b9f8c334d3081db1b84ba53985e89c7"
     },
     "events": {
-      "bytes": 1112797,
-      "count": 691,
+      "bytes": 1089339,
+      "count": 675,
       "path": "events.json",
-      "sha256": "96e217e47d4cc587093de827c0ff0ce13cad3d8649829ad2318105d924a81cb4"
+      "sha256": "c54422f7015d2e69df9c804017a328a23bba6750c4b33ff6922f543abaf00c1f"
     },
     "heartbeat": {
       "bytes": 265,
       "path": "heartbeat.json",
-      "sha256": "56515014d95fcb6c63f4abdb225c96dfc85f9563ea193cb9b2b5f65d61ed76fd"
+      "sha256": "9586a74585c2da2d3b8c29d6c653ba7e0bd8da37adf3e4acc7681582ac142fcb"
     },
     "opportunities": {
-      "bytes": 1093230,
-      "count": 573,
+      "bytes": 1091986,
+      "count": 572,
       "path": "opportunities.json",
-      "sha256": "f8cb218e0e0263fd1c3843a1084035cedb7602d0a60bf93fc3f09e8aea4068bf"
+      "sha256": "b504ca034d97187af394417d7c94ffbd7131efffb182bb1aa004614d05617444"
     },
     "source_status": {
-      "bytes": 16329,
+      "bytes": 16349,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "3410cb9497a4f73537133018b3bad11e1e294c62216c17847f570252a2dc2f18"
+      "sha256": "54fd299ae9991d9b27f3e0f782e928e060f6d538ed60f2dd6784a0285c31fddb"
     }
   },
-  "generated_at": "2026-10-21T19:22:30.934727Z",
+  "generated_at": "2026-10-22T07:15:07.120374Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261021T192230Z-dfc36f29",
+  "run_id": "20261022T071507Z-73cbdb2a",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
     "failed": 1,
-    "not_modified": 4,
-    "ok": 19,
+    "not_modified": 6,
+    "ok": 17,
     "partial": 4
   },
   "status": "partial",
