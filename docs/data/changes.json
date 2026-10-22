@@ -1,81 +1,494 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bc-regulations:20e778414cb113e0c94d",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "416/2026 Amends B.C. Reg. 438/81 — Prescribed Classes of Property Regulation 164/2026 October 13, 2026 Attorney General Statutes Amendment Act, 2025 120/2026 S.B.C. 2025, c. 16 — see Acts in Force 48/2026 April 7, 2026 333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026 Attorney General Statutes Amendment Act (No. 2), 2025 66/2026 S.B.C. 2025, c. 25 — see Acts in Force 22/2026 March 9, 2026 Balanced Budget and Ministerial Accountability Act Treasury Board Enacts Minister of St"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:3ff1bcea5ddc3eeb2708",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ENVI — Protecting Canadian Residents from Extreme Weather Events"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-key-indicators:6fa95b0332ac6f026070",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-key-indicators:6bac10cb3a002d5e0e8a",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-key-indicators:7f7b6ff00afcb3d41b16",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:82dd528ccb93c9b66373",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bc-regulations:59bcea29fa850a4650f7",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "M374/2026 Amends B.C. Reg. 2/2012 — British Columbia Teachers’ Council Regulation 165/2026 October 15, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-4-1: CONFIDENTIAL – KVULP response to BCUC Information Request No. 1"
+      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:2e7737b7f9c7050d0a3d",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:90939c37c8203360c731",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-4: PUBLIC – KVULP response to BCUC Information Request No. 1"
+      "title": "FBC 2027 Annual Review of Rates — A-6: Order G-217-26 establishing an amended regulatory timetable"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:d8e837f68ab61e0e6f73",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:acbbcffebe16a9787f93",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-10: FBC submitting response to MoveUP Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:0d375c100aa9e01f2f6f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-11: FBC submitting response to RCIA Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:3f22f67fda99ece259d6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-12: FBC submitting response to ICG comments"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:26761de3fbaedfffe9bf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-13-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:12c1cdcd2e61bcc4ff8c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-13: PUBLIC – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:69cc8c815d43686fe3c4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-5: FBC submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:a952f8c5dba7cf1f6b1a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-6: FBC submitting response to BCSEA Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:84cd6effc2d47654f8aa",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-7: FBC submitting response to CEC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:5c414e26ba1aef2ddc78",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-8: FBC submitting response to COSCO Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:1a0e4536f68869ca3ed9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-9-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:d5be87e167513ee4a7ea",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-9: PUBLIC – FBC submitting response to ICG Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:b6a895cebb4e6542280e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-4: ICG submitting Confidentiality Declaration and Undertaking forms"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:2bd186532cfb1f7352ff",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — D-1: NELSON HYDRO (NELSON HYDRO) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:657a46bb4af0592023b8",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — Antimicrobial Resistance: Confronting a Silent Pandemic"
+      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:454ceb98a6c64c5ce038",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:41470c42373b2537cd1d",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — Bill C-224, An Act to amend the Food and Drugs Act (natural health products)"
+      "title": "Government response tabled: ENVI — Protecting Canadian Residents from Extreme Weather Events"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:b8694f44748d2b782ae0",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Government response due: HESA — Antimicrobial Resistance: Confronting a Silent Pandemic"
+      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "iaac-major-projects:0d8fbf294a0d7dc7931a",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "We couldn't find that Web page: Relevance: 799.74 Agnico Eagle Mines Limited is proposing the construction, operation, decommissioning and restoration of a new open-pit gold mine located in the Dubuisson Sector of Val-d'Or, in Quebec."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:1ef9485cb86bdf457f06",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building construction price indexes: announcement"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:1c978623368ad958f7d7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:ba6c191f6c22f0d95ed9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:5503649ce500956b2624",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Impact of cybercrime on Canadian businesses, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:71cb064350e33e65730a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:0540599d43e7ac475e47",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:6a086aa9aaac1b32c1fc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:e3331fc4f3967a2bf59c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:555d821e912715d56a1f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Demographic Profile of the Retail Workforce, <span class=\"refper\">2017 to 2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:20c57cea145fd73475ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "The gender gap in high school graduation narrows in 2023/2024"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:39753018325e9f24a4eb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:6060b1c2d7813ddbeea6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:ed5444db9f3b5e5f2528",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:198208644cd13963b0f6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — B-1: FORTISBC ENERGY INC. (FEI) – Application for Permanent Rates and Amending Agreement No. 1 for McRae’s Environmental Services Ltd. for Fuelling Service from the Burnaby Operations CNG Station"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "bcuc-proceedings:a0a671a234e16f635a4e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for McRae's at the Burnaby Operations Station – Amending Agreement No. 1 — G-226-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "house-committee-reports:8ef7e036abd3e45a845c",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: RNNR — \"An Extraordinary Opportunity for Canada\": The Development of Critical Minerals"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-22T19:24:57.484133Z",
       "event_id": "house-committee-reports:f6be58b600970197a54a",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
       "event_id": "house-committee-reports:6d9cc7967de75da49fc9",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: FEWO — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
       "event_id": "house-committee-reports:0f27477312de10ae92fe",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: INAN — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
       "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
@@ -84,230 +497,140 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bc-legal-orders:77beffb3f7c523666ab3",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "iaac-major-projects:6ee0ab10d4700285ebab",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 355: HOUSING AND MUNICIPAL AFFAIRS Residential Tenancy, s. 97; Residential Tenancy Amendment, 2026, s. 20 Effective July 30, 2026, (a) various provisions of the Residential Tenancy A..."
+      "source_id": "iaac-major-projects",
+      "title": "Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project: — The Impact Assessment Agency of Canada posted the planning phase engagement report for the project."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bc-legal-orders:e7bbb3e251cee7128609",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "iaac-major-projects:bf5220c966b81679abf3",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 356: HOUSING AND MUNICIPAL AFFAIRS Residential Tenancy, s. 97 Effective July 30, 2026, the Residential Tenancy (Supportive Housing) Regulation is made."
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — On October 1, 2026, the Impact Assessment Agency of Canada resumed the 180-day time limit for the planning phase of the impact assessment process."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bc-legal-orders:33bd807120df0e9b8907",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:a245d5a1865dbc374bf2",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 358: AGRICULTURE AND FOOD Supreme Court, s. 11 Effective July 23, 2026, Michael D. Shirreff is appointed as an Associate Judge of the Supreme Court of British Columbia."
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bc-legal-orders:437f868faf2a5f47d254",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:f0aa0db6be83adf49719",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 359: LABOUR Labour Statutes Amendment, 2026, s. 19; Employment Standards, s. 127 Effective August 1, 2026, (a) the Labour Statutes Amendment Act, 2026, S.B.C. 2026, c. 10, is brough..."
+      "source_id": "statcan-daily",
+      "title": "Housing affordability in Canada, <span class=\"refper\">2024</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-deadlines:5ea72043947ad78bdccf",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:e803270c41a41489a0de",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP responses to BCUC IR No.1"
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:879bbdd4a11099128b01",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:4ac127fdbcf5bdc91a8d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C4-3: CEC submission on further process"
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:af977ad98a30a5bc6658",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:b020cb27ea80d34c6964",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-3: AMPC submission on further process"
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:02826c0d9b6fa1b93ca9",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:5d25e570a59d68209abd",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C6-3: RCIA submission on further process"
+      "source_id": "statcan-daily",
+      "title": "Opioid and stimulant consumption patterns in select Canadian cities, <span class=\"refper\">January 2024 to March 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:f0fd57e3497280b003b4",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:10448d6845ed1696c864",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-3-1: CONFIDENTIAL – BCUC Information Request No. 1 to KVULP"
+      "source_id": "statcan-daily",
+      "title": "Quarterly civil aviation statistics, <span class=\"refper\">fourth quarter 2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:3d7443fe8951a4e7bc59",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:bd262498e75f4fc2d459",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-3: PUBLIC – BCUC Information Request No. 1 to KVULP"
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:1369ed0eabfcbef7d683",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:8c392c8adfa47c69844d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP responses to BCUC IR No.1"
+      "source_id": "statcan-daily",
+      "title": "Study: An overview of the banking industry in Canada: Understanding income within the context of regulatory and resilience requirements, <span class=\"refper\">2020 to 2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:6dbce0722a72680f7153",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:8a76554e975cceb3aabd",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-10: FEI submitting response to MoveUP Information Request No. 1"
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:187e2fbdc4856c47edf6",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:c15a293e953ec781d092",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-11: FEI submitting response to RCIA Information Request No. 1"
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:802838ed68ceecc74c50",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:61a9591ae17c5f912e3e",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-6-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
+      "source_id": "statcan-daily",
+      "title": "Vehicle registrations, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:863fa5f6137f5fa70258",
+      "detected_at": "2026-10-22T19:24:57.484133Z",
+      "event_id": "statcan-daily:37379bf4bb73bbbfee10",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-6: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:f2d86dacdf5f258d045a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-7: FEI submitting response to BCSEA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:2b2887bdfe27786a259b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-8: FEI submitting response to CEC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "bcuc-proceedings:fb61b0174e3f6dd7c442",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — B-9: FEI submitting response to COSCO Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "cer-news:3670613bf2b7f411527c",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Summary of the CER Pipeline Geohazards Workshop"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:f9dddf79c2c36f8d1d58",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — A War on Civilians: Addressing the Human Toll of the Conflict in Sudan"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:954c6c0953383cc485eb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-22T07:15:07.120374Z",
-      "event_id": "house-committee-reports:71590c8f10638b48c646",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">July 2026</span>"
     }
   ],
-  "generated_at": "2026-10-22T07:15:07.120374+00:00",
-  "run_id": "20261022T071507Z-73cbdb2a",
+  "generated_at": "2026-10-22T19:24:57.484133+00:00",
+  "run_id": "20261022T192457Z-40a6da4d",
   "schema_version": "1.0"
 }
