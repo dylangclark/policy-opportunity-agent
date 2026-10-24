@@ -3,494 +3,117 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "source_url",
+        "lifecycle",
+        "start_at",
         "content_hash"
       ],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-key-indicators:341400942026c0ad833f",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bc-legal-orders:9a4d498e320fae79bfdd",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Retail trade"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 413: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 23, 2026, Matthew William Turnell is appointed as a Judge of the Provincial Court of British Columbia."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:864cc44bc8bab59ee06c",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:3760b057f0ff2262dcd3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — A-1: Panel Appointment"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-4: PUBLIC – BCUC Information Request No. 1 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:f1ed6ab1058de8db499a",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:5bbcde85de23504c7c2c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Public Electric Vehicle Charging Service Rates Evaluation Report Extension Request"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:ea5c7ba728e0763a4377",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — G-229-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:9d3287c7b03362894fac",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-3: BC Hydro submitting confirmation of social media reminder posts in compliance with G-216-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "boc-speeches:1bde56e26416aadfa69b",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Press Conference: Monetary Policy Report – October 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "gazette-part-i:4b0c208a4029806c4c7e",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, October 24, 2026, volume 160, number 43"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "iaac-major-projects:bf5220c966b81679abf3",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marban Gold Mine Project: — On October 1, 2026, the Impact Assessment Agency of Canada resumed the 180-day time limit for the planning phase of the impact assessment process."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:9c1a9ecd346d70ed177d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Lending Services Price Index, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:6e8db320c1592c0ead37",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:c28c9d2c754d647a2847",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Natural gas supply and disposition, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:69cce37ce2351ec4221e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">August 2026</span>"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-5: CONFIDENTIAL – BCUC Information Request No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:60d53b6f19ef7f232460",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bc-regulations:72b99b90c769565aa665",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "394/2026 Enacts Safe Access to Schools Regulation 153/2026 September 8, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-deadlines:71d29cf6916b0ae9dffb",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with social media reminder posts"
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BCUC Information Request (IR) No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:3c876c6683cd25a01268",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-deadlines:5a4d7f136d1d62ae33a2",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Intervener registration deadline"
+      "title": "FortisBC Energy Inc. (gas) — 2027 Annual Review of Delivery Rates — FEI reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:50bec5760b57998692e6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:802df0f2634cbfc66f40",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — BCUC Information Request (IR) No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:9093a5fc37867a8ca4e7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI confirmation of compliance with notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-deadlines:8f3c746ef628a64e779d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:f21c9da15120b08c1a03",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:9be67eb037a8b71e3eba",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BC Hydro confirmation of compliance with social media reminder posts"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BCUC Information Request (IR) No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:819b003571396dc77ee7",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:d5771d744e67377346cb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — Intervener registration deadline"
+      "title": "BC Hydro TS 6 Amendment — B-6: BC Hydro submission on further process"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:9f341751ab07f9db59ee",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:f613e9ddf695e116c875",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Letters of comment deadline"
+      "title": "BC Hydro TS 6 Amendment — C5-4: AMPC reply submission on further process"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:b648431d960892cb0223",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
+      "title": "BCUC Metergy Status as a Public Utility — D-18: WAECHTER, W. (WAECHTER) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:90939c37c8203360c731",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "bcuc-proceedings:9e05282ac2398754deb3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-6: Order G-217-26 establishing an amended regulatory timetable"
+      "title": "FEI 2027 Annual Review of Delivery Rates — FEI reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:acbbcffebe16a9787f93",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-10: FBC submitting response to MoveUP Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:0d375c100aa9e01f2f6f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-11: FBC submitting response to RCIA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:3f22f67fda99ece259d6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-12: FBC submitting response to ICG comments"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:26761de3fbaedfffe9bf",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1 Question 2.2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:12c1cdcd2e61bcc4ff8c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-13: PUBLIC – FBC submitting response to ICG Information Request No. 1 Question 2.2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:69cc8c815d43686fe3c4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-5: FBC submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:a952f8c5dba7cf1f6b1a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-6: FBC submitting response to BCSEA Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:84cd6effc2d47654f8aa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-7: FBC submitting response to CEC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:5c414e26ba1aef2ddc78",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-8: FBC submitting response to COSCO Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:1a0e4536f68869ca3ed9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:d5be87e167513ee4a7ea",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — B-9: PUBLIC – FBC submitting response to ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:b6a895cebb4e6542280e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-4: ICG submitting Confidentiality Declaration and Undertaking forms"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:2bd186532cfb1f7352ff",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — D-1: NELSON HYDRO (NELSON HYDRO) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:9cd95a638376bfc91deb",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — Intervener final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:7020719187c7070f858b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — BCUC Information Request (IR) No. 1 to FEI"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "bcuc-proceedings:a0463b35eb7c7c87478e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI confirmation of compliance with notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "finance-canada-news:cadcb68d44cd6a4d5a7a",
+      "detected_at": "2026-10-24T07:16:01.332040Z",
+      "event_id": "finance-canada-news:057a493cd86bd5b0e74a",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Alberta, will participate in an armchair discussion hosted by the Edmonton Chamber of Commerce"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "finance-canada-news:c3d8a423e9f1fb7448d4",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Turnbull in Oshawa to highlight recent affordability measures for Canadians"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "gazette-part-i:b789bab9ac6386884f4e",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, September 5, 2026, volume 160, number 36"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "iaac-major-projects:03e68c11c5848586efee",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "We couldn't find that Web page: Relevance: 799.69 Agnico Eagle Mines Limited is proposing the construction, operation, decommissioning and restoration of a new open-pit gold mine located in the Dubuisson Sector of Val-d'Or, in Quebec."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:064c17a8575b95f9852f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Births, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:f4e55307988d7a98bcce",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's population estimates, <span class=\"refper\">second quarter 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:e3868821ce9f154e06f6",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's population estimates: Age and gender, <span class=\"refper\">2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:bce652a40de020709320",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Economic and Social Reports, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:5e4829334066a419bff9",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Fertility and baby names, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:5caf67f005109f8f629b",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Natural gas supply and disposition, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-daily:7d2b8f7a499a12e345e8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Refined petroleum products, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-23T19:21:13.329422Z",
-      "event_id": "statcan-key-indicators:8609109d272ea8ce518d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "title": "Government of Canada Concludes Pre-Budget Consultations for Budget 2026"
     }
   ],
-  "generated_at": "2026-10-23T19:21:13.329422+00:00",
-  "run_id": "20261023T192113Z-8b331bf0",
+  "generated_at": "2026-10-24T07:16:01.332040+00:00",
+  "run_id": "20261024T071601Z-888ee34b",
   "schema_version": "1.0"
 }
