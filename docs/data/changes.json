@@ -3,23 +3,23 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-25T19:23:22.802158Z",
-      "event_id": "bc-regulations:50691087f93cc8d48cb8",
+      "detected_at": "2026-10-26T07:22:11.888243Z",
+      "event_id": "bcuc-proceedings:e60157557b398e5b9a7a",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "395/2026 Amends B.C. Reg. 26/58 — Motor Vehicle Act Regulations, effective September 30, 2026 154/2026 September 10, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-8: Order G-210-26 further regulatory timetable"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-25T19:23:22.802158Z",
-      "event_id": "bc-regulations:6578c9b88458a1b3c67f",
+      "detected_at": "2026-10-26T07:22:11.888243Z",
+      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "397/2026 Amends B.C. Regs. 66/2026 168/90 — Designation and Exemption Regulation, effective October 1, 2026 155/2026 September 10, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
     }
   ],
-  "generated_at": "2026-10-25T19:23:22.802158+00:00",
-  "run_id": "20261025T192322Z-e81fb514",
+  "generated_at": "2026-10-26T07:22:11.888243+00:00",
+  "run_id": "20261026T072211Z-0110161a",
   "schema_version": "1.0"
 }
