@@ -1,25 +1,326 @@
 {
   "changes": [
     {
-      "change_type": "removed",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "iaac-major-projects:bf5220c966b81679abf3",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — On October 1, 2026, the Impact Assessment Agency of Canada resumed the 180-day time limit for the planning phase of the impact assessment process."
+    },
+    {
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-26T07:22:11.888243Z",
-      "event_id": "bcuc-proceedings:e60157557b398e5b9a7a",
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:7cc81cb0044d29bea847",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — A-8: Order G-210-26 further regulatory timetable"
+      "title": "BCUC Metergy Status as a Public Utility — D-26: ALLEN, S. (ALLEN, S.) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:90939c37c8203360c731",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-6: Order G-217-26 establishing an amended regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:3f22f67fda99ece259d6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-12: FBC submitting response to ICG comments"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:26761de3fbaedfffe9bf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-13-1: CONFIDENTIAL – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:12c1cdcd2e61bcc4ff8c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — B-13: PUBLIC – FBC submitting response to ICG Information Request No. 1 Question 2.2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:b6a895cebb4e6542280e",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — C4-4: ICG submitting Confidentiality Declaration and Undertaking forms"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "boc-speeches:a1a82447eeeb63f2eec4",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "John Kuszczak Memorial Lecture 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "cer-news:eac64534ed8e71100282",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – August 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "cer-news:f899d7b2ba38861d343c",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – August 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "finance-canada-news:a24442abb11eae4057c5",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Statement by the Minister of Finance and National Revenue on the establishment of the Defence, Security and Resilience Bank"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "house-committee-reports:822e8cd521011a2f212e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: OGGO — Use of Underused and Surplus Federal Lands and Buildings for Services for Veterans"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:8c74371586f1f9cc5af1",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Major grain deliveries, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:f6376afbad231876c9bd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:894dd1ed483a1202bbaf",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">September 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-26T07:22:11.888243Z",
-      "event_id": "bcuc-proceedings:2ac9a4938e4237c93d8b",
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "bcuc-proceedings:098cee16a24ee0005ef3",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-2: FEI submitting confirmation of public notice in compliance with G-206-26"
+      "title": "Creative Energy Senakw Reconsideration of Order G-149-26 — G-227-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "cer-news:93287a6f07575ffb19d8",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Final Audit Report – South Bow"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "cer-news:e2b29778330472e75e62",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Inspection Officer Order issued to NorthRiver Midstream NEBC Connector GP Inc."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:4d5a2e01447954e9c90e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:21a5ccc8d961664f90fa",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Government finance statistics, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:3e6915ec44d7c3b5357c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:e53ef22f20160b6c5219",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National tourism indicators, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:db9446afc8aa7bbca0fd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural resource indicators, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:122edaf1b4cfe3d36d4a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oil and gas extraction, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:6f049b8e8d521c210aed",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:13687ad1a23889f1d879",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Open Database of Healthcare Facilities, version 2.0"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:15e5f3d054db0dfe0dfb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Open Database of Sports and Recreational Facilities, version 2.0"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:833ae932d4b64ac1d128",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:e74c09ee0863a3348247",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:b45e9a5b1a2e4bf4cd92",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-26T19:24:34.424015Z",
+      "event_id": "statcan-daily:23ec6b45f48ccf9a8431",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">August 2026</span>"
     }
   ],
-  "generated_at": "2026-10-26T07:22:11.888243+00:00",
-  "run_id": "20261026T072211Z-0110161a",
+  "generated_at": "2026-10-26T19:24:34.424015+00:00",
+  "run_id": "20261026T192434Z-09e6f43d",
   "schema_version": "1.0"
 }
