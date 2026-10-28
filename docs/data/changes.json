@@ -3,59 +3,212 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bcuc-deadlines:b1a0838c48146ffbb3b5",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:fcb924a954948a6503f7",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP supplemental final argument and response to the City of Burnaby letter of comment"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-3: Order G-234-26 regarding requests to intervene and proceeding scope"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bcuc-proceedings:609b00e396365e805ac2",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:8dcdba5881c26533bd11",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP supplemental final argument and response to the City of Burnaby letter of comment"
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C1-1: BC SUSTAINABLE ENERGY ASSOCIATION (BCSEA) – Request to Intervene"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bc-regulations:1589b34f10b00339399c",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:fcab60bdcdc9e6de9deb",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "British Columbia Securities Commission Amends B.C. Regs. 1/2000 — National Instrument 81-101 Mutual Fund Prospectus Disclosure, effective October 1, 2026 2/2000 — National Instrument 81-102 Investment Funds, effective October 1, 2026 131/98 — National Instrument 81-105 Mutual Fund Sales Practices, effective October 1, 2026 226A/2009 — National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations, effective January 1, 2027 157/2026 September 11, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C2-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bc-regulations:d3f8363ee1a3261282db",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:b649f36b34b5541c83d6",
       "schema_version": "1.0",
-      "source_id": "bc-regulations",
-      "title": "British Columbia Securities Commission Amends, effective September 22, 2026, B.C. Regs. 110/2004 — National Instrument 51-102 Continuous Disclosure Obligations 154/2002 — National Instrument 54-101 Communication with Beneficial Owners of Securities of a Reporting Issuer 156/2026 September 11, 2026"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY SOCIETY (COSCO) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:6918604a2250098d4969",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C4-1: COMMUNITY SOLAR COALITION (CSC) – Request to Intervene"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "boc-press-releases:df496099d22cf769e803",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "boc-speeches:0698b5424bb53ec1dd06",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Monetary Policy Report Press Conference Opening Statement"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:b8e1bab48a9291ef121e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:7d244a87cafb1a3e6ac6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy consumption by the manufacturing sector, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:04fc872094794ca097b3",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Full-time teaching staff at Canadian universities, <span class=\"refper\">2025/2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:97d6bf6bd02a8c5c836c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:63e2b039375d5538b134",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: How are young Canadian university graduates faring in the recent labour market?"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bcuc-deadlines:0f5fe69b9af089dac98b",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-deadlines:65df961460ad7ebf4d55",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP supplemental final argument and response to Burnaby letter of comment, if necessary"
+      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BCUC decision on intervener registrations"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-28T07:16:54.818866Z",
-      "event_id": "bcuc-proceedings:b0e80282c4a2937d1f49",
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "bcuc-proceedings:4d198ba702036c725d2f",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP supplemental final argument and response to Burnaby letter of comment, if necessary"
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — BCUC decision on intervener registrations"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "boc-press-releases:7655197ba695c7c32d1e",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada Board launches process to fill external Deputy Governor position"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "cer-news:ccccccb5276be8c5e6ce",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Canada’s federally regulated energy system by the numbers"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:23306b71b2e40603463d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:f8332afb41fa184f2f36",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">June 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:f53f33eb20926f4ccadb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:bb1152653052378174cb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Drinking Water Plants, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:1854b816340757ffe173",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey of Non-Bank Mortgage Lenders, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-daily:807cf545f19de24ce807",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Transportation and Supply Chain Indexes: announcement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T19:19:31.230338Z",
+      "event_id": "statcan-key-indicators:df7689ad4b7b66c667ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
     }
   ],
-  "generated_at": "2026-10-28T07:16:54.818866+00:00",
-  "run_id": "20261028T071654Z-d5a14e2a",
+  "generated_at": "2026-10-28T19:19:31.230338+00:00",
+  "run_id": "20261028T191931Z-2c91b391",
   "schema_version": "1.0"
 }
