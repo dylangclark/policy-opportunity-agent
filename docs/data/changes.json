@@ -3,131 +3,59 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bcuc-deadlines:b1a0838c48146ffbb3b5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP supplemental final argument and response to the City of Burnaby letter of comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bcuc-proceedings:609b00e396365e805ac2",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:0103e04a16640a0e5926",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:57c868aca789f8cfdc51",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: NDDN — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-daily:a9a6832759aa9583e172",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-daily:07bc4a510daf3bb768d8",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance Coverage Survey, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-daily:2979e610d5196fc5d3e4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "End use of refined petroleum products, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-daily:18246939af4ead1d1ce3",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Milled wheat and wheat flour produced, <span class=\"refper\">third quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-daily:99125aeb9a0c4a52f96e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Secondary distributors of refined petroleum products, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "statcan-key-indicators:17babd800f5de98e7ace",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canadian international merchandise trade"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP supplemental final argument and response to the City of Burnaby letter of comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:cc0f5d113ccff4ffa4eb",
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bc-regulations:1589b34f10b00339399c",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Youth Employment in Canada"
+      "source_id": "bc-regulations",
+      "title": "British Columbia Securities Commission Amends B.C. Regs. 1/2000 — National Instrument 81-101 Mutual Fund Prospectus Disclosure, effective October 1, 2026 2/2000 — National Instrument 81-102 Investment Funds, effective October 1, 2026 131/98 — National Instrument 81-105 Mutual Fund Sales Practices, effective October 1, 2026 226A/2009 — National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations, effective January 1, 2027 157/2026 September 11, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:9916dea6519152d45ec0",
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bc-regulations:d3f8363ee1a3261282db",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ACVA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+      "source_id": "bc-regulations",
+      "title": "British Columbia Securities Commission Amends, effective September 22, 2026, B.C. Regs. 110/2004 — National Instrument 51-102 Continuous Disclosure Obligations 154/2002 — National Instrument 54-101 Communication with Beneficial Owners of Securities of a Reporting Issuer 156/2026 September 11, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:6659a13414d826d59e3d",
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bcuc-deadlines:0f5fe69b9af089dac98b",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP supplemental final argument and response to Burnaby letter of comment, if necessary"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-27T19:19:27.086645Z",
-      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
+      "detected_at": "2026-10-28T07:16:54.818866Z",
+      "event_id": "bcuc-proceedings:b0e80282c4a2937d1f49",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP supplemental final argument and response to Burnaby letter of comment, if necessary"
     }
   ],
-  "generated_at": "2026-10-27T19:19:27.086645+00:00",
-  "run_id": "20261027T191927Z-93b5f54f",
+  "generated_at": "2026-10-28T07:16:54.818866+00:00",
+  "run_id": "20261028T071654Z-d5a14e2a",
   "schema_version": "1.0"
 }

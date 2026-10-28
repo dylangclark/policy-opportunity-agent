@@ -1,82 +1,80 @@
 {
-  "generated_at": "2026-10-27T19:19:27.086645+00:00",
-  "run_id": "20261027T191927Z-93b5f54f",
+  "generated_at": "2026-10-28T07:16:54.818866+00:00",
+  "run_id": "20261028T071654Z-d5a14e2a",
   "schema_version": "1.0",
   "sources": [
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
-      "event_count": 10,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 10,
       "schema_version": "1.0",
       "source_id": "boc-upcoming",
       "source_name": "Bank of Canada upcoming events",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/upcoming-events/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 0,
-      "http_status": 200,
+      "http_status": 304,
       "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "boc-press-releases",
       "source_name": "Bank of Canada press releases",
-      "stale": true,
-      "status": "partial",
+      "stale": false,
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
-      "warnings": [
-        "Collector returned no events; retained the last good source data."
-      ]
+      "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
-      "event_count": 6,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 6,
       "schema_version": "1.0",
       "source_id": "boc-speeches",
       "source_name": "Bank of Canada speeches",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.bankofcanada.ca/content_type/speeches/feed/",
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "statcan_schedule",
-      "event_count": 95,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 95,
       "schema_version": "1.0",
       "source_id": "statcan-key-indicators",
       "source_name": "Statistics Canada key indicator schedule",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/ssi/homepage/schedule-key_indicators-eng.json",
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
-      "event_count": 89,
-      "http_status": 200,
-      "retained_previous_count": 0,
+      "event_count": 0,
+      "http_status": 304,
+      "retained_previous_count": 89,
       "schema_version": "1.0",
       "source_id": "statcan-daily",
       "source_name": "Statistics Canada The Daily",
       "stale": false,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom",
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bcuc_anticipated_pdf",
       "event_count": 45,
       "http_status": 200,
@@ -90,7 +88,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bcuc_deadlines",
       "event_count": 34,
       "http_status": 200,
@@ -104,7 +102,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bcuc_proceedings",
       "event_count": 116,
       "http_status": 200,
@@ -128,7 +126,7 @@
       ]
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -142,7 +140,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 100,
       "http_status": 200,
@@ -156,7 +154,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -170,7 +168,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -184,7 +182,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 0,
       "http_status": 304,
@@ -198,7 +196,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "federal_consultations",
       "event_count": 0,
       "http_status": 200,
@@ -212,7 +210,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "govtogether",
       "event_count": 53,
       "http_status": 200,
@@ -226,21 +224,21 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bc_laws_regulations",
-      "event_count": 0,
-      "http_status": 304,
-      "retained_previous_count": 17,
+      "event_count": 15,
+      "http_status": 200,
+      "retained_previous_count": 0,
       "schema_version": "1.0",
       "source_id": "bc-regulations",
       "source_name": "B.C. Regulations Bulletin",
       "stale": false,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.bclaws.gov.bc.ca/civix/document/id/regulationbulletin/regulationbulletin/2026cumulati",
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "house_committees",
       "event_count": 0,
       "http_status": 200,
@@ -256,7 +254,7 @@
       ]
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "html_date_list",
       "event_count": 11,
       "http_status": 200,
@@ -270,7 +268,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bc_legislature_calendar",
       "event_count": 0,
       "http_status": 200,
@@ -286,7 +284,7 @@
       ]
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "html_date_list",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -299,7 +297,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 11,
       "http_status": 200,
@@ -313,7 +311,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "rss",
       "event_count": 3,
       "http_status": 200,
@@ -327,7 +325,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -340,7 +338,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "page_watch",
       "event_count": 0,
       "retained_previous_count": 0,
@@ -353,7 +351,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "page_watch",
       "event_count": 0,
       "http_status": 200,
@@ -367,10 +365,10 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "page_watch",
       "event_count": 0,
-      "http_status": 200,
+      "http_status": 304,
       "retained_previous_count": 1,
       "schema_version": "1.0",
       "source_id": "pbo-publications",
@@ -381,7 +379,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bc_orders",
       "event_count": 75,
       "http_status": 200,
@@ -395,7 +393,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "federal_regulatory_plans",
       "event_count": 47,
       "http_status": 200,
@@ -409,7 +407,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "bc_eao_milestones",
       "event_count": 0,
       "http_status": 200,
@@ -425,7 +423,7 @@
       ]
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "iaac_milestones",
       "event_count": 1,
       "http_status": 200,
@@ -439,7 +437,7 @@
       "warnings": []
     },
     {
-      "checked_at": "2026-10-27T19:19:27.086645Z",
+      "checked_at": "2026-10-28T07:16:54.818866Z",
       "collector": "house_committee_reports",
       "event_count": 59,
       "http_status": 200,
