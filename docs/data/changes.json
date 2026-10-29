@@ -1,99 +1,273 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-key-indicators:13d88fba387d7c934424",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Payroll employment, earnings and hours, and job vacancies"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-deadlines:3c3b963261f03fc1abb8",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:bd74cdb6f60d757129c5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — D-1-1: Burnaby submitting Letter of Comment Part 2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:17e0b37e3afc7796e022",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — D-1: CITY OF BURNABY (BURNABY) – Letter of Comment Part 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "boc-upcoming:11e3afa22b438ebe2718",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "cer-news:0c9185950a8cb7312600",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Added pipeline capacity expands markets for Canadian energy"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "house-committee-reports:f6be58b600970197a54a",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "house-committee-reports:6d9cc7967de75da49fc9",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FEWO — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "house-committee-reports:0f27477312de10ae92fe",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INAN — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "iaac-major-projects:fcdc66460a1461047ec1",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:443644ec0602fc5fc569",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:6778cd3fd00cb995acf5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building construction price indexes, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:f5896e4e963ed3498361",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian Coroner and Medical Examiner Database, <span class=\"refper\">January 2006 to June 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:d01e7f4c228fcf8160aa",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:65a97fc23f0ccb15f249",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:87229376599a75f3b380",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bc-regulations:84dfc8f5e236e6f844c3",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "British Columbia Energy Regulator Amends B.C. Reg. 28/2026 — Renewable Energy Projects Regulation 158/2026 September 14, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-deadlines:28fc25420b75cdc82bbc",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — 2025 Call for Power — BC Hydro response to letter of comment and final argument"
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — Letters of comment deadline"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:bc52e74cab4f98e9108b",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:864cc44bc8bab59ee06c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — A-3: Order G-235-26 establishing a further regulatory timetable"
+      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — A-1: Panel Appointment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:ba9ce95ac4e712bb10ce",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:f1ed6ab1058de8db499a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — BC Hydro response to letter of comment and final argument"
+      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Public Electric Vehicle Charging Service Rates Evaluation Report Extension Request"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:b9329d5c136b600a21c6",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:ea5c7ba728e0763a4377",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-5: Metergy submitting response to Panel letter regarding confirmation of Public Notice"
+      "title": "BC Hydro EV Charging Service Rates Evaluation Report Extension — G-229-26: Docket filing"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:f2a00d9767ea0341b800",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "bcuc-proceedings:198270a6e92a7c589395",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — G-236-26: Docket filing"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — Letters of comment deadline"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "finance-canada-news:282512937cebe65c27de",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "boc-speeches:0bf2561a81a3d2e4007a",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Montréal to strengthen Canada-EU ties, promote closer economic collaboration"
+      "source_id": "boc-speeches",
+      "title": "Repo markets and monetary policy implementation"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "boc-upcoming:31c7d3603d687de25f8a",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement and Monetary Policy Report"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "house-committee-reports:36dec49d0aeacb31527e",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Impacts of Canada's financial system related to the environment and climate change"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
       "event_id": "house-committee-reports:76b8945141b2b9e0f5cf",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: FEWO — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
       "event_id": "house-committee-reports:0e9e47a299c8b19b81e9",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: HESA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
       "event_id": "house-committee-reports:7db6f0682d819fef453c",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: HUMA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
       "event_id": "house-committee-reports:b77ad6a994918d8d8794",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: JUST — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
       "event_id": "house-committee-reports:e66282c14fdc7041c2f8",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
@@ -102,77 +276,104 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bc-legal-orders:79514047758ac95a24fa",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "iaac-major-projects:bf5220c966b81679abf3",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 368: Public Service, s. 15 Effective August 4, 2026, the individuals named are appointed to positions as set out in the Appendix and indicated in the Schedule: Sophia Frances Brownse..."
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — On October 1, 2026, the Impact Assessment Agency of Canada resumed the 180-day time limit for the planning phase of the impact assessment process."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:bf4c041e24af8a7e6652",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:62e1f1077a20d07f65d7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — A-6: Order G-215-26 amending the regulatory timetable"
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:317b8c34d4a78ef8b441",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:e37b0be3a54f76fb3c0d",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-5: Order G-214-26 regarding Intervener Final Argument"
+      "source_id": "statcan-daily",
+      "title": "Data availability: Shared Health Priorities Indicators for Children and Youth, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "bcuc-proceedings:770f90e728d82613f5df",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:0b9fb165baf3fc77ae51",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2027 Annual Review of Delivery Rates — A-7: Order G-213-26 regarding Intervener Final Argument"
+      "source_id": "statcan-daily",
+      "title": "Energy statistics, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "house-committee-reports:ee64d9f391d99d4a303a",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:5fbd2ee998656a614c19",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: LIAI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
+      "source_id": "statcan-daily",
+      "title": "Film and video distribution, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "house-committee-reports:c61f70ef881b9cad7263",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:5dbbac99e394283a34a6",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: SECU — Canada-United States border management"
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">September 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "house-committee-reports:0103e04a16640a0e5926",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:a5016a4b1c69fcc3bf6f",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product by industry, <span class=\"refper\">July 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-29T07:24:41.560376Z",
-      "event_id": "house-committee-reports:57c868aca789f8cfdc51",
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:698f67f0769e8679f486",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: NDDN — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "statcan-daily",
+      "title": "Industrial research and development, including energy and intellectual property expenditures, <span class=\"refper\">2024 (actual), 2025 (preliminary) and 2026 (intentions)</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-daily:9527395f03bc65deba1e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Taking the pulse: Perceptions of democracy in Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-key-indicators:d89e84397119f01c3177",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-29T19:19:28.545039Z",
+      "event_id": "statcan-key-indicators:3878f615b3fe5641c6b6",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
     }
   ],
-  "generated_at": "2026-10-29T07:24:41.560376+00:00",
-  "run_id": "20261029T072441Z-097069bb",
+  "generated_at": "2026-10-29T19:19:28.545039+00:00",
+  "run_id": "20261029T191928Z-19c1e0a9",
   "schema_version": "1.0"
 }
