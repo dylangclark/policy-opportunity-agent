@@ -3,216 +3,273 @@
     {
       "change_type": "changed",
       "changed_fields": [
-        "lifecycle",
-        "start_at",
+        "description",
+        "published_at",
         "content_hash"
       ],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bc-legal-orders:60e3d0139b7fb03e083c",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "fiscal-monitor:39a8db5513fa84d5397f",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 415: ATTORNEY GENERAL Provincial Court, s. 6 (1) Effective October 29, 2026, David E.M. Jenkins, Jr., is appointed as a Judge of the Provincial Court of British Columbia."
+      "source_id": "fiscal-monitor",
+      "title": "Fiscal Monitor publication page changed"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-key-indicators:2c976e1e9d81029ca1c3",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Gross domestic product by industry"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bc-legal-orders:67189573e9aa80034e00",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "boc-upcoming:b3c0c7dfb0a036a2771f",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 417: Effective November 1, 2026, Letters Patent are issued for the Regional District of Nanaimo."
+      "source_id": "boc-upcoming",
+      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:418cc53078ad4e6c7eae",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "gazette-part-i:706b616ef6d7b0dd73a6",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-4: BCUC Information Request No. 1 to BC Hydro"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 31, 2026, volume 160, number 44"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:62fd5481b2499bc709e9",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:5bbec47640f7486620c9",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-27: ILIC, E. (ILIC) – Letter of Comment"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FINA — Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:df56f6b6aecae18368c4",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:657a46bb4af0592023b8",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-5: FAES-KVULP submitting confirmation of social media reminder posts in compliance with G-230-26"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:b86f86a472a768fd7cdd",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:19a976b4f74e4d9d86e3",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:a2ed386ebe73257fc4e9",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — G-239-26: Docket filing"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "cer-news:22b1e82be2161a95b297",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Understanding Powell River Energy Inc.’s electricity export application"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "elections-finance-calendar:7b26dc065791ce62ade0",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Statements of unpaid claims and loans (18 Months – 2026 NDP leadership contest)"
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "finance-canada-news:6f172fbe7c30bb628231",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "iaac-major-projects:dbd11c0ac34a6af99952",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada (IAAC) accepted the proponent’s Initial Project Description and received a request to substitute the impact assessment process from the Government of British Columbia."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:c0649b86a9e6aeb89d83",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's Core Public Infrastructure Survey, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:13e859bbd8b74a285fb4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:b5279bbf6630d9c58cab",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Data availability: Life expectancy by health region and peer group, <span class=\"refper\">2023 boundaries and names</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:dc664986b4d5c06e639e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy statistics, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:104a1ff81af438d6e578",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:6b8971ff497dc4d5d2a5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Gross domestic product by industry, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:66983d47a5afb1da3bfd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Poultry and egg statistics, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-daily:3390186a14e9c7a4f469",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "boc-upcoming:5070bc5ed1b6a5a28435",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "The John Kuszczak Memorial Lecture"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "finance-canada-news:c1de6584beef3e987793",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Legislation passes to extend the federal fuel excise tax relief for Canadians"
+      "title": "Government of Canada introduces new Productivity Mega Deduction to boost Canada’s advantage as the most competitive G7 country for new business investment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bc-legal-orders:3c2de41d97f589afd691",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "gazette-part-i:69293cf1ad42aa8f0b90",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 369: Public Service, s. 15 Effective August 4, 2026, the individuals named are appointed as set out in the Appendix and as indicated in the Schedule: Taylor Lee Cunningham — Administ..."
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, September 12, 2026, volume 160, number 37"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-deadlines:bc8536d10703fc9acb8f",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Optional Fixed Bill Plus Rate — BCUC Information Request No. 1 (IR No. 1) to BC Hydro"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-deadlines:970d2484c6322366b64b",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:f6be58b600970197a54a",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro final argument"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-deadlines:8b5c993a60bfa979d664",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:6d9cc7967de75da49fc9",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — 2026 Review of Mains Extension and Connection Policies — FEI reply argument"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FEWO — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-deadlines:39d0b296ce2ca134657a",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:0f27477312de10ae92fe",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to BCUC IR No. 1"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INAN — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:1434d846691b2b73ae13",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — A-1: Panel Appointment"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:ef41b5bed00baf913d7d",
+      "detected_at": "2026-10-30T19:21:14.646872Z",
+      "event_id": "statcan-key-indicators:098193ad5c55d148cecc",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — BCUC Information Request No. 1 (IR No. 1) to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:32ee811a4a30b16cb0ec",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:5e6baf98e55c584e0d2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — C4-3: ICG submitting comments regarding FBC’s Information Request No. 1 response"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:c6ebb324a021f1510504",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI 2026 Review of Mains Extension and Connection Policies — FEI reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:dfd83b4f723c3fcebed6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T07:23:49.971992Z",
-      "event_id": "bcuc-proceedings:615f9c412d015a269e54",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — A-3: BCUC Information Request No. 1 to FEI"
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's international transactions in securities"
     }
   ],
-  "generated_at": "2026-10-30T07:23:49.971992+00:00",
-  "run_id": "20261030T072349Z-a406cbd6",
+  "generated_at": "2026-10-30T19:21:14.646872+00:00",
+  "run_id": "20261030T192114Z-f2bb94b7",
   "schema_version": "1.0"
 }
