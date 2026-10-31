@@ -3,273 +3,105 @@
     {
       "change_type": "changed",
       "changed_fields": [
+        "title",
         "description",
-        "published_at",
+        "metadata_only",
         "content_hash"
       ],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "fiscal-monitor:39a8db5513fa84d5397f",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "bcuc-proceedings:b86f86a472a768fd7cdd",
       "schema_version": "1.0",
-      "source_id": "fiscal-monitor",
-      "title": "Fiscal Monitor publication page changed"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3-1: Replaced by Exhibit B-4-1"
     },
     {
       "change_type": "changed",
       "changed_fields": [
+        "title",
+        "description",
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-key-indicators:2c976e1e9d81029ca1c3",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "bcuc-proceedings:19a976b4f74e4d9d86e3",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3: Replaced by Exhibit B-4"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "boc-upcoming:b3c0c7dfb0a036a2771f",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "bcuc-proceedings:d2db8fee430783aca8b0",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-4-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "gazette-part-i:706b616ef6d7b0dd73a6",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "bcuc-proceedings:7c5249455d3d84560a99",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, October 31, 2026, volume 160, number 44"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-4: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:5bbec47640f7486620c9",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FINA — Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:657a46bb4af0592023b8",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "iaac-major-projects:dbd11c0ac34a6af99952",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada (IAAC) accepted the proponent’s Initial Project Description and received a request to substitute the impact assessment process from the Government of British Columbia."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:c0649b86a9e6aeb89d83",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's Core Public Infrastructure Survey, <span class=\"refper\">2024</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:13e859bbd8b74a285fb4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Couriers and Messengers Services Price Index, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:b5279bbf6630d9c58cab",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Data availability: Life expectancy by health region and peer group, <span class=\"refper\">2023 boundaries and names</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:dc664986b4d5c06e639e",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Energy statistics, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:104a1ff81af438d6e578",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Freight Rail Services Price Index, <span class=\"refper\">October 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:6b8971ff497dc4d5d2a5",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Gross domestic product by industry, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:66983d47a5afb1da3bfd",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Poultry and egg statistics, <span class=\"refper\">October 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-daily:3390186a14e9c7a4f469",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "boc-upcoming:5070bc5ed1b6a5a28435",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "The John Kuszczak Memorial Lecture"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "finance-canada-news:c1de6584beef3e987793",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "finance-canada-news:537bad2029ef057d2f06",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Government of Canada introduces new Productivity Mega Deduction to boost Canada’s advantage as the most competitive G7 country for new business investment"
+      "title": "Minister Champagne to deliver economic addresses and participate in armchair discussions ahead of Budget 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "iaac-major-projects:916306db44ecff58b6ab",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "15-Mile Processing Hub Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "gazette-part-i:69293cf1ad42aa8f0b90",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "bcuc-proceedings:dedadf95fd1bbb6889c9",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, September 12, 2026, volume 160, number 37"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — B-4: Metergy submitting regulatory timetable extension request"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "elections-finance-calendar:98379757cf5c5d51b70b",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Leadership contestants' first interim campaign returns (2026 Green Party leadership contest)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:f6be58b600970197a54a",
+      "detected_at": "2026-10-31T07:20:12.013895Z",
+      "event_id": "federal-forward-regulatory-initiatives:b18734a06b8fbe722b3f",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:6d9cc7967de75da49fc9",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FEWO — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:0f27477312de10ae92fe",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INAN — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "house-committee-reports:8e9f707c4f9ecd9dbac3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-30T19:21:14.646872Z",
-      "event_id": "statcan-key-indicators:098193ad5c55d148cecc",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international transactions in securities"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations — consultation"
     }
   ],
-  "generated_at": "2026-10-30T19:21:14.646872+00:00",
-  "run_id": "20261030T192114Z-f2bb94b7",
+  "generated_at": "2026-10-31T07:20:12.013895+00:00",
+  "run_id": "20261031T072012Z-91264203",
   "schema_version": "1.0"
 }
