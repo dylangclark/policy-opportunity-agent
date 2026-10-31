@@ -1,107 +1,34 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "metadata_only",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "bcuc-proceedings:b86f86a472a768fd7cdd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3-1: Replaced by Exhibit B-4-1"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "bcuc-proceedings:19a976b4f74e4d9d86e3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-3: Replaced by Exhibit B-4"
-    },
-    {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "bcuc-proceedings:d2db8fee430783aca8b0",
+      "detected_at": "2026-10-31T19:24:54.576227Z",
+      "event_id": "boc-speeches:55b6aae5c320815469bf",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-4-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "bcuc-proceedings:7c5249455d3d84560a99",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-4: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "finance-canada-news:537bad2029ef057d2f06",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne to deliver economic addresses and participate in armchair discussions ahead of Budget 2026"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "iaac-major-projects:916306db44ecff58b6ab",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "15-Mile Processing Hub Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
+      "source_id": "boc-speeches",
+      "title": "Canada’s housing affordability dilemma"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "bcuc-proceedings:dedadf95fd1bbb6889c9",
+      "detected_at": "2026-10-31T19:24:54.576227Z",
+      "event_id": "boc-speeches:d213cd5708fe4f871490",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-4: Metergy submitting regulatory timetable extension request"
+      "source_id": "boc-speeches",
+      "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "elections-finance-calendar:98379757cf5c5d51b70b",
+      "detected_at": "2026-10-31T19:24:54.576227Z",
+      "event_id": "boc-speeches:056573a92696823043ea",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Leadership contestants' first interim campaign returns (2026 Green Party leadership contest)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-10-31T07:20:12.013895Z",
-      "event_id": "federal-forward-regulatory-initiatives:b18734a06b8fbe722b3f",
-      "schema_version": "1.0",
-      "source_id": "federal-forward-regulatory-initiatives",
-      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations — consultation"
+      "source_id": "boc-speeches",
+      "title": "The complexity of housing affordability"
     }
   ],
-  "generated_at": "2026-10-31T07:20:12.013895+00:00",
-  "run_id": "20261031T072012Z-91264203",
+  "generated_at": "2026-10-31T19:24:54.576227+00:00",
+  "run_id": "20261031T192454Z-3140e608",
   "schema_version": "1.0"
 }
