@@ -1,16 +1,105 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bc-legal-orders:c8a3b9a2406d84579962",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 407: FINANCE Provincial Sales Tax, s. 240 (a) Effective November 1, 2026, the Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as set out in Schedule 1, an..."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "lifecycle",
+        "start_at",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bc-legal-orders:67189573e9aa80034e00",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 417: Effective November 1, 2026, Letters Patent are issued for the Regional District of Nanaimo."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "elections-finance-calendar:f75ab43cdc2309f55495",
+      "schema_version": "1.0",
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Registered parties' quarterly financial transactions returns (Q3 2027)"
+    },
+    {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-01T19:23:50.977910Z",
-      "event_id": "finance-canada-news:d5f537b69db85d4d1d28",
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bc-legal-orders:66e9b9b2ea556168ded9",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne to travel to the United Kingdom and Ireland to strengthen economic and security ties with European counterparts and stakeholders"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 288: EDUCATION AND CHILD CARE School, s. 11.1 (0.1) (b) Effective August 1, 2026, Brad Baker is appointed as superintendent of appeals for a term ending July 31, 2027, and MO 429/202..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bc-legal-orders:fe5b0c46b2348f18d1ec",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 289: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective August 6, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bc-legal-orders:df365b20751b97f4a4e8",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 199: FINANCE Provincial Sales Tax, s. 240 (a) The Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as set out in Schedule 1, and (b) effective November 1,..."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bcuc-proceedings:f4dd2a6ded566737b7fe",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C2-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Submitting Intervener Request"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bcuc-proceedings:cd15fcf0aab0451759ae",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY (COSCO) – Submitting Intervener Request"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bcuc-proceedings:e491cc19cf1e10226123",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C4-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Submitting Intervener Request"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T07:22:12.608597Z",
+      "event_id": "bcuc-proceedings:a9cd56886f3c4f1951f3",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — C1-1: CITY OF BURNABY (BURNABY) – Request to Intervene"
     }
   ],
-  "generated_at": "2026-11-01T19:23:50.977910+00:00",
-  "run_id": "20261101T192350Z-a7065ac3",
+  "generated_at": "2026-11-02T07:22:12.608597+00:00",
+  "run_id": "20261102T072212Z-b4322d24",
   "schema_version": "1.0"
 }
