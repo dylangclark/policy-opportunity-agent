@@ -1,105 +1,133 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bc-legal-orders:c8a3b9a2406d84579962",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "bcuc-proceedings:bc9762e5fdac7d0f39a3",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 407: FINANCE Provincial Sales Tax, s. 240 (a) Effective November 1, 2026, the Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as set out in Schedule 1, an..."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "lifecycle",
-        "start_at",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bc-legal-orders:67189573e9aa80034e00",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 417: Effective November 1, 2026, Letters Patent are issued for the Regional District of Nanaimo."
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C1-2: Shuswap Band submitting Information Request No. 1 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "elections-finance-calendar:f75ab43cdc2309f55495",
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:977ef11b2d03b4403eb8",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Registered parties' quarterly financial transactions returns (Q3 2027)"
+      "source_id": "statcan-daily",
+      "title": "Census of Environment: Harvesting benefits from nature"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:1f621ba9adf664a752cd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bc-legal-orders:66e9b9b2ea556168ded9",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 288: EDUCATION AND CHILD CARE School, s. 11.1 (0.1) (b) Effective August 1, 2026, Brad Baker is appointed as superintendent of appeals for a term ending July 31, 2027, and MO 429/202..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bc-legal-orders:fe5b0c46b2348f18d1ec",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 289: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 14 (1) Effective August 6, 2026, MO 61/2017 is amended in Schedule 4 — Provisional Drugs by adding the drugs listed in..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bc-legal-orders:df365b20751b97f4a4e8",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 199: FINANCE Provincial Sales Tax, s. 240 (a) The Designated Accommodation Area Tax Regulation, B.C. Reg. 93/2013, is amended as set out in Schedule 1, and (b) effective November 1,..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bcuc-proceedings:f4dd2a6ded566737b7fe",
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "bcuc-proceedings:8fb597d5c0297231786c",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C2-1: COMMERCIAL ENERGY CONSUMERS ASSOCIATION OF BC (CEC) – Submitting Intervener Request"
+      "title": "BC Hydro Tariff Supplement No. 116 — G-231-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bcuc-proceedings:cd15fcf0aab0451759ae",
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "cer-news:eac64534ed8e71100282",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY (COSCO) – Submitting Intervener Request"
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – August 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bcuc-proceedings:e491cc19cf1e10226123",
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "cer-news:f899d7b2ba38861d343c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C4-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Submitting Intervener Request"
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – August 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T07:22:12.608597Z",
-      "event_id": "bcuc-proceedings:a9cd56886f3c4f1951f3",
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:1b8ff59ef3a17dafadd7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — C1-1: CITY OF BURNABY (BURNABY) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Canadian foreign post indexes, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:f599b4a462af6d8c8636",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian postsecondary enrolments and graduates, <span class=\"refper\">2024/2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:6919c1d131c9b547933a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:2748b6e846688b0293d7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Integrated Criminal Court Survey, <span class=\"refper\">2024/2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:9112c403d0f9e55877f7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:948db015cdcfe4622906",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Motor vehicle fuel sales, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-daily:768e74da26fc207a435f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Survey on Health Care Access and Experiences - Virtual Care and Pharmaceuticals: Data availability announcement, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-02T19:23:52.065341Z",
+      "event_id": "statcan-key-indicators:81e6a25af3df4426121d",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
     }
   ],
-  "generated_at": "2026-11-02T07:22:12.608597+00:00",
-  "run_id": "20261102T072212Z-b4322d24",
+  "generated_at": "2026-11-02T19:23:52.065341+00:00",
+  "run_id": "20261102T192352Z-e6a70e14",
   "schema_version": "1.0"
 }
