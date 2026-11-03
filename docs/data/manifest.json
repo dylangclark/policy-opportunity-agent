@@ -1,55 +1,55 @@
 {
   "counts": {
-    "changes": 14,
+    "changes": 16,
     "events": 618,
-    "opportunities": 505,
+    "opportunities": 510,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 4940,
-      "count": 14,
+      "bytes": 7164,
+      "count": 16,
       "path": "changes.json",
-      "sha256": "7f90a48234344ad7692143a33ddab73aa2af8e00cd414088180d44dd8577d98b"
+      "sha256": "22c2189a89c2226075048abb9ce84066ff1f8c1ef39106f248361fca66993068"
     },
     "events": {
-      "bytes": 1001622,
+      "bytes": 1001834,
       "count": 618,
       "path": "events.json",
-      "sha256": "f61c6c9d7ccea43a5ddf7056e599812733d28a24e61af572b0c542874730563d"
+      "sha256": "e001e98357be8c1b10df329dd39f96213da0fe1c2f4efad564962d4964b30007"
     },
     "heartbeat": {
       "bytes": 265,
       "path": "heartbeat.json",
-      "sha256": "64598ff3a2c7f7a3efb7b8eadb97cfe35e5a0b6720166e1b691e8fa0d5ad9e3f"
+      "sha256": "d791000b9bf81b9965423f8f61857be082b5a3e8a5b353e75122f5d1c70b1c88"
     },
     "opportunities": {
-      "bytes": 963784,
-      "count": 505,
+      "bytes": 974253,
+      "count": 510,
       "path": "opportunities.json",
-      "sha256": "8ce0292df6334e0f82a20f6cc4034fcabd85a34b283b286f39a56d727a163d14"
+      "sha256": "b0b35dfe1c869fa418b66389726d427a313c3da33150417284d0152d8699f018"
     },
     "source_status": {
-      "bytes": 16244,
+      "bytes": 15924,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "d07b54878d5c78c227ca82a926c3933f0a7c1f14ddb964894581a87e30cd5b01"
+      "sha256": "0708729a9c5faed9b3c9d2fcbb3f68c9a7e843fb1f893106a12ab7cbb76cfd7a"
     }
   },
-  "generated_at": "2026-11-02T19:23:52.065341Z",
+  "generated_at": "2026-11-03T07:21:41.335049Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261102T192352Z-e6a70e14",
+  "run_id": "20261103T072141Z-bdbb1810",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "failed": 2,
-    "not_modified": 6,
-    "ok": 19,
+    "failed": 1,
+    "not_modified": 8,
+    "ok": 18,
     "partial": 1
   },
   "status": "partial",

@@ -3,131 +3,149 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "bcuc-proceedings:bc9762e5fdac7d0f39a3",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "bcuc-proceedings:21a613c91d001091888d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C1-2: Shuswap Band submitting Information Request No. 1 to BC Hydro"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C4-2: RCIA submitting Information Request No. 1 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:977ef11b2d03b4403eb8",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "bcuc-proceedings:0f07b6a0618380a79998",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Census of Environment: Harvesting benefits from nature"
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — G-240-26: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:1f621ba9adf664a752cd",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "finance-canada-news:a58b22b36d337200910f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">August 2026</span>"
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to make his own budget shoes at a pre-budget event in Montreal, Quebec"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:0aa08e4a9a4a10ea680f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: JUST — Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:9f656104c9bab63d213c",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: BCAN — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:6659a13414d826d59e3d",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "bcuc-proceedings:8fb597d5c0297231786c",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "bcuc-deadlines:0cb52c6d44f575483673",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Inc. (electric) — 2027 Annual Review of Rates — FBC reply argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "bcuc-proceedings:c5b66de7e43ed5451c29",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Tariff Supplement No. 116 — G-231-26: Docket filing"
+      "title": "FBC 2027 Annual Review of Rates — FBC reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "cer-news:eac64534ed8e71100282",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:657a46bb4af0592023b8",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Crude Oil Exports – August 2026"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: INAN — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "cer-news:f899d7b2ba38861d343c",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:1d1015250c290e05bbfb",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Refined Petroleum Products – August 2026"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:1b8ff59ef3a17dafadd7",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian foreign post indexes, <span class=\"refper\">October 2026</span>"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:f599b4a462af6d8c8636",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:e92ee1e4749b4ac82af3",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian postsecondary enrolments and graduates, <span class=\"refper\">2024/2025</span>"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:6919c1d131c9b547933a",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:73eb1bcef9ce26da1b2b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:2748b6e846688b0293d7",
+      "detected_at": "2026-11-03T07:21:41.335049Z",
+      "event_id": "house-committee-reports:4d03128f3eaa28706f6e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Integrated Criminal Court Survey, <span class=\"refper\">2024/2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:9112c403d0f9e55877f7",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Machinery and Equipment Price Index, <span class=\"refper\">July 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:948db015cdcfe4622906",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Motor vehicle fuel sales, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-daily:768e74da26fc207a435f",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Survey on Health Care Access and Experiences - Virtual Care and Pharmaceuticals: Data availability announcement, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-02T19:23:52.065341Z",
-      "event_id": "statcan-key-indicators:81e6a25af3df4426121d",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-11-02T19:23:52.065341+00:00",
-  "run_id": "20261102T192352Z-e6a70e14",
+  "generated_at": "2026-11-03T07:21:41.335049+00:00",
+  "run_id": "20261103T072141Z-bdbb1810",
   "schema_version": "1.0"
 }
