@@ -3,54 +3,312 @@
     {
       "change_type": "changed",
       "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:b4c5f6c504dacfc673ee",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, August 12, 2026, volume 160, number 16"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:5c79b1e4e44cb897cc5c",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, August 26, 2026, volume 160, number 17"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:476018891b6699fcda18",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, October 21, 2026, volume 160, number 21"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:fb7eea53fd2822905c37",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, October 7, 2026, volume 160, number 20"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:28cdf7d47e72bb443f84",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, September 23, 2026, volume 160, number 19"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:670e9fd8f80056ae9b87",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, September 9, 2026, volume 160, number 18"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
         "description",
         "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-11-04T07:17:04.332232Z",
-      "event_id": "iaac-major-projects:f20bd88902b520bbd316",
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "iaac-major-projects:916306db44ecff58b6ab",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Lazy Head Marine Terminal Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Lazy Head Marine Terminal Project and provide feedback by November 2"
+      "title": "15-Mile Processing Hub Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "iaac-major-projects:fcdc66460a1461047ec1",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "iaac-major-projects:dbd11c0ac34a6af99952",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada (IAAC) accepted the proponent’s Initial Project Description and received a request to substitute the impact assessment process from the Government of British Columbia."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-key-indicators:306fa7b0f83101011da7",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canadian international merchandise trade"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-04T07:17:04.332232Z",
-      "event_id": "boc-upcoming:2cd1355e46c598832651",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Christmas Day"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-04T07:17:04.332232Z",
-      "event_id": "finance-canada-news:0103a2972bb44fbc1a14",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Canada, Minister Champagne table legislation cracking down on financial crime and the illicit use of mail"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-04T07:17:04.332232Z",
-      "event_id": "bcuc-proceedings:defcca19b278ec83813e",
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "bcuc-proceedings:b6d884bf37037fcf0ee4",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-22: BOSMA, A. (BOSMA) – Letter of Comment"
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-3: PUBLIC – PNG submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "bcuc-proceedings:3b61947dd198e62b17dd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-4: CONFIDENTIAL – PNG submitting response to BCUC Confidential Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:15895456a788582d1af6",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, November 4, 2026, volume 160, number 22"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "house-committee-reports:778b28f746e4b5d83068",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response due: PACP — Housing in First Nations Communities"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:566c1c5d7056f13a4636",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "2021 Census of Population—Data tables for the Families, households, and marital status topic"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:1c5c393971a9927d38bd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Biannual Survey of Suppliers of Business Financing, <span class=\"refper\">first half of 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:974cc0985c19a3793a8e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international merchandise trade, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:d5dddd65e5c46d88a8f4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canadian international trade in services, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:e5c7e1860135fef1a0d4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Elementary and secondary education: Enrolment growth slows, as school populations shift toward higher grades, <span class=\"refper\">2024/2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:903b375df74711735ba9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:2dc07e605dd932b22056",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Provisional poverty estimates, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:7be5435892b5a67e4cc6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sawmills, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:fe27fe0c15e1de0e761b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Belonging and barriers: Understanding quality of life for transgender, non-binary and 2SLGBTQ+ Canadians"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-04T07:17:04.332232Z",
-      "event_id": "boc-upcoming:11e3afa22b438ebe2718",
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "bcuc-deadlines:62dd58683c83aaf1faca",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "bcuc-proceedings:f74172d38f498fba9f92",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "gazette-part-ii:79ef7e5d4d4be3307281",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-ii",
+      "title": "Canada Gazette - Part II, July 29, 2026, volume 159, number 15"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:2805a57f421992fd291b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sawmills, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-daily:ce419691b4caacc38c0f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel arrangement services, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-04T19:20:09.337482Z",
+      "event_id": "statcan-key-indicators:6bac10cb3a002d5e0e8a",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
     }
   ],
-  "generated_at": "2026-11-04T07:17:04.332232+00:00",
-  "run_id": "20261104T071704Z-3faff782",
+  "generated_at": "2026-11-04T19:20:09.337482+00:00",
+  "run_id": "20261104T192009Z-bd168957",
   "schema_version": "1.0"
 }
