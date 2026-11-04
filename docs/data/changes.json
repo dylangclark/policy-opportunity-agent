@@ -1,171 +1,13 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:bab8c45dee19d95c8e50",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C2-2: CEC submitting Information Request No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:44e83536ff238c194d17",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-3: COSCO submitting Information Request No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:869f76c87b596ca0ebaa",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — A-3: PUBLIC – BCUC Information Request No. 1 to PNG"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:63e95fe0644821160493",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — A-4: CONFIDENTIAL – BCUC Information Request No. 1 to PNG"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:bf0300dfb26c2cc10158",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — D-1: DISTRICT OF KITIMAT (KITIMAT) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:632001c9c1fcc2730e03",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:fac4fc31537582fdfe80",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:206f487e7b59ed17a181",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:f74172d38f498fba9f92",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "boc-speeches:61453d1afcd1ad7fd4c1",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Opening Statement before the House of Commons Standing Committee on Finance"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "cer-news:4cbca20abd7c3f022990",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Warning Letter issued to CNOOC Trading (Singapore) PTE. LTD. (CNOOC Singapore)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:eed85751fae49a1e8d86",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Statutory Review of the Canadian Net-Zero Emissions Accountability Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:dc7add722fa5e0fcbd80",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:ba69e717ad3eebda4a2f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Housing Starts in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:ee25b7dc27db95b9a4f8",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Housing in First Nations Communities"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:ad9233dd8381b4111d65",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PACP — Public Accounts of Canada 2023"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:e94243617e776e66c8c1",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-04T07:17:04.332232Z",
       "event_id": "iaac-major-projects:f20bd88902b520bbd316",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
@@ -174,86 +16,41 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "statcan-daily:f465834b8b306fee64b2",
+      "detected_at": "2026-11-04T07:17:04.332232Z",
+      "event_id": "boc-upcoming:2cd1355e46c598832651",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Amusement and recreation industry, <span class=\"refper\">2025</span>"
+      "source_id": "boc-upcoming",
+      "title": "Christmas Day"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "statcan-daily:94033a553d314e41039d",
+      "detected_at": "2026-11-04T07:17:04.332232Z",
+      "event_id": "finance-canada-news:0103a2972bb44fbc1a14",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Condominium Apartment Price Index, <span class=\"refper\">third quarter 2026</span>"
+      "source_id": "finance-canada-news",
+      "title": "Canada, Minister Champagne table legislation cracking down on financial crime and the illicit use of mail"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-deadlines:c61c2855fdb5cb00add7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — Intervener IR No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
+      "detected_at": "2026-11-04T07:17:04.332232Z",
+      "event_id": "bcuc-proceedings:defcca19b278ec83813e",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
+      "title": "BCUC Metergy Status as a Public Utility — D-22: BOSMA, A. (BOSMA) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "bcuc-proceedings:8da2f62f766bd933e82a",
+      "detected_at": "2026-11-04T07:17:04.332232Z",
+      "event_id": "boc-upcoming:11e3afa22b438ebe2718",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — Intervener IR No. 1 to BC Hydro"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:eac955156115b693e1b3",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Sustaining Canada’s Freshwater for Today and Tomorrow"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:9f656104c9bab63d213c",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: BCAN — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-03T19:23:08.524618Z",
-      "event_id": "house-committee-reports:6659a13414d826d59e3d",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+      "source_id": "boc-upcoming",
+      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
     }
   ],
-  "generated_at": "2026-11-03T19:23:08.524618+00:00",
-  "run_id": "20261103T192308Z-5cac8d87",
+  "generated_at": "2026-11-04T07:17:04.332232+00:00",
+  "run_id": "20261104T071704Z-3faff782",
   "schema_version": "1.0"
 }
