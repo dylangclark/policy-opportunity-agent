@@ -3,257 +3,176 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bcuc-proceedings:277308e8037c0491c14b",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "boc-speeches:689d39f509855d993048",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "boc-upcoming:6039c6eb9ecd46f2fbd4",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Speech: Toni Gravelle, Deputy Governor"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "house-committee-reports:6659a13414d826d59e3d",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:aaa6d391daf9dde8cd20",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Ontario First Nations Point-of-Sale Exemption Survey, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:e5f4c02669d04723e820",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Provincial and territorial economic accounts, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:1b4e47a68a04fd945985",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Supply and use tables, <span class=\"refper\">2023</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "bcuc-deadlines:5812ec2b7c38a942b0da",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "bcuc-proceedings:223520dc4b5dccad1f25",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — C1-2: BCSEA submitting Information Request No. 1 to BC Hydro"
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with social media reminder posts"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "finance-canada-news:02a6f3bf3c6813a15b83",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "boc-upcoming:2cd1355e46c598832651",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Ministers Champagne and Sidhu to welcome Chinese Vice Premier He Lifeng and his delegation to Canada to advance economic cooperation"
+      "source_id": "boc-upcoming",
+      "title": "Christmas Day"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "cer-news:0c9185950a8cb7312600",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Added pipeline capacity expands markets for Canadian energy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "house-committee-reports:eed85751fae49a1e8d86",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ENVI — Statutory Review of the Canadian Net-Zero Emissions Accountability Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-05T19:19:34.062943Z",
       "event_id": "house-committee-reports:36be099519f04071d329",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:5d5d93b9e0ebf2e61fb7",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INDU — Driving Canada's Electric Vehicle (EV) Future: A Study of the Federal Government's EV Policies"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:a285dc1c64aa8ddb969c",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INDU — Understanding and Preventing Digital and Financial Fraud and Scams in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:b9b46a47366b7833e514",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: INDU — Understanding and Preventing Digital and Financial Fraud and Scams in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
       "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:6a94a8cdc2d1af7ab079",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "statcan-daily",
+      "title": "Canadian international merchandise trade, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:4ce507215f503ab08c29",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:2f341c10b3617da44a05",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 291: EDUCATION AND CHILD CARE Utilities Commission, s. 22 (2) The Island Generation Facility Exemption Regulation is made."
+      "source_id": "statcan-daily",
+      "title": "Canadian international trade in services, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:da6269e5ef23784edea6",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:1766c2921e33fa12bb26",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 292: WATER, LAND AND RESOURCE STEWARDSHIP Water Sustainability, s. 88 MO 285/2026 is amended as described. [re: Surface Water Licences in Appendix A]"
+      "source_id": "statcan-daily",
+      "title": "Surveying and mapping services, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:3f24f388b78d0cedf3db",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-daily:5d3fabb50154f89bb3da",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 294: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 59 (1) It is declared that a state of emergency exists throughout the whole of the Province of B..."
+      "source_id": "statcan-daily",
+      "title": "Violent victimization and unwanted sexual behaviours experienced by 2SLGBTQ+ people in Canada, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:f863f38b2f4738361669",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-key-indicators:6fa95b0332ac6f026070",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 295: WATER, LAND AND RESOURCE STEWARDSHIP Water Sustainability, s. 88 MO 285/2026 is repealed. [re: water restrictions on the Salmon River]"
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:5146d1a79292a8330a18",
+      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "event_id": "statcan-key-indicators:7f7b6ff00afcb3d41b16",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 296: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Cherry Creek Waterworks District issued on June 4, 1957 (OIC 1335/1957) are amended as describe..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:400848fcbf8db5f54e2b",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 297: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Dewdney Area Improvement District issued August 17, 1972 (OIC 3164/1972) are amended as describ..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:76741f12f3187b99ae1c",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 298: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Fairview Heights Irrigation District issued on May 15, 1951 (OIC 1100/1951) are amended as desc..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:8afce9cce4538a936f6d",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 299: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Lower Nicola Waterworks District issued on February 23, 1965 (OIC 534/1965) are amended as desc..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:b63fa317b225d3765c28",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 300: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Otter Lake Waterworks District issued on August 31, 1932 (OIC 999/1932) are amended as describe..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:f88e7554837482197628",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 301: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Robson-Raspberry Improvement District issued on June 20, 1983 (OIC 974/1983) are amended as des..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:4df6b1bf77282d0c83f9",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 302: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the South Quadra Fire Protection District issued on January 21, 1960 (OIC 109/1960) are amended as..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:d1aee306a996d5c3bec3",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 303: HOUSING AND MUNICIPAL AFFAIRS Local Government, s. 679 The Letters Patent for the Vermilion Irrigation District issued on November 1, 1947 (OIC 2210/1947) are amended as describ..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bc-legal-orders:c0b29ec9bf1a3192094a",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 373: LABOUR Employment Standards, s. 127 (2) The Reservists' Leave Regulation, B.C. Reg. 254/2016, is amended as set out in the Schedule."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bcuc-proceedings:e03ab30b4bd4567ad322",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-3: BC Hydro submitting confirmation of public notice in compliance with G-200-26"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "bcuc-proceedings:104aa2c4946d1754b57b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FBC 2027 Annual Review of Rates — A-7: Order G-219-26 regarding ICG Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:3bd6458b892db5acc883",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Main Estimates 2026-27: Votes 1 and 5 under Canada Water Agency, Votes 1, 5 and 10 under Department of the Environment, Votes 1 and 5 under Impact Assessment Agency of Canada and Votes 1, 5 and 10 under Parks Canada Agency"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:dc7add722fa5e0fcbd80",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:66bcae1f01add9b5b9dd",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: HUMA — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:6db96bce0b50e16a59bb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: PROC — Main Estimates 2026-27: Vote 1 under Canada Mortgage and Housing Corporation, Votes 1 and 5 under Canadian Accessibility Standards Development Organization, Vote 1 under Canadian Centre for Occupational Health and Safety and Votes 1 and 5 under Department of Employment and Social Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T07:18:25.910551Z",
-      "event_id": "house-committee-reports:e94243617e776e66c8c1",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: LANG — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
     }
   ],
-  "generated_at": "2026-11-05T07:18:25.910551+00:00",
-  "run_id": "20261105T071825Z-ffafb4ec",
+  "generated_at": "2026-11-05T19:19:34.062943+00:00",
+  "run_id": "20261105T191934Z-e0a68aea",
   "schema_version": "1.0"
 }
