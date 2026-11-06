@@ -1,49 +1,49 @@
 {
   "counts": {
-    "changes": 14,
-    "events": 622,
-    "opportunities": 504,
+    "changes": 17,
+    "events": 618,
+    "opportunities": 500,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 5075,
-      "count": 14,
+      "bytes": 6687,
+      "count": 17,
       "path": "changes.json",
-      "sha256": "76e615213279472816020dfadc598542e46fa343a303a5347e5262ccf373be3c"
+      "sha256": "379b6da897cccc7cbeb7628c3956a5b818ad91d16d09df21e808362cd0280c56"
     },
     "events": {
-      "bytes": 1001163,
-      "count": 622,
+      "bytes": 961823,
+      "count": 618,
       "path": "events.json",
-      "sha256": "5dce881de106b2bbdf2aee30aeed7801a1908c99d62521c23cb6e6f74820da51"
+      "sha256": "f9f2bdd0f7eeb9ac9cf01816a3e1b6d847b755dbec089991ce2faba3240211e4"
     },
     "heartbeat": {
       "bytes": 248,
       "path": "heartbeat.json",
-      "sha256": "178b3ab5724fbf3017f24b780821e61af8823b658dc78b22f69a884cfb4d6ebc"
+      "sha256": "5a29de8b59351e79f6e24a6d9d99239c1acd9e51589f9a6e04ed96963bf37db1"
     },
     "opportunities": {
-      "bytes": 958377,
-      "count": 504,
+      "bytes": 948857,
+      "count": 500,
       "path": "opportunities.json",
-      "sha256": "408a3adc70111f8b94fd97300aa70ad2c63c0a23a7282c1bb3e5cba828886af9"
+      "sha256": "80e139f703342a34b452e131094df2f05783eec4623911f13a9e01b1a912b06b"
     },
     "source_status": {
       "bytes": 15877,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "ab66947a3172d947f94aacd60d44fbf6db39bcf5649b62abe313432932ee9267"
+      "sha256": "4e71f32a8c16fef11139e0ddae0bf9ddd779ddfe6c46c883313a667aaae0c044"
     }
   },
-  "generated_at": "2026-11-06T07:18:01.245094Z",
+  "generated_at": "2026-11-06T19:20:37.285635Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261106T071801Z-02cbaaa8",
+  "run_id": "20261106T192037Z-1d67c720",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,

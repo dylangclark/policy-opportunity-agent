@@ -1,133 +1,163 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "boc-upcoming:2cd1355e46c598832651",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-key-indicators:a528c839826b4f9adc92",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Christmas Day"
+      "source_id": "statcan-key-indicators",
+      "title": "Labour Force Survey"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:49f88f2f8d3647cc7010",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "gazette-part-i:98905c0088bfc43f481b",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Budget 2026: Key Measures"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, November 6, 2026, volume 160, extra number 8"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:81374cde3517e8d1c86e",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "gazette-part-i:d60b497edaaa49636688",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada releases Budget 2026: Masters of our destiny"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, November 7, 2026, volume 160, number 45"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:5216e9d30517561fb1fb",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-daily:fb62a3f839048823261a",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework"
+      "source_id": "statcan-daily",
+      "title": "Canadian foreign post indexes, <span class=\"refper\">November 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:4551524acb17103dc0c0",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-daily:d28851beb8dbacc48e6d",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Montréal to discuss Budget 2026"
+      "source_id": "statcan-daily",
+      "title": "Labour Force Survey, <span class=\"refper\">October 2026</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:b745b209689b182dbe22",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-daily:88ad8712c217be598949",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Mortgage Insurance Rule Changes to Support “Missing Middle” Housing"
+      "source_id": "statcan-daily",
+      "title": "Mortality trends among adults with a history of incarceration, <span class=\"refper\">2015/2016 to 2023/2024</span>"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "finance-canada-news:9e5261a01b00d05eb7a8",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-daily:4ed7e7836a6866f48a9d",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Remarks by the Minister of Finance and National Revenue"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "house-committees:7ed949bdc7c3c24985a3",
-      "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, November 16, 2026"
+      "source_id": "statcan-daily",
+      "title": "Retail Commodity Survey, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "bc-regulations:b5e4e480570f9092e75f",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bc-regulations:efc400292bbb61f87133",
       "schema_version": "1.0",
       "source_id": "bc-regulations",
-      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective November 6, 2026 135/2026 July 20, 2026"
+      "title": "406/2026 Amends B.C. Regs. 134/2023 34/2024 159/2026 September 22, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "boc-upcoming:b3c0c7dfb0a036a2771f",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bc-regulations:a874de6a9ebad8427675",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
+      "source_id": "bc-regulations",
+      "title": "407/2026 Amends B.C. Reg. 93/2013 — Designated Accommodation Area Tax Regulation, parts effective November 1, 2026 and January 1, 2027 160/2026 September 22, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "house-committees:ee4b6e0703d9156d2326",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bc-regulations:08d3d7825a31d236ea6c",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, October 5, 2026"
+      "source_id": "bc-regulations",
+      "title": "408/2026 Amends B.C. Regs. 114/2026, effective September 30, 2026 97/2013 — Provincial Sales Tax Exemption and Refund Regulation, effective October 1, 2026 161/2026 September 22, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "house-committees:d6deeaaff9e74c6985dc",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bc-regulations:20e778414cb113e0c94d",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, October 8, 2026"
+      "source_id": "bc-regulations",
+      "title": "416/2026 Amends B.C. Reg. 438/81 — Prescribed Classes of Property Regulation 164/2026 October 13, 2026 Attorney General Statutes Amendment Act, 2025 120/2026 S.B.C. 2025, c. 16 — see Acts in Force 48/2026 April 7, 2026 333/2026 S.B.C. 2025, c. 16 — see Acts in Force 125/2026 July 17, 2026 Attorney General Statutes Amendment Act (No. 2), 2025 66/2026 S.B.C. 2025, c. 25 — see Acts in Force 22/2026 March 9, 2026 Balanced Budget and Ministerial Accountability Act Treasury Board Enacts Minister of St"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "house-committees:342bdfd85558c892f50f",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bcuc-deadlines:58c72b2f657e9fa0d2ae",
       "schema_version": "1.0",
-      "source_id": "house-committees",
-      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, October 6, 2026"
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — Letters of comment deadline"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-06T07:18:01.245094Z",
-      "event_id": "iaac-major-projects:fcdc66460a1461047ec1",
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "bcuc-proceedings:f98a54180e5860931633",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "finance-canada-news:999df1cd3ff5ffe18b09",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne introduces legislation to extend the federal fuel excise tax relief for Canadians"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "gazette-part-i:1eb81d5799cb53b5df97",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, September 19, 2026, volume 160, number 38"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-daily:95c4367141b0472d2c98",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly average retail prices for selected products, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T19:20:37.285635Z",
+      "event_id": "statcan-key-indicators:341400942026c0ad833f",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Retail trade"
     }
   ],
-  "generated_at": "2026-11-06T07:18:01.245094+00:00",
-  "run_id": "20261106T071801Z-02cbaaa8",
+  "generated_at": "2026-11-06T19:20:37.285635+00:00",
+  "run_id": "20261106T192037Z-1d67c720",
   "schema_version": "1.0"
 }
