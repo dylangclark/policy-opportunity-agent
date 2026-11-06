@@ -3,176 +3,131 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "boc-speeches:689d39f509855d993048",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "boc-upcoming:6039c6eb9ecd46f2fbd4",
-      "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Speech: Toni Gravelle, Deputy Governor"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "house-committee-reports:6659a13414d826d59e3d",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:aaa6d391daf9dde8cd20",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Ontario First Nations Point-of-Sale Exemption Survey, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:e5f4c02669d04723e820",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Provincial and territorial economic accounts, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:1b4e47a68a04fd945985",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Supply and use tables, <span class=\"refper\">2023</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "bcuc-deadlines:5812ec2b7c38a942b0da",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "bcuc-proceedings:223520dc4b5dccad1f25",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP confirmation of compliance with social media reminder posts"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
       "event_id": "boc-upcoming:2cd1355e46c598832651",
       "schema_version": "1.0",
       "source_id": "boc-upcoming",
       "title": "Christmas Day"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "cer-news:0c9185950a8cb7312600",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:49f88f2f8d3647cc7010",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Added pipeline capacity expands markets for Canadian energy"
+      "source_id": "finance-canada-news",
+      "title": "Budget 2026: Key Measures"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:81374cde3517e8d1c86e",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada releases Budget 2026: Masters of our destiny"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:5216e9d30517561fb1fb",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:4551524acb17103dc0c0",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Montréal to discuss Budget 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:b745b209689b182dbe22",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Mortgage Insurance Rule Changes to Support “Missing Middle” Housing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "finance-canada-news:9e5261a01b00d05eb7a8",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Remarks by the Minister of Finance and National Revenue"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "house-committees:7ed949bdc7c3c24985a3",
+      "schema_version": "1.0",
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, November 16, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "house-committee-reports:eed85751fae49a1e8d86",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "bc-regulations:b5e4e480570f9092e75f",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Statutory Review of the Canadian Net-Zero Emissions Accountability Act"
+      "source_id": "bc-regulations",
+      "title": "Workers' Compensation Board Amends B.C. Reg. 296/97 — Occupational Health and Safety Regulation, effective November 6, 2026 135/2026 July 20, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "house-committee-reports:36be099519f04071d329",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "boc-upcoming:b3c0c7dfb0a036a2771f",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Review of the Governor in Council’s and the Minister’s Exercise of Their Powers and Performance of Their Duties and Functions Under the Building Canada Act"
+      "source_id": "boc-upcoming",
+      "title": "Appearance: Tiff Macklem, Governor, and Carolyn Rogers, Senior Deputy Governor"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "house-committees:ee4b6e0703d9156d2326",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Monday, October 5, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:6a94a8cdc2d1af7ab079",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "house-committees:d6deeaaff9e74c6985dc",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international merchandise trade, <span class=\"refper\">August 2026</span>"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Thursday, October 8, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:2f341c10b3617da44a05",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "house-committees:342bdfd85558c892f50f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian international trade in services, <span class=\"refper\">August 2026</span>"
+      "source_id": "house-committees",
+      "title": "Transport, Infrastructure and Communities (TRAN) — Tuesday, October 6, 2026"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:1766c2921e33fa12bb26",
+      "detected_at": "2026-11-06T07:18:01.245094Z",
+      "event_id": "iaac-major-projects:fcdc66460a1461047ec1",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Surveying and mapping services, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-daily:5d3fabb50154f89bb3da",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Violent victimization and unwanted sexual behaviours experienced by 2SLGBTQ+ people in Canada, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-key-indicators:6fa95b0332ac6f026070",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Industrial product and raw materials price indexes"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-05T19:19:34.062943Z",
-      "event_id": "statcan-key-indicators:7f7b6ff00afcb3d41b16",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Travel between Canada and other countries"
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
     }
   ],
-  "generated_at": "2026-11-05T19:19:34.062943+00:00",
-  "run_id": "20261105T191934Z-e0a68aea",
+  "generated_at": "2026-11-06T07:18:01.245094+00:00",
+  "run_id": "20261106T071801Z-02cbaaa8",
   "schema_version": "1.0"
 }
