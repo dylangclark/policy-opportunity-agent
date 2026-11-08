@@ -1,52 +1,6 @@
 {
-  "changes": [
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-08T07:17:18.092085Z",
-      "event_id": "bcuc-proceedings:a6178906777a715e32da",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-19: YANG, S. (YANG) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-08T07:17:18.092085Z",
-      "event_id": "bcuc-proceedings:816145c1c24e8bccc451",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-4: Request for submission on City of Burnaby Request to Intervene"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-08T07:17:18.092085Z",
-      "event_id": "bcuc-proceedings:16ebcffde805de0133a6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-08T07:17:18.092085Z",
-      "event_id": "bcuc-proceedings:f99d86aaddedffe66a48",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — A-2: Order G-223-26 establishing a regulatory timetable"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-08T07:17:18.092085Z",
-      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
-    }
-  ],
-  "generated_at": "2026-11-08T07:17:18.092085+00:00",
-  "run_id": "20261108T071718Z-d7b84e80",
+  "changes": [],
+  "generated_at": "2026-11-08T19:23:42.921205+00:00",
+  "run_id": "20261108T192342Z-6ae93592",
   "schema_version": "1.0"
 }
