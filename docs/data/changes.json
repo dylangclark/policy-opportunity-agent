@@ -1,61 +1,456 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
       "event_id": "iaac-major-projects:81e825a41b4808e373a6",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
       "title": "Berg Copper Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Berg Copper Project as well as British Columbia's Environmental Asse"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
-      "event_id": "bcuc-proceedings:2d51479488f2c2406321",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-3: Order G-224-26 regarding requests to intervene"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
-      "event_id": "bcuc-proceedings:37ec8cc7a090073bb876",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3-1: CONFIDENTIAL – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
-      "event_id": "bcuc-proceedings:a02b1691a6ccb99f775a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — B-3: PUBLIC – FEI submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
-      "event_id": "iaac-major-projects:dbd11c0ac34a6af99952",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "iaac-major-projects:f20bd88902b520bbd316",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada (IAAC) accepted the proponent’s Initial Project Description and received a request to substitute the impact assessment process from the Government of British Columbia."
+      "title": "Lazy Head Marine Terminal Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Lazy Head Marine Terminal Project and provide feedback by November 2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:f299ff09635e7811da9b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — BCUC Information Request (IR) No. 1 to Wesgroup SV"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:c3befe158d190d8d2eaf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:9eef300e890318cdd210",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:fb63de56dd85eb43377c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV reply to letters of comment, if any, and final arguments"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:19bd3e17fc7faa6f64ed",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:845e0b0397ff52b583dd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV to post public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:b6d884bf37037fcf0ee4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-3: PUBLIC – PNG submitting response to BCUC Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:3b61947dd198e62b17dd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-4: CONFIDENTIAL – PNG submitting response to BCUC Confidential Information Request No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:bf0300dfb26c2cc10158",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — D-1: DISTRICT OF KITIMAT (KITIMAT) – Letter of Comment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:632001c9c1fcc2730e03",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:fac4fc31537582fdfe80",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:206f487e7b59ed17a181",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:14c3598bec6aa96c1293",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:a37bb665d7438e16882d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-2: Order G-241-26 establishing a regulatory timetable and public notice"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:8474ce5266ade771e4cf",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — B-1-1: CONFIDENTIAL – PREI Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:fa32bee779c7f8876df4",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — B-1: PUBLIC – POWELL RIVER ENERGY INC. (PREI) – Rates Application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:52b45e0626705d62c590",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — BCUC Information Request (IR) No. 1 to PREI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:208a6d099153ef895692",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:ab80f7584228390b710f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:0b8c1c9cfee025dc141c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI public notice of application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:5493683fad215b0c9a5a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:be345c2da4ec132e4493",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "finance-canada-news:e01a459f9d8580915e13",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to participate in an armchair discussion in Winnipeg to discuss Budget 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "finance-canada-news:94431a023f233abad0b9",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Ryan Turnbull highlights Budget 2026 measures to make life more affordable for Canadians"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:e453fdfc49a6fe4738f9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Accounting services, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-09T07:23:46.049156Z",
-      "event_id": "iaac-major-projects:6cd7ca0462d3bf7cc847",
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:956c670d94a2b4d96863",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — BCUC Information Request (IR) No. 1 to Wesgroup SV"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:39285a7ccbbed852cd2a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:9749ea42fb116a6ab51d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:b472ca7d8f0f14729f1b",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV reply to letters of comment, if any, and final arguments"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:022cb724f33d90dae63f",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-deadlines:66e8e1eb7c31f45d3cc5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesbrook Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV to post public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:0f07b6a0618380a79998",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BMUS Sun Rivers and Sonoma Pines Natural Gas Service RS 3 and 5 — G-240-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:16f9042292129b9d54e2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — B-2: FEI submitting supplemental information"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:f2a00d9767ea0341b800",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Third Party Customers at Mid Island Station in Nanaimo – Permanent Rates — G-236-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "bcuc-proceedings:a2ed386ebe73257fc4e9",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Tariff Supplement L-3 to RS 46 FEI and BC Hydro Service — G-239-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "iaac-major-projects:916306db44ecff58b6ab",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the Decision Statement."
+      "title": "15-Mile Processing Hub Project: — The Impact Assessment Agency of Canada decided that an impact assessment for the designated project is required and has issued its Impact Assessment Decision with Reasons."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:6d29f169b6ffa8b4e604",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Annual Wholesale Trade - Commodities, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:0be4354a3deb2f55c333",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic contribution of critical mineral production in Canada, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:08e9be4449966a323a16",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm Input Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:8d99e6e5ad6b0c6d35ed",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm product prices, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:e9f710e6199472de96cd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Film, television and video post-production, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:3375958e30f4ee685d41",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour Force Survey, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:4bc045d4b9518c568840",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National supply and disposition of major grains, <span class=\"refper\">2025/2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:2b624f3388ab1d93cd47",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Police-reported hate crime and cybercrime, preliminary quarterly data, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:0d96cde42b22f9a18f7a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Commodity Survey, <span class=\"refper\">July 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-09T19:22:09.454134Z",
+      "event_id": "statcan-daily:5ae7a63e2228ef8f5f4c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Sector-based Producer Price Indexes, <span class=\"refper\">second quarter 2026</span>"
     }
   ],
-  "generated_at": "2026-11-09T07:23:46.049156+00:00",
-  "run_id": "20261109T072346Z-b2c41d71",
+  "generated_at": "2026-11-09T19:22:09.454134+00:00",
+  "run_id": "20261109T192209Z-b2227164",
   "schema_version": "1.0"
 }
