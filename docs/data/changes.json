@@ -1,119 +1,178 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "description",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:a334e006201446d1360c",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-proceedings:1f38e07cef091c79f46d",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-1: WESGROUP STRATEGIC VENTURES LIMITED PARTNERSHIP AND WESGROUP STRATEGIC VENTURES LTD. (WESGROUP SV) – Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd."
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C3-2: COSCO submitting Information Request No. 1 to BC Hydro"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:359a2f291bd873ea3dbc",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-proceedings:72133a0a6d0ef453f855",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — C2-2: RCIA submitting Information Request No. 1 to BC Hydro"
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-5: PNG submitting confirmation of social media reminder posts in compliance with Order G-199-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:206f477334e20e6bd68c",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "boc-upcoming:dc67110a5d299d8f5312",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — C4-2: CSC submitting Information Request No. 1 to BC Hydro"
+      "source_id": "boc-upcoming",
+      "title": "Boxing Day"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:991fbbcecd13c204f9c7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — D-2: SHAFFER, C. (SHAFFER) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:9c694b6f49da2c7c7346",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for A&A at the Annacis Island Station – Permanent Rates — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:4e97e4afd6977a4f29a4",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for A&A at the Annacis Island Station – Permanent Rates — G-244-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "finance-canada-news:4e27d655134b0f9c703e",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "finance-canada-news:a6bb52e91833870e7a41",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Canada modifies tariff relief measures to better support workers and businesses"
+      "title": "Secretary of State Long in Saint John to discuss Budget 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "finance-canada-news:bf52ca3b21bba2b8d7a4",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Joint Factsheet: Second Canada–China Economic and Financial Strategic Dialogue"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "finance-canada-news:f517cfa589e2f211915d",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Ministers Champagne and Sidhu deepen Canada-China economic ties and cooperation with Vice Premier He Lifeng"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "iaac-major-projects:73c2b741f9e5b0125be8",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The public comment period on the summary of the Initial Project Description, British Columbia's Environmental Assessment Office's substitution request and the participant funding application period closed on November 9"
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "iaac-major-projects:abf30f90c15bb72de49a",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada and British Columbia’s Environmental Assessment Office invite Indigenous Peoples and the public to review the summary of the Initial Project Description for the North Island Mine"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:66b1f0c3bddd679e8928",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Adult criminal court and youth court, preliminary quarterly data, <span class=\"refper\">first quarter of 2026/2027</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:ef3f6315ae0fbca40b66",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric Power Selling Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:80b6aba29ab8a88f6ec5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy supply and demand, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:dd8afcb64f7e30b3af09",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm product prices, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:04827efb7fb2f435d8bc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial Water Survey, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:cdcf30ebe7fbae24fbd1",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Prepared Food and Beverage Sales Survey, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "statcan-daily:e0c4f9d267313666f8d6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Trends in police-reported family violence and intimate partner violence in Canada, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "bcuc-proceedings:55b796cc6a16f9e9e19c",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-deadlines:ba6a5990a4b29daaf311",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-20: FAN, F. (FAN) – Letter of Comment"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Optional Fixed Bill Plus Rate — Intervener IR No. 1 to BC Hydro"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-10T07:23:51.480452Z",
-      "event_id": "iaac-major-projects:81e825a41b4808e373a6",
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-deadlines:4caf961743b3cd908214",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Berg Copper Project as well as British Columbia's Environmental Asse"
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-proceedings:1e42eed24e7b74ccc648",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — Intervener IR No. 1 to BC Hydro"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "bcuc-proceedings:fac4fc31537582fdfe80",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG confirmation of compliance with social media reminder posts"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "boc-upcoming:e612ee0b473eb9fc8c26",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Release: Market Participants Survey"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-10T19:22:14.551382Z",
+      "event_id": "finance-canada-news:8b9ed64b47d80dfccad7",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Shawinigan, reiterating the government’s strategic investments in national defence and regional economic development"
     }
   ],
-  "generated_at": "2026-11-10T07:23:51.480452+00:00",
-  "run_id": "20261110T072351Z-615ef1f2",
+  "generated_at": "2026-11-10T19:22:14.551382+00:00",
+  "run_id": "20261110T192214Z-fcc5221c",
   "schema_version": "1.0"
 }
