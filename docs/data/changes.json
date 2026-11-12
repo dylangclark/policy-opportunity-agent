@@ -1,6 +1,163 @@
 {
-  "changes": [],
-  "generated_at": "2026-11-12T07:19:22.183751+00:00",
-  "run_id": "20261112T071922Z-b6fbb4d2",
+  "changes": [
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-key-indicators:de1dea0a83db6cb73f83",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "finance-canada-news:7b3eedc3f3af1acee0e1",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull to highlight Budget 2026 federal support for industry in Guelph"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "finance-canada-news:d72e5fea073e410365c2",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary Long in Toronto to highlight tax reform in Budget 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "finance-canada-news:e81bdc93993023826844",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Wayne Long highlights Budget 2026 measures to make life more affordable for Canadians"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:c50c4b7113daa3bddf8e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:cda1c013b6aff72dfdb5",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Characteristics of self-employed workers, <span class=\"refper\">2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:d692badf412a169f7a01",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consulting Services Price Index, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:1069d6b11ae63c4e4872",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:9124be588b7f92723704",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:1aa1be51a38b001e74db",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Residential Renovation Price Index, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "bcuc-deadlines:4e5e9c0c51b343d198c1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "bcuc-proceedings:632001c9c1fcc2730e03",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "boc-upcoming:d0185ee510ee40d49a41",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Remembrance Day"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "iaac-major-projects:f20bd88902b520bbd316",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Lazy Head Marine Terminal Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Lazy Head Marine Terminal Project and provide feedback by November 2"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:c07ec027c4047f4d5c04",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric Power Selling Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-daily:8af735bd67badba97a70",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Leading indicator of international arrivals to Canada, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-12T19:17:09.947986Z",
+      "event_id": "statcan-key-indicators:13d88fba387d7c934424",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Payroll employment, earnings and hours, and job vacancies"
+    }
+  ],
+  "generated_at": "2026-11-12T19:17:09.947986+00:00",
+  "run_id": "20261112T191709Z-ac49eb09",
   "schema_version": "1.0"
 }
