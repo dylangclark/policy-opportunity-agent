@@ -1,142 +1,279 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:b32714d8825bc71fe008",
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — C5-6: AMPC submitting Final Argument Extension Request"
+      "title": "BC Hydro TS 6 Amendment — BC Hydro Reply Argument"
     },
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:173973ef7718a496d536",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-28: BOLDYRIEVA, Y. (BOLDYRIEVA) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:5988ef1118adb24c564b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — B-6: PNG submitting response to District of Kitimat Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "finance-canada-news:12f26c435749dc84afff",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government of Canada adjusts the taxable value threshold for zero-emission vehicles"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
+      "change_type": "changed",
+      "changed_fields": [
+        "content_hash"
+      ],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
       "event_id": "finance-canada-news:2efe740277709c85b763",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
       "title": "Minister Champagne in Toronto to highlight Budget 2026"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bc-legal-orders:b46a6d78794fe5793d9c",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-key-indicators:3dc1df6053101c20ac94",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 375: Constitution, s. 11; Members' Conflict of Interest, s. 11 The Schedule to OIC 597/2024 is amended by repealing and replacing items 10, 12, 16 and 18, as set out in the Appendix..."
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
     },
     {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bc-legal-orders:990de438a6565c50bcf8",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-key-indicators:70fe1b9e47b000f997e2",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 378: Public Service, s. 15 Effective August 24, 2026, Kathlene Louise Olivares is appointed as a Ministerial Advisor in the Office of the Minister of Emergency Management and Climate..."
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-deadlines:3c3b963261f03fc1abb8",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-deadlines:1f8d4944248c4058cd2c",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — 2025 Call for Power — BC Hydro response to letter of comment and final argument"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro Reply Argument"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-deadlines:ad0c72ac62b6424bf86f",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-deadlines:c3b9d729d0686fe8313d",
       "schema_version": "1.0",
       "source_id": "bcuc-deadlines",
-      "title": "FortisBC Energy Inc. (gas) — Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment — FEI response to letters of comment, if any, and final argument"
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener Final Argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-proceedings:ea816aa03e57930cbbf5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — A-9: Order G-245-26 amending the regulatory timetable"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-proceedings:b3d57242b8ff8e474cf1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Intervener Final Argument"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-proceedings:d73a286ea8e34e848722",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — B-2: PREI submitting extension request regarding Directive 5b of Order G-241-26"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "boc-speeches:44de81e9935ce0df4513",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Speech: Edmonton Chamber of Commerce"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "finance-canada-news:1ddd3f507e59b42547e5",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull highlights Government of Canada investments from Budget 2026 to support Ontario industries"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "finance-canada-news:adcb733809e706878a34",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull in Oshawa to highlight Budget 2026 investments in community recreational facilities and ice rinks"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "finance-canada-news:2462a546f201b514e7ff",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Long highlights generational tax reform and the suite of other measures for small businesses in Budget 2026: Masters of our destiny"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "gazette-part-i:7b467dd468e89e8592fa",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - 3rd Quarterly Index"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "gazette-part-i:d34bb482bbbf093c719b",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, November 14, 2026, volume 160, number 46"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:ee39ed456ba751e23482",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Architectural, Engineering and Related Services Price Index, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:9cf72994b8d930bd5c82",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Guidelines on time series methods"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:b8d8a1c99395c4718167",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:b8f350b9d4c42d871689",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oil Pipeline Financial Survey, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:b0cecc4b0d5a8d0b846d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade, <span class=\"refper\">September 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:ba9ce95ac4e712bb10ce",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-deadlines:7c4d0970de0ba2324b8b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 Call for Power — BC Hydro response to letter of comment and final argument"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro reply argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:9ee5fcb98f20dadc9d3b",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-deadlines:4d647662f910a5669069",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-2: BC Hydro submitting confirmation of public notice in compliance with G-216-26"
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Interveners final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:8bba59a7aa057274b7c5",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "bcuc-proceedings:0822c3518f0e068ff477",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — B-3-1: Metergy submitting confirmation of revised public notice in compliance with G-220-26"
+      "title": "BC Hydro TS 6 Amendment — Interveners final argument"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:62a9110c3022dcd1bf42",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "finance-canada-news:57efd4b757f1c0fc27c3",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-21: ZHENG, Y. (ZHENG) – Letter of Comment"
+      "source_id": "finance-canada-news",
+      "title": "Statement by the Minister of Finance welcoming the Financial Action Task Force Mutual Evaluation Report, showing Canada’s strong progress in combatting financial crime"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:34843e8b884e0a67dd27",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "gazette-part-i:d39074ddb597196ef6f9",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-23: DEL ANGEL ARGUELLES, N.N. (DEL ANGEL ARGUELLES) – Letter of Comment"
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, September 26, 2026, volume 160, number 39"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T07:22:34.158743Z",
-      "event_id": "bcuc-proceedings:dfff523b0ae3cce8a255",
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:1440e2c3c4366b31e13c",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — FEI response to letters of comment, if any, and final argument"
+      "source_id": "statcan-daily",
+      "title": "Building permits, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:77535738b4b5b933ee85",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Access to health care and services among the official language minority population, <span class=\"refper\">2022</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-daily:3bfb4c709ba704677bb4",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Understanding quality of life among persons with disabilities in Canada—material and social well-being"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-13T19:16:10.169684Z",
+      "event_id": "statcan-key-indicators:2c976e1e9d81029ca1c3",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Gross domestic product by industry"
     }
   ],
-  "generated_at": "2026-11-13T07:22:34.158743+00:00",
-  "run_id": "20261113T072234Z-c184fd03",
+  "generated_at": "2026-11-13T19:16:10.169684+00:00",
+  "run_id": "20261113T191610Z-efc4e6ae",
   "schema_version": "1.0"
 }
