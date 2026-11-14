@@ -3,77 +3,14 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bc-legal-orders:d87a02f06247f4e86cb5",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 377: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) MO 61/2017 is amended in Schedule 3 — High Cost Drugs, (1) effective November 4, 2026, by adding the drugs listed..."
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "finance-canada-news:32c23f5cb55d2c0607f9",
+      "detected_at": "2026-11-14T19:19:13.044483Z",
+      "event_id": "finance-canada-news:8d89847727a940b853af",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Selection process opens for Defence, Security and Resilience Bank’s host city"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bcuc-proceedings:7b8767ec651fd3cf26dd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-2: COSCO submitting Confidentiality Declaration and Undertaking forms"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bcuc-proceedings:2a366ebe13808ab87e63",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-24: QUAN, N. (QUAN) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bcuc-proceedings:7169caea3cd19ee2114b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-25: CREERY, K. (CREERY) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bcuc-proceedings:7d6607a940a900956df5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Replaced by A-2-1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-14T07:16:09.073800Z",
-      "event_id": "finance-canada-news:7f89ff4a89d448d666e7",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Secretary of State Long in Saint John to highlight new Productivity Mega Deduction that will help businesses invest, grow and create jobs in Canada"
+      "title": "Parliamentary Secretary Ryan Turnbull highlights Government of Canada’s investments in community recreational facilities and ice rinks from Budget 2026: Masters of our destiny"
     }
   ],
-  "generated_at": "2026-11-14T07:16:09.073800+00:00",
-  "run_id": "20261114T071609Z-840e7688",
+  "generated_at": "2026-11-14T19:19:13.044483+00:00",
+  "run_id": "20261114T191913Z-70a19c61",
   "schema_version": "1.0"
 }
