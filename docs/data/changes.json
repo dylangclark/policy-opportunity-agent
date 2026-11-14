@@ -1,279 +1,79 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "title",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bc-legal-orders:d87a02f06247f4e86cb5",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro Reply Argument"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 377: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) MO 61/2017 is amended in Schedule 3 — High Cost Drugs, (1) effective November 4, 2026, by adding the drugs listed..."
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "content_hash"
-      ],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "finance-canada-news:2efe740277709c85b763",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "finance-canada-news:32c23f5cb55d2c0607f9",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Minister Champagne in Toronto to highlight Budget 2026"
+      "title": "Selection process opens for Defence, Security and Resilience Bank’s host city"
     },
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-key-indicators:3dc1df6053101c20ac94",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Monthly Survey of Manufacturing"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-key-indicators:70fe1b9e47b000f997e2",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Wholesale trade"
-    },
-    {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-deadlines:1f8d4944248c4058cd2c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro Reply Argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-deadlines:c3b9d729d0686fe8313d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener Final Argument"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-proceedings:ea816aa03e57930cbbf5",
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bcuc-proceedings:7b8767ec651fd3cf26dd",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — A-9: Order G-245-26 amending the regulatory timetable"
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — C3-2: COSCO submitting Confidentiality Declaration and Undertaking forms"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-proceedings:b3d57242b8ff8e474cf1",
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bcuc-proceedings:2a366ebe13808ab87e63",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Intervener Final Argument"
+      "title": "BCUC Metergy Status as a Public Utility — D-24: QUAN, N. (QUAN) – Letter of Comment"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-proceedings:d73a286ea8e34e848722",
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bcuc-proceedings:7169caea3cd19ee2114b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — B-2: PREI submitting extension request regarding Directive 5b of Order G-241-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "boc-speeches:44de81e9935ce0df4513",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: Edmonton Chamber of Commerce"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "finance-canada-news:1ddd3f507e59b42547e5",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Turnbull highlights Government of Canada investments from Budget 2026 to support Ontario industries"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "finance-canada-news:adcb733809e706878a34",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Turnbull in Oshawa to highlight Budget 2026 investments in community recreational facilities and ice rinks"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "finance-canada-news:2462a546f201b514e7ff",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Secretary of State Long highlights generational tax reform and the suite of other measures for small businesses in Budget 2026: Masters of our destiny"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "gazette-part-i:7b467dd468e89e8592fa",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - 3rd Quarterly Index"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "gazette-part-i:d34bb482bbbf093c719b",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, November 14, 2026, volume 160, number 46"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:ee39ed456ba751e23482",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Architectural, Engineering and Related Services Price Index, <span class=\"refper\">third quarter 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:9cf72994b8d930bd5c82",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Guidelines on time series methods"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:b8d8a1c99395c4718167",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:b8f350b9d4c42d871689",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Oil Pipeline Financial Survey, <span class=\"refper\">2025</span>"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:b0cecc4b0d5a8d0b846d",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade, <span class=\"refper\">September 2026</span>"
+      "title": "BCUC Metergy Status as a Public Utility — D-25: CREERY, K. (CREERY) – Letter of Comment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-deadlines:7c4d0970de0ba2324b8b",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro reply argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-deadlines:4d647662f910a5669069",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Interveners final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "bcuc-proceedings:0822c3518f0e068ff477",
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bcuc-proceedings:7d6607a940a900956df5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Interveners final argument"
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "finance-canada-news:57efd4b757f1c0fc27c3",
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "bcuc-proceedings:f735bba41d2518f413d7",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2: Replaced by A-2-1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-14T07:16:09.073800Z",
+      "event_id": "finance-canada-news:7f89ff4a89d448d666e7",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Statement by the Minister of Finance welcoming the Financial Action Task Force Mutual Evaluation Report, showing Canada’s strong progress in combatting financial crime"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "gazette-part-i:d39074ddb597196ef6f9",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, September 26, 2026, volume 160, number 39"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:1440e2c3c4366b31e13c",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building permits, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:77535738b4b5b933ee85",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Access to health care and services among the official language minority population, <span class=\"refper\">2022</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-daily:3bfb4c709ba704677bb4",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Understanding quality of life among persons with disabilities in Canada—material and social well-being"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-13T19:16:10.169684Z",
-      "event_id": "statcan-key-indicators:2c976e1e9d81029ca1c3",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Gross domestic product by industry"
+      "title": "Secretary of State Long in Saint John to highlight new Productivity Mega Deduction that will help businesses invest, grow and create jobs in Canada"
     }
   ],
-  "generated_at": "2026-11-13T19:16:10.169684+00:00",
-  "run_id": "20261113T191610Z-efc4e6ae",
+  "generated_at": "2026-11-14T07:16:09.073800+00:00",
+  "run_id": "20261114T071609Z-840e7688",
   "schema_version": "1.0"
 }
