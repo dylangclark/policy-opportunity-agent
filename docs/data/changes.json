@@ -1,16 +1,52 @@
 {
   "changes": [
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-14T19:19:13.044483Z",
-      "event_id": "finance-canada-news:8d89847727a940b853af",
+      "detected_at": "2026-11-15T07:15:14.709167Z",
+      "event_id": "bcuc-proceedings:d8e983da7e6ec09c3dea",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Parliamentary Secretary Ryan Turnbull highlights Government of Canada’s investments in community recreational facilities and ice rinks from Budget 2026: Masters of our destiny"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 Call for Power — D-1: ASSOCIATION OF MAJOR POWER CUSTOMERS (AMPC) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-15T07:15:14.709167Z",
+      "event_id": "bcuc-proceedings:c15822aac3159b51d9eb",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — B-7: BC Hydro submitting response to Intervener Information Request No. 2"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-15T07:15:14.709167Z",
+      "event_id": "bcuc-proceedings:bf6cb2978421dba3d9bc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-3: FAES-KVULP submission on City of Burnaby Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-15T07:15:14.709167Z",
+      "event_id": "bcuc-proceedings:c3b1aeea4920b7669535",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-1-2: PUBLIC – FORTISBC ENERGY INC. (FEI) – Section 71 BPA Amending Agreements regarding Clean Fuel Regulations Credits and Related Accounting Treatment Application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-15T07:15:14.709167Z",
+      "event_id": "bcuc-proceedings:a465b721f8b95d6b0e28",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-1-3: CONFIDENTIAL – FEI Section 71 BPA Amending Agreements CFR Credits Application"
     }
   ],
-  "generated_at": "2026-11-14T19:19:13.044483+00:00",
-  "run_id": "20261114T191913Z-70a19c61",
+  "generated_at": "2026-11-15T07:15:14.709167+00:00",
+  "run_id": "20261115T071514Z-87310acd",
   "schema_version": "1.0"
 }
