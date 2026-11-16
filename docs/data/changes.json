@@ -1,16 +1,256 @@
 {
   "changes": [
     {
-      "change_type": "removed",
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "iaac-major-projects:73c2b741f9e5b0125be8",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Berg Copper Project: — The public comment period on the summary of the Initial Project Description, British Columbia's Environmental Assessment Office's substitution request and the participant funding application period closed on November 9"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "identifiers",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "iaac-major-projects:abf30f90c15bb72de49a",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada and British Columbia’s Environmental Assessment Office invite Indigenous Peoples and the public to review the summary of the Initial Project Description for the North Island Mine"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-key-indicators:3ffb3f69ec45e93f278e",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Consumer Price Index"
+    },
+    {
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T07:23:52.084994Z",
-      "event_id": "bcuc-proceedings:e105dae6262f5d25bc8d",
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "bcuc-proceedings:d2d05dcfacd401437953",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-2-1: Order G-225-26A establishing regulatory timetable"
+      "title": "Powell River Energy Inc. Rates — B-3: PREI submitting confirmation of public notice in compliance with G-241-26"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "boc-press-releases:d799fcf4ed47b483a18e",
+      "schema_version": "1.0",
+      "source_id": "boc-press-releases",
+      "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "cer-news:3e9b94757b3bf989ad64",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Oral hearings begin for Powell River Energy Inc. electricity export application"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "iaac-major-projects:215ccee650b4890a519f",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Greenstone Mine Project: — A non-substantive update has been made to the decision statement."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:4ca0a8995f4e1a6c933f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:544b0a1b814df7a289c7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Entrepreneurship indicators of Canadian enterprises, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:5c44d497d63ed43107aa",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Households and the Environment Survey, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:0ba8136279c3fea8b1a7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:a75dc2e8c466b3849f86",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Dual credit program in British Columbia, <span class=\"refper\">2004/2005 to 2021/2022</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "cer-news:22b1e82be2161a95b297",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Understanding Powell River Energy Inc.’s electricity export application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "finance-canada-news:cfdd05261b3df91aaa47",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister of Finance meets with provincial and territorial counterparts to discuss economic growth, health care and internal trade"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:6b4fc34f12897568d310",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:70a731f83e9fbe6e84cb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Disparities in decision and sentencing outcomes between Indigenous accused and White accused in youth courts in Canada, <span class=\"refper\">2016/2017 to 2022/2023</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:ad052f0985b2362ac616",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric power thermal generating station fuel consumption, <span class=\"refper\">2025 (preliminary)</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:063a93c5d22916d1362f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electricity supply and disposition, <span class=\"refper\">2025 (preliminary)</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:5f4c555216c986d6e9ff",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:28f09a776ecdffe611af",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Higher Education Expenditures on Research and Development"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:e0b750bb0370e6a90d43",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:7483a4f98b1109205af3",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New motor vehicle sales, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:35ace8be545f51caab53",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:66e8db7c6c8a6cdf4021",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-16T19:20:34.417154Z",
+      "event_id": "statcan-daily:9f8365641b8f81de648a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade, <span class=\"refper\">August 2026</span>"
     }
   ],
-  "generated_at": "2026-11-16T07:23:52.084994+00:00",
-  "run_id": "20261116T072352Z-73188a73",
+  "generated_at": "2026-11-16T19:20:34.417154+00:00",
+  "run_id": "20261116T192034Z-56e2bb20",
   "schema_version": "1.0"
 }
