@@ -3,158 +3,185 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:566f2dbb9be2df68deed",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:dc9af8e1186e5abcbbd5",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-29: LIGHTHEART, E. (LIGHTHEART) – Letter of Comment"
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-3: Wesgroup SV submitting evidentiary update regarding corporate name change"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:5ee930cd40b61e1dcb6e",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "finance-canada-news:2e202bd283d756521c85",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-30: ENERPRO SYSTEMS CORP. (ENERPRO) – Letter of Comment"
+      "source_id": "finance-canada-news",
+      "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:0f3f7c193f2b963d7b4b",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "finance-canada-news:3ef2b4b146c58f9b4739",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-31: NEELIN, P. (NEELIN) – Letter of Comment"
+      "source_id": "finance-canada-news",
+      "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:4dd1b2df74247190e364",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-32: HUNT, R. (HUNT) – Letter of Comment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:c87b061467bc371c620e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-7: BCUC Information Request No. 2 to to KVULP"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:df42dcd7a8c083ded970",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — A-1: Panel Appointment"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:e1fa026e32f98a0efe8a",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — G-248-26: Docket filing"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:a6b8db09bf5c1073dad9",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-2: Wesgroup SV submitting confirmation of public notice in compliance with G-243-26"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "house-committee-reports:eed85751fae49a1e8d86",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "house-committee-reports:bb890811064c75f43f11",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: ENVI — Statutory Review of the Canadian Net-Zero Emissions Accountability Act"
+      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "house-committee-reports:3123d2d2c966a97ed3ad",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: OGGO — The Comprehensive Expenditure Review"
+      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:c3b9d729d0686fe8313d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener Final Argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:7a26e24d72919923d0f2",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:2d286f307c7898911232",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — BCUC Information Request (IR) No. 2 to KVULP"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:9eef300e890318cdd210",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:845e0b0397ff52b583dd",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV to post public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-deadlines:eb66792f0d125d1dbfed",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Powell River Energy — Rates — PREI public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:b3d57242b8ff8e474cf1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro TS 6 Amendment — Intervener Final Argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:008c1e9aeb9e45db00ca",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:e84e107c0bf5ebcba1d1",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — BCUC Information Request (IR) No. 2 to KVULP"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:0b8c1c9cfee025dc141c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:c8710baaa918d6235884",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — Wesgroup SV confirmation of compliance with public notice requirements"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "bcuc-proceedings:1e341e7e7c2aec97fc00",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — Wesgroup SV to post public notice of application"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
+      "event_id": "house-committee-reports:6659a13414d826d59e3d",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T19:18:53.345566Z",
       "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bc-legal-orders:8aa78ef354fe1e76f176",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 308: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective August 14, 2026, MO 61/2017 is amended in Schedule 3 — High Cost Drugs by adding the drugs listed in th..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bc-legal-orders:551e356cca5cbe796722",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 309: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective September 3, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bc-legal-orders:a068bd55620225929ec2",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 310: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferees, are designated as exempt from the payment of taxe..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bc-legal-orders:ddea05b6519088e85326",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 379: Public Service, s. 15 Effective August 24, 2026, the appointment of Julina Yvonne Marie Guilbault, made by OIC 302/2025, is rescinded, and Julina Yvonne Marie Guilbault is appoi..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T07:19:53.003332Z",
-      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-11-17T07:19:53.003332+00:00",
-  "run_id": "20261117T071953Z-d58b82b2",
+  "generated_at": "2026-11-17T19:18:53.345566+00:00",
+  "run_id": "20261117T191853Z-add195c0",
   "schema_version": "1.0"
 }
