@@ -1,256 +1,160 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "iaac-major-projects:73c2b741f9e5b0125be8",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The public comment period on the summary of the Initial Project Description, British Columbia's Environmental Assessment Office's substitution request and the participant funding application period closed on November 9"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "description",
-        "identifiers",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "iaac-major-projects:abf30f90c15bb72de49a",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada and British Columbia’s Environmental Assessment Office invite Indigenous Peoples and the public to review the summary of the Initial Project Description for the North Island Mine"
-    },
-    {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-key-indicators:3ffb3f69ec45e93f278e",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Consumer Price Index"
-    },
-    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "bcuc-proceedings:d2d05dcfacd401437953",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:566f2dbb9be2df68deed",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — B-3: PREI submitting confirmation of public notice in compliance with G-241-26"
+      "title": "BCUC Metergy Status as a Public Utility — D-29: LIGHTHEART, E. (LIGHTHEART) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "boc-press-releases:d799fcf4ed47b483a18e",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:5ee930cd40b61e1dcb6e",
       "schema_version": "1.0",
-      "source_id": "boc-press-releases",
-      "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-30: ENERPRO SYSTEMS CORP. (ENERPRO) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "cer-news:3e9b94757b3bf989ad64",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:0f3f7c193f2b963d7b4b",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Oral hearings begin for Powell River Energy Inc. electricity export application"
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-31: NEELIN, P. (NEELIN) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "iaac-major-projects:215ccee650b4890a519f",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:4dd1b2df74247190e364",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Greenstone Mine Project: — A non-substantive update has been made to the decision statement."
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — D-32: HUNT, R. (HUNT) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:4ca0a8995f4e1a6c933f",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:c87b061467bc371c620e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index, <span class=\"refper\">October 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-7: BCUC Information Request No. 2 to to KVULP"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:544b0a1b814df7a289c7",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:df42dcd7a8c083ded970",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Entrepreneurship indicators of Canadian enterprises, <span class=\"refper\">2024</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:5c44d497d63ed43107aa",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:e1fa026e32f98a0efe8a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Households and the Environment Survey, <span class=\"refper\">2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — G-248-26: Docket filing"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:0ba8136279c3fea8b1a7",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:a6b8db09bf5c1073dad9",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New motor vehicle sales, <span class=\"refper\">September 2026</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-2: Wesgroup SV submitting confirmation of public notice in compliance with G-243-26"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:a75dc2e8c466b3849f86",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "house-committee-reports:eed85751fae49a1e8d86",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Dual credit program in British Columbia, <span class=\"refper\">2004/2005 to 2021/2022</span>"
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: ENVI — Statutory Review of the Canadian Net-Zero Emissions Accountability Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "house-committee-reports:3123d2d2c966a97ed3ad",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: OGGO — The Comprehensive Expenditure Review"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "cer-news:22b1e82be2161a95b297",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bc-legal-orders:8aa78ef354fe1e76f176",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Understanding Powell River Energy Inc.’s electricity export application"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 308: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective August 14, 2026, MO 61/2017 is amended in Schedule 3 — High Cost Drugs by adding the drugs listed in th..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "finance-canada-news:cfdd05261b3df91aaa47",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bc-legal-orders:551e356cca5cbe796722",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Minister of Finance meets with provincial and territorial counterparts to discuss economic growth, health care and internal trade"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 309: HEALTH Pharmaceutical Services, Drug Price Regulation, s. 7 (1) Effective September 3, 2026, MO 61/2017 is amended by adding the listed drugs to Schedule 3 — High Cost Drugs."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:6b4fc34f12897568d310",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bc-legal-orders:a068bd55620225929ec2",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international transactions in securities, <span class=\"refper\">August 2026</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Ministerial Order 310: FINANCE Property Transfer Tax, s. 14 (3) (v) The transfers, as set out in the Appendix, from the government to the transferees, are designated as exempt from the payment of taxe..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:70a731f83e9fbe6e84cb",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bc-legal-orders:ddea05b6519088e85326",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Disparities in decision and sentencing outcomes between Indigenous accused and White accused in youth courts in Canada, <span class=\"refper\">2016/2017 to 2022/2023</span>"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 379: Public Service, s. 15 Effective August 24, 2026, the appointment of Julina Yvonne Marie Guilbault, made by OIC 302/2025, is rescinded, and Julina Yvonne Marie Guilbault is appoi..."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:ad052f0985b2362ac616",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric power thermal generating station fuel consumption, <span class=\"refper\">2025 (preliminary)</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:063a93c5d22916d1362f",
+      "detected_at": "2026-11-17T07:19:53.003332Z",
+      "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electricity supply and disposition, <span class=\"refper\">2025 (preliminary)</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:5f4c555216c986d6e9ff",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment by industry in rural Canada: Interactive dashboard, <span class=\"refper\">September 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:28f09a776ecdffe611af",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Higher Education Expenditures on Research and Development"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:e0b750bb0370e6a90d43",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Survey of Manufacturing, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:7483a4f98b1109205af3",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New motor vehicle sales, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:35ace8be545f51caab53",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail Services Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:66e8db7c6c8a6cdf4021",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale Services Price Index, <span class=\"refper\">August 2026</span>"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-16T19:20:34.417154Z",
-      "event_id": "statcan-daily:9f8365641b8f81de648a",
-      "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Wholesale trade, <span class=\"refper\">August 2026</span>"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-11-16T19:20:34.417154+00:00",
-  "run_id": "20261116T192034Z-56e2bb20",
+  "generated_at": "2026-11-17T07:19:53.003332+00:00",
+  "run_id": "20261117T071953Z-d58b82b2",
   "schema_version": "1.0"
 }
