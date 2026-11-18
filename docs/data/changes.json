@@ -3,185 +3,32 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:dc9af8e1186e5abcbbd5",
+      "detected_at": "2026-11-18T07:18:47.600864Z",
+      "event_id": "bcuc-proceedings:270f876115bec55027e9",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-3: Wesgroup SV submitting evidentiary update regarding corporate name change"
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — A-3: BCUC Information Request No. 1 to Wesgroup SV"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "finance-canada-news:2e202bd283d756521c85",
+      "detected_at": "2026-11-18T07:18:47.600864Z",
+      "event_id": "finance-canada-news:ea3fd2d3e10dcb1647fc",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction"
+      "title": "Biographical Notes – Ellen Yifan Chen"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "finance-canada-news:3ef2b4b146c58f9b4739",
+      "detected_at": "2026-11-18T07:18:47.600864Z",
+      "event_id": "finance-canada-news:9d050f18ff6711ed5249",
       "schema_version": "1.0",
       "source_id": "finance-canada-news",
-      "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "house-committee-reports:bb890811064c75f43f11",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:c3b9d729d0686fe8313d",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — Intervener Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:7a26e24d72919923d0f2",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Utilities Commission — Metergy Solutions Inc. Status as a Public Utility — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:2d286f307c7898911232",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — BCUC Information Request (IR) No. 2 to KVULP"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:9eef300e890318cdd210",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:845e0b0397ff52b583dd",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — Wesgroup SV to post public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-deadlines:eb66792f0d125d1dbfed",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:b3d57242b8ff8e474cf1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — Intervener Final Argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:008c1e9aeb9e45db00ca",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — Letters of comment deadline"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:e84e107c0bf5ebcba1d1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — BCUC Information Request (IR) No. 2 to KVULP"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:0b8c1c9cfee025dc141c",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — PREI public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:c8710baaa918d6235884",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — Wesgroup SV confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "bcuc-proceedings:1e341e7e7c2aec97fc00",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — Wesgroup SV to post public notice of application"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "house-committee-reports:6659a13414d826d59e3d",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-17T19:18:53.345566Z",
-      "event_id": "house-committee-reports:f331ad5dbbe5ba8b6705",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SRSR — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "title": "Biographical Notes – Francis A. Mensah"
     }
   ],
-  "generated_at": "2026-11-17T19:18:53.345566+00:00",
-  "run_id": "20261117T191853Z-add195c0",
+  "generated_at": "2026-11-18T07:18:47.600864+00:00",
+  "run_id": "20261118T071847Z-2d0b6f19",
   "schema_version": "1.0"
 }
