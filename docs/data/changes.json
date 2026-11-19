@@ -1,88 +1,112 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:954c6c0953383cc485eb",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "statcan-key-indicators:cfe8c681d251d8cfbd87",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+      "source_id": "statcan-key-indicators",
+      "title": "Industrial product and raw materials price indexes"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "statcan-key-indicators:e4ab1fbe235807197903",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Investment in building construction"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "bcuc-proceedings:eb0191c1ebd6947ee429",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — D-1: GOLDMAN, L. (GOLDMAN) – Letter of Comment"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "cer-news:8689a3107e06047d4690",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
+      "source_id": "cer-news",
+      "title": "Administrative Monetary Penalty (AMP) issued to Westcoast Energy GP Inc. on behalf of Westcoast Energy Limited Partnership"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "cer-news:742e83b5b548207c974e",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+      "source_id": "cer-news",
+      "title": "Canada Energy Regulator issues monetary penalties to Westcoast Energy GP Inc. and Ogilvie Mountain Holdings LP"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:71590c8f10638b48c646",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "iaac-major-projects:6588fe1e2b83042b92b5",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+      "source_id": "iaac-major-projects",
+      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to provide comments by December 9, 2026, on the draft tailored information and studies guidelines."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "elections-finance-calendar:8be2bd6e70ceb2a3dc0e",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "boc-upcoming:6039c6eb9ecd46f2fbd4",
       "schema_version": "1.0",
-      "source_id": "elections-finance-calendar",
-      "title": "Political financing deadline — Leadership contestants' second interim campaign returns (2026 Green Party leadership contest)"
+      "source_id": "boc-upcoming",
+      "title": "Speech: Toni Gravelle, Deputy Governor"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:bb890811064c75f43f11",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "iaac-major-projects:e1b9f54c4d8187f38638",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+      "source_id": "iaac-major-projects",
+      "title": "Eastern Bridge Project: — The Impact Assessment Agency of Canada issued the Summary of issues to the proponent on October 29, 2026, for the preparation of its response to the Summary of issues."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "iaac-major-projects:abf30f90c15bb72de49a",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "iaac-major-projects",
+      "title": "North Island Mine Project: — The Impact Assessment Agency of Canada and British Columbia’s Environmental Assessment Office invite Indigenous Peoples and the public to review the summary of the Initial Project Description for the North Island Mine"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-19T07:22:42.084595Z",
-      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "statcan-key-indicators:b125a923eb1df8a03d7c",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "statcan-key-indicators",
+      "title": "National tourism indicators"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-19T19:23:27.811566Z",
+      "event_id": "statcan-key-indicators:bfff8c22e91c9010c46a",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "National tourism indicators"
     }
   ],
-  "generated_at": "2026-11-19T07:22:42.084595+00:00",
-  "run_id": "20261119T072242Z-291b7755",
+  "generated_at": "2026-11-19T19:23:27.811566+00:00",
+  "run_id": "20261119T192327Z-36463d26",
   "schema_version": "1.0"
 }
