@@ -1,217 +1,88 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "statcan-key-indicators:1fbc934a4e3e44a3a1e3",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:954c6c0953383cc485eb",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canada's international transactions in securities"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:3658ac2b94f53763c3cc",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — BCUC Information Request (IR) No. 1 to PREI"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:073a10c523062b6a1c1c",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:ecf21338104d0933b041",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — Letters of comment deadline"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:899784cf6e3f380fa7e2",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI response to letters of comment (if any) and final argument"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:d93ebc70470e30899677",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:71590c8f10638b48c646",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-proceedings:517fcb92b88ef6f3c134",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — A-3: Order G-249-26 amending the regulatory timetable"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "boc-speeches:cb89b041fcb66f6cbf24",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Setting the scenario: Monetary policy communications in uncertain times"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "boc-speeches:deac24a67efa25e39dbb",
-      "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Talking about an uncertain future"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "cer-news:52196e6103ec9f3be4ed",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Market Snapshot: Low propane inventories in eastern Canada and high natural gas inventories nation-wide ahead of 2026-2027 winter"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "cer-news:a25bec2c6c49cce9de53",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "The CER Portal is expanding!"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "gazette-part-ii:002ca5ea87b975f17405",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, November 18, 2026, volume 160, number 23"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:f299ff09635e7811da9b",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "elections-finance-calendar:8be2bd6e70ceb2a3dc0e",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Other — Wesgroup Strategic Ventures Limited Partnership and Wesgroup Strategic Ventures Ltd. Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd. — BCUC Information Request (IR) No. 1 to Wesgroup SV"
+      "source_id": "elections-finance-calendar",
+      "title": "Political financing deadline — Leadership contestants' second interim campaign returns (2026 Green Party leadership contest)"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:a148f29873561554520e",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:bb890811064c75f43f11",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — BCUC Information Request (IR) No. 1 to PREI"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:2a2a41a880582ba9fd95",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — Letters of comment deadline"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:690e7324797c79c61e63",
+      "detected_at": "2026-11-19T07:22:42.084595Z",
+      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:2cd3a31eb2f18f1ac94e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-deadlines:10b4384badce82bf2774",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Powell River Energy — Rates — PREI responses to BCUC IR No. 1"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-proceedings:ab80f7584228390b710f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — PREI confirmation of compliance with public notice requirements"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "bcuc-proceedings:f65c7dc5965be037a5d3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — BCUC Information Request (IR) No. 1 to Wesgroup SV"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "cer-news:4cbca20abd7c3f022990",
-      "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Warning Letter issued to CNOOC Trading (Singapore) PTE. LTD. (CNOOC Singapore)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "gazette-part-ii:b4c5f6c504dacfc673ee",
-      "schema_version": "1.0",
-      "source_id": "gazette-part-ii",
-      "title": "Canada Gazette - Part II, August 12, 2026, volume 160, number 16"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "iaac-major-projects:73c2b741f9e5b0125be8",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Berg Copper Project: — The public comment period on the summary of the Initial Project Description, British Columbia's Environmental Assessment Office's substitution request and the participant funding application period closed on November 9"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-18T19:24:34.239729Z",
-      "event_id": "statcan-key-indicators:306fa7b0f83101011da7",
-      "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Canadian international merchandise trade"
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     }
   ],
-  "generated_at": "2026-11-18T19:24:34.239729+00:00",
-  "run_id": "20261118T192434Z-0b9da767",
+  "generated_at": "2026-11-19T07:22:42.084595+00:00",
+  "run_id": "20261119T072242Z-291b7755",
   "schema_version": "1.0"
 }
