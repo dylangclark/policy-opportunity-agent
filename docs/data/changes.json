@@ -6,68 +6,437 @@
         "source_url",
         "content_hash"
       ],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "cer-news:742e83b5b548207c974e",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-key-indicators:9b47861a841192f62e4d",
       "schema_version": "1.0",
-      "source_id": "cer-news",
-      "title": "Canada Energy Regulator issues monetary penalties to Westcoast Energy GP Inc. and Ogilvie Mountain Holdings LP"
+      "source_id": "statcan-key-indicators",
+      "title": "Retail trade"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "boc-speeches:d516bbac4ff99f2ffb78",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "boc-upcoming:04f6751afa190fb97c91",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Media Availability: Economic Club of Canada"
+      "source_id": "boc-upcoming",
+      "title": "Interest Rate Announcement and Monetary Policy Report"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "boc-speeches:9ace8ef39c54844bf0bd",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "boc-upcoming:ddda6d45524ed0dddefa",
       "schema_version": "1.0",
-      "source_id": "boc-speeches",
-      "title": "Speech: Economic Club of Canada"
+      "source_id": "boc-upcoming",
+      "title": "Publication: Summary of Deliberations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "boc-upcoming:a06aef530f67d6aa0505",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Release: Business Outlook Survey and Canadian Survey of Consumer Expectations"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "gazette-part-i:8f5d84ae1d1159c6fb4e",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, November 21, 2026, volume 160, number 47"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:be830148d9bdba8aba2b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "2026 Census geographic and reference products"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:5fa06cf73347a6f34ea6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's international transactions in securities, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:ab7f0551710c20798a32",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's natural resource wealth, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:448f1ebd6063e156390b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's population estimates: Census families and households, <span class=\"refper\">2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:a674c80dbfa9a47842fa",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Commercial rents in key Canadian economic markets, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:ffb8de84bb03585e79b1",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consolidated Canadian Government Finance Statistics, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:3f38efa0629cb614dc11",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:c9fe027b099f87e2646f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Environmental protection expenditures by businesses, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:301fa2366fae9e9da526",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">November 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:8789306c1717379f6325",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:24a80c2d2e0c5b8c5c16",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Intimate partner violence in Canada, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:44ad8c73e91beda31f12",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:8428f7eb3e8382e5bdf2",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly credit aggregates, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:e851abc62be0b8738ab9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:788ffe2e060eec9188a7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:614df13529799f20f7dd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "National and provincial input-output multipliers, <span class=\"refper\">2023</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:c46c46df78984e016f38",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:dd6cf126bbd0dc65f8b6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Public Sector Universe, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:d493dc42eaf83badf9ea",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Remaining useful service life ratios of non-residential capital stock, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:404b06af24984bba9a15",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:514143d4580aad95d684",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Statistics Canada launches free data literacy training"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:2a6f2d56a8afe9f43c65",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Stock and consumption of fixed capital, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:fa0609b46d7a4567d3f7",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Updated data tables informing housing indicator in Canada's Quality of Life Framework, <span class=\"refper\">2024</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "bc-legal-orders:cdb5e1a7d5185db20fd8",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "gazette-part-i:2e737c5ce00ea86a2efe",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 380: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 60 (1) (b) The declaration of a state of provincial emergency, made by the Minister of Emergency..."
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 3, 2026, volume 160, number 40"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "bc-legal-orders:8f81d7f7fd2100953731",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:1ef9485cb86bdf457f06",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 381: Public Service, ss. 14 and 15 Effective September 1, 2026, Andrew James Mercier is appointed as Chief of Staff in the Office of the Premier and is declared to have the status of..."
+      "source_id": "statcan-daily",
+      "title": "Building construction price indexes: announcement"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "bcuc-proceedings:8dcdba5881c26533bd11",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:2be371bd92e008854698",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — C1-1: BC SUSTAINABLE ENERGY ASSOCIATION (BCSEA) – Request to Intervene"
+      "source_id": "statcan-daily",
+      "title": "Canadian Community Health Survey, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T07:23:52.490890Z",
-      "event_id": "bcuc-proceedings:9e19c77504388fd4b0c8",
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:0bc52876dcde68b1972b",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — B-2: FEI submitting confirmation of public notice in compliance with G-225-26A"
+      "source_id": "statcan-daily",
+      "title": "Canadian Health Measures Survey: Dual-energy X-ray absorptiometry data, <span class=\"refper\">2022 to 2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:edf2cf60dcb1f53d833b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Consumer Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:9e7c1a34961802374e7d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Electric power generating stations, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:b19e8106e7d5148e5430",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment services, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:ba6c191f6c22f0d95ed9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Health Reports, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:5503649ce500956b2624",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Impact of cybercrime on Canadian businesses, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:0540599d43e7ac475e47",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Investment in building construction, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:5b99c64c0f1b616ce1c9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Labour market characteristics of Canada's health workforce, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:0f3a383d7afc1cc76282",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly credit aggregates, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:56b431a327c73fc6b19c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:45d580b5e552b4635d2d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Mineral Production Survey, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:555d821e912715d56a1f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: Demographic Profile of the Retail Workforce, <span class=\"refper\">2017 to 2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:20c57cea145fd73475ab",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "The gender gap in high school graduation narrows in 2023/2024"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:d3277ca03b110419b282",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Trade of culture and sport products, <span class=\"refper\">2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:be43b123f9cacdeb93f9",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Transportation Services Index and Supply Chain Services Price Index, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-daily:6060b1c2d7813ddbeea6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-20T19:18:09.574364Z",
+      "event_id": "statcan-key-indicators:a528c839826b4f9adc92",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Labour Force Survey"
     }
   ],
-  "generated_at": "2026-11-20T07:23:52.490890+00:00",
-  "run_id": "20261120T072352Z-198d7b32",
+  "generated_at": "2026-11-20T19:18:09.574364+00:00",
+  "run_id": "20261120T191809Z-0b90c27b",
   "schema_version": "1.0"
 }
