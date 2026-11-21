@@ -1,442 +1,835 @@
 {
   "changes": [
     {
-      "change_type": "changed",
-      "changed_fields": [
-        "source_url",
-        "content_hash"
-      ],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-key-indicators:9b47861a841192f62e4d",
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:75b21070b097ee1767bd",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Retail trade"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Administrative Monetary Penalties (Canadian Navigable Waters Act) Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "boc-upcoming:04f6751afa190fb97c91",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d39b8ee1bb2bc5da806f",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Interest Rate Announcement and Monetary Policy Report"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Administrative Monetary Penalty Regulations (Marine Liability Act and Wrecked, Abandoned, or Hazardous Vessels Act) and Amendments to the Regulations Respecting Compulsory Insurance for Ships Carrying Passengers (Marine Liability Act) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "boc-upcoming:ddda6d45524ed0dddefa",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:7f287de6357cf08eaafd",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Publication: Summary of Deliberations"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Air Passenger Protection Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "boc-upcoming:a06aef530f67d6aa0505",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d69c2a8d2e2bfaa497bf",
       "schema_version": "1.0",
-      "source_id": "boc-upcoming",
-      "title": "Release: Business Outlook Survey and Canadian Survey of Consumer Expectations"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Launch and Re-entry Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "gazette-part-i:8f5d84ae1d1159c6fb4e",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:a16bd3b7f23d59c82715",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, November 21, 2026, volume 160, number 47"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Launch and Re-entry Regulations — consultation"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:be830148d9bdba8aba2b",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:3b16d0764f22f511fefe",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "2026 Census geographic and reference products"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Marine Pilotage Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:5fa06cf73347a6f34ea6",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:0dc0d5d0a2b5a4aab16c",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's international transactions in securities, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Enhanced Train Control Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:ab7f0551710c20798a32",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4b1a25ff82c9c4f7a188",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's natural resource wealth, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Expanding the Minor Works Order under the Canadian Navigable Waters Act — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:448f1ebd6063e156390b",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:92419e408e109bed3d28",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canada's population estimates: Census families and households, <span class=\"refper\">2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Marine Personnel Regulations, 2025 — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:a674c80dbfa9a47842fa",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d892c05fbfc89c6a4710",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Commercial rents in key Canadian economic markets, <span class=\"refper\">third quarter 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending Certain Regulations Made Under the Motor Vehicle Safety Act (Information Gathering) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:ffb8de84bb03585e79b1",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:ba2ab037661656608c5f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consolidated Canadian Government Finance Statistics, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending Certain Regulations Under the Motor Vehicle Safety Act (Child Restraint System and Vehicle Anchorage Update) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:3f38efa0629cb614dc11",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:f6c26668001714d84edc",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment Insurance, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending Certain Regulations under the Motor Vehicle Safety Act (Various Amendments) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:c9fe027b099f87e2646f",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:fa76a0eeedaf44381f5e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Environmental protection expenditures by businesses, <span class=\"refper\">2024</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Airport Traffic Regulations and the Traffic on the Land Side of Airports Regulations — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:301fa2366fae9e9da526",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:49f4b82e26dfc5343516",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Health Reports, <span class=\"refper\">November 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aircraft Airworthiness & Maintenance Approval Fees) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:8789306c1717379f6325",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:456d558c50e62b2f2f2a",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">October 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aircraft Airworthiness & Maintenance Approval Fees) — consultation"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:24a80c2d2e0c5b8c5c16",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:678a8b5566da174552e8",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Intimate partner violence in Canada, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aircraft Airworthiness and Maintenance Approval Fees) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:44ad8c73e91beda31f12",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:9d644986b261efbc3942",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Investment in building construction, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aircraft Registration) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:8428f7eb3e8382e5bdf2",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d52d3d5ed6212cc90d64",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Approach Ban) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:e851abc62be0b8738ab9",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:7d80e58bf2fbcc5d5df0",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aviation Personnel Fees) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:788ffe2e060eec9188a7",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:52f83ecefbfb415b8f20",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aviation Personnel Fees) — consultation"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:614df13529799f20f7dd",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:87e666896b6ab7a4f4a8",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "National and provincial input-output multipliers, <span class=\"refper\">2023</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Parts I and IV – Approved Training Organizations) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:c46c46df78984e016f38",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:3abbba7b8f4f55bc596b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "New Housing Price Index, <span class=\"refper\">October 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Parts I, III, V, VI, VII, and VIII – Safety Management Systems) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:dd6cf126bbd0dc65f8b6",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:2b60be281730d424e669",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Public Sector Universe, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations and Flying Accidents Compensation Regulations (Various Amendments 2026) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:d493dc42eaf83badf9ea",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4ba56f9a0583eb430c2e",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Remaining useful service life ratios of non-residential capital stock, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Security Regulations, 2012 (Security Program for Air Carriers) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:404b06af24984bba9a15",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4c295e48ed2aaaffdc7d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Retail trade, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Competency of Operators of Pleasure Craft Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:514143d4580aad95d684",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:b369eb802eaff69f31e1",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Statistics Canada launches free data literacy training"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Fishing Vessel Safety Regulations (Phase II) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:2a6f2d56a8afe9f43c65",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:14f589e1712d559f3b90",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Stock and consumption of fixed capital, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the General Pilotage Regulations (Codification of Interim Orders) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:fa0609b46d7a4567d3f7",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:6e700d924e591ae1671b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Updated data tables informing housing indicator in Canada's Quality of Life Framework, <span class=\"refper\">2024</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the General Pilotage Regulations (Codification of Interim Orders) — consultation"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:73db58452da64ddf8d4c",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Marine Liability and Information Return Regulations and the Wreck Removal Convention Certificate Fee Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:7ddca4758861649ed985",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Marine Transportation Security Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:a4d755a49cae31d4c9c3",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending the Motor Vehicle Safety Regulations (Hydrogen and Electric Vehicles) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:9bca8654445bcc4c7aeb",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending the Motor Vehicle Safety Regulations (Hydrogen and Electric Vehicles) — consultation"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:6b4aab7386ea906ed4e6",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Motor Vehicle Safety Regulations (Theft Protection) — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d6bd851ce8dfbee8e2c9",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Motor Vehicle Tire Safety Regulations (Winter Tire Definition) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:2c8dc46bc99e4cd5b5b3",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Navigable Waters Works Regulations (Canadian Navigable Waters Act) — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4ea17b39604eaa2683a9",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Navigation Safety Regulations, 2020 — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:14ba541ad3a62de20721",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Port Authorities Operations Regulations — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:787ca175aa9baeb7f231",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Railway Safety Administrative Monetary Penalties Regulations and Amending the Railway Personnel Training and Qualifications Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:b51490795acae5f71656",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Railway Safety Management System Regulations, 2015 — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:f65df7f8ada36e9a7bf7",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations (TIRs) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d5f76ce9c7cb264cec03",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d692191c17d96b351f7c",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation of Dangerous Goods Regulations (Part 6, Training) — consultation"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:7dd5a07e303ac59377ec",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation of Dangerous Goods Regulations (Remotely Piloted Aircraft) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:50a174c5388247fe2ecc",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations (Division 1 – Oil) — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:d84b7ac75f3fdb6dbb19",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations (Divisions 4: Sewage; and 9: Greywater) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:b994e416937f223cbf9f",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations – Arctic Emission Control Area — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:a8e7e83ddf5123364ac1",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations – Package 2 (Divisions 3: Marine Pollutants; 6: Air Pollution; and 8: Anti-Fouling Systems) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:78f839ad3185fd2b8c44",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations to Increase Access to Marine Emergency Services and to Improve Response to Pollution Incidents — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:1e92b15cc059eb7b7b09",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Remotely Piloted Aircraft Systems: Remote Identification, Community-Based Organizations, and Designated Airspace — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:5ae483516730c9564246",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Repeal of Obsolete Airport Zoning Regulations — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:be501f03dc7754f2e3f1",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Saskatoon John G. Diefenbaker International Airport Zoning Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "iaac-major-projects:b787bbdafff077db1d22",
+      "schema_version": "1.0",
+      "source_id": "iaac-major-projects",
+      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the decision statement."
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "gazette-part-i:2e737c5ce00ea86a2efe",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "bcuc-proceedings:fcab60bdcdc9e6de9deb",
       "schema_version": "1.0",
-      "source_id": "gazette-part-i",
-      "title": "Canada Gazette - Part I, October 3, 2026, volume 160, number 40"
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C2-1: RESIDENTIAL CONSUMER INTERVENER ASSOCIATION (RCIA) – Request to Intervene"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:1ef9485cb86bdf457f06",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "bcuc-proceedings:82dd528ccb93c9b66373",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Building construction price indexes: announcement"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-4-1: CONFIDENTIAL – KVULP response to BCUC Information Request No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:2be371bd92e008854698",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "bcuc-proceedings:2e7737b7f9c7050d0a3d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Community Health Survey, <span class=\"refper\">2025</span>"
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-4: PUBLIC – KVULP response to BCUC Information Request No. 1"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:0bc52876dcde68b1972b",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:94e4dba88514edb00e1f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Canadian Health Measures Survey: Dual-energy X-ray absorptiometry data, <span class=\"refper\">2022 to 2024</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Administrative Monetary Penalty Regulations (Canadian Navigable Waters Act) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:edf2cf60dcb1f53d833b",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:563687f8c239a2961127",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Consumer Price Index, <span class=\"refper\">September 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Launch and Re-entry Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:9e7c1a34961802374e7d",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:48c0d4e5dc044aa0e04d",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Electric power generating stations, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Canadian Marine Pilotage Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:b19e8106e7d5148e5430",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:b244dd4bc47efa061995",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Employment services, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Enhanced Train Control Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:ba6c191f6c22f0d95ed9",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:619864115dafe6686216",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Health Reports, <span class=\"refper\">October 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Expanding the Minor Works Order under the Canadian Navigable Waters Act — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:5503649ce500956b2624",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:5879aef938f72e8bf312",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Impact of cybercrime on Canadian businesses, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Marine Personnel Regulations, 2025 — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:0540599d43e7ac475e47",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:df59b2b772214d610f0f",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Investment in building construction, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending Certain Regulations Made Under the Motor Vehicle Safety Act (Information Gathering) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:5b99c64c0f1b616ce1c9",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:10a06063ca362daf74a3",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Labour market characteristics of Canada's health workforce, <span class=\"refper\">2025</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending Certain Regulations Under the Motor Vehicle Safety Act (Child Restraint System and Vehicle Anchorage Update) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:0f3a383d7afc1cc76282",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:2067b569aa6a03fa4f24",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly credit aggregates, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending Certain Regulations under the Motor Vehicle Safety Act (Various Amendments) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:56b431a327c73fc6b19c",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:5f08976f31c45f7bc585",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Energy Transportation and Storage Survey, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Aircraft Registration) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:45d580b5e552b4635d2d",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:280c83e11c354bf63af2",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Monthly Mineral Production Survey, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Approach Ban) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:555d821e912715d56a1f",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:020c9eeaa917cc84f49b",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Study: Demographic Profile of the Retail Workforce, <span class=\"refper\">2017 to 2024</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Parts I and IV – Approved Training Organizations) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:20c57cea145fd73475ab",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:9bf3ff1586df3c721677",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "The gender gap in high school graduation narrows in 2023/2024"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations (Parts I, III, V, VI, VII, and VIII – Safety Management Systems) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:d3277ca03b110419b282",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4faed811a5d86bddfdb9",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Trade of culture and sport products, <span class=\"refper\">2024</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Canadian Aviation Regulations and Flying Accidents Compensation Regulations (Various Amendments 2026) — Canada Gazette Part II/final publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:be43b123f9cacdeb93f9",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:9d5f17e04d244d5ad1d5",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Transportation Services Index and Supply Chain Services Price Index, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Competency of Operators of Pleasure Craft Regulations — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-daily:6060b1c2d7813ddbeea6",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:49bd6a5ef9ff94952b36",
       "schema_version": "1.0",
-      "source_id": "statcan-daily",
-      "title": "Urban public transit, <span class=\"refper\">August 2026</span>"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Fishing Vessel Safety Regulations (Phase II) — Canada Gazette Part I/pre-publication"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-20T19:18:09.574364Z",
-      "event_id": "statcan-key-indicators:a528c839826b4f9adc92",
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:f4a1bc9dfe11866f6948",
       "schema_version": "1.0",
-      "source_id": "statcan-key-indicators",
-      "title": "Labour Force Survey"
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the General Pilotage Regulations (Codification of Interim Orders) — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:11466dc3bb27d099d7b5",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the General Pilotage Regulations (Codification of Interim Orders) — consultation"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:01af721280cde0379dfe",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Marine Transportation Security Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:47549c385f3f742639db",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending the Motor Vehicle Safety Regulations (Hydrogen and Electric Vehicles) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:4440282c34ea314a3a4f",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations amending the Motor Vehicle Safety Regulations (Hydrogen and Electric Vehicles) — consultation"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:1999f263404614f53dd2",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Motor Vehicle Safety Regulations (Theft Protection) — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:02cce03f00ed58d22b37",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Motor Vehicle Tire Safety Regulations (Winter Tire Definition) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:739d6fb8b92e8ee19ec4",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Navigable Waters Works Regulations (Canadian Navigable Waters Act) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:343aaefdcdca8e49b1f8",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Navigation Safety Regulations, 2020 — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:efc3ce1516824c7a9c5d",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Port Authorities Operations Regulations — Canada Gazette Part II/final publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:6369bf4f19d914792cfc",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Railway Safety Administrative Monetary Penalties Regulations (Prevention and Control of Fires on Line Works Regulations and the Railway Personnel Training and Qualifications Regulations) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:7408c6d9e7c5144be582",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Railway Safety Management System Regulations, 2015 — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:cdc9c6ff095a184a17c8",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations (TIRs) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:95a062affdb13a09b04d",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation Information Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:88c6419075915ce93bc5",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Transportation of Dangerous Goods Regulations (Remotely Piloted Aircraft) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:70810fd29c9c506f66e9",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations (Divisions 4: Sewage; and 9: Greywater) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:e57fab15f35f8fed75f4",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations – Arctic Emission Control Area — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:9d067aa380086384b9f1",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations Amending the Vessel Pollution and Dangerous Chemicals Regulations – Package 2 (Divisions 3: Marine Pollutants; 6: Air Pollution; and 8: Anti-Fouling Systems) — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:0ad01e7b831e1b4d6b8e",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Regulations to Increase Access to Marine Emergency Services and to Improve Response to Pollution Incidents — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:271c52c503396fc5bbaf",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Repeal of Obsolete Airport Zoning Regulations — Canada Gazette Part I/pre-publication"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-21T07:15:35.775153Z",
+      "event_id": "federal-forward-regulatory-initiatives:93a0d796187dad8be025",
+      "schema_version": "1.0",
+      "source_id": "federal-forward-regulatory-initiatives",
+      "title": "Transport Canada: Saskatoon John G. Diefenbaker International Airport Zoning Regulations — Canada Gazette Part I/pre-publication"
     }
   ],
-  "generated_at": "2026-11-20T19:18:09.574364+00:00",
-  "run_id": "20261120T191809Z-0b90c27b",
+  "generated_at": "2026-11-21T07:15:35.775153+00:00",
+  "run_id": "20261121T071535Z-b0b266fb",
   "schema_version": "1.0"
 }
