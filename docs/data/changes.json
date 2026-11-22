@@ -1,6 +1,70 @@
 {
-  "changes": [],
-  "generated_at": "2026-11-21T19:20:31.872720+00:00",
-  "run_id": "20261121T192031Z-e8bfcb88",
+  "changes": [
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "boc-upcoming:3f2fc1edf71b08a6f6b8",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Family Day"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "bcuc-proceedings:b649f36b34b5541c83d6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C3-1: COUNCIL OF SENIOR CITIZENS’ ORGANIZATIONS OF BC, ACTIVE SUPPORT AGAINST POVERTY, DISABILITY ALLIANCE BC, TENANTS RESOURCE AND ADVISORY CENTRE, AND TOGETHER AGAINST POVERTY SOCIETY (COSCO) – Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "bcuc-proceedings:6918604a2250098d4969",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro Optional Fixed Bill Plus Rate — C4-1: COMMUNITY SOLAR COALITION (CSC) – Request to Intervene"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "bcuc-proceedings:4e1a551d4580d62c158a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BCUC Metergy Status as a Public Utility — A-6: Panel letter regarding confirmation of Public Notice"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "bcuc-proceedings:c539074546c8ad24d9dc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FEI Section 71 BPA Amending Agreements CFR Credits — A-3: BCUC Information Request No. 1 to FEI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "bcuc-proceedings:a334e006201446d1360c",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Wesgroup SV Acquisition of a Reviewable Interest in RDE — B-1: WESGROUP STRATEGIC VENTURES LIMITED PARTNERSHIP AND WESGROUP STRATEGIC VENTURES LTD. (WESGROUP SV) – Acquisition of a Reviewable Interest in River District Energy Limited Partnership and River District Ltd."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-22T07:17:25.103642Z",
+      "event_id": "boc-upcoming:c920b4ef72825fd034a6",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Release: Senior Loan Officer Survey"
+    }
+  ],
+  "generated_at": "2026-11-22T07:17:25.103642+00:00",
+  "run_id": "20261122T071725Z-aa0c7279",
   "schema_version": "1.0"
 }
