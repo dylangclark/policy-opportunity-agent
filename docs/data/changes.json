@@ -1,79 +1,225 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "lifecycle",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "govtogether-bc:a1f317b3f85283fdeb55",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Health Care Assistant Regulation"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-key-indicators:40f59cb3e0ca5642cb6f",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Quarterly financial statistics for enterprises"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-key-indicators:8970f2e39417a683ad24",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Travel between Canada and other countries"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "iaac-major-projects:f20bd88902b520bbd316",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Lazy Head Marine Terminal Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Lazy Head Marine Terminal Project and provide feedback by November 2"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bc-legal-orders:1d95c0dc2d4b50de7744",
-      "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Ministerial Order 316: HEALTH Health Professions and Occupations, s. 27 The Nurses and Midwives Regulation, B.C. Reg. 133/2025, is amended as set out in the Schedule. Copyright © King's Printer, Victo..."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bcuc-proceedings:3760b057f0ff2262dcd3",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-4: PUBLIC – BCUC Information Request No. 1 to BC Hydro"
+      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:7daecacdcc82fc28a732",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:0a44379070711169f82e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:450b4cb33b05f0334870",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:1ee61cc9e7f7c428d23c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Quarterly financial statistics for enterprises, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:e23d036b20b0cdcdebb0",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:64154ee2df152995257f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Residential and non-residential property assessment values, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:d3bc9d86fad827f26665",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">September 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bcuc-proceedings:5bbcde85de23504c7c2c",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "bcuc-proceedings:df42dcd7a8c083ded970",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — A-5: CONFIDENTIAL – BCUC Information Request No. 1 to BC Hydro"
+      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — A-1: Panel Appointment"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bcuc-proceedings:9d3287c7b03362894fac",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "bcuc-proceedings:e1fa026e32f98a0efe8a",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro Optional Fixed Bill Plus Rate — B-3: BC Hydro submitting confirmation of social media reminder posts in compliance with G-216-26"
+      "title": "FEI CNG Fuelling for Nortrans at the GFL Abbotsford Station and E360S Station - Permanent Rates — G-248-26: Docket filing"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bcuc-proceedings:8474ce5266ade771e4cf",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "cer-news:3e9b94757b3bf989ad64",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — B-1-1: CONFIDENTIAL – PREI Rates Application"
+      "source_id": "cer-news",
+      "title": "Oral hearings begin for Powell River Energy Inc. electricity export application"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "bcuc-proceedings:fa32bee779c7f8876df4",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:1c978623368ad958f7d7",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "Powell River Energy Inc. Rates — B-1: PUBLIC – POWELL RIVER ENERGY INC. (PREI) – Rates Application"
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-23T07:15:34.090880Z",
-      "event_id": "finance-canada-news:657047cd33cf82d48a0c",
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:71cb064350e33e65730a",
       "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government launches consultations on the modernization of the federal framework for the charitable sector"
+      "source_id": "statcan-daily",
+      "title": "Industrial product and raw materials price indexes, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:9c1a9ecd346d70ed177d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Lending Services Price Index, <span class=\"refper\">second quarter 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:6e8db320c1592c0ead37",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly Survey of Manufacturing: Advance indicator, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:c28c9d2c754d647a2847",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Natural gas supply and disposition, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:6a086aa9aaac1b32c1fc",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New Housing Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:e3331fc4f3967a2bf59c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Refined petroleum products, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:69cce37ce2351ec4221e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail trade, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-23T19:15:47.221158Z",
+      "event_id": "statcan-daily:39753018325e9f24a4eb",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Travel between Canada and other countries, <span class=\"refper\">August 2026</span>"
     }
   ],
-  "generated_at": "2026-11-23T07:15:34.090880+00:00",
-  "run_id": "20261123T071534Z-abe0b682",
+  "generated_at": "2026-11-23T19:15:47.221158+00:00",
+  "run_id": "20261123T191547Z-80111699",
   "schema_version": "1.0"
 }
