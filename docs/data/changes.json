@@ -4,314 +4,454 @@
       "change_type": "changed",
       "changed_fields": [
         "description",
-        "identifiers",
         "content_hash"
       ],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "iaac-major-projects:6588fe1e2b83042b92b5",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:d516bbac4ff99f2ffb78",
       "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to provide comments by December 9, 2026, on the draft tailored information and studies guidelines."
+      "source_id": "boc-speeches",
+      "title": "Media Availability: Economic Club of Canada"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:9ace8ef39c54844bf0bd",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Speech: Economic Club of Canada"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-key-indicators:6a94696f85a3ba86e47f",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Farm income"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-deadlines:32d577665dca10d741da",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-press-releases:6f42778ba9ae2f8bea5a",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — BCUC Information Request (IR) No. 2 to PNG"
+      "source_id": "boc-press-releases",
+      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-deadlines:48c8c670b9914c12c14f",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:914ff464f39a3a4f0647",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — Letters of comment deadline"
+      "source_id": "boc-speeches",
+      "title": "Canada’s monetary policy framework: A trusted anchor in uncertain waters"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-deadlines:628f94146b44557d10f0",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:724ce0beb1c0b19b0430",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG final argument and response to letters of comment, if any"
+      "source_id": "boc-speeches",
+      "title": "Keeping inflation low and stable in an uncertain world"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-deadlines:9464e30a9716e0a4e97f",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-upcoming:b491977d018e379d937d",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG responses to BCUC IR No. 2"
+      "source_id": "boc-upcoming",
+      "title": "New Year's Day"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:aad521b27e8fe5b6608f",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1-4: PUBLIC – BC Hydro submitting Errata No. 2 to the application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:bcd2b84b4ba8c6c27c73",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-1-5: CONFIDENTIAL – BC Hydro submitting Errata No. 2 to the application"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:e92a49e101288081d689",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-4-1: CONFIDENTIAL – BC Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:df0f94fffa74deb01c9e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-4: PUBLIC – BC Hydro submitting response to BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:eec7a0a21d10d0c7a0f3",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-5: CONFIDENTIAL – BC Hydro submitting response to Confidential BCUC Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:0f67dfa3e3364681a8db",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-6-1: CONFIDENTIAL – BC Hydro submitting response to Intervener Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:0c2f7fe8a79c1987bd15",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — B-6: PUBLIC – BC Hydro submitting response to Intervener Information Request No. 1"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:2737f30aada69bc9c7d1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — A-5: Order G-250-26 amending the regulatory timetable"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:50249802317a73c27e1e",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — BCUC Information Request (IR) No. 2 to PNG"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:632001c9c1fcc2730e03",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — Letters of comment deadline"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:fdb1ec3162844e5a28c5",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG final argument and response to letters of comment, if any"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:5c307aac6b212f55bcc1",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG responses to BCUC IR No. 2"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:d6b3052cbad80191a9a5",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:71f07332667b8d480599",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: HESA — A Better Match: Aligning Immigration Policy, Health Care Capacity and Pathways for Internationally Educated Health Professionals"
+      "title": "Committee report presented: ETHI — Challenges Posed by Artificial Intelligence and its Regulation"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:fc927b305be670a32697",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:295f5aa59afa6cc680b7",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: SECU — Canada’s Operational Capability to Manage the Removal of Foreign Nationals with Criminal Records"
+      "title": "Committee report presented: LANG — Recommendations of the House of Commons Standing Committee on the Proposed Use of French in Federally Regulated Private Businesses Regulations"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:f8fc5eed4648d4ab155e",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:bb890811064c75f43f11",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
-      "title": "Committee report presented: SECU — Navigating Border Challenges and Customs Clearance Practices in the Great Lakes–St. Lawrence Maritime Corridor"
+      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:ff46187a1d0e1b7539c8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm cash receipts, <span class=\"refper\">January to September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:6e6640025e177e87827a",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Farm income, <span class=\"refper\">2025 (revised data)</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:9bb7d037603159d9fc07",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "New demographic document: Changes in the regional distribution of new immigrants within Canadian provinces, <span class=\"refper\">2001/2002 to 2024/2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:979367dae220971eba0d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:9ace1ad01a246169e0ad",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Urban public transit, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "statcan-daily:7af68fb13d4ed2af6229",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Use of prescription medications by Canadians, <span class=\"refper\">2022 to 2024</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "bcuc-deadlines:a40634e17b2439fd5679",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "BC Hydro — Certificate of Public Convenience and Necessity for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "bcuc-proceedings:3dd3f175da021f041990",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro CPCN for the Mica Units 1 and 2 Turbine Upgrade — BC Hydro responses to BCUC and Intervener IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:0698b5424bb53ec1dd06",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Monetary Policy Report Press Conference Opening Statement"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-speeches:1bde56e26416aadfa69b",
+      "schema_version": "1.0",
+      "source_id": "boc-speeches",
+      "title": "Press Conference: Monetary Policy Report – October 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "boc-upcoming:3f2fc1edf71b08a6f6b8",
+      "schema_version": "1.0",
+      "source_id": "boc-upcoming",
+      "title": "Family Day"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:49f88f2f8d3647cc7010",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Budget 2026: Key Measures"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:4e27d655134b0f9c703e",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Canada modifies tariff relief measures to better support workers and businesses"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:0103a2972bb44fbc1a14",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Canada, Minister Champagne table legislation cracking down on financial crime and the illicit use of mail"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:bf52ca3b21bba2b8d7a4",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Joint Factsheet: Second Canada–China Economic and Financial Strategic Dialogue"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:5216e9d30517561fb1fb",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:4551524acb17103dc0c0",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Montréal to discuss Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:ddba76f09f235fdc109f",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne in Nova Scotia to discuss Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:537bad2029ef057d2f06",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to deliver economic addresses and participate in armchair discussions ahead of Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:a58b22b36d337200910f",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to make his own budget shoes at a pre-budget event in Montreal, Quebec"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:e01a459f9d8580915e13",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to participate in an armchair discussion in Winnipeg to discuss Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:f517cfa589e2f211915d",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Ministers Champagne and Sidhu deepen Canada-China economic ties and cooperation with Vice Premier He Lifeng"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:02a6f3bf3c6813a15b83",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Ministers Champagne and Sidhu to welcome Chinese Vice Premier He Lifeng and his delegation to Canada to advance economic cooperation"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:b745b209689b182dbe22",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Mortgage Insurance Rule Changes to Support “Missing Middle” Housing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:9cdfb39d89b484d26e0f",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull in Milton to discuss Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:7b3eedc3f3af1acee0e1",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Parliamentary Secretary Turnbull to highlight Budget 2026 federal support for industry in Guelph"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:9e5261a01b00d05eb7a8",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Remarks by the Minister of Finance and National Revenue"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:94431a023f233abad0b9",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Ryan Turnbull highlights Budget 2026 measures to make life more affordable for Canadians"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:d72e5fea073e410365c2",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary Long in Toronto to highlight tax reform in Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:a6bb52e91833870e7a41",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Long in Saint John to discuss Budget 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "finance-canada-news:e81bdc93993023826844",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Secretary of State Wayne Long highlights Budget 2026 measures to make life more affordable for Canadians"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:962b5632487f8811168d",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FAAE — Amplifying Canada's Africa Strategy"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
       "event_id": "house-committee-reports:5819c7b3cb7d4bc2bc24",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: FAAE — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:d6d47ed3a34083deedbf",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "house-committee-reports:0d5049c1182c8534aacb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: PACP — Follow-up Study of Gender Based Plus Analysis in the Government of Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-24T19:23:24.521372Z",
       "event_id": "house-committee-reports:b0f7d08b03dc0d3cd9d0",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: PROC — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "iaac-major-projects:b437cebb59e4d5e35bda",
+      "detected_at": "2026-11-24T19:23:24.521372Z",
+      "event_id": "iaac-major-projects:215ccee650b4890a519f",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Lazy Head Marine Terminal Project: — The public comment period on the summary of the Initial Project Description closed on November 23, 2026."
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-deadlines:21704e0db15356b96bf8",
-      "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "Pacific Northern Gas — West Division Metering Infrastructure Replacement and Automated Meter Reading Expenditures — PNG response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:7cc81cb0044d29bea847",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-26: ALLEN, S. (ALLEN, S.) – Letter of Comment"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "bcuc-proceedings:206f487e7b59ed17a181",
-      "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "PNG West Metering Infrastructure Replacement and AMR Expenditures — PNG response to letters of comment (if any) and final argument"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:e9507e9157aa7a138416",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: FAAE — Standing with Democracy and Human Rights Defenders: Strengthening Support at a Critical Time"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:4ae53bc68f8acbe18cd6",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INAN — Issues Related to First Nations Communities Without Reserve Lands"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:954c6c0953383cc485eb",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:f29b8123770d610deb1f",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:ecf21338104d0933b041",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "house-committee-reports:71590c8f10638b48c646",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-24T07:15:56.512857Z",
-      "event_id": "iaac-major-projects:f20bd88902b520bbd316",
-      "schema_version": "1.0",
-      "source_id": "iaac-major-projects",
-      "title": "Lazy Head Marine Terminal Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to review the summary of the Initial Project Description for the Lazy Head Marine Terminal Project and provide feedback by November 2"
+      "title": "Greenstone Mine Project: — A non-substantive update has been made to the decision statement."
     }
   ],
-  "generated_at": "2026-11-24T07:15:56.512857+00:00",
-  "run_id": "20261124T071556Z-f8a5b731",
+  "generated_at": "2026-11-24T19:23:24.521372+00:00",
+  "run_id": "20261124T192324Z-3f7c855d",
   "schema_version": "1.0"
 }
