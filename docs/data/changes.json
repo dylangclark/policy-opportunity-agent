@@ -3,23 +3,167 @@
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-25T07:23:46.390793Z",
-      "event_id": "house-committee-reports:d6d47ed3a34083deedbf",
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "boc-upcoming:3f2fc1edf71b08a6f6b8",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — Canada's Defence Industrial Strategy: From Innovation to Readiness"
+      "source_id": "boc-upcoming",
+      "title": "Family Day"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "cer-news:79e2818109c2a28f565d",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Crude Oil Exports – September 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "cer-news:30da20786054cb3a0eb1",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Refined Petroleum Products – September 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "finance-canada-news:59138e891f96d43153b2",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne to hold media callback following his visit to the Gulf region"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:f392a50fdb1e9d51ed90",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">November 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:c7b253769bf53ed4e843",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Food services and drinking places, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:c4df9b66734f1ec9dbdf",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Retail Services Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:69045f59372ddbde034d",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale Services Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:205eb6bd43ab72dc791b",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">October 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-25T07:23:46.390793Z",
-      "event_id": "bc-legal-orders:85ce7b1a25c267b8395f",
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "boc-upcoming:f2342182438e403db93b",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 383: JOBS AND ECONOMIC GROWTH Ministry of International Business and Immigration, s. 5 Approval is given to the Minister of Jobs and Economic Growth, on behalf of the government of B..."
+      "source_id": "boc-upcoming",
+      "title": "Speech: Tiff Macklem, Governor"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "cer-news:52196e6103ec9f3be4ed",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Market Snapshot: Low propane inventories in eastern Canada and high natural gas inventories nation-wide ahead of 2026-2027 winter"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "cer-news:a25bec2c6c49cce9de53",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "The CER Portal is expanding!"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "govtogether-bc:be6ed470c5450cd04531",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "BC Wildfire Service App Experience Survey"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "govtogether-bc:1d7792298eebf836088c",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Private Moorage in the Southern Gulf Islands and Southeast Vancouver Island"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "govtogether-bc:631305564cb856f6e01d",
+      "schema_version": "1.0",
+      "source_id": "govtogether-bc",
+      "title": "Williams Lake Timber Supply Area"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:8c74371586f1f9cc5af1",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Major grain deliveries, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:f6376afbad231876c9bd",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-25T19:23:33.970568Z",
+      "event_id": "statcan-daily:894dd1ed483a1202bbaf",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Wholesale trade: Advance indicator, <span class=\"refper\">September 2026</span>"
     }
   ],
-  "generated_at": "2026-11-25T07:23:46.390793+00:00",
-  "run_id": "20261125T072346Z-f906f521",
+  "generated_at": "2026-11-25T19:23:33.970568+00:00",
+  "run_id": "20261125T192333Z-0e49a8df",
   "schema_version": "1.0"
 }
