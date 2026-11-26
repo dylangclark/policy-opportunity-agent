@@ -1,54 +1,291 @@
 {
   "changes": [
     {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "house-committee-reports:5e5f8a44a51ac632f30a",
+      "change_type": "changed",
+      "changed_fields": [
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-key-indicators:c3bf3d5adb13ff6baddb",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Committee report presented: INDU — Artificial Intelligence: Harnessing the Potential, Governing the Risks"
+      "source_id": "statcan-key-indicators",
+      "title": "Payroll employment, earnings and hours, and job vacancies"
     },
     {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bc-regulations:a23f01fe229a5e6d98af",
+      "schema_version": "1.0",
+      "source_id": "bc-regulations",
+      "title": "425/2026 Amends B.C. Reg. 267/2022 – Committees of the Executive Council Regulation 166/2026 November 20, 2026"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:d2b1fcbd2c549d1b7601",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Creative Energy Thompson Rivers 2026-2028 Rates and Rate Design — G-253-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:c407208e4ffb165c7dae",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — B-6: KVULP submitting response to BCUC Information Request No. 2"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:2d9a6ab38b98404da5a5",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG GSA with BC Hydro at Vanderhoof Camp — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:cdff792c0f8277afd2af",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG GSA with BC Hydro at Vanderhoof Camp — A2-1: Staff submit BCUC Staff Questions No. 1 regarding the PNG GSA with BC Hydro at Vanderhoof Camp"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:0e458b73a13affa65ead",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG GSA with BC Hydro at Vanderhoof Camp — B-1: PACIFIC NORTHERN GAS LTD. (PNG) – Application for Gas Sales Agreement with British Columbia Hydro and Power Authority at Vanderhoof Work Camp"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:8e5f129eb50ad620f035",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG GSA with BC Hydro at Vanderhoof Camp — B-2: PNG submitting response to BCUC Staff Questions No. 1"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:c14d138b3503fd1da432",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "PNG GSA with BC Hydro at Vanderhoof Camp — G-252-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:ac65023965d961979698",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-4: BCUC Information Request No. 1 to PREI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:159767ec710a9a83256a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-5: CONFIDENTIAL – BCUC Confidential Information Request No. 1 to PREI"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "finance-canada-news:0e5d69e1dd8833a17361",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "finance-canada-news:2f3325748de971b7d522",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "house-committee-reports:954c6c0953383cc485eb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "house-committee-reports:71590c8f10638b48c646",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:70181da381789f388dc8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement and civil aviation statistics, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:ceba8928e95f94394262",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Freight Rail Services Price Index, <span class=\"refper\">November 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:8080690384580cb24253",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Government spending by function, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:90a9966e07a86f42e2ea",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Monthly estimates of business openings and closures, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:11c310f1d3ae0b0cdc4e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Payroll employment, earnings and hours, and job vacancies, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-deadlines:3658ac2b94f53763c3cc",
+      "schema_version": "1.0",
+      "source_id": "bcuc-deadlines",
+      "title": "Powell River Energy — Rates — BCUC Information Request (IR) No. 1 to PREI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:b05aa14de68e4d4a83f6",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "BC Hydro 2025 IRP — G-232-26: Docket filing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "bcuc-proceedings:52b45e0626705d62c590",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — BCUC Information Request (IR) No. 1 to PREI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "cer-news:8689a3107e06047d4690",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Administrative Monetary Penalty (AMP) issued to Westcoast Energy GP Inc. on behalf of Westcoast Energy Limited Partnership"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "cer-news:742e83b5b548207c974e",
+      "schema_version": "1.0",
+      "source_id": "cer-news",
+      "title": "Canada Energy Regulator issues monetary penalties to Westcoast Energy GP Inc. and Ogilvie Mountain Holdings LP"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "house-committee-reports:734047d3cdb1c30ce2e3",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Committee report presented: FINA — Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-26T19:20:23.082057Z",
       "event_id": "house-committee-reports:784b9a34f30dbe9770c4",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Committee report presented: JUST — Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "house-committee-reports:b0102abd989767c1c4f4",
-      "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response due: INDU — Artificial Intelligence: Harnessing the Potential, Governing the Risks"
-    },
-    {
-      "change_type": "new",
-      "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
       "event_id": "house-committee-reports:0e9937c55a4f2f281a47",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response due: JUST — Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
       "event_id": "house-committee-reports:0103e04a16640a0e5926",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
       "title": "Government response tabled: FEWO — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
     },
     {
-      "change_type": "new",
+      "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
       "event_id": "house-committee-reports:57c868aca789f8cfdc51",
       "schema_version": "1.0",
       "source_id": "house-committee-reports",
@@ -57,59 +294,59 @@
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "bc-legal-orders:d665af2fb59bdbc43ade",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:a9a6832759aa9583e172",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 384: EMERGENCY MANAGEMENT AND CLIMATE READINESS Emergency and Disaster Management, s. 61 (2) (a) The declaration of a state of provincial emergency, made by MO 294/2026 on August 8,..."
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Beneficiaries in Rural and Small Town Canada: Interactive Dashboard, <span class=\"refper\">August 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "bc-legal-orders:05d044115380578a5ead",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:07bc4a510daf3bb768d8",
       "schema_version": "1.0",
-      "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 385: WATER, LAND AND RESOURCE STEWARDSHIP Environment and Land Use, s. 7 The Agricultural Land Reserve (Evacuation Areas) Order is made."
+      "source_id": "statcan-daily",
+      "title": "Employment Insurance Coverage Survey, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "bcuc-proceedings:f87ebfbfcf98b3ae4cbd",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:2979e610d5196fc5d3e4",
       "schema_version": "1.0",
-      "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — A-5: Order G-230-26 regarding City of Burnaby Request to Intervene and establishing an amended timetable"
+      "source_id": "statcan-daily",
+      "title": "End use of refined petroleum products, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "house-committee-reports:bb890811064c75f43f11",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:18246939af4ead1d1ce3",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: INDU — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+      "source_id": "statcan-daily",
+      "title": "Milled wheat and wheat flour produced, <span class=\"refper\">third quarter 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "house-committee-reports:db8a9ea4da4a5c0aedbd",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-daily:99125aeb9a0c4a52f96e",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: PROC — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+      "source_id": "statcan-daily",
+      "title": "Secondary distributors of refined petroleum products, <span class=\"refper\">2025</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-26T07:24:49.939367Z",
-      "event_id": "house-committee-reports:e58d25b86ae7908cc9a7",
+      "detected_at": "2026-11-26T19:20:23.082057Z",
+      "event_id": "statcan-key-indicators:de1dea0a83db6cb73f83",
       "schema_version": "1.0",
-      "source_id": "house-committee-reports",
-      "title": "Government response tabled: SECU — Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act"
+      "source_id": "statcan-key-indicators",
+      "title": "Building permits"
     }
   ],
-  "generated_at": "2026-11-26T07:24:49.939367+00:00",
-  "run_id": "20261126T072449Z-09ec04c9",
+  "generated_at": "2026-11-26T19:20:23.082057+00:00",
+  "run_id": "20261126T192023Z-137cb519",
   "schema_version": "1.0"
 }
