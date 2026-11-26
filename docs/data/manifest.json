@@ -1,54 +1,54 @@
 {
   "counts": {
-    "changes": 18,
+    "changes": 12,
     "events": 629,
-    "opportunities": 507,
+    "opportunities": 511,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 5964,
-      "count": 18,
+      "bytes": 5386,
+      "count": 12,
       "path": "changes.json",
-      "sha256": "8baab86f55029f57cf63e713817972ce89e0b6f439bd1e00c7a864f5b7bddcec"
+      "sha256": "c51602fc74186b72219c683d15e038b3f3c724ef7dce094f64da8d3726b06baa"
     },
     "events": {
-      "bytes": 985792,
+      "bytes": 985391,
       "count": 629,
       "path": "events.json",
-      "sha256": "650430c7906f59fb24a3d07819c7f2d878d1fc3c14feed01da7a6f63a326ab6e"
+      "sha256": "0027a2f2c4e4dcce9f2bfe674e7cbec5801c25878134532592c8acfbb6f15abf"
     },
     "heartbeat": {
       "bytes": 248,
       "path": "heartbeat.json",
-      "sha256": "a19c191c53a463f398b7d5157e85ebec748fe22c739db504cd0cb7d9254bfbd4"
+      "sha256": "f1e73ce115d8d88e7f96ed7644115337cd7dc4de6a7c2c9f351384b596fbb101"
     },
     "opportunities": {
-      "bytes": 958819,
-      "count": 507,
+      "bytes": 966276,
+      "count": 511,
       "path": "opportunities.json",
-      "sha256": "2640f0332f67c07522b724c5a9cc96ad0df1f8677df9dd88d52120840b20b8a3"
+      "sha256": "77fc618cd3a12594d75ad041a26dfc78058522a86ae74a175bd700ba7910af1f"
     },
     "source_status": {
-      "bytes": 15884,
+      "bytes": 15904,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "12b5a1f077fb775b4700afdc5a4eee90c16d6ac85568100181f345fc23815a13"
+      "sha256": "780a8aafde0e7c477beae6208dd3eb688e1d9ee725acb576fbd9e81cc67bad97"
     }
   },
-  "generated_at": "2026-11-25T19:23:33.970568Z",
+  "generated_at": "2026-11-26T07:24:49.939367Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261125T192333Z-0e49a8df",
+  "run_id": "20261126T072449Z-09ec04c9",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 5,
-    "ok": 21,
+    "not_modified": 7,
+    "ok": 19,
     "partial": 2
   },
   "status": "partial",
