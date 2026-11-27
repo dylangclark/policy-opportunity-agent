@@ -1,79 +1,440 @@
 {
   "changes": [
     {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:443644ec0602fc5fc569",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement statistics, <span class=\"refper\">August 2026</span>"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "title",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:70181da381789f388dc8",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aircraft movement statistics, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "changed",
+      "changed_fields": [
+        "description",
+        "source_url",
+        "content_hash"
+      ],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-key-indicators:e2b84631433d4a75e841",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Canada's balance of international payments"
+    },
+    {
       "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "finance-canada-news:0006ab1eebd3c784e2d4",
-      "schema_version": "1.0",
-      "source_id": "finance-canada-news",
-      "title": "Government supports Indigenous economic participation in major energy infrastructure"
-    },
-    {
-      "change_type": "removed",
-      "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bc-legal-orders:9352c9c7225fc89cb768",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bc-legal-orders:aa91d12eef283dbe2a0c",
       "schema_version": "1.0",
       "source_id": "bc-legal-orders",
-      "title": "B.C. Order in Council 386: Public Service, s. 12 Effective September 14, 2026, Hugo Tremblay‑Belanger is appointed as an Assistant Deputy Minister, Ministry of Children and Family Development."
+      "title": "B.C. Ministerial Order 384: Fish and Seafood, s. 40 MO 338/2025 is repealed. Each employee of the Ministry of Water, Land and Natural Resource Operations who holds one of the listed positions is designated..."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bcuc-deadlines:1f8d4944248c4058cd2c",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bc-legal-orders:5216702127a2e7c15fde",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "BC Hydro — Tariff Supplement 6 Amendment — BC Hydro Reply Argument"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 421: Constitution, ss. 10, 13 and 14 (a) The transfers of duties, powers and functions, and other changes, set out in Appendix A are made, (b) members of the Executive Council are ch..."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bcuc-deadlines:927351560ac1743a6e5a",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bc-legal-orders:ff004dd761f01ac68c9c",
       "schema_version": "1.0",
-      "source_id": "bcuc-deadlines",
-      "title": "FortisBC Alternative Energy Services — Certificate of Public Convenience and Necessity for the Kwasen Village District Thermal Energy System — KVULP responses to BCUC IR No. 2"
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 423: Environment and Land Use, s. 2 (a) All previous appointments of members of the Environment and Land Use Committee are rescinded, and (b) the persons set out in the Schedule are..."
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bcuc-proceedings:ef49e77dffb3efcf8d38",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bc-legal-orders:f5e2dca506e8685544e2",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 425: Freedom of Information and Protection of Privacy, s. 12 The Committees of the Executive Council Regulation, B.C. Reg. 267/2022, is amended as set out in the Schedule."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bc-legal-orders:335748abeff2865c8701",
+      "schema_version": "1.0",
+      "source_id": "bc-legal-orders",
+      "title": "B.C. Order in Council 427: Public Service, s. 12; Environmental Assessment, s. 3 (a) The appointments set out in Schedule 1 are rescinded, (b) all previous appointments of deputy ministers and associate d..."
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:7b9079f111b1b9173033",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BC Hydro TS 6 Amendment — BC Hydro Reply Argument"
+      "title": "BC Hydro Exception to Applicability of RS 2289 and Updated RS 2290 — A-1: Panel Appointment"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bcuc-proceedings:62fd5481b2499bc709e9",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:f57b4fccebaba4a205eb",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "BCUC Metergy Status as a Public Utility — D-27: ILIC, E. (ILIC) – Letter of Comment"
+      "title": "BC Hydro Exception to Applicability of RS 2289 and Updated RS 2290 — B-1: BRITISH COLUMBIA HYDRO AND POWER AUTHORITY (BC HYDRO) – Application for Exception to Applicability of RS 2289 and Updated RS 2290"
     },
     {
-      "change_type": "removed",
+      "change_type": "new",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "bcuc-proceedings:eabe16207a197393aba7",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:dd1644a4652f4d206e2b",
       "schema_version": "1.0",
       "source_id": "bcuc-proceedings",
-      "title": "FAES-KVULP CPCN for the Kwasen Village District TES — KVULP responses to BCUC IR No. 2"
+      "title": "BC Hydro Exception to Applicability of RS 2289 and Updated RS 2290 — G-256-26: Docket filing"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "finance-canada-news:e84d8de134dc5a4c09ce",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Government highlights support for Tla’amin Nation’s acquisition of British Columbia forestry operation"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "finance-canada-news:210991f9f3e85cb57b2c",
+      "schema_version": "1.0",
+      "source_id": "finance-canada-news",
+      "title": "Minister Champagne will visit Luxembourg to sign the Defence, Security and Resilience Bank agreement and strengthen economic ties"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "gazette-part-i:ffc94e25365d35bc2f09",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, November 28, 2026, volume 160, number 48"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:0e9e47a299c8b19b81e9",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HESA — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:7db6f0682d819fef453c",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: HUMA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:b77ad6a994918d8d8794",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: JUST — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:756e91be0cea89a47950",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Aquaculture, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:6a19f81505e6c360606f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Canada's balance of international payments, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:161cd6ff0493f7298175",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Dairy statistics, <span class=\"refper\">third quarter 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:7a07bfa3824d5fa7d18f",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Machinery and Equipment Price Index, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:39b5ff37660958eca9af",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Railway carloadings, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "new",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:8e0a17fb27a4bc9a8b8c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Screened passenger traffic at Canadian airports, <span class=\"refper\">October 2026</span>"
     },
     {
       "change_type": "removed",
       "changed_fields": [],
-      "detected_at": "2026-11-27T07:20:34.795019Z",
-      "event_id": "iaac-major-projects:6588fe1e2b83042b92b5",
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:14c3598bec6aa96c1293",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-1: Panel Appointment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:a37bb665d7438e16882d",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-2: Order G-241-26 establishing a regulatory timetable and public notice"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:517fcb92b88ef6f3c134",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-3: Order G-249-26 amending the regulatory timetable"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:ac65023965d961979698",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-4: BCUC Information Request No. 1 to PREI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:159767ec710a9a83256a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — A-5: CONFIDENTIAL – BCUC Confidential Information Request No. 1 to PREI"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:d73a286ea8e34e848722",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — B-2: PREI submitting extension request regarding Directive 5b of Order G-241-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:d2d05dcfacd401437953",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — B-3: PREI submitting confirmation of public notice in compliance with G-241-26"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:eb0191c1ebd6947ee429",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — D-1: GOLDMAN, L. (GOLDMAN) – Letter of Comment"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:208a6d099153ef895692",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — Letters of comment deadline"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:5493683fad215b0c9a5a",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI response to letters of comment (if any) and final argument"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "bcuc-proceedings:be345c2da4ec132e4493",
+      "schema_version": "1.0",
+      "source_id": "bcuc-proceedings",
+      "title": "Powell River Energy Inc. Rates — PREI responses to BCUC IR No. 1"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "gazette-part-i:9f91b04b2dbca6c06d3a",
+      "schema_version": "1.0",
+      "source_id": "gazette-part-i",
+      "title": "Canada Gazette - Part I, October 10, 2026, volume 160, number 41"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:954c6c0953383cc485eb",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: CHPC — The Impact Of U.S. Tariffs on the Tool, Die, Mould and Metallurgical Manufacturing Industries in Canada"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:f29b8123770d610deb1f",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: ENVI — Proposals from the House of Commons Standing Committee on Official Languages Regarding the Draft Proposed Regulations Under Part VII of the Official Languages Act"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:8d7954264dda1f9c6237",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: FINA — Structural Challenges in Canada's Beef and Pork Supply Chains: Toward Greater Food Sovereignty"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "house-committee-reports:71590c8f10638b48c646",
+      "schema_version": "1.0",
+      "source_id": "house-committee-reports",
+      "title": "Government response tabled: INDU — Bill C-38, An Act to amend the Excise Tax Act (extension of the federal fuel excise tax relief)"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "iaac-major-projects:b787bbdafff077db1d22",
       "schema_version": "1.0",
       "source_id": "iaac-major-projects",
-      "title": "Marban Gold Mine Project: — The Impact Assessment Agency of Canada is inviting Indigenous Peoples and the public to provide comments by December 9, 2026, on the draft tailored information and studies guidelines."
+      "title": "Roberts Bank Terminal 2 Project: — An administrative update has been made to the decision statement."
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:b8e1bab48a9291ef121e",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Economic and Social Reports, <span class=\"refper\">October 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:7d244a87cafb1a3e6ac6",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Energy consumption by the manufacturing sector, <span class=\"refper\">2025</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:04fc872094794ca097b3",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Full-time teaching staff at Canadian universities, <span class=\"refper\">2025/2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:97d6bf6bd02a8c5c836c",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Oilseed crushing statistics, <span class=\"refper\">September 2026</span>"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-daily:63e2b039375d5538b134",
+      "schema_version": "1.0",
+      "source_id": "statcan-daily",
+      "title": "Study: How are young Canadian university graduates faring in the recent labour market?"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-key-indicators:3dc1df6053101c20ac94",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Monthly Survey of Manufacturing"
+    },
+    {
+      "change_type": "removed",
+      "changed_fields": [],
+      "detected_at": "2026-11-27T19:23:34.091882Z",
+      "event_id": "statcan-key-indicators:70fe1b9e47b000f997e2",
+      "schema_version": "1.0",
+      "source_id": "statcan-key-indicators",
+      "title": "Wholesale trade"
     }
   ],
-  "generated_at": "2026-11-27T07:20:34.795019+00:00",
-  "run_id": "20261127T072034Z-3b2c697a",
+  "generated_at": "2026-11-27T19:23:34.091882+00:00",
+  "run_id": "20261127T192334Z-2fa7e144",
   "schema_version": "1.0"
 }
