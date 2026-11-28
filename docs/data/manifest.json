@@ -1,55 +1,55 @@
 {
   "counts": {
-    "changes": 7,
+    "changes": 0,
     "events": 619,
-    "opportunities": 503,
+    "opportunities": 502,
     "sources": 31
   },
   "files": {
     "changes": {
-      "bytes": 2778,
-      "count": 7,
+      "bytes": 142,
+      "count": 0,
       "path": "changes.json",
-      "sha256": "a533e557c5030c514c4440fe84e7ad50289483471db32e4894977f564ff54638"
+      "sha256": "8ea6f4930f6e78c0dd8b7a5fea394815de2a419c2239d0283cf0f5dcd2a4eb48"
     },
     "events": {
       "bytes": 975145,
       "count": 619,
       "path": "events.json",
-      "sha256": "8571f108077de57ba241618c93d1d883e1bda268ee15b61edacac5e59e91b474"
+      "sha256": "fb9a6e59ff40963dbebf2eb0615c7c9038794e96acd085a767e039721d0f7c82"
     },
     "heartbeat": {
-      "bytes": 248,
+      "bytes": 249,
       "path": "heartbeat.json",
-      "sha256": "ba245d50ef49027470a7b95a3967501a7d3872bc6a1f2d4024c1a192403c0989"
+      "sha256": "c0a17d42fc78805e4e199295ba103be9878c77b4a44791eaac686282b0a28b5d"
     },
     "opportunities": {
-      "bytes": 952052,
-      "count": 503,
+      "bytes": 950088,
+      "count": 502,
       "path": "opportunities.json",
-      "sha256": "b19d97f1e72663378e5ce3aa1e490b8bbf09e760825ae2f61b3500aa0dc5155a"
+      "sha256": "f93074d184affbfb221c9344be8eb5144c807d2ed9aca1ab9e6b58349f357fc7"
     },
     "source_status": {
-      "bytes": 15965,
+      "bytes": 16761,
       "count": 31,
       "path": "source-status.json",
-      "sha256": "1684063043d8feabbfa6d34b7da69bf8c009ffa8cabc8d23b103c76e9be5f2d0"
+      "sha256": "3278d540f6469ec95c3f35089f3fbe29e4447425071824d45935d7fe39a55c8d"
     }
   },
-  "generated_at": "2026-11-28T07:24:32.089668Z",
+  "generated_at": "2026-11-28T19:17:41.273056Z",
   "horizons": {
     "execution_days": 14,
     "lookback_days": 14,
     "preparation_days": 30,
     "scouting_days": 90
   },
-  "run_id": "20261128T072432Z-922e6611",
+  "run_id": "20261128T191741Z-4a44a1d0",
   "schema_version": "1.0",
   "source_summary": {
     "disabled": 3,
-    "not_modified": 7,
-    "ok": 19,
-    "partial": 2
+    "not_modified": 12,
+    "ok": 13,
+    "partial": 3
   },
   "status": "partial",
   "timezone": "America/Vancouver"
